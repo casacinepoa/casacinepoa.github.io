@@ -1,0 +1,9 @@
+---
+# Hello, Jekyll!
+---
+
+{%- for page in site.pages -%}
+  {%- if page.original_path -%}
+    {{- page.original_path }}       {{ page.url | relative_url }}       301
+  {%- endif -%}
+{% endfor %}

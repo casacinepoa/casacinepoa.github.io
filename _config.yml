@@ -12,6 +12,9 @@ timezone: America/Sao_Paulo
 # Build settings
 permalink: /:slugified_categories/:year/:month/:day/:slug/
 
+include:
+  - _redirects
+
 plugins:
   - jekyll-feed
   - jekyll-json-feed
