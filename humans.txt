@@ -1,0 +1,5 @@
+/*
+  HUMANS.TXT
+  The people who made this site
+  and some technology colophon.
+*/
