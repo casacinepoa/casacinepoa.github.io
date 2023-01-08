@@ -17,4 +17,15 @@
       Pesquisar
     </button>
   </form>
+
+  {% if site.social.links %}
+    <nav class="social_links">
+      {% for link in site.social.links %}
+        {%- assign service = link | remove: "https://" | split: "/" | first | split: "." | first -%}
+        <a class="link" href="{{ link }}" rel="nofollow">
+          {%- include icons/{{ service }}.svg -%}
+        </a>
+      {% endfor %}
+    </nav>
+  {% endif %}
 </footer>

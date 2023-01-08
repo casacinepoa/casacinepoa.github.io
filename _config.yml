@@ -20,3 +20,11 @@ plugins:
   - jekyll-json-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+# Plugin: jekyll-seo-tag
+social:
+  name: Casa de Cinema de Porto Alegre
+  links:
+    - https://instagram.com/casacinepoa
+    - https://facebook.com/casacinepoa
+    - https://vimeo.com/user24144774
