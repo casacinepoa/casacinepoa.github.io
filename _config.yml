@@ -1,0 +1,19 @@
+# Site settings
+title: Casa de Cinema de Porto Alegre
+description: >-
+  Em seus 33 anos de existência, a Casa produziu dezenas de filmes e vídeos, além de programas de televisão (especiais e séries), cursos de roteiro e de introdução à realização cinematográfica, fóruns de debates e programas eleitorais para TV.
+
+baseurl: ""
+url: "https://casacinepoa.netlify.app"
+
+lang: pt-BR
+timezone: America/Sao_Paulo
+
+# Build settings
+permalink: /:slugified_categories/:year/:month/:day/:slug:output_ext
+
+plugins:
+  - jekyll-feed
+  - jekyll-json-feed
+  - jekyll-seo-tag
+  - jekyll-archives
