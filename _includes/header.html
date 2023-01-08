@@ -1,0 +1,31 @@
+<header class="site_header">
+  {%- capture site_branding -%}
+    <a href="{{ site.url }}">
+      {%- if site.logo -%}
+        <img src="{{ site.logo }}" alt="{{ site.title }}" role="img" />
+      {%- else -%}
+        {{- site.title -}}
+      {%- endif -%}
+    </a>
+  {%- endcapture -%}
+
+  {% if page.title %}
+    <p class="site_title">
+      {{ site_branding }}
+    </p>
+  {% else %}
+    <h1 class="site_title">
+      {{ site_branding }}
+    </h1>
+  {% endif %}
+
+  {% if site.data.menu %}
+    <nav class="site_menu" role="list">
+      {% for item in site.data.menu %}
+        <a href="{{ item.url }}" {% if item.external %}target="_blank"{% endif %}>
+          {{ item.title }}
+        </a>
+      {% endfor %}
+    </nav>
+  {% endif %}
+</header>

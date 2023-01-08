@@ -10,7 +10,7 @@ lang: pt-BR
 timezone: America/Sao_Paulo
 
 # Build settings
-permalink: /:slugified_categories/:year/:month/:day/:slug:output_ext
+permalink: /:slugified_categories/:year/:month/:day/:slug/
 
 plugins:
   - jekyll-feed

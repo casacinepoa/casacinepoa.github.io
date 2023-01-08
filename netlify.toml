@@ -1,0 +1,19 @@
+---
+# Hello, Jekyll!
+---
+
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  JEKYLL_ENV = "production"
+
+{% for page in site.pages %}
+  {%- if page.original_path -%}
+    [[redirects ]]
+      from = "{{ page.original_path }}"
+      to = "{{ page.url | relative_url }}"
+      status = 301
+  {%- endif -%}
+{% endfor %}
