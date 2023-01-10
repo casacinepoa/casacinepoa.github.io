@@ -1,0 +1,21 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle update"
+    },
+    "clean" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle exec jekyll clean"
+    },
+    "run" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nbundle exec jekyll serve --livereload"
+    }
+  },
+  "buildBeforeRunning" : true,
+  "environment" : {
+    "JEKYLL_ENV" : "development"
+  },
+  "openLogOnRun" : "fail"
+}
