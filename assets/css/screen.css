@@ -1,9 +1,12 @@
-:root {
-  font-size: 100%;
-}
+@import url("/assets/css/partials/fonts.css");
+@import url("/assets/css/partials/base.css");
 
-@media screen and (max-width: 600px) {
-  :root {
-    font-size: 125%;
-  }
+:root {
+  --color-background: #f5f2ed;
+  --color-foreground: #2b292b;
+  --color-accent: #720807;
+  --color-accent-alt: #c29d52;
+
+  --font-body: "Crimson Pro", serif;
+  --font-headings: "Golus UI", sans-serif;
 }
