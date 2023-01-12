@@ -1,5 +1,6 @@
-@import url("/assets/css/partials/fonts.css");
-@import url("/assets/css/partials/base.css");
+@import url("partials/fonts.css");
+@import url("partials/base.css");
+@import url("partials/layout.css");
 
 :root {
   --color-background: #f5f2ed;
@@ -8,5 +9,22 @@
   --color-accent-alt: #c29d52;
 
   --font-body: "Crimson Pro", serif;
-  --font-headings: "Golus UI", sans-serif;
+  --font-headings: "Golos UI", sans-serif;
+  --font-size-small: 0.75rem;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #2b292b;
+    --color-foreground: #f5f2ed;
+    --color-accent: #c29d52;
+    --color-accent-alt: #720807;
+  }
+}
+
+.inverted {
+  --color-background: #2b292b;
+  --color-foreground: #f5f2ed;
+  --color-accent: #c29d52;
+  --color-accent-alt: #720807;
 }
