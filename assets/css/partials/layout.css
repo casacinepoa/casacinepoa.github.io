@@ -3,10 +3,6 @@ html {
   position: relative;
 }
 
-body {
-  padding: 1.5rem 1.5rem;
-}
-
 .site_header,
 .site_menu,
 .site_content,
@@ -14,6 +10,8 @@ body {
   max-width: 45rem;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 @media screen and (min-width: 1024px) {
@@ -23,4 +21,19 @@ body {
   .site_footer {
     min-width: 970px;
   }
+}
+
+.contrasted,
+.inverted {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  position: relative;
+}
+
+.contrasted {
+  z-index: 2;
+}
+
+.inverted {
+  z-index: 3;
 }
