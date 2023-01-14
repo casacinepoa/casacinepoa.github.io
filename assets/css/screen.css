@@ -1,15 +1,19 @@
-@import url("partials/fonts.css");
-@import url("partials/base.css");
-@import url("partials/layout.css");
+@import "partials/fonts.css";
+@import "partials/base.css";
+@import "partials/layout.css";
+@import "partials/layout/header.css";
 
 :root {
-  --color-background: #f5f2ed;
+  --color-background: #fff;
   --color-foreground: #2b292b;
-  --color-accent: #720807;
-  --color-accent-alt: #c29d52;
+  --color-accent: #c29d52;
+  --color-accent-alt: #720807;
+  --color-details: #f6f6f6;
 
-  --font-body: "Crimson Pro", serif;
-  --font-headings: "Golos UI", sans-serif;
+  --font-serif: "IBM Plex Serif", ui-serif, serif;
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-size-base: 1rem;
   --font-size-small: 0.75rem;
 }
 
@@ -17,14 +21,12 @@
   :root {
     --color-background: #2b292b;
     --color-foreground: #f5f2ed;
-    --color-accent: #c29d52;
-    --color-accent-alt: #720807;
+    --color-details: #cdcdcb;
   }
 }
 
 .inverted {
   --color-background: #2b292b;
   --color-foreground: #f5f2ed;
-  --color-accent: #c29d52;
-  --color-accent-alt: #720807;
+  --color-details: #cdcdcb;
 }
