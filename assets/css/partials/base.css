@@ -205,7 +205,6 @@ a:visited {
 
 a:hover,
 a:focus {
-  color: var(--color-accent-alt);
   text-decoration: underline;
 }
 

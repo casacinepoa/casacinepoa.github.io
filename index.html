@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+{% assign site_features = site.features | reverse | limit: 2 %}
+
+{% for feature in site_features %}
+  {% if forloop.first %}
+    {% capture first_feature %}
+      {% include home/feature.html %}
+    {% endcapture %}
+  {% else %}
+    {% capture last_feature %}
+      {% include home/feature.html %}
+    {% endcapture %}
+  {% endif %}
+{% endfor %}
+
+
+{{ first_feature }}
+
+<section class="contained blog-section">
+  <h2 class="section-title">No blog</h2>
+
+  {% assign blog_posts = site.posts | where_exp: "item", "item.categories contains 'blog'" | limit: 4 %}
+
+  <ol class="blog-list">
+    {% for post in blog_posts %}
+      <li class="post-item">
+        {% if post.author and post.author != "" %}
+          <a class="post-author" href="/blog/{{ post.author }}">
+            {{ site.data.authors[post.author].name }}
+          </a>
+
+          &middot;
+        {% endif %}
+
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%d/%m/%Y" }}
+        </time>
+
+        <br />
+        <a href="{{ post.url }}" rel="bookmark">
+          <strong class="post-title">{{ post.title }}</strong>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+
+  <a class="section-go" href="/blog/">Veja todos os posts no blog &rarr;</a>
+</section>
+
+<section class="contained blog-section">
+  <h2 class="section-title">Notícias da Casa</h2>
+
+  {% assign news_posts = site.posts | where_exp: "item", "item.categories contains 'noticias'" | limit: 4 %}
+
+  <ol class="blog-list">
+    {% for post in news_posts %}
+      <li class="post-item">
+        {% if post.author and post.author != "" %}
+          <a class="post-author" href="/blog/{{ post.author }}">
+            {{ site.data.authors[post.author].name }}
+          </a>
+
+          &middot;
+        {% endif %}
+
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%d/%m/%Y" }}
+        </time>
+
+        <br />
+        <a href="{{ post.url }}" rel="bookmark">
+          <strong class="post-title">{{ post.title }}</strong>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+
+  <a class="section-go" href="/blog/">Visite o arquivo de notícias &rarr;</a>
+</section>
+
+{{ last_feature }}

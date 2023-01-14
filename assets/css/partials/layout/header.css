@@ -16,6 +16,12 @@
   margin-bottom: 0;
 }
 
+@media screen and (max-width: 600px) {
+  .site_header .site_title {
+    text-align: center;
+  }
+}
+
 .site_header .site_title a {
   display: inline-block;
 }

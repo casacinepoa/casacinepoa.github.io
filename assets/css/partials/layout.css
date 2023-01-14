@@ -5,7 +5,7 @@ html {
 
 .site_header,
 .site_menu,
-.site_content,
+.contained,
 .site_footer {
   max-width: 45rem;
   margin-left: auto;
@@ -17,7 +17,7 @@ html {
 @media screen and (min-width: 1024px) {
   .site_header,
   .site_menu,
-  .site_content,
+  .contained,
   .site_footer {
     min-width: 970px;
   }
@@ -32,8 +32,4 @@ html {
 
 .contrasted {
   z-index: 2;
-}
-
-.inverted {
-  z-index: 3;
 }
