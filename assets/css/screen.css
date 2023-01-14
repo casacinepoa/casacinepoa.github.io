@@ -2,6 +2,7 @@
 @import "partials/base.css";
 @import "partials/layout.css";
 @import "partials/layout/header.css";
+@import "partials/layout/footer.css";
 
 :root {
   --color-background: #fff;

@@ -3,6 +3,7 @@
 */
 
 .site_header {
+  margin-top: 1rem;
   padding-bottom: 1rem;
   border-bottom: 2px solid var(--color-details);
 }
@@ -13,6 +14,10 @@
   font-family: var(--font-mono);
   font-weight: 600;
   margin-bottom: 0;
+}
+
+.site_header .site_title a {
+  display: inline-block;
 }
 
 .site_header .site_title img {
@@ -33,6 +38,7 @@
   padding-top: .75em;
   padding-bottom: .75em;
   position: sticky;
+  scrollbar-width: thin;
   -ms-overflow-style: -ms-autohiding-scrollbar;
   -webkit-overflow-scrolling: touch;
   text-transform: uppercase;

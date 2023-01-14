@@ -116,6 +116,11 @@ img {
   vertical-align: middle;
 }
 
+/* Media */
+svg {
+  fill: currentColor;
+}
+
 /* Figures */
 
 figure > img {
@@ -195,7 +200,7 @@ a {
 }
 
 a:visited {
-  text-decoration: underline;
+  color: var(--color-accent-alt);
 }
 
 a:hover,
