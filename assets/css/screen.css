@@ -24,9 +24,3 @@
     --color-details: #cdcdcb;
   }
 }
-
-.inverted {
-  --color-background: #2b292b;
-  --color-foreground: #f5f2ed;
-  --color-details: #cdcdcb;
-}
