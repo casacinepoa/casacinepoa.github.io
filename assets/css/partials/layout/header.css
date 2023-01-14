@@ -2,15 +2,17 @@
   Site Header
 */
 
+.site_header {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--color-details);
+}
+
 .site_header .site_title {
   display: block;
-  padding-bottom: 1rem;
   font-size: 2rem;
   font-family: var(--font-mono);
   font-weight: 600;
-  font-variation-settings: "spcg" 58;
-  margin-bottom: 0.25rem;
-  border-bottom: 2px solid var(--color-details);
+  margin-bottom: 0;
 }
 
 .site_header .site_title img {
@@ -38,6 +40,7 @@
   transition-property: border-bottom-color, background-color;
   transition-duration: 250ms;
   transition-timing-function: ease;
+  z-index: 1;
 }
 
 .site_menu._sticked {
