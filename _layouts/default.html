@@ -1,12 +1,32 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <div id="site">
-      {% include header.html %}
+<body>
+  <div id="site">
+    {% include header.html %}
 
-      {% include footer.html %}
+    <div class="site_content">
+      {{ content }}
     </div>
-  </body>
+
+    {% include footer.html %}
+  </div>
+
+  <script>
+
+    document.onscroll = () => {
+      const siteMenu = document.querySelector('[data-site-menu]')
+
+      const siteMenuOffset = siteMenu.getBoundingClientRect().top;
+
+      if (siteMenuOffset <= 5) {
+        siteMenu.classList.add('_sticked')
+      } else {
+        siteMenu.classList.remove('_sticked')
+      }
+    }
+  </script>
+</body>
+
 </html>
