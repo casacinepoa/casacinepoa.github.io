@@ -9,6 +9,14 @@ url: "https://casacinepoa.netlify.app"
 lang: pt-BR
 timezone: America/Sao_Paulo
 
+logo: /assets/img/logo.png
+
+# Collections
+collections:
+  features:
+    output: false
+    sort_by: date
+
 # Build settings
 permalink: /:slugified_categories/:year/:month/:day/:slug/
 

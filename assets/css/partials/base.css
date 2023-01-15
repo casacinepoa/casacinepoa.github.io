@@ -7,6 +7,24 @@
   box-sizing: inherit;
 }
 
+:root *:focus {
+  outline: 1px dotted var(--color-accent);
+}
+
+::selection {
+  background-color: var(--color-accent);
+  color: var(--color-details);
+}
+
+.contrasted {
+  background-color: var(--color-details);
+  color: var(--color-foreground);
+}
+
+.inverted {
+  background-color: var(--color-foreground);
+  color: var(--color-background);
+}
 
 /*
   Resets some spacing.
@@ -26,11 +44,11 @@ dl, dd, ol, ul, figure {
 body {
   background-color: var(--color-background);
   color: var(--color-foreground);
-  font-family: var(--font-body);
+  font-family: var(--font-serif);
   font-feature-settings: "kern" 1;
   font-kerning: normal;
-  /* font-size: 1rem; */
-  font-weight: 350;
+  font-size: 1rem;
+  font-weight: 400;
   hyphens: auto;
   line-height: 1.5;
   min-height: 100vh;
@@ -49,9 +67,9 @@ ul, ol, dl, figure {
 
 /* Horizontal rule */
 hr {
-  background-color: var(--color-foreground);
+  background-color: var(--color-details);
   border: none;
-  height: .1875rem;
+  height: 1px;
   margin: 3rem auto;
   width: 3rem;
 }
@@ -59,8 +77,9 @@ hr {
 /* Headings */
 h1, h2, h3,
 h4, h5, h6 {
-  font-family: var(--font-headings);
-  font-weight: bolder;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-variation-settings: "width" 85;
   line-height: 1.25;
   margin-bottom: 1rem;
 }
@@ -97,6 +116,11 @@ img {
   vertical-align: middle;
 }
 
+/* Media */
+svg {
+  fill: currentColor;
+}
+
 /* Figures */
 
 figure > img {
@@ -104,8 +128,8 @@ figure > img {
 }
 
 figcaption {
-  font-family: var(--font-headings);
-  font-family: var(--font-size-small);
+  font-family: var(--font-sans);
+  font-size: var(--font-size-small);
 }
 
 /* Lists */
@@ -145,18 +169,27 @@ ul ul ul {
 }
 
 .footnotes {
-  font-family: var(--font-headings);
+  font-family: var(--font-sans);
   font-size: var(--font-size-small);
   font-weight: 500;
 }
 
 .footnotes::before {
-  background-color: var(--color-foreground);
+  background-color: var(--color-details);
   content: " ";
   display: block;
-  height: .1875rem;
-  margin: 1.5em auto;
-  width: 3rem;
+  height: 1px;
+  margin: 2em auto;
+  width: 2rem;
+}
+
+dt {
+  font-style: italic;
+  font-weight: 500;
+}
+
+dd {
+  margin-bottom: 1rem;
 }
 
 /* Links */
@@ -166,21 +199,18 @@ a {
   transition: color 250ms ease;
 }
 
-a:visited {
-  text-decoration: underline;
-}
-
 a:hover,
 a:focus {
-  color: var(--color-accent-alt);
   text-decoration: underline;
 }
 
 /* Quotes */
 blockquote {
-  margin-left: calc(1rem / 2);
-  margin-right: calc(1rem / 2);
+  margin-left: 1rem;
+  margin-right: 1rem;
   font-style: italic;
+  font-size: 1.25rem;
+  font-weight: 300;
 }
 
 blockquote > :last-child {
@@ -194,8 +224,15 @@ blockquote em {
 
 /* Code */
 
-pre, code {
-  font-size: var(--font-size-small);
+pre, code, kbd, var {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+  scrollbar-width: thin;
 }
 
 /* Text Elements */
@@ -206,8 +243,8 @@ sub, sup {
 }
 
 .footnote {
-  font-family: var(--font-headings);
-  font-weight: 500;
+  font-family: var(--font-sans);
+  font-weight: 600;
   font-size: .625rem;
 }
 
@@ -218,8 +255,8 @@ table {
   width: 100%;
   text-align: left;
   border-collapse: collapse;
-  border: 3px solid var(--color-foreground);
-  font-family: var(--font-headings);
+  border: 1px solid var(--color-details);
+  font-family: var(--font-sans);
   font-size: var(--font-size-small);
 }
 
@@ -237,18 +274,18 @@ th, td {
 }
 
 th {
-  border-bottom: 3px solid var(--color-foreground);
+  border-bottom: 2px solid var(--color-details);
+  background-color: var(--color-accent);
+  color: var(--color-background);
 }
 
 td {
-  border: 2px solid var(--color-foreground);
-  border-left-width: 3px;
-  border-right-width: 3px;
+  border: 2px solid var(--color-details);
+  border-left-width: 2px;
+  border-right-width: 2px;
 }
 
-@include media-query($on-laptop) {
-  display: block;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-          -ms-overflow-style: -ms-autohiding-scrollbar;
+tr:nth-child(even) td {
+  background: var(--color-details);
+  border-color: var(--color-background);
 }

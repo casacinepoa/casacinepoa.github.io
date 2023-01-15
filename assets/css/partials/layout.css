@@ -1,37 +1,35 @@
 html {
-  border: .5rem solid var(--color-foreground);
   min-height: 100vh;
   position: relative;
 }
 
-html::before,
-html::after {
-  background-color: var(--color-foreground);
-  content: " ";
-  display: block;
-  height: .5rem;
-  left: 0;
-  position: fixed;
-  width: 100vw;
-  z-index: 999;
-}
-
-html::before {
-  top: 0;
-}
-
-html::after {
-  bottom: 0;
-}
-
-body {
+.site_header,
+.site_menu,
+.contained,
+.site_footer {
   max-width: 45rem;
-  margin: 0 auto;
-  padding: 1.5rem 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 @media screen and (min-width: 1024px) {
-  body {
+  .site_header,
+  .site_menu,
+  .contained,
+  .site_footer {
     min-width: 970px;
   }
+}
+
+.contrasted,
+.inverted {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  position: relative;
+}
+
+.contrasted {
+  z-index: 2;
 }
