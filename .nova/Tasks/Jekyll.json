@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "#!\/bin\/sh\nbundle update"
+      "script" : "#!\/bin\/sh\nbundler update"
     },
     "clean" : {
       "enabled" : true,
@@ -17,5 +17,5 @@
   "environment" : {
     "JEKYLL_ENV" : "development"
   },
-  "openLogOnRun" : "fail"
+  "openLogOnRun" : "start"
 }
