@@ -25,9 +25,11 @@ include:
 
 plugins:
   - jekyll-feed
-  - jekyll-json-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-archives
+  - jekyll-json-feed
+  - jekyll-paginate-v2
 
 # Plugin: jekyll-seo-tag
 social:
@@ -36,3 +38,28 @@ social:
     - https://instagram.com/casacinepoa
     - https://facebook.com/casacinepoa
     - https://vimeo.com/user24144774
+
+# Plugin: jekyll-paginate-v2
+pagination:
+  enabled: true
+  collection: posts
+  per_page: 25
+  permalink: "/pagina/:num/"
+  title: ":title — página :num"
+  sort_field: date
+
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - archive.html
+    title: "Posts com a tag “:tag”"
+    permalink: "/blog/tag/:tag/"
+    silent: true
+    slugify:
+      mode: "default"
+      case: false
