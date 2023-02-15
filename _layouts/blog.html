@@ -1,15 +1,11 @@
 ---
 layout: page
-show_tags: false
-show_content: false
 ---
 
-{{ content }}
-
-<section class="archive">
-  {% for post in paginator.posts reversed %}
+<section class="blog">
+  {%- for post in paginator.posts reversed -%}
     {%- include archive/post.html -%}
-  {% endfor %}
+  {%- endfor -%}
 
   {%- if page.pagination_links != false -%}
     {%- include archive/pagination.html -%}

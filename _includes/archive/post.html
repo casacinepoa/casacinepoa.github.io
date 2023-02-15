@@ -1,0 +1,27 @@
+<article class="blog_post">
+  <header class="post_header">
+    {%- include post/meta.html -%}
+
+    {%- if page.title != "" -%}
+    <h2 class="post_title">
+      <a class="post_bookmark" href="{{ post.url | relative_url }}" rel="bookmark">
+        {{ post.title }}
+      </a>
+    </h2>
+    {%- endif -%}
+  </header>
+
+  {%- unless page.show_content == false -%}
+    <div class="post_content">
+      {%- if page.show_content == "excerpt" -%}
+      {{ post.excerpt }}
+      {%- else -%}
+      {{ post.content }}
+      {%- endif -%}
+    </div>
+  {%- endunless -%}
+
+  {%- if page.show_tags and post.tags.size > 0 -%}
+    {%- include post/footer.html -%}
+  {%- endif -%}
+</article>

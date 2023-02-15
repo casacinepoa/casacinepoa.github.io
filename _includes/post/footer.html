@@ -1,0 +1,17 @@
+<footer class="post_footer post_meta">
+  <span class="meta_info _tags-title">
+    Mais sobre:
+  </span>
+
+  <ul class="meta_info _tags-list">
+    {%- for tag in post.tags -%}
+      {%- assign tag_slug = tag | slugify -%}
+
+      <li class="post_tag">
+        <a href="{{ site.autopages.tags.permalink | replace: ':tag', tag_slug | relative_url }}" rel="tag">
+          {{- tag -}}
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</footer>

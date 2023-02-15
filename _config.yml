@@ -45,7 +45,7 @@ social:
 pagination:
   enabled: true
   collection: posts
-  per_page: 2
+  per_page: 12
   permalink: "/pagina/:num/"
   title: ":title — página :num"
 
@@ -59,7 +59,7 @@ autopages:
     layouts:
       - archive.html
     title: "Posts com a tag “:tag”"
-    permalink: "/blog/tag/:tag/"
+    permalink: "/blog/arquivo/tags/:tag/"
     silent: true
     slugify:
       mode: "default"
