@@ -18,45 +18,30 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
-      - label: "Layout"
-        name: "layout"
-        widget: "hidden"
-        default: "post"
-      - label: "Título"
-        name: "title"
-        widget: "string"
-      - label: "Resumo"
-        name: "excerpt"
-        widget: "text"
-        required: false
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Resumo", name: "excerpt", widget: "text", required: false }
       - label: "Autor"
         name: "author"
         widget: "select"
         options:
-          - label: "Giba Assis Brasil"
-            value: "giba"
-          - label: "Jorge Furtado"
-            value: "jorge"
-          - label: "A Casa"
-            value: false
-      - label: "Data"
-        name: "date"
-        widget: "datetime"
-        format: "YYYY-MM-DD HH:mm:ss"
-      - label: "Conteúdo"
-        name: "body"
-        widget: "markdown"
-        required: false
+          - { label: "Giba Assis Brasil", value: "giba" }
+          - { label: "Jorge Furtado", value: "jorge" }
+          - { label: "A Casa", value: "false" }
+      - {
+          label: "Data",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD HH:mm:ss",
+        }
+      - { label: "Conteúdo", name: "body", widget: "markdown", required: false }
       - label: "Seção do Site"
         name: "category"
         widget: "select"
         options:
-          - label: "Blog"
-            value: "blog"
-          - label: "Notícias"
-            value: "noticias"
-          - label: "Textos"
-            value: "links"
+          - { label: "Blog", value: "blog" }
+          - { label: "Notícias", value: "noticias" }
+          - { label: "Textos", value: "links" }
       - label: "Tags"
         name: "tags"
         widget: "list"
