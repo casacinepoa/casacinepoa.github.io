@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="contained page">
+  {%- if page.title -%}
+    <header class="page-header">
+      <h1 class="page-title">
+        {{- page.title -}}
+      </h1>
+    </header>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="archive">
+    {% for post in paginator.posts reversed %}
+      {%- include archive/post-card.html excerpts=page.excerpts -%}
+    {% endfor %}
+
+    {%- if page.pagination_links != false -%}
+      {%- include archive/pagination.html -%}
+    {%- endif -%}
+  </div>
+</div>
