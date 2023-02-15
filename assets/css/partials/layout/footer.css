@@ -64,6 +64,7 @@
   font-family: var(--font-sans);
   text-transform: uppercase;
   font-weight: 600;
+  hyphens: none;
   letter-spacing: 0.05em;
   padding: .25rem .5rem;
   transition-property: color, background-color;
