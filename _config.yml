@@ -11,6 +11,8 @@ timezone: America/Sao_Paulo
 
 logo: /assets/img/logo.png
 
+archive_path: "/blog/arquivo/"
+
 # Collections
 collections:
   features:
@@ -22,12 +24,12 @@ permalink: /:slugified_categories/:year/:month/:day/:slug/
 
 include:
   - _redirects
+  - _pages
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-archives
   - jekyll-json-feed
   - jekyll-paginate-v2
 
@@ -43,10 +45,9 @@ social:
 pagination:
   enabled: true
   collection: posts
-  per_page: 25
+  per_page: 2
   permalink: "/pagina/:num/"
   title: ":title — página :num"
-  sort_field: date
 
 autopages:
   enabled: true

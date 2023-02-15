@@ -22,10 +22,10 @@ layout: default
 <section class="contained blog-section">
   <h2 class="section-title">No blog</h2>
 
-  {% assign blog_posts = site.posts | where_exp: "item", "item.categories contains 'blog'" | limit: 4 %}
+  {% assign blog_posts = site.posts | where_exp: "item", "item.categories contains 'blog'" %}
 
   <ol class="blog-list">
-    {% for post in blog_posts %}
+    {% for post in blog_posts limit: 4 %}
       <li class="post-item">
         {% if post.author and post.author != "" %}
           <a class="post-author" href="/blog/{{ post.author }}">
@@ -53,10 +53,10 @@ layout: default
 <section class="contained blog-section">
   <h2 class="section-title">Notícias da Casa</h2>
 
-  {% assign news_posts = site.posts | where_exp: "item", "item.categories contains 'noticias'" | limit: 4 %}
+  {% assign news_posts = site.posts | where_exp: "item", "item.categories contains 'noticias'" %}
 
   <ol class="blog-list">
-    {% for post in news_posts %}
+    {% for post in news_posts limit: 8 %}
       <li class="post-item">
         {% if post.author and post.author != "" %}
           <a class="post-author" href="/blog/{{ post.author }}">
