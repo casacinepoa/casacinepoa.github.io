@@ -116,6 +116,15 @@ img {
   vertical-align: middle;
 }
 
+img+em {
+  font-family: var(--font-sans);
+  font-weight: 300;
+  font-size: var(--font-size-small);
+  color: var(--color-foreground-details);
+  display: block;
+  max-width: 15rem;
+}
+
 /* Media */
 svg {
   fill: currentColor;

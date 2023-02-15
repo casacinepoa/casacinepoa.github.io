@@ -21,6 +21,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "jekyll-feed", "~> 0.17.0", :group => :jekyll_plugins
 gem "jekyll-json-feed", "~> 1.0", :group => :jekyll_plugins
 gem "jekyll-seo-tag", "~> 2.8", :group => :jekyll_plugins
-gem "jekyll-archives", "~> 2.2", :group => :jekyll_plugins
 gem "jekyll-sitemap", "~> 1.4", :group => :jekyll_plugins
 gem "jekyll-paginate-v2", "~> 3.0", :group => :jekyll_plugins
+gem "jekyll-compose", "~> 0.12.0", :group => :jekyll_plugins

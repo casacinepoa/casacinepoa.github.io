@@ -7,7 +7,7 @@ show_content: false
 {{ content }}
 
 <section class="archive">
-  {% for post in paginator.posts reversed %}
+  {% for post in paginator.posts %}
     {%- include archive/post.html -%}
   {% endfor %}
 

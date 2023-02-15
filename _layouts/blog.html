@@ -3,7 +3,7 @@ layout: page
 ---
 
 <section class="blog">
-  {%- for post in paginator.posts reversed -%}
+  {%- for post in paginator.posts -%}
     {%- include archive/post.html -%}
   {%- endfor -%}
 
