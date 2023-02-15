@@ -1,0 +1,13 @@
+<span class="post_meta">
+  {%- if post.author -%}
+    {%- assign author = site.data.authors[post.author] -%}
+
+    <a class="meta_info _author" href="{{ author.url }}" rel="author">
+      {{- author.name -}}
+    </a>
+  {%- endif -%}
+
+  <time class="meta_info _date" datetime="{{ post.date | date_to_xmlschema }}">
+    {{- post.date | date: "%d/%m/%Y" -}}
+  </time>
+</span>

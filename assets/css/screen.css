@@ -4,10 +4,12 @@
 @import "partials/layout/header.css";
 @import "partials/layout/footer.css";
 @import "partials/layout/home.css";
+@import "partials/layout/blog.css";
 
 :root {
   --color-background: #fff;
   --color-foreground: #2b292b;
+  --color-foreground-details: #8e8e8e;
   --color-accent: #c29d52;
   --color-accent-alt: #720807;
   --color-details: #f6f6f6;

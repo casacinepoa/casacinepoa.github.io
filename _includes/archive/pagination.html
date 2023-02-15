@@ -1,21 +1,29 @@
-{% if paginator.total_pages > 1 %}
-  <nav class="archive-navigation">
+<nav class="blog_navigation">
+  {% if paginator.total_pages > 1 %}
     {%- if paginator.previous_page -%}
-      <a class="nav-link prev" href="{{ paginator.previous_page_path }}" rel="prev">
+      <a class="nav_link prev" href="{{ paginator.previous_page_path }}" rel="prev">
         &larr; Posts mais recentes
       </a>
     {%- endif -%}
 
     {%- if paginator.next_page -%}
-      <a class="nav-link next" href="{{ paginator.next_page_path }}" rel="next">
+      <a class="nav_link next" href="{{ paginator.next_page_path }}" rel="next">
         Posts anteriores &rarr;
       </a>
     {%- endif -%}
 
     {% if site.archive_path %}
-      <a class="nav-link archives" href="{{ site.archive_path | relative_url }}">
+      <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
         ou visite <strong>o arquivo completo</strong>
       </a>
     {% endif %}
-  </nav>
-{% endif %}
+  {% else %}
+    {% if site.archive_path %}
+      <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
+        Explore o
+        <strong>Arquivo do Blog</strong>
+      </a>
+    {% endif %}
+  {% endif %}
+</nav>
+

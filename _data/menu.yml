@@ -11,6 +11,6 @@
 - title: Notícias
   url: "https://www.casacinepoa.com.br/as-noticias.html"
 - title: Blog
-  url: "https://www.casacinepoa.com.br/o-blog.html"
+  url: "/blog/"
 - title: Contato
   url: "https://www.casacinepoa.com.br/o-contato/geral.html"

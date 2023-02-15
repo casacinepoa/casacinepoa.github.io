@@ -67,7 +67,7 @@ ul, ol, dl, figure {
 
 /* Horizontal rule */
 hr {
-  background-color: var(--color-details);
+  background-color: var(--color-accent);
   border: none;
   height: 1px;
   margin: 3rem auto;
@@ -114,6 +114,15 @@ h6 {
 img {
   max-width: 100%;
   vertical-align: middle;
+}
+
+img+em {
+  font-family: var(--font-sans);
+  font-weight: 300;
+  font-size: var(--font-size-small);
+  color: var(--color-foreground-details);
+  display: block;
+  max-width: 15rem;
 }
 
 /* Media */
@@ -196,7 +205,9 @@ dd {
 a {
   color: var(--color-accent);
   text-decoration: none;
-  transition: color 250ms ease;
+  transition-property: color, text-decoration-color;
+  transition-duration: 250ms;
+  transition-timing-function: ease;
 }
 
 a:hover,

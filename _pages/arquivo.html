@@ -12,30 +12,18 @@ permalink: "/blog/arquivo/"
   {%- assign current_date = post.date | date: "%Y" -%}
 
   {%- if current_date != backup_date -%}
-    {%- unless forloop.first -%}
-      </ol>
-    {%- endunless -%}
-
-    <hr />
-
     <h2>{{ current_date }}</h2>
-
-    <ol reversed>
 
     {%- assign backup_date = current_date -%}
   {%- endif -%}
 
-  <li>
-    <time datetime="{{ post.date | date_to_xmlschema }}">
-      {{ post.date | date: "%d/%m" }}:
-    </time>
-
-    <a href="{{ post.url | relative_url }}" rel="bookmark">
-      {{ post.title }}
-    </a>
-  </li>
-
-  {%- if forloop.last -%}
-    </ol>
-  {%- endif -%}
+  <p class="post">
+    {%- include post/meta.html -%}
+    <br />
+    <strong>
+      <a href="{{ post.url | relative_url }}" rel="bookmark">
+        {{ post.title }}
+      </a>
+    </strong>
+  </p>
 {%- endfor -%}
