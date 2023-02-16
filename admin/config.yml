@@ -87,6 +87,35 @@ collections:
         name: original_url
         widget: string
         required: false
+  - name: news
+    label: Notícia
+    folder: _news
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: Autor
+        name: author
+        widget: string
+        required: false
+      - label: Data
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss"
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
   - name: essays
     label: Texto
     folder: _essays
@@ -108,34 +137,6 @@ collections:
         name: author
         widget: hidden
         default: casa
-      - label: Date
-        name: date
-        widget: datetime
-        format: "YYYY-MM-DD HH:mm:ss"
-      - label: Tags
-        name: tags
-        widget: list
-        required: false
-  - name: news
-    label: Notícia
-    folder: _news
-    sort: "date:desc"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - label: Layout
-        name: layout
-        widget: hidden
-        default: post
-      - label: Título
-        name: title
-        widget: string
-      - label: Conteúdo
-        name: body
-        widget: markdown
-      - label: Autor
-        name: author
-        widget: string
       - label: Date
         name: date
         widget: datetime
