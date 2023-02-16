@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-08-12
 title: Está provado que só é possível filosofar com o Google Translator
 author: jorge
 category: blog

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2021-08-12
 title: Corda e Caçamba
 author: giba
 category: blog
