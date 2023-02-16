@@ -62,17 +62,19 @@ collections:
         required: false
       - label: Autor
         name: author
+        widget: select
+        default: casa
         options:
+          - label: A Casa
+            value: casa
+          - label: Ana Luíza Azevedo
+            value: ana
           - label: Giba Assis Brasil
             value: giba
           - label: Jorge Furtado
             value: jorge
           - label: Nora Goulart
             value: nora
-          - label: Ana Luíza Azevedo
-            value: ana
-          - label: Casa de Cinema de Porto Alegre
-            value: casa
       - label: Data
         name: date
         widget: datetime
@@ -80,6 +82,10 @@ collections:
       - label: Tags
         name: tags
         widget: list
+        required: false
+      - label: Link no site antigo
+        name: original_url
+        widget: string
         required: false
   - name: essays
     label: Texto

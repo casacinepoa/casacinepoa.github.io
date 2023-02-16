@@ -33,7 +33,7 @@ Paulo Fontoura Gastal, o P.F., o Calvero, o decano dos críticos gaúchos, o inv
 
 E o Tuio, nascido Luiz Fernando Becker no dia 8 de agosto de 1943 (13 dias depois do Mick Jagger e 9 antes do Robert de Niro), foi saindo do ar há uns 5 anos, vítima do mal de Alzheimer, e apagou a luz esta semana, dia 2 de maio, mas continua da turma.
 
-![](/uploads/2008/tuio.jpg)
+![](/uploads/tuio.jpg)
 _Tuio Becker encarando o Herói em "Inverno" (1982)_
 
 TEM MAIS

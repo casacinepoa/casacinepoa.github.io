@@ -25,7 +25,7 @@ O que eu quero dizer é que tenho muito orgulho de ter escrito alguns roteiros d
 
 (escrito em 04/02/1998) 
 
-![]({% link uploads/2008/brasil_mini.jpg %})
+![](/uploads/brasil_mini.jpg)
 
 TEM MAIS:
 

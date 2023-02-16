@@ -34,5 +34,5 @@ Perceberam? A festa tinha que ser numa quinta-feira, mas não poderia ser no dia
 
 Já o dia da Ascensão, em que o Cristo ressuscitado cansou de caminhar entre os vivos e partiu para uma carreira muito acima do solo, este é comemorado 42 dias depois da Páscoa, 18 antes do Corpus Christi. Mas, sendo um domingo, não rende muito assunto, e nunca vai dar feriadão.
 
-![](/uploads/2008/papa.jpg)
+![](/uploads/papa.jpg)
 _Presença real ou metáfora?_

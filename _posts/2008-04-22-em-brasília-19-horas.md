@@ -22,7 +22,7 @@ A percepção de Bucci e sua clareza de raciocínio ajudam a entender por que al
 
 ********** 
 
-![]({% link uploads/2008/brasilia19.jpg %})
+![](/uploads/brasilia19.jpg)
 _Capa do livro de Eugênio Bucci (editora Record, 2008)_
 
 TEM MAIS

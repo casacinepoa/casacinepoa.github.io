@@ -37,7 +37,7 @@ Seja como for, quatrocentos anos depois, os espanhóis não parecem se lembrar m
 Consideremos ainda 45 "Dios es mexicano", 38 "Deus é português", 34 "God is british", 32 "Dios es colombiano", 28 "God is irish", 24 "Dios es venezolano", apenas 12 "Gott ist Deutsch" e ridículos 4 "Dio è italiano" e a conclusão é uma só: Deus é estatisticamente brasileiro.
 
 {: align="center"}
-![]({% link uploads/2008/721px-De_overgave_van_breda_Velazquez.jpg %})
+![](/uploads/721px-De_overgave_van_breda_Velazquez.jpg)
 _"La Rendición de Breda" ou "Las Lanzas", de Diego Velázquez, 1636: na época, O Cara era espanhol._
 
 

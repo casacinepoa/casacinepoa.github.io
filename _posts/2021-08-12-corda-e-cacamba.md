@@ -38,5 +38,5 @@ Mas permanece a dúvida, no caso, "o x do problema": Noel teve a genialidade de 
 
 Estudiosos da música e da língua brasileira podem responder bem melhor do que eu. Mas uma referência no "Acervo Pixinguinha", do Instituto Moreira Salles, dá uma pista que sugere a primeira opção. Em outubro de 1926, numa polêmica com o sambista Sinhô pelo Correio da Manhã, o baiano Cícero de Almeida, parceiro de Pixinguinha em várias composições, escreveu em versos: "Elle diz que é poeta / E rei do samba / Este cara de caçamba / Canela de sabiá..." Ora, se um sambista em 1926 rimou samba com caçamba e não falou na corda, ou a expressão não era conhecida, ou ele a evitou por estar em casa de enforcado, ou ainda faltavam 10 anos pra chegar Noel.
 
-![](/uploads/2021/cacamba.jpg)
+![](/uploads/cacamba.jpg)
 _A caçamba, a corda e o poço_

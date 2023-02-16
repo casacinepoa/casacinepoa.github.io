@@ -25,7 +25,7 @@ Mas alguém já tinha feito o serviço: o papado do Matias-Marcílio-Mateus duro
 
 E foi aí que começaram os meus problemas.
 
-![](/uploads/2008/wikipedia.jpg)
+![](/uploads/wikipedia.jpg)
 
 TEM MAIS:
 
