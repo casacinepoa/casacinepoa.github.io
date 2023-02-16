@@ -104,10 +104,6 @@ collections:
       - label: Conteúdo
         name: body
         widget: markdown
-      - label: Autor
-        name: author
-        widget: string
-        required: false
       - label: Data
         name: date
         widget: datetime

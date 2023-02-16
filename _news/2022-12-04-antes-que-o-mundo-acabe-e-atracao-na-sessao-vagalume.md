@@ -1,11 +1,14 @@
 ---
 title: ANTES QUE O MUNDO ACABE é atração da Sessão Vagalume
-author: Casa
 date: 2022-12-04
-category: noticias
+tags:
+  - cinema
+  - política
 ---
-CINEMATECA CAPITÓLIO PROMOVE VISITA GUIADA DO FILME "ANTES QUE O MUNDO ACABE"  
-Correio do Povo, 04/12/2022 | 10:00  
+CINEMATECA CAPITÓLIO PROMOVE VISITA GUIADA DO FILME "ANTES QUE O MUNDO ACABE" 
+ 
+Correio do Povo, 04/12/2022 | 10:00 
+ 
 <https://www.correiodopovo.com.br/arteagenda/cinemateca-capit%C3%B3lio-promove-visita-guiada-do-filme-antes-que-o-mundo-acabe-1.932607>
 
 

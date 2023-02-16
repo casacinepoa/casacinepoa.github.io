@@ -37,10 +37,10 @@ layout: default
   <a class="section-go" href="/blog/">Veja todos os posts no blog &rarr;</a>
 </section>
 
-<section class="contained blog-section">
+<section class="contained news-section">
   <h2 class="section-title">Notícias da Casa</h2>
 
-  <ol class="blog-list">
+  <ol class="news-list">
     {% for post in site.news reversed limit: 8 %}
       <li class="post-item">
         {%- include post/meta.html -%}

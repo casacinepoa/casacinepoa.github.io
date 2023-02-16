@@ -1,0 +1,17 @@
+{% if page.next or page.previous %}
+  <nav class="blog_navigation">
+    {%- if page.previous -%}
+      <a class="nav_link prev" href="{{ page.previous.url }}" rel="prev">
+        &larr; Post anterior:<br />
+        <strong>{{ page.previous.title }}</strong>
+      </a>
+    {%- endif -%}
+
+    {%- if page.next -%}
+      <a class="nav_link next" href="{{ page.next.url }}" rel="next">
+        Próximo post: &rarr;<br />
+        <strong>{{ page.next.title }}</strong>
+      </a>
+    {%- endif -%}
+  </nav>
+{% endif %}

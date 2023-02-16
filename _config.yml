@@ -52,7 +52,10 @@ social:
 # Plugin: jekyll-paginate-v2
 pagination:
   enabled: true
-  collection: posts
+  collection:
+    - posts
+    - essays
+    - news
   per_page: 12
   permalink: "/pagina/:num/"
   title: ":title — página :num"
@@ -82,5 +85,10 @@ defaults:
   - scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "news"
     values:
       layout: "post"

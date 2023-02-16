@@ -52,7 +52,8 @@
 }
 
 /* Blog */
-.blog-section {
+.blog-section,
+.news-section {
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
@@ -73,13 +74,15 @@
 }
 
 @media screen and (max-width: 900px) {
-  .blog-section .blog-list {
+  .blog-section .blog-list,
+  .news-section .news-list {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media screen and (max-width: 600px) {
-  .blog-section .blog-list {
+  .blog-section .blog-list,
+  .news-section .news-list {
     grid-template-columns: 1fr;
   }
 }
