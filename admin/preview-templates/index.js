@@ -3,6 +3,7 @@ import Post from "/admin/preview-templates/post.js";
 
 CMS.registerPreviewTemplate("banner", Banner);
 CMS.registerPreviewTemplate("post", Post);
+CMS.registerPreviewTemplate("news", Post);
 
 CMS.registerPreviewStyle("/assets/css/screen.css");
 // Register any CSS file on the home page as a preview style
