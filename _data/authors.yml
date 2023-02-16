@@ -1,7 +1,20 @@
 giba:
   name: Giba Assis Brasil
   picture: "/assets/authors/giba.jpg"
-
+  url: "/blog/autores/giba/"
 jorge:
   name: Jorge Furtado
   picture: "/assets/authors/jorge.jpg"
+  url: "/blog/autores/jorge/"
+ana:
+  name: Ana Luíza Azevedo
+  picture: "/assets/authors/ana.jpg"
+  url: "/blog/autores/ana/"
+nora:
+  name: Nora Goulart
+  picture: "/assets/authors/nora.jpg"
+  url: "/blog/autores/nora/"
+casa:
+  name: Casa de Cinema de Porto Alegre
+  picture: "/assets/img/logo.png"
+  url: "https://www.casacinepoa.com.br/"

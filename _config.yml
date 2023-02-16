@@ -15,12 +15,20 @@ archive_path: "/blog/arquivo/"
 
 # Collections
 collections:
-  features:
+  news:
+    output: true
+    sort_by: date
+    permalink: "/noticias/:name/"
+  essays:
+    output: true
+    sort_by: date
+    permalink: "/textos/:title/"
+  banners:
     output: false
     sort_by: date
 
 # Build settings
-permalink: /:slugified_categories/:year/:month/:day/:slug/
+permalink: "/blog/:year/:month/:day/:slug/"
 
 include:
   - _redirects
@@ -71,3 +79,8 @@ defaults:
     values:
       layout: default
       sitemap: false
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

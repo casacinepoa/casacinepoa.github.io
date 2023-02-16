@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2022-12-14
 title: O fabuloso destino
 author: jorge

@@ -1,80 +1,140 @@
-# Everything you need to know about configuring the CMS can be found here:-
 # https://www.netlifycms.org/docs/configuration-options/
-
 backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
-
 locale: pt
-
-media_folder: "uploads" # Folder where user uploaded files should go
-
-publish_mode: editorial_workflow # Enable drafts
-
-collections: # A list of collections the CMS should be able to edit
-  # POSTS
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
-    create: true # Allow users to create new documents in this collection
+local_backend: true
+media_folder: "uploads"
+publish_mode: editorial_workflow
+collections:
+  - name: banner
+    label: Banner
+    folder: _banners
+    sort: "date:desc"
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
-      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
-      - { label: "Título", name: "title", widget: "string" }
-      - { label: "Resumo", name: "excerpt", widget: "text", required: false }
-      - label: "Autor"
-        name: "author"
-        widget: "select"
+    fields:
+      - label: Data de ativação
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss"
+        required: true
+      - label: Imagem
+        name: image
+        widget: image
+        allow_multiple: false
+        required: true
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: URL de destino
+        name: link
+        widget: string
+        pattern:
+          [
+            '/[-a-zA-Z0-9@:%_\+.~#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&//=]*)?/gi',
+            "Precisa ser uma URL",
+          ]
+        required: true
+  - name: post
+    label: Post de Blog
+    folder: _posts
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: "post"
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: Resumo
+        name: excerpt
+        widget: text
+        required: false
+      - label: Autor
+        name: author
         options:
-          - { label: "Giba Assis Brasil", value: "giba" }
-          - { label: "Jorge Furtado", value: "jorge" }
-          - { label: "A Casa", value: "false" }
-      - {
-          label: "Data",
-          name: "date",
-          widget: "datetime",
-          format: "YYYY-MM-DD HH:mm:ss",
-        }
-      - { label: "Conteúdo", name: "body", widget: "markdown", required: false }
-      - label: "Seção do Site"
-        name: "category"
-        widget: "select"
-        options:
-          - { label: "Blog", value: "blog" }
-          - { label: "Notícias", value: "noticias" }
-          - { label: "Textos", value: "links" }
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        default: ["news"]
-    # PAGES
-  # - name: "page"
-  #   label: "Páginas"
-  #   folder: "pages"
-  #   sort: "title:asc"
-  #   create: false
-  #   slug: "{{slug}}"
-  #   fields:
-  #     - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
-  #     - { label: "Title", name: "title", widget: "string", tagname: "h1" }
-  #     - {
-  #         label: "Meta Description",
-  #         name: "meta_description",
-  #         widget: "string",
-  #         required: false,
-  #       }
-  #     - { label: "Permalink", name: "permalink", widget: "hidden" }
-  #     - {
-  #         label: "Section",
-  #         name: "section",
-  #         widget: "hidden",
-  #         default: "{{name}}",
-  #       }
-  #     - {
-  #         label: "Intro Paragraph",
-  #         name: "intro_paragraph",
-  #         widget: "markdown",
-  #         required: false,
-  #       }
-  #     - { label: "Body", name: "body", widget: "markdown", required: false }
+          - label: Giba Assis Brasil
+            value: giba
+          - label: Jorge Furtado
+            value: jorge
+          - label: Nora Goulart
+            value: nora
+          - label: Ana Luíza Azevedo
+            value: ana
+          - label: Casa de Cinema de Porto Alegre
+            value: casa
+      - label: Data
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss"
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+  - name: essays
+    label: Texto
+    folder: _essays
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: Autor
+        name: author
+        widget: hidden
+        default: casa
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss"
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+  - name: news
+    label: Notícia
+    folder: _news
+    sort: "date:desc"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: Autor
+        name: author
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss"
+      - label: Tags
+        name: tags
+        widget: list
+        required: false

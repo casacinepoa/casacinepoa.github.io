@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign site_features = site.features | reverse | limit: 2 %}
+{% assign site_features = site.banners | reverse %}
 
 {% for feature in site_features %}
   {% if forloop.first %}
@@ -22,23 +22,10 @@ layout: default
 <section class="contained blog-section">
   <h2 class="section-title">No blog</h2>
 
-  {% assign blog_posts = site.posts | where_exp: "item", "item.categories contains 'blog'" %}
-
   <ol class="blog-list">
-    {% for post in blog_posts limit: 4 %}
+    {% for post in site.posts limit: 4 %}
       <li class="post-item">
-        {% if post.author and post.author != "" %}
-          <a class="post-author" href="/blog/{{ post.author }}">
-            {{ site.data.authors[post.author].name }}
-          </a>
-
-          &middot;
-        {% endif %}
-
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%d/%m/%Y" }}
-        </time>
-
+        {%- include post/meta.html -%}
         <br />
         <a href="{{ post.url }}" rel="bookmark">
           <strong class="post-title">{{ post.title }}</strong>
@@ -53,22 +40,10 @@ layout: default
 <section class="contained blog-section">
   <h2 class="section-title">Notícias da Casa</h2>
 
-  {% assign news_posts = site.posts | where_exp: "item", "item.categories contains 'noticias'" %}
-
   <ol class="blog-list">
-    {% for post in news_posts limit: 8 %}
+    {% for post in site.news reversed limit: 8 %}
       <li class="post-item">
-        {% if post.author and post.author != "" %}
-          <a class="post-author" href="/blog/{{ post.author }}">
-            {{ site.data.authors[post.author].name }}
-          </a>
-
-          &middot;
-        {% endif %}
-
-        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%d/%m/%Y" }}
-        </time>
+        {%- include post/meta.html -%}
 
         <br />
         <a href="{{ post.url }}" rel="bookmark">

@@ -1,5 +1,4 @@
 ---
-layout: post
 date: 2022-12-13
 title: Cinema e conversa sobre cinema na Parêntese
 author: giba
