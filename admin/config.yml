@@ -54,8 +54,29 @@ collections:
     extension: md
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "/blog/{{year}}-{{month}}-{{day}}-{{slug}}/"
+    summary: >-
+      {{title}} ({{day}}/{{month}}/{{year}})
     description: >-
       Posts exibidos no Blog, com atribuição de autor, listas de tags e arquivos específicos.
+    sortable_fields:
+      - title
+      - date
+    view_filters:
+      - label: "Posts da Ana"
+        field: author
+        pattern: "ana"
+      - label: "Posts do Giba"
+        field: author
+        pattern: "giba"
+      - label: "Posts do Jorge"
+        field: author
+        pattern: "jorge"
+      - label: "Posts da Nora"
+        field: author
+        pattern: "nora"
+    view_groups:
+      - label: Rascunhos
+        field: draft
     fields:
       - label: Layout
         name: layout
@@ -112,8 +133,13 @@ collections:
     sort: "date:desc"
     create: true
     delete: true
+    summary: >-
+      {{title}} ({{day}}/{{month}}/{{year}})
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "/noticias/{{year}}-{{month}}-{{day}}-{{slug}}/"
+    view_groups:
+      - label: Rascunhos
+        field: draft
     fields:
       - label: Layout
         name: layout
@@ -148,10 +174,15 @@ collections:
     sort: "date:desc"
     create: true
     delete: true
+    summary: >-
+      {{title}} ({{day}}/{{month}}/{{year}})
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "/textos/{{year}}-{{month}}-{{day}}-{{slug}}/"
     description: >-
       Textos são posts exibidos na página de Textos, com sua própria listagem e organização.
+    view_groups:
+      - label: Rascunhos
+        field: draft
     fields:
       - label: Layout
         name: layout
