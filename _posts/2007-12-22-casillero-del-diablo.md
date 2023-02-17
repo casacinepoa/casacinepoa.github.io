@@ -6,7 +6,7 @@ category: blog
 author: giba
 tags:
   - gastronomia
-original_url: "/comment/reply/199/scripts.js.html"
+original_path: "/comment/reply/199/scripts.js.html"
 ---
 
 O vinho chileno foi servido, provado, aprovado e surgiu a dúvida: o que significa "Casillero del Diablo"? Na roda, muitos apreciadores mas nenhum "conhecedor"; ninguém sabia. Depois de alguns palpites mais ou menos humorados, passamos a outro assunto. Mas eu fiquei com o Google atrás da orelha. Chegando em casa, pesquisa.

@@ -2,8 +2,8 @@
 layout: post
 title: Corpus Christi
 date: 2008-05-22 00:00 +0000
-category: blog
 author: giba
+original_path: "/comment/reply/187/scripts.js.html"
 tags:
   - religião
 ---

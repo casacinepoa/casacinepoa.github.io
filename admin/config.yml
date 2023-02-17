@@ -3,16 +3,21 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-local_backend: true
+# local_backend: true
 media_folder: "uploads"
 publish_mode: editorial_workflow
 collections:
   - name: banner
-    label: Banner
+    label: Banners
+    label_singular: Banner
     folder: _banners
     sort: "date:desc"
     create: true
+    delete: true
+    publish: false
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    description: >-
+      Banners exibidos no início e no fim da página inicial. Apenas os dois banners mais recentes serão exibidos.
     fields:
       - label: Data de ativação
         name: date
@@ -40,11 +45,16 @@ collections:
           ]
         required: true
   - name: post
-    label: Post de Blog
+    label: Posts
+    label_singular: Post
     folder: _posts
     sort: "date:desc"
     create: true
+    delete: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "/blog/{{year}}-{{month}}-{{day}}-{{slug}}/"
+    description: >-
+      Posts exibidos no Blog, com atribuição de autor, listas de tags e arquivos específicos.
     fields:
       - label: Layout
         name: layout
@@ -83,16 +93,23 @@ collections:
         name: tags
         widget: list
         required: false
-      - label: Link no site antigo
-        name: original_url
+      - label: Caminho original
+        name: original_path
         widget: string
         required: false
+        comment: >-
+          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: news
-    label: Notícia
+    label: Notícias
+    label_singular: Notícia
+    description: >-
+      As notícias são posts exibidos sem atribuição de autor na página de Notícias da Casa.
     folder: _news
     sort: "date:desc"
     create: true
+    delete: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "/noticias/{{year}}-{{month}}-{{day}}-{{slug}}/"
     fields:
       - label: Layout
         name: layout
@@ -112,12 +129,23 @@ collections:
         name: tags
         widget: list
         required: false
+      - label: Caminho original
+        name: original_path
+        widget: string
+        required: false
+        comment: >-
+          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: essays
-    label: Texto
+    label: Textos
+    label_singular: Texto
     folder: _essays
     sort: "date:desc"
     create: true
+    delete: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "/textos/{{year}}-{{month}}-{{day}}-{{slug}}/"
+    description: >-
+      Textos são posts exibidos na página de Textos, com sua própria listagem e organização.
     fields:
       - label: Layout
         name: layout
@@ -141,3 +169,9 @@ collections:
         name: tags
         widget: list
         required: false
+      - label: Caminho original
+        name: original_path
+        widget: string
+        required: false
+        comment: >-
+          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.

@@ -4,6 +4,7 @@ title: Inverno, os críticos e o Tuio
 date: 2008-05-06 00:00 +0000
 author: giba
 category: blog
+original_path: "/comment/reply/190/scripts.js.html"
 tags:
   - Casa de Cinema
   - cinema

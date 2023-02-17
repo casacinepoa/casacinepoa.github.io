@@ -2,6 +2,7 @@
 layout: archive-news
 title: Notícias
 permalink: "/noticias/"
+original_path: "/as-noticias.html"
 pagination:
   enabled: true
   collection: news

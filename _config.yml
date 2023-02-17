@@ -28,7 +28,7 @@ collections:
     sort_by: date
 
 # Build settings
-permalink: "/blog/:year/:month/:day/:slug/"
+permalink: "/blog/:year-:month-:day-:slug/"
 
 include:
   - _redirects
