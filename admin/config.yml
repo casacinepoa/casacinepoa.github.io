@@ -51,6 +51,7 @@ collections:
     sort: "date:desc"
     create: true
     delete: true
+    extension: md
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "/blog/{{year}}-{{month}}-{{day}}-{{slug}}/"
     description: >-
@@ -70,10 +71,11 @@ collections:
         name: excerpt
         widget: text
         required: false
+        hint: >-
+          Exibido na lista de posts do blog. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post.
       - label: Autor
         name: author
         widget: select
-        default: casa
         options:
           - label: A Casa
             value: casa
@@ -93,11 +95,13 @@ collections:
         name: tags
         widget: list
         required: false
+        hint: >-
+          Uma lista de tópicos separados por vírgulas. Se adicionadas, a notícia aperecerá na página de posts com essa tag.
       - label: Caminho original
         name: original_path
         widget: string
         required: false
-        comment: >-
+        hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: news
     label: Notícias
@@ -129,11 +133,13 @@ collections:
         name: tags
         widget: list
         required: false
+        hint: >-
+          Uma lista de tópicos separados por vírgulas. Se adicionadas, a notícia aperecerá na página de posts com essa tag.
       - label: Caminho original
         name: original_path
         widget: string
         required: false
-        comment: >-
+        hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: essays
     label: Textos
@@ -173,5 +179,5 @@ collections:
         name: original_path
         widget: string
         required: false
-        comment: >-
+        hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
