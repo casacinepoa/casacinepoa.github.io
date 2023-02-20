@@ -16,3 +16,7 @@ Significava, porque é claro que este cálculo tem que ser atualizado. Um [estu
 Ou seja, nossa perspectiva de reencarnação, nos últimos 50 anos, foi reduzida à metade. E provavelmente vai continuar diminuindo, o que é um paradoxo interessante para os espiritualistas: quanto mais avançamos pro futuro, menos passado per capita temos pra descobrir na terapia de vidas passadas.
 
 Claro que o pessoal do Allan Kardec tem uma explicação perfeitamente lógica pra esse paradoxo, e eu não faço questão de saber qual é. Mas não há dúvida de que o estudo de Kaneda & Haub é um ponto a favor do budismo, segundo o qual podemos reencarnar como gerente do Bradesco, passarinho, árvore, pedra ou até mesmo membro da família Bolsonaro - tudo depende de como nos comportamos por aqui.
+
+![](/uploads/allan.jpg)
+
+*cartum de [Allan Sieber](https://www.allansieber.com.br/)*
