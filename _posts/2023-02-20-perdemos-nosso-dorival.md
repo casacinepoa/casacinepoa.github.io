@@ -20,3 +20,9 @@ Um pouco mais tristes e mais pobres por essa perda, ficamos com a risada franca,
 "Genocida e merda pra nós é a mesma coisa!"
 
 ![João Batista Acaiabe em cena de "O dia em que Dorival encarou a guarda"](/uploads/dorival.jpg)
+
+O curta "O dia em que Dorival encarou a guarda" (15 min) está disponível para visualização online desde o início da pandemia, assim como [outras 20 produções](http://www.casacinepoa.com.br/node/2074) da Casa de Cinema de Porto Alegre. "Dorival" tem opção de legendas em português, inglês, francês e espanhol.\
+<https://vimeo.com/240817481>
+
+No Youtube tem uma ótima videoanálise (7 min) sobre o filme, por Isabella Ricchiero e Gustavo de Andrade.\
+<https://youtu.be/mqmyyI63_QM>
