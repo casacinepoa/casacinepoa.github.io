@@ -18,7 +18,7 @@
   --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, monospace;
   --font-size-base: 1rem;
-  --font-size-small: 0.75rem;
+  --font-size-small: 0.875rem;
 }
 
 @media screen and (prefers-color-scheme: dark) {

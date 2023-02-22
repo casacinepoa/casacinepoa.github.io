@@ -1,6 +1,6 @@
 :root {
   box-sizing: border-box;
-  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  font-size: 16px;
 }
 
 :root * {
@@ -50,7 +50,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   hyphens: auto;
-  line-height: 1.5;
+  line-height: 1.4;
   min-height: 100vh;
   overflow-wrap: break-word;
 }
@@ -123,6 +123,35 @@ img+em {
   color: var(--color-foreground-details);
   display: block;
   max-width: 15rem;
+}
+
+[align="left"] img {
+  float: left;
+  margin-right: .5rem;
+}
+
+[align="right"] img {
+  float: right;
+  margin-left: .5rem;
+}
+
+[align="right"] {
+  text-align: right;
+}
+
+[align="center"] {
+  text-align: center;
+}
+
+[align="center"] img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+[align="left"],
+[align="right"] {
+  font-size: var(--font-size-small);
+  line-height: 1.45;
 }
 
 /* Media */
