@@ -87,6 +87,16 @@
   Post Content
 */
 
+.post_content {
+  margin-bottom: 1.5rem;
+}
+
+.post_content::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
 .post_content p,
 .post_content ul,
 .post_content ol,

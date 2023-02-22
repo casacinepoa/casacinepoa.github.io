@@ -154,6 +154,13 @@ img+em {
   line-height: 1.45;
 }
 
+[align="left"]::after,
+[align="right"]::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
 /* Media */
 svg {
   fill: currentColor;

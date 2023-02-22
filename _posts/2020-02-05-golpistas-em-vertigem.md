@@ -1,0 +1,23 @@
+---
+layout: post
+title: Golpistas em vertigem
+date: 2020-02-05 00:00 +0000
+author: jorge
+original_path: "/o-blog/jorge-furtado/golpistas-em-vertigem.html"
+---
+
+Em 2016 a democracia brasileira foi vítima de um golpe parlamentar clássico, daqueles de livro, onde a maioria no congresso, insatisfeita com o trabalho do executivo e/ou com medo de ser presa, une-se para derrubar o presidente eleito, um fato corriqueiro num regime parlamentarista e que no presidencialismo só tem um nome: golpe. Dilma foi alijada do cargo para o qual foi legitimamente eleita sem crime de responsabilidade e por um motivo banal, as tais pedaladas fiscais, praticadas por todos os presidentes até então e por muitos governadores naquele exato momento. Acusação tão frágil foi usada como desculpa apenas porque era este o pedido de impeachment que estava em cima da pilha. (Sem temer escancarar a hipocrisia, as tais pedaladas tornaram-se procedimento legal dois dias depois de instalado o governo golpista, com Temer.)
+
+O golpe parlamentar de 2016 foi comandado pelo presidente do congresso, Eduardo Cunha, um punguista barato que, comprando parlamentares, tomou conta do PMDB na câmara. O PT, que governava em rentável coligação com o PMDB, o PP, o DEM e outros tantos, recusou-se a blindar Cunha numa investigação de um dos seus muitos crimes e o investigado deu partida ao golpe. Os golpistas do PMDB, PP e DEM aliaram-se aos derrotados nas urnas do PSDB e a quase totalidade do patronato nacional que, cansado de perder eleições – foram 8 derrotas nas urnas, em 4 eleições de dois turnos – e convencido de que o governo Dilma era um desastre, embarcou alegremente na aventura golpista, talvez acreditando no próprio mantra teratológico “qualquer coisa menos o PT”. Quem assumiu o governo foi o vice golpista do PMDB, Michel Temer, parceiro de crimes de Eduardo Cunha.
+
+A votação do impeachment na câmara é um momento fundamental da história recente do Brasil, um desfile, transmitido ao vivo, dos representantes fiéis e legítimos do povo brasileiro. O que se viu foi uma coleção de horrores. No meio daquela constrangedora maioria de nulidades e aberrações, um destacou-se por sua ignomínia e boçalidade, um deputado carioca ligado às milícias, cuja família enriqueceu na política, que dedicou seu voto a um torturador condenado, um sádico que maltratava e matava mulheres na presença de suas filhas. O pior dos piores surgia ali, herdeiro da democracia gravemente ferida.
+
+Como todos os golpes, o de 2016 também foi revestido de legalidades, teve o aval do Supremo e o apoio da imprensa, com o de 1964 aconteceu o mesmo. A disputa da narrativa histórica motiva os apoiadores do golpe a chamá-lo de tudo, menos de golpe, a palavra parece assustar mais do que a coisa em si. A narrativa imposta pela mídia corporativa – os veículos de imprensa que são de propriedade de grandes grupos econômicos – é a de que o governo Dilma foi legal e legitimamente substituído pelo governo Temer e que a democracia brasileira vai muito bem, obrigado. Talvez peçam desculpas 30 anos depois mas, no momento, esta é a palavra de ordem.
+
+O documentário “Democracia em Vertigem”, de Petra Costa, que concorre ao Oscar neste próximo domingo, realiza o prodígio de furar o bloqueio desta história única, de pousar uma mosca na sopa da mídia. Petra registrou em detalhes aquele momento, com a sua voz, a sua visão, suas idiossincrasias, sua paixão e, até por sua clara posição a respeito dos fatos que presenciava, contando o que aconteceu naqueles dias com muita mais verdade do que a que pode ser encontrada nas manchetes dos jornais, capas de revistas e chamadas de telejornais.
+
+A coragem de Petra Costa para enfrentar o pensamento único, os anagnostas, os invejosos, os chapa-branca, é admirável. E desperta reações constrangedoras, há desde quem afirme torcer contra o filme no Oscar até quem parta para ofensas, algumas que não seriam feitas se a diretora fosse um homem. A campanha do governo de extrema-direita contra o filme é autoritária, mentirosa, imoral e, imagino, ilegal.
+
+“Democracia em Vertigem” constrange e provoca porque abre um rombo na cortina dos apoiadores do golpe de 2016, aquele momento em que o fascismo brasileiro perdeu a vergonha de mostrar a cara e o patronato elegante chutou o balde da democracia. Só por isso, o filme já merece todos os aplausos, mas torço muito para que Petra traga o primeiro Oscar para o Brasil. Numa democracia, as vozes dissonantes merecem respeito.
+
+Um outro filme, “O Processo”, de Maria Augusta Ramos, também deixa claro o seu lado, registrando o mesmo momento, no Senado. Com seus filmes estas duas cineastas brasileiras produzem memória, plantam dúvidas, reorganizam o passado, e é isto que um bom documentário faz. 
