@@ -41,7 +41,9 @@ layout: default
   <h2 class="section-title">Notícias da Casa</h2>
 
   <ol class="news-list">
-    {% for post in site.news reversed limit: 8 %}
+    {% assign news = site.news | reverse %}
+
+    {% for post in news limit: 8 %}
       <li class="post-item">
         {%- include post/meta.html -%}
 
