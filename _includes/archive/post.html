@@ -14,9 +14,11 @@
   {%- unless page.show_content == false -%}
     <div class="post_content">
       {%- if page.show_content == "excerpt" -%}
-      {{ post.excerpt }}
+        <p>
+          {{ post.excerpt | default: post.content | strip_html | truncate: 240 }}
+        </p>
       {%- else -%}
-      {{ post.content }}
+        {{ post.content }}
       {%- endif -%}
     </div>
   {%- endunless -%}
