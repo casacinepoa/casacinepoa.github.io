@@ -2,7 +2,7 @@
   "actions" : {
     "build" : {
       "enabled" : true,
-      "script" : "#!\/bin\/sh\nbundler update"
+      "script" : "#!\/bin\/sh\nbundle update"
     },
     "clean" : {
       "enabled" : true,
