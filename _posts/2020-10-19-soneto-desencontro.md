@@ -5,7 +5,6 @@ author: giba
 date: 2020-10-19 20:26:01
 original_path: /o-blog/giba-assis-brasil/soneto-desencontro.html
 ---
-<!--StartFragment-->
 
 Dez anos atrás, em outubro de 2010, poucos dias antes do segundo turno das eleições, o Jorge Furtado e a Liziane Kugland estavam lançando o livro "Shakespeare - faça você mesmo", uma antologia de traduções pro português de sonetos do bardo, feitas por cineastas, amigos, atores, curiosos, e até mesmo alguns tradutores. O Arthur de Faria, que na época apresentava o programa "Cafezinho" na rádio Pop-Rock, chamou os dois pra uma conversa sobre o livro, e eu, como um dos colaboradores, também fui convidado.
 
