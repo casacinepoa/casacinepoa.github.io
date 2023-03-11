@@ -1,0 +1,27 @@
+---
+layout: page
+title: Arquivo de Notícias
+permalink: "/noticias/arquivo/"
+---
+
+<p>Existem <strong>{{ site.news | size }} notícias</strong> nesse arquivo:</p>
+
+{%- for post in site.news reversed -%}
+  {%- assign current_date = post.date | date: "%Y" -%}
+
+  {%- if current_date != backup_date -%}
+    <h2>{{ current_date }}</h2>
+
+    {%- assign backup_date = current_date -%}
+  {%- endif -%}
+
+  <p class="post">
+    {%- include post/meta.html -%}
+    <br />
+    <strong>
+      <a href="{{ post.url | relative_url }}" rel="bookmark">
+        {{ post.title }}
+      </a>
+    </strong>
+  </p>
+{%- endfor -%}

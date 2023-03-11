@@ -52,13 +52,14 @@
 }
 
 /* Blog */
-.blog-section,
-.news-section {
+.contained.blog-section,
+.contained.news-section {
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
 
-.blog-section .section-title {
+.blog-section .section-title,
+.news-section .section-title {
   font-weight: 500;
   font-style: italic;
 }

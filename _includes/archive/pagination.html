@@ -12,18 +12,33 @@
       </a>
     {%- endif -%}
 
-    {% if site.archive_path %}
-      <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
-        ou visite <strong>o arquivo completo</strong>
-      </a>
+    {% if site.archive_news_path or site.archive_path %}
+      {%- if include.news and site.archive_news_path -%}
+        <a class="nav_link archives" href="{{ site.news_archive_path | relative_url }}">
+          ou visite <strong>o arquivo completo</strong>
+        </a>
+      {%- else -%}
+        <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
+          ou visite <strong>o arquivo completo</strong>
+        </a>
+      {% endif %}
     {% endif %}
   {% else %}
-    {% if site.archive_path %}
+
+    {% if site.archive_news_path or site.archive_path %}
+      {%- if include.news and site.news_archive_path -%}
+        <a class="nav_link archives" href="{{ site.news_archive_path | relative_url }}">
+         Visite o
+         <strong>Arquivo de Notícias</strong>
+        </a>
+      {%- else -%}
       <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
         Explore o
         <strong>Arquivo do Blog</strong>
       </a>
     {% endif %}
+
   {% endif %}
+{% endif %}
 </nav>
 
