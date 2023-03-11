@@ -214,7 +214,7 @@ collections:
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: projects
     label: Filmes
-    singular_label: Filme
+    label_singular: Filme
     folder: _projects
     sort: "title:desc"
     create: true
