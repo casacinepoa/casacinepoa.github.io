@@ -313,3 +313,9 @@ collections:
         required: false
         hint: >-
           Seções de conteúdo são separadas por uma linha horizontal (`***`). O título da seção é definido por um título de nível 2 (`##`).
+      - label: Caminho original
+        name: original_path
+        widget: string
+        required: false
+        hint: >-
+          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.

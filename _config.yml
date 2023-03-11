@@ -28,7 +28,6 @@ collections:
     sort_by: date
   projects:
     output: true
-    sort_by: title_listing
     permalink: "/filmes/:title/"
 
 # Build settings

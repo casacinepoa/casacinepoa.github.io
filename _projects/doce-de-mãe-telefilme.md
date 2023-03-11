@@ -35,7 +35,7 @@ Matheus Nachtergaele (Fernando)\
 Mariana Lima (Suzana)\
 Daniel de Oliveira (Jesus)
 
-\*\**
+***
 
 ## Crítica
 
