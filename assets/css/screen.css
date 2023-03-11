@@ -26,6 +26,7 @@
   :root {
     --color-background: #2b292b;
     --color-foreground: #f5f2ed;
-    --color-details: #cdcdcb;
+    --color-foreground-details: #f6f6f6;
+    --color-details: #121212;
   }
 }

@@ -212,3 +212,104 @@ collections:
         required: false
         hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+  - name: projects
+    label: Filmes
+    singular_label: Filme
+    folder: _projects
+    sort: "title:desc"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    preview_path: "/filmes/{{slug}}"
+    view_filters:
+    - label: "Longas"
+      field: category
+      pattern: "Longas-metragens"
+    - label: "Coproduções"
+      field: category
+      pattern: "Coproduções"
+    - label: "Médias"
+      field: category
+      pattern: "Médias-metragens"
+    - label: "Curtas"
+      field: category
+      pattern: "Curtas-metragens"
+    - label: "Séries"
+      field: category
+      pattern: "Séries"
+    - label: "Origens"
+      field: category
+      pattern: "Origens"
+    - label: "Distribuição"
+      field: category
+      pattern: "Distribuição"
+    - label: "Coleções"
+      field: category
+      pattern: "Coleções"
+    - label: "Projetos"
+      field: category
+      pattern: "Projetos"
+    description: >-
+      Os projetos ou os filmes. Dependendo da categoria, eles são exibidos em sua lista respectiva.
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        value: project
+      - label: Título
+        name: title
+        widget: string
+      - label: Informações técnicas
+        name: tech_specs
+        widget: list
+        summary: "{{fields.info}}"
+        minimize_collapsed: true
+        field: {name: info, widget: string}
+        required: false
+      - label: Categoria
+        name: category
+        widget: select
+        options:
+          - Longas-metragens
+          - Médias-metragens
+          - Curtas-metragens
+          - Coproduções
+          - Séries
+          - Origens
+          - Distribuição
+          - Coleções
+          - Projetos
+      - label: Trailer
+        name: trailer
+        widget: string
+        required: false
+        hint: >-
+          O link para um vídeo do Vimeo.
+      - label: Imagem de destaque
+        name: image
+        widget: image
+      - label: Créditos da imagem de destaque
+        name: image_credits
+        widget: string
+        required: false
+      - label: Sinopse
+        name: synopsis
+        widget: markdown
+      - label: Onde Assistir
+        name: where_to_watch
+        widget: list
+        label_singular: "serviço"
+        required: false
+        fields:
+          - label: Serviço
+            name: title
+            widget: string
+          - label: Link
+            name: url
+            widget: string
+      - label: Seções de conteúdo
+        name: body
+        widget: markdown
+        required: false
+        hint: >-
+          Seções de conteúdo são separadas por uma linha horizontal (`***`). O título da seção é definido por um título de nível 2 (`##`).

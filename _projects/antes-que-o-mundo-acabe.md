@@ -1,22 +1,24 @@
 ---
 title: Antes que o mundo acabe
-title_listing: Antes que o mundo acabe
-category: Longa-metragens
 tech_specs:
   - (35 mm, 100 min, cor, 2009)
   - (janela 1.85, som óptico Dolby SR, som digital Dolby)
-# trailer: "https://vimeo.com/724083652?embedded=true&source=video_title&owner=10622900"
-image: "https://www.casacinepoa.com.br/sites/default/files/images/aqma-imgr.jpg"
+category: Longas-metragens
+image: /uploads/aqma-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
-synopsis: >-
-  Daniel é um adolescente crescendo em seu pequeno mundo com problemas que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que quer, como ajudar um amigo que está sendo acusado de roubo e como sair da pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito maior do que ele pensa.
+synopsis: "Daniel é um adolescente crescendo em seu pequeno mundo com problemas
+  que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que
+  quer, como ajudar um amigo que está sendo acusado de roubo e como sair da
+  pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do
+  pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a
+  realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito
+  maior do que ele pensa."
 where_to_watch:
   - title: NET NOW
-    url: "www.google.com"
+    url: https://teste.com.br/
   - title: Netflix
-    url: "https://google.com/"
+    url: https://teste.com.br/
 ---
-
 ## Créditos
 
 **Direção:** Ana Luiza Azevedo
@@ -81,7 +83,7 @@ Murilo Grossi (Antônio)
 
 ## Mais sobre
 
-- [Créditos completos]()
+- [Créditos completos](/filmes/antes-que-o-mundo-acabe/creditos-completos/)
 - [Da Diretora]()
 - [Exposição]()
 - [Como se faz um filme]()
