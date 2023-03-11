@@ -38,12 +38,6 @@ html {
   z-index: 2;
 }
 
-#site {
-  display: flex;
-  flex-flow: column nowrap;
-  min-height: 100vh;
-}
-
 #site > :last-child {
   margin-top: auto;
 }

@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<article class="contained project">
+  <header class="project_header">
+    <h1 class="project_title">
+      {{- page.title -}}
+    </h1>
+
+    {%- if page.tech_specs -%}
+      <div class="project_specs">
+        {%- for spec in page.tech_specs -%}
+          <p>{{ spec }}</p>
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+
+    {%- if page.trailer -%}
+      {% assign video_id = page.trailer | split: "/" | last | split: "?" | first %}
+
+      <figure class="project_cover">
+        <iframe class="cover_video" src="//player.vimeo.com/video/{{- video_id -}}?title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
+      </figure>
+    {%- elsif page.image -%}
+      <figure class="project_cover">
+        <img class="cover_image" src="{{ page.image }}" alt="" />
+
+        {%- if page.image_credits -%}
+          <figcaption class="cover_image_credits">
+            {{- page.image_credits -}}
+          </figcaption>
+        {%- endif -%}
+      </figure>
+    {%- endif -%}
+  </header>
+
+  <div class="project_main_content">
+    <div class="project_synopsys">
+      {{ page.synopsis | markdownify }}
+    </div>
+
+    {%- if page.where_to_watch -%}
+      <aside class="where-to-watch">
+        <h2 class="where-to-watch_title">Onde Assistir</h2>
+
+        {%- for watch_link in page.where_to_watch -%}
+          <a class="where-to-watch_link" href="{{- watch_link.url -}}" target="_blank">
+            {{- watch_link.title -}}
+          </a>
+        {%- endfor -%}
+      </aside>
+    {%- endif -%}
+  </div>
+
+  {%- assign page_content = content | replace: "<hr>", "<hr />" | replace: "<hr/>", "<hr />" -%}
+
+  {% assign sections = content | split: "<hr />" %}
+
+  <div class="project_infos">
+    {%- for section in sections -%}
+      {%- assign section_title = section | split: "</h2>" | first | strip_html | strip_newlines | normalize_whitespace -%}
+      {%- assign section_content = section | split: "</h2>" | last | normalize_whitespace -%}
+
+      <details class="info" open>
+        <summary class="info_title">
+          {{- section_title -}}
+        </summary>
+
+        <div class="info_content">
+          {{ section_content }}
+        </div>
+      </details>
+    {%- endfor -%}
+  </div>
+</article>
