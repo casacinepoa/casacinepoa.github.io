@@ -6,6 +6,7 @@
 @import "partials/layout/home.css";
 @import "partials/layout/blog.css";
 @import "partials/layout/project.css";
+@import "partials/layout/films.css";
 
 :root {
   --color-background: #fff;

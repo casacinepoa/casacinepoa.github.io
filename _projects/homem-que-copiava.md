@@ -12,6 +12,9 @@ synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   loja de artigos femininos. Ajudado por seu amigo Cardoso, e depois também pela
   colega de trabalho Marinês, André faz muitos planos para conseguir dinheiro. E
   todos dão certo. E é aí que seus problemas começam.
+where_to_watch:
+  - title: Globoplay
+    url: https://globoplay.globo.com/o-homem-que-copiava/t/GtrD6KmTVM/
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
 ---
 ## Créditos

@@ -13,11 +13,8 @@ synopsis: "Daniel é um adolescente crescendo em seu pequeno mundo com problemas
   pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a
   realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito
   maior do que ele pensa."
-where_to_watch:
-  - title: NET NOW
-    url: https://teste.com.br/
-  - title: Netflix
-    url: https://teste.com.br/
+where_to_watch: []
+original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
 ---
 ## Créditos
 

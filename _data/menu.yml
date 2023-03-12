@@ -3,7 +3,7 @@
 - title: Sobre
   url: "https://www.casacinepoa.com.br/a-casa.html"
 - title: Filmes
-  url: "https://www.casacinepoa.com.br/os-filmes/principal.html"
+  url: "/filmes/"
 - title: Projetos
   url: "https://www.casacinepoa.com.br/os-projetos.html"
 - title: Textos

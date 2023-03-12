@@ -13,6 +13,10 @@ synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   Nachtergaele) - para anunciar que Zaida vai se casar e deixar o emprego. A
   prole se preocupa, mas a senhora aproveita a oportunidade única de encontrar a
   liberdade.\t"
+where_to_watch:
+  - title: Globoplay
+    url: https://globoplay.globo.com/doce-de-mae/t/881LYyHzBy/
+original_path: /os-filmes/produção/longas/doce-de-mãe-tele-filme
 ---
 ## Créditos
 

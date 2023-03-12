@@ -2,6 +2,13 @@
   Technical Specs
 */
 
+.project_title {
+  font-family: var(--font-serif);
+  font-family: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
 .project_title + .project_specs {
   margin-top: -1rem;
 }
@@ -32,7 +39,8 @@
 .project_cover > .cover_video,
 .project_cover > .cover_image {
   display: block;
-  line-height: 0
+  line-height: 0;
+  width: 100%;
 }
 
 .cover_video {

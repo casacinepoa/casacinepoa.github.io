@@ -3,7 +3,7 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-# local_backend: true
+local_backend: true
 media_folder: "uploads"
 publish_mode: editorial_workflow
 collections:
@@ -221,6 +221,8 @@ collections:
     delete: true
     slug: "{{slug}}"
     preview_path: "/filmes/{{slug}}"
+    editor:
+      preview: false
     view_filters:
     - label: "Longas"
       field: category
