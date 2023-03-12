@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+{% assign projects = site.projects | where: "category", "Projetos" %}
+
+<ol class="projects_list">
+  {% for project in projects %}
+    <li class="project_item">
+      <img class="project_image" src="{{ project.image }}" alt="" role="presentation" />
+
+      <div class="project_details">
+        <strong class="project_title">{{ project.title }}</strong>
+
+        {% if project.tech_specs and project.tech_specs != "" %}
+          <ul class="project_specs">
+            {% for spec in project.tech_specs %}
+              <li>{{ spec }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        <div class="project_synopsis">
+          {{ project.synopsis | markdownify }}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ol>

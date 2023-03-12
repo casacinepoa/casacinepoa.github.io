@@ -77,3 +77,42 @@
   color: var(--color-accent);
   text-decoration-color: var(--color-accent);
 }
+
+/**
+ Projects
+ */
+
+.projects_list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 1.5rem;
+}
+
+.project_item {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+@media screen and (min-width: 600px) {
+  .project-item {
+    align-items: center;
+  }
+}
+
+.project_item .project_image {
+  max-width: 150px;
+}
+
+.project_item .project_title + .project_specs {
+  margin-top: 0;
+}
+
+.project_item .project_specs {
+  list-style: none;
+  margin-left: 0;
+}
