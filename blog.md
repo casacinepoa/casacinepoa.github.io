@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: archives/blog
 title: O Blog
 original_path: "/o-blog.html"
 permalink: "/blog/"

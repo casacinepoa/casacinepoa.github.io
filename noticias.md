@@ -1,5 +1,5 @@
 ---
-layout: archive-news
+layout: archives/news
 title: Notícias
 permalink: "/noticias/"
 original_path: "/as-noticias.html"

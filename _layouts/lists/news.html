@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Arquivo do Blog
-permalink: "/blog/arquivo/"
 ---
 
-<p>O <a href="/blog">Blog da Casa</a> possui {{ site.posts | size }} textos. Aqui você encontra uma lista de todos eles.</p>
+{{ content }}
 
-{%- for post in site.posts -%}
+{%- for post in site.news reversed -%}
   {%- assign current_date = post.date | date: "%Y" -%}
 
   {%- if current_date != backup_date -%}
