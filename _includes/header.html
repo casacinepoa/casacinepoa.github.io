@@ -18,15 +18,30 @@
       {{ site_branding }}
     </h1>
   {% endif %}
+
+  <input type="checkbox" name="menu-trigger" id="menu-trigger" />
+
+  <label class="menu_button" for="menu-trigger">
+    {%- include icons/menu.svg -%}
+  </label>
+
+  <div class="site_navigation">
+    {% if site.data.menu %}
+      <nav class="site_menu" role="list" data-site-menu>
+        {% for item in site.data.menu %}
+        <a href="{{ item.url }}" {% if item.external %}target="_blank" {% endif %}>
+          {{ item.title }}
+        </a>
+        {% endfor %}
+      </nav>
+    {% endif %}
+
+    <form class="site_search" action="//google.com/" method="get">
+      <input class="search_field" type="search" name="q" placeholder="Pesquisar" />
+      <button class="search_submit" type="submit">
+        {%- include icons/search.svg -%}
+      </button>
+    </form>
+  </div>
 </header>
 
-
-{% if site.data.menu %}
-  <nav class="site_menu" role="list" data-site-menu>
-    {% for item in site.data.menu %}
-    <a href="{{ item.url }}" {% if item.external %}target="_blank" {% endif %}>
-      {{ item.title }}
-    </a>
-    {% endfor %}
-  </nav>
-{% endif %}

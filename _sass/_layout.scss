@@ -4,3 +4,39 @@
   padding-left: calc(#{$spacing-unit} * 2);
   padding-right: calc(#{$spacing-unit} * 2);
 }
+
+/*
+  Site Header
+*/
+
+.site_header {
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+
+  .menu_button {
+    position: absolute;
+    right: $spacing-unit;
+    top: $spacing-unit;
+  }
+
+  #menu-trigger {
+    visibility: hidden;
+    position: absolute;
+    z-index: -1;
+
+    &:checked ~ .site_navigation {
+      height: 90px;
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+
+  .site_navigation {
+    height: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 150ms ease;
+  }
+}
