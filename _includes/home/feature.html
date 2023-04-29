@@ -14,6 +14,19 @@
       <div class="feature-description">
         {{ feature.content | normalize_whitespace }}
       </div>
+
+      <ul class="feature-share-links" aria-label="Compartilhar com…">
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ feature.link }}">
+            {%- include icons/facebook.svg -%}
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/intent/tweet?text={{ feature.title | url_encode }}&url={{ feature.link | url_encode }}">
+            {%- include icons/twitter.svg -%}
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
 </section>
