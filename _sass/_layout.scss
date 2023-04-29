@@ -61,7 +61,7 @@
     }
 
     &:checked~.site_navigation {
-      height: 90px;
+      height: 100px;
       opacity: 1;
       visibility: visible;
     }
@@ -87,34 +87,20 @@
 
   .site_menu {
     display: flex;
-    flex-flow: row nowrap;
-    gap: $spacing-unit;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: calc(#{$spacing-unit} / 2) $spacing-unit;
     font-size: 1, 25rem;
     text-transform: uppercase;
     font-weight: 300;
-    overflow: auto;
-    scrollbar-width: thin;
-    -ms-overflow-style: -ms-autohiding-scrollbar;
+      // overflow: auto;
+      // scrollbar-width: thin;
+      // -ms-overflow-style: -ms-autohiding-scrollbar;
     -webkit-overflow-scrolling: touch;
     padding-bottom: .5em;
 
-    &::before,
-    &::after {
-      content: " ";
-      width: $spacing-unit;
-      height: 1em;
-
-      @include media-query($on-laptop) {
-        content: none;
-      }
-    }
-
-    &::before {
-      margin-left: auto;
-    }
-
-    &::after {
-      margin-right: auto;
+    @include media-query($on-laptop) {
+      flex-flow: row nowrap;
     }
 
     a {
