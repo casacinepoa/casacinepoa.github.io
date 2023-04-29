@@ -17,4 +17,13 @@ $color-details: #656565;
 $content-width: 1500px;
 $spacing-unit: 1.35rem;
 
+$on-laptop: 960px;
+$on-desktop: 1280px;
+
+@mixin media-query($device) {
+  @media screen and (min-width: $device) {
+    @content;
+  }
+}
+
 @import "fonts", "base", "layout";

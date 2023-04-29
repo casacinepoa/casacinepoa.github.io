@@ -19,7 +19,7 @@
     </h1>
   {% endif %}
 
-  <input type="checkbox" name="menu-trigger" id="menu-trigger" />
+  <input type="checkbox" name="menu-trigger" id="menu-trigger" checked />
 
   <label class="menu_button" for="menu-trigger">
     {%- include icons/menu.svg -%}
@@ -36,8 +36,9 @@
       </nav>
     {% endif %}
 
-    <form class="site_search" action="//google.com/" method="get">
+    <form class="site_search" action="//google.com/search" method="get">
       <input class="search_field" type="search" name="q" placeholder="Pesquisar" />
+      <input type="hidden" name="q" value="site:casacinepoa.com.br" />
       <button class="search_submit" type="submit">
         {%- include icons/search.svg -%}
       </button>
