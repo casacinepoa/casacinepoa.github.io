@@ -1,0 +1,20 @@
+---
+# Hello, Jekyll!
+---
+
+// Typography
+$base-font-family: "Oswald", sans-serif;
+$content-font-family: "Roboto", sans-serif;
+$base-font-size: 17px;
+$base-line-height: 1.45;
+
+// Colors
+$color-accent: #CC0000;
+$color-text: #111111;
+$color-details: #656565;
+
+// Structure
+$content-width: 1500px;
+$spacing-unit: 1.35rem;
+
+@import "fonts", "base", "layout";

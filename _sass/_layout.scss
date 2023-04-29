@@ -1,0 +1,6 @@
+.contained {
+  width: 100%;
+  max-width: 1500px;
+  padding-left: calc(#{$spacing-unit} * 2);
+  padding-right: calc(#{$spacing-unit} * 2);
+}

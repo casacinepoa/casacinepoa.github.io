@@ -1,0 +1,38 @@
+html {
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit ;
+}
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  font: 300 #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $color-text;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  overflow-wrap: break-word;
+}
+
+
+img,
+video,
+iframe {
+  max-width: 100%;
+}
