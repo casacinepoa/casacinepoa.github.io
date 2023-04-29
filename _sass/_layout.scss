@@ -1,8 +1,11 @@
-.contained {
+.contained,
+.site_header {
   width: 100%;
   max-width: 1500px;
   padding-left: calc(#{$spacing-unit} * 2);
   padding-right: calc(#{$spacing-unit} * 2);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*
@@ -93,14 +96,18 @@
     font-size: 1, 25rem;
     text-transform: uppercase;
     font-weight: 300;
-      // overflow: auto;
-      // scrollbar-width: thin;
-      // -ms-overflow-style: -ms-autohiding-scrollbar;
+    // overflow: auto;
+    // scrollbar-width: thin;
+    // -ms-overflow-style: -ms-autohiding-scrollbar;
     -webkit-overflow-scrolling: touch;
     padding-bottom: .5em;
 
     @include media-query($on-laptop) {
       flex-flow: row nowrap;
+    }
+
+    @include media-query($on-desktop) {
+      font-size: 1.5rem;
     }
 
     a {
@@ -151,6 +158,7 @@
     .search_submit {
       appearance: none;
       border: none;
+      border-radius: 0;
       background: none;
       padding: 0;
       margin: 0;
