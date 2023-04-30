@@ -1,6 +1,8 @@
 html {
   font-size: 1rem;
   box-sizing: border-box;
+  hyphens: auto;
+  word-break: break-word;
 }
 
 *,
@@ -37,6 +39,61 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit * .5;
 }
 
+// Links
+a {
+  color: currentColor;
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+
+// Lists
+
+ol, li {
+  list-style-position: inside;
+}
+
+
+// Headings
+h1, h2, h3, h4, h6, h6 {
+  font-weight: 300;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+.section_title {
+  text-transform: uppercase;
+
+  &::before {
+    content: "//";
+    color: $color-accent;
+    margin-right: .25ch;
+  }
+}
+
+// Media
 
 img,
 video,

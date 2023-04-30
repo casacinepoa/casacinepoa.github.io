@@ -8,19 +8,19 @@ const Banner = createClass({
     const entry = this.props.entry;
 
     return html`
-    <section class="contained inverted home-feature">
-      <a class="feature-image" href="${entry.getIn(['data', 'link'])}">
+    <section class="contained inverted home_banner">
+      <a class="image" href="${entry.getIn(['data', 'link'])}">
         <img src="${entry.getIn(['data', 'image'])}" alt="" role="presentation" />
       </a>
 
-      <div class="feature-content">
-        <h2 class="feature-title">
+      <div class="content">
+        <h2 class="title">
           <a href="${entry.getIn(['data', 'link'])}">
             ${entry.getIn(['data', 'title'])}
           </a>
         </h2>
 
-        <div class="feature-description">
+        <div class="description">
           ${this.props.widgetFor("body")}
         </div>
       </div>
