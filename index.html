@@ -6,56 +6,52 @@ layout: default
 
 {% for feature in site_features %}
   {% if forloop.first %}
-    {% capture first_feature %}
-      {% include home/feature.html %}
+    {% capture banner_above %}
+      {% include home/banner.html %}
     {% endcapture %}
   {% else %}
-    {% capture last_feature %}
-      {% include home/feature.html %}
+    {% capture banner_below %}
+      {% include home/banner.html %}
     {% endcapture %}
   {% endif %}
 {% endfor %}
 
 
-{{ first_feature }}
+{{ banner_above }}
 
-<section class="contained blog-section">
-  <h2 class="section-title">No blog</h2>
+<section class="contained posts_section">
+  <h2 class="section_title">
+    No blog
+  </h2>
 
-  <ol class="blog-list">
-    {% for post in site.posts limit: 4 %}
-      <li class="post-item">
-        {%- include post/meta.html -%}
-        <br />
-        <a href="{{ post.url }}" rel="bookmark">
-          <strong class="post-title">{{ post.title }}</strong>
-        </a>
-      </li>
-    {% endfor %}
-  </ol>
+  <div class="posts_list">
+    {%- for post in site.posts limit: 4 -%}
+      {%- include home/post.html -%}
+    {%- endfor -%}
+  </div>
 
-  <a class="section-go" href="/blog/">Veja todos os posts no blog &rarr;</a>
+  <a class="archive_link" href="/blog/">
+    Ver todos os posts no blog
+  </a>
 </section>
 
-<section class="contained news-section">
-  <h2 class="section-title">Notícias da Casa</h2>
+<section class="contained posts_section">
+  <h2 class="section_title">
+    Notícias da Casa
+  </h2>
 
-  <ol class="news-list">
-    {% assign news = site.news | reverse %}
+  <div class="posts_list">
+    {%- assign news = site.news | reverse -%}
 
-    {% for post in news limit: 8 %}
-      <li class="post-item">
-        {%- include post/meta.html -%}
+    {%- for post in news limit: 4 -%}
+      {%- include home/post.html -%}
+    {%- endfor -%}
+  </div>
 
-        <br />
-        <a href="{{ post.url }}" rel="bookmark">
-          <strong class="post-title">{{ post.title }}</strong>
-        </a>
-      </li>
-    {% endfor %}
-  </ol>
-
-  <a class="section-go" href="/blog/">Visite o arquivo de notícias &rarr;</a>
+  <a class="archive_link" href="/noticias/">
+    Visite o arquivo de notícias
+  </a>
 </section>
 
-{{ last_feature }}
+
+{{ banner_below }}

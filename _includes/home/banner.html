@@ -1,0 +1,32 @@
+<section class="inverted">
+  <div class="home_banner contained {% if forloop.first %}_first{% else %}_last{% endif %}">
+    <a class="image" href="{{ feature.link }}">
+      <img src="{{ feature.image }}" alt="" role="presentation" />
+    </a>
+
+    <div class="content">
+      <h2 class="title">
+        <a href="{{ feature.link }}">
+          {{ feature.title }}
+        </a>
+      </h2>
+
+      <div class="description">
+        {{ feature.content | normalize_whitespace }}
+      </div>
+
+      <ul class="share_links" aria-label="Compartilhar com…">
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ feature.link }}">
+            {%- include icons/facebook.svg -%}
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/intent/tweet?text={{ feature.title | url_encode }}&url={{ feature.link | url_encode }}">
+            {%- include icons/twitter.svg -%}
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>

@@ -1,33 +1,33 @@
-<div class="contrasted">
+<div class="inverted">
   <footer class="site_footer">
-    <div class="site_info">
-      <h5 class="site_title">{{ site.title }}</h5>
+    <a class="site_title" href="{{ site.url | absolute_url }}">
+      <picture>
+        <source media="(max-width: 960px)" srcset="{% link assets/img/logo-mobile.png %}" />
+        <source media="(min-width: 961px)" srcset="{% link assets/img/logo.png %}" />
+        <img title="{{ site.title }}" src="{% link assets/img/logo.png %}" />
+      </picture>
+    </a>
 
-      <address class="contact_info">
-        <p>Rua Miguel Tostes, 860<br />
-          Porto Alegre/RS<br />
-          CEP: 90430-060</p>
-        <p>Tel/Fax: <a href="tel:+55 (51) 3316-9200">+55 (51) 3316-9200</a></p>
-      </address>
-    </div>
+    {% if site.data.menu %}
+      <nav class="footer_menu">
+        {% for item in site.data.menu %}
+          <a href="{{ item.url }}" {% if item.external %}target="_blank" {% endif %}>
+            {{ item.title }}
+          </a>
+        {% endfor %}
 
-    <form class="search_form" method="get" action="https://duckduckgo.com">
-      <input class="input" type="search" name="q" placeholder="Fazer uma busca no site&hellip;" />
-      <input type="hidden" name="site" value="{{ site.url | remove: 'https://' | remove: 'http://' | remove: '/' }}" />
-      <button class="submit_button" type="submit">
-        Pesquisar
-      </button>
-    </form>
-
-    {% if site.social.links %}
-    <nav class="social_links">
-      {% for link in site.social.links %}
-      {%- assign service = link | remove: "https://" | split: "/" | first | split: "." | first -%}
-      <a class="link" href="{{ link }}" rel="nofollow">
-        {%- include icons/{{ service }}.svg -%}
-      </a>
-      {% endfor %}
-    </nav>
+        {% if site.social.links %}
+          <div class="social_links">
+            {% for link in site.social.links %}
+            {%- assign service = link | remove: "https://" | split: "/" | first | split: "." | first -%}
+            <a class="link" href="{{ link }}" rel="nofollow">
+              {%- include icons/{{ service }}.svg -%}
+            </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </nav>
     {% endif %}
+
   </footer>
 </div>
