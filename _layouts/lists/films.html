@@ -53,16 +53,16 @@ layout: default
       <h1 class="page_title">
         {{ page.title }}
       </h1>
+
+      <nav class="films_navigation" data-films-menu>
+        {{ films_nav }}
+      </nav>
     </header>
   {%- endif -%}
 
   <div class="contained page_content">
     {{ content }}
   </div>
-
-  <nav class="films_navigation" data-films-menu>
-    {{ films_nav }}
-  </nav>
 
   {{ films_sections }}
 </article>
