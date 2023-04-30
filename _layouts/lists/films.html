@@ -46,37 +46,52 @@ layout: default
   {%- endunless -%}
 {% endfor %}
 
-<article class="page">
+<article class="page films_page">
 
-  {%- if page.title and page.title != "" -%}
-    <header class="contained page_header">
+  {%- assign film_categories = "Longas-metragens | Séries | Curtas-metragens | Médias-metragens | Origens | Distribuição" -%}
+  {%- assign film_categories = film_categories | split: " | " -%}
+
+  <header class="contained page_header">
+    {%- if page.title and page.title != "" -%}
       <h1 class="page_title">
         {{ page.title }}
       </h1>
+    {%- endif -%}
 
-      <nav class="films_navigation" data-films-menu>
-        {{ films_nav }}
-      </nav>
-    </header>
-  {%- endif -%}
+    <nav class="films_navigation">
+      {%- for category in film_categories -%}
+        <a href="{{ category | slugify | prepend: '#' }}">{{ category | split: "-" | first}}</a>
+      {%- endfor -%}
+    </nav>
+  </header>
 
   <div class="contained page_content">
     {{ content }}
   </div>
 
-  {{ films_sections }}
+  {%- for category in film_categories -%}
+    <section class="contained films_section" id="{{ category | slugify }}">
+      <h2 class="section_title">{{ category }}</h2>
+
+      {%- assign films = site.projects | where: "category", category -%}
+
+      <ul class="films_list">
+        {%- for film in films -%}
+
+          <li class="list_item">
+            <a class="film" href="{{ film.url | relative_url }}" rel="bookmark">
+
+              {%- if film.image and film.image != "" -%}
+                <img class="film_image" src="{{ film.image }}" alt="" role="presentation" />
+              {%- endif -%}
+
+              <strong class="film_title">{{ film.title }}</strong>
+            </a>
+          </li>
+
+        {%- endfor -%}
+      </ul>
+
+    </section>
+  {%- endfor -%}
 </article>
-
-<script>
-document.onscroll = () => {
-  const filmsMenu = document.querySelector('[data-films-menu]')
-
-  const filmsMenuOffset = filmsMenu.getBoundingClientRect().top;
-
-  if (filmsMenuOffset <= 5) {
-    filmsMenu.classList.add('_sticked')
-  } else {
-    filmsMenu.classList.remove('_sticked')
-  }
-}
-</script>
