@@ -13,7 +13,6 @@
       "script" : "#!\/bin\/sh\nbundle exec jekyll serve --livereload"
     }
   },
-  "buildBeforeRunning" : true,
   "environment" : {
     "JEKYLL_ENV" : "development"
   },

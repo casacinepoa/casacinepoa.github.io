@@ -1,0 +1,17 @@
+<article class="post_item">
+  {%- include post/meta.html -%}
+
+  <h3 class="title">
+    <a href="{{ post.url | relative_url }}" rel="bookmark">
+      {{ post.title }}
+    </a>
+  </h3>
+
+  <div class="excerpt">
+    <p>{{ post.excerpt | truncate: 120, "…" }}</p>
+  </div>
+
+  <a class="continue_reading" href="{{ post.url | relative_url }}" rel="bookmark">
+    Leia mais
+  </a>
+</article>
