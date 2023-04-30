@@ -1,0 +1,26 @@
+
+// Posts
+.post_meta {
+  margin-bottom: calc($spacing-unit / 2);
+
+  .meta_info {
+    color: $color-details;
+    font-family: $content-font-family;
+
+    &:not(:first-child) {
+      &::before {
+        content: " | ";
+      }
+    }
+  }
+
+  a.meta_info {
+    text-decoration: none;
+    transform: color 150ms ease;
+
+    &:hover,
+    &:focus {
+      color: $color-accent;
+    }
+  }
+}
