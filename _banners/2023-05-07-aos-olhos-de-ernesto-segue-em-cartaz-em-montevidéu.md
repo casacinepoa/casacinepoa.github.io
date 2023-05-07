@@ -1,6 +1,6 @@
 ---
 date: 2023-05-07 04:26:40
-image: /uploads/ernesto-uru.jpg
+image: /uploads/35-rums.jpg
 title: AOS OLHOS DE ERNESTO segue em cartaz em Montevidéu
 link: https://cinemateca.org.uy/peliculas/1000
 ---
