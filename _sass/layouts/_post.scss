@@ -44,3 +44,31 @@
     }
   }
 }
+
+.post {
+  .post_header {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.post_content {
+  font-family: $content-font-family;
+  max-width: 850px;
+}
+
+.blog_container {
+  display: flex;
+  flex-flow: column nowrap;
+  gap: $spacing-unit;
+  margin-bottom: calc($spacing-unit * 2);
+
+  @include media-query($on-laptop) {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: calc($spacing-unit * 2);
+  }
+
+  .post_content {
+    max-width: 850px;
+  }
+}

@@ -15,13 +15,11 @@ layout: default
     {%- endunless -%}
   </header>
 
-  <div class="post_content">
-    {{ content }}
+  <div class="blog_container">
+    <div class="post_content">
+      {{ content }}
+    </div>
+
+    {%- include archive/sidebar.html -%}
   </div>
-
-  {%- unless post.tags.size == 0 -%}
-    {%- include post/footer.html -%}
-  {%- endunless -%}
-
-  {%- include post/navigation.html -%}
 </article>
