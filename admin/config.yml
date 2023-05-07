@@ -3,7 +3,7 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-# local_backend: true
+local_backend: true
 media_folder: "uploads"
 # publish_mode: editorial_workflow
 collections:
@@ -14,7 +14,7 @@ collections:
     sort: "date:desc"
     create: true
     delete: true
-    publish: false
+    publish: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     description: >-
       Banners exibidos no início e no fim da página inicial. Apenas os dois banners mais recentes serão exibidos.
@@ -200,7 +200,7 @@ collections:
           - label: Textos sobre Cinema
             value: Textos sobre Cinema
           - label: Roteiros
-            value: roteiros
+            value: Roteiros
       - label: Date
         name: date
         widget: datetime
