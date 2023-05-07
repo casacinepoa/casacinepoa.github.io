@@ -38,4 +38,10 @@
       }
     }
   }
+
+  .blog_container {
+    @include media-query($on-laptop) {
+      grid-template-columns: 2fr 350px;
+    }
+  }
 }

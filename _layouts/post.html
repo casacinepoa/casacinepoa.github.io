@@ -6,13 +6,13 @@ layout: default
 
 <article class="contained post">
   <header class="post_header">
-    {%- include post/meta.html -%}
-
     {%- unless page.title == "" -%}
       <h1 class="post_title">
         {{ page.title }}
       </h1>
     {%- endunless -%}
+
+    {%- include post/meta.html -%}
   </header>
 
   <div class="blog_container">

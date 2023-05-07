@@ -1,6 +1,6 @@
 ---
 date: 2004-04-08
-layout: page
+layout: post
 title: Meu Tio Matou um Cara - Roteiro
 category: Roteiros
 ---

@@ -22,7 +22,7 @@ layout: default
         <ul class="subpages_list">
           {%- for page in page.subpages -%}
             <li class="subpage_link">
-              <a href="{{ page.url }}">
+              <a href="{{ page.url }}" {% if page.current %}class="current_link"{% endif %}>
                 {{ page.title }}
               </a>
             </li>

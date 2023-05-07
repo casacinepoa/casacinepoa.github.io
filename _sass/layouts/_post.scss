@@ -64,7 +64,7 @@
 
   @include media-query($on-laptop) {
     display: grid;
-    grid-template-columns: 2fr 350px;
+    grid-template-columns: 3fr 1fr;
     gap: calc($spacing-unit * 2);
   }
 

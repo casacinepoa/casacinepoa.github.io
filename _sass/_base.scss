@@ -50,7 +50,8 @@ a {
   transition: color 150ms ease;
 }
 
-.post .post_content {
+.post .post_content,
+body.page .page_content {
   a {
     color: $color-accent;
 
