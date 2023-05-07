@@ -1,0 +1,41 @@
+.contact_page {
+
+  h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+  }
+
+  p {
+    font-family: $content-font-family;
+    font-size: 1rem;
+
+    a {
+      color: $color-accent;
+
+      &:hover,
+      &:focus {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .social_links {
+    margin-top: $spacing-unit;
+    display: flex;
+    flex-flow: row nowrap;
+    gap: $spacing-unit;
+
+    .link {
+      flex: 0 0 $spacing-unit;
+
+      &:hover,
+      &:focus {
+        color: $color-accent;
+      }
+
+      svg {
+        fill: currentColor;
+      }
+    }
+  }
+}

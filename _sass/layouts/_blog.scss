@@ -45,8 +45,6 @@
 
     &.archive_link {
       text-transform: none;
-      margin-left: auto;
-      margin-right: auto;
 
       strong {
         display: block;
@@ -110,9 +108,11 @@
   display: flex;
   flex-flow: column nowrap;
   gap: $spacing-unit;
+  flex-basis: 350px;
 
   .widget_title {
     text-transform: uppercase;
+    font-size: 1.75rem;
 
     &::before {
       content: "// ";

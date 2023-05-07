@@ -167,8 +167,12 @@ h6 {
   }
 }
 
-// Media
+// Code and pre-formatted text
+pre, code {
+  font-family: Courier, "Courier New", monospace;
+}
 
+// Media
 img + em {
   display: block;
   font-family: $base-font-family;
