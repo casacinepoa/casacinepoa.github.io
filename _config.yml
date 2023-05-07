@@ -13,6 +13,7 @@ logo: /assets/img/logo.jpeg
 
 archive_path: "/blog/arquivo/"
 news_archive_path: "/noticias/arquivo/"
+essays_archive_path: "/textos/arquivo"
 
 # Collections
 collections:
