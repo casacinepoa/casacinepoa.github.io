@@ -144,23 +144,6 @@
         display: none;
       }
     }
-
-    .continue_reading {
-      margin-top: auto;
-      color: $color-details;
-      font-family: $content-font-family;
-      text-transform: uppercase;
-
-      &:hover,
-      &:focus {
-        color: $color-accent;
-      }
-
-      &::before {
-        color: $color-accent;
-        content: "+ ";
-      }
-    }
   }
 
   .archive_link {
@@ -182,5 +165,22 @@
     @include media-query($on-laptop) {
       margin-top: calc($spacing-unit * 1.5);
     }
+  }
+}
+
+.continue_reading {
+  margin-top: auto;
+  color: $color-details;
+  font-family: $content-font-family;
+  text-transform: uppercase;
+
+  &:hover,
+  &:focus {
+    color: $color-accent;
+  }
+
+  &::before {
+    color: $color-accent;
+    content: "+ ";
   }
 }

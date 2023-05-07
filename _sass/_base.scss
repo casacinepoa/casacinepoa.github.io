@@ -26,10 +26,14 @@ body {
   -webkit-text-size-adjust: 100%;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+  overflow-wrap: break-word;
+  min-height: 100vh;
+}
+
+#site {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  overflow-wrap: break-word;
 }
 
 h1, h2, h3, h4, h5, h6,

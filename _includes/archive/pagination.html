@@ -2,43 +2,29 @@
   {% if paginator.total_pages > 1 %}
     {%- if paginator.previous_page -%}
       <a class="nav_link prev" href="{{ paginator.previous_page_path }}" rel="prev">
-        &larr; Posts mais recentes
+        Posts mais recentes
       </a>
     {%- endif -%}
 
     {%- if paginator.next_page -%}
       <a class="nav_link next" href="{{ paginator.next_page_path }}" rel="next">
-        Posts anteriores &rarr;
+        Posts anteriores
       </a>
     {%- endif -%}
-
-    {% if site.archive_news_path or site.archive_path %}
-      {%- if include.news and site.archive_news_path -%}
-        <a class="nav_link archives" href="{{ site.news_archive_path | relative_url }}">
-          ou visite <strong>o arquivo completo</strong>
-        </a>
-      {%- else -%}
-        <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
-          ou visite <strong>o arquivo completo</strong>
-        </a>
-      {% endif %}
-    {% endif %}
-  {% else %}
-
-    {% if site.archive_news_path or site.archive_path %}
-      {%- if include.news and site.news_archive_path -%}
-        <a class="nav_link archives" href="{{ site.news_archive_path | relative_url }}">
-         Visite o
-         <strong>Arquivo de Notícias</strong>
-        </a>
-      {%- else -%}
-      <a class="nav_link archives" href="{{ site.archive_path | relative_url }}">
-        Explore o
-        <strong>Arquivo do Blog</strong>
-      </a>
-    {% endif %}
-
-  {% endif %}
 {% endif %}
+
+{%- if page.pagination.collection == "news" or page.collection == "news" -%}
+  <a class="nav_link archive_link" href="{{ site.news_archive_path | relative_url }}">
+    Visite o <strong>Arquivo de Notícias</strong>
+  </a>
+{%- elsif page.pagination.collection == "essays" or page.collection == "essays" or page.layout == "archive" -%}
+  <a class="nav_link archive_link" href="{{ site.essays_archive_path | relative_url }}">
+    Visite o <strong>Arquivo de Textos</strong>
+  </a>
+{%- elsif page.pagination.collection == "posts" or page.collection == "posts" or page.layout == "author" -%}
+  <a class="nav_link archive_link" href="{{ site.archive_path | relative_url }}">
+    Visite o <strong>Arquivo do Blog</strong>
+  </a>
+{%- endif -%}
 </nav>
 

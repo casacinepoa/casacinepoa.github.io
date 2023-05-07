@@ -2,13 +2,18 @@
 layout: page
 ---
 
+{%- if page.collection -%}
+  {% assign collection = site[page.collection] | reverse %}
+{% else %}
+  {% assign collection = site.posts %}
+{% endif %}
 {{ content }}
 
-{%- for post in site.posts -%}
+{%- for post in collection -%}
   {%- assign current_date = post.date | date: "%Y" -%}
 
   {%- if current_date != backup_date -%}
-    <h2>{{ current_date }}</h2>
+    <h2 id="{{ current_date }}">{{ current_date }}</h2>
 
     {%- assign backup_date = current_date -%}
   {%- endif -%}

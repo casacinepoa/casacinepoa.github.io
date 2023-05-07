@@ -1,13 +1,15 @@
 ---
 layout: default
 show_tags: false
-show_content: false
+show_content: "excerpt"
 ---
+{% assign author = page.pagination.author_data %}
+
 <article class="contained blog">
 
     <header class="page_header">
       <h1 class="page_title">
-        {{ page.title | capitalize }}
+        {{ author.name }}
       </h1>
     </header>
 

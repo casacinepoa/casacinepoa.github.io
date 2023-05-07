@@ -1,0 +1,141 @@
+.blog_navigation {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  gap: $spacing-unit;
+
+  @include media-query($on-laptop) {
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav_link {
+    text-transform: uppercase;
+    font-family: $content-font-family;
+    text-align: center;
+
+    &:hover,
+    &:focus {
+      color: $color-accent;
+    }
+
+    &.next {
+      &::after {
+        content: " >>";
+        color: $color-accent;
+      }
+
+      @include media-query($on-laptop) {
+        order: 3;
+      }
+    }
+
+    &.prev {
+      &::before {
+        content: "<< ";
+        color: $color-accent;
+      }
+
+      @include media-query($on-laptop) {
+        order: 1;
+      }
+    }
+
+    &.archive_link {
+      text-transform: none;
+
+      strong {
+        display: block;
+        color: $color-accent;
+        text-transform: uppercase;
+      }
+
+      @include media-query($on-laptop) {
+        order: 2;
+      }
+    }
+  }
+}
+
+.blog {
+  .page_content {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: $spacing-unit;
+    margin-bottom: calc($spacing-unit * 2);
+
+    @include media-query($on-laptop) {
+      display: grid;
+      grid-template-columns: 3fr 1fr;
+      gap: calc($spacing-unit * 2);
+    }
+
+    .blog_list {
+      max-width: 850px;
+
+      .blog_post {
+        margin-bottom: 2rem;
+
+        .post_title {
+          a {
+            &:hover,
+            &:focus {
+              color: $color-accent;
+            }
+          }
+        }
+
+        .post_content {
+          font-family: $content-font-family;
+
+          & > p {
+            margin-bottom: 0;
+          }
+        }
+      }
+
+      .continue_reading {
+        display: inline-block;
+        margin-top: 1rem;
+      }
+    }
+  }
+
+  .blog_sidebar {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: $spacing-unit;
+
+    .widget_title {
+      text-transform: uppercase;
+
+      &::before {
+        content: "// ";
+        color: $color-accent;
+      }
+    }
+
+    .widget_content {
+      font-size: 1.25rem;
+      ul {
+        list-style: none;
+        margin-left: 0;
+
+        li {
+          margin-top: calc($spacing-unit / 4);
+          margin-bottom: calc($spacing-unit / 4);
+
+
+          a {
+            &:hover,
+            &:focus {
+              color: $color-accent;
+            }
+          }
+        }
+      }
+    }
+  }
+}

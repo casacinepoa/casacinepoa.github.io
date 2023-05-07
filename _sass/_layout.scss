@@ -1,3 +1,8 @@
+html,
+body {
+  min-height: 100vh;
+}
+
 .contained,
 .site_header,
 .site_footer {
@@ -74,9 +79,13 @@
     }
 
     &:checked~.site_navigation {
-      height: 100px;
+      height: 120px;
       opacity: 1;
       visibility: visible;
+
+      @media screen and (max-width: 360px) {
+        height: 150px;
+      }
     }
   }
 }
@@ -178,6 +187,9 @@
 /*
   Site Footer
 */
+.site_content {
+  margin-bottom: auto;
+}
 
 .site_footer {
   padding-top: $spacing-unit;
@@ -269,5 +281,8 @@
 
 @import "layouts/home";
 @import "layouts/films";
+@import "layouts/page";
 @import "layouts/post";
 @import "layouts/project";
+@import "layouts/projects";
+@import "layouts/blog";

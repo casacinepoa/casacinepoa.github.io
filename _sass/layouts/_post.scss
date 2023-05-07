@@ -1,5 +1,25 @@
 
 // Posts
+.lists-posts {
+
+  h2 {
+    margin-top: calc($spacing-unit * 2);
+
+    &::before {
+      content: "// ";
+      color: $color-accent;
+    }
+  }
+
+  .post {
+    margin-bottom: $spacing-unit;
+
+    strong {
+      font-weight: 300;
+      font-size: 1.5rem;
+    }
+  }
+}
 .post_meta {
   margin-bottom: calc($spacing-unit / 2);
 

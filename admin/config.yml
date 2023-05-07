@@ -38,11 +38,6 @@ collections:
       - label: URL de destino
         name: link
         widget: string
-        pattern:
-          [
-            '/[-a-zA-Z0-9@:%_\+.~#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&//=]*)?/gi',
-            "Precisa ser uma URL",
-          ]
         required: true
   - name: post
     label: Posts
@@ -198,14 +193,18 @@ collections:
         name: author
         widget: hidden
         default: casa
+      - label: Categoria
+        name: category
+        widget: select
+        options:
+          - label: Textos sobre Cinema
+            value: Textos sobre Cinema
+          - label: Roteiros
+            value: roteiros
       - label: Date
         name: date
         widget: datetime
         format: "YYYY-MM-DD HH:mm:ss"
-      - label: Tags
-        name: tags
-        widget: list
-        required: false
       - label: Caminho original
         name: original_path
         widget: string

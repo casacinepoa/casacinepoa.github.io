@@ -1,0 +1,50 @@
+.projects_list {
+  display: flex;
+  flex-flow: column nowrap;
+  list-style: none;
+  margin-left: 0;
+  gap: calc($spacing-unit * 2);
+  margin-bottom: auto;
+
+  @include media-query($on-laptop) {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .project_item {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: $spacing-unit;
+
+    @include media-query($on-laptop) {
+      flex-flow: row nowrap;
+    }
+
+    .project_image {
+      align-self: center;
+
+      @include media-query($on-laptop) {
+        align-self: flex-start;
+        max-width: 190px;
+      }
+    }
+  }
+
+  .project_title {
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 1.75rem;
+  }
+
+  .project_specs,
+  .project_synopsis {
+    font-family: $content-font-family;
+  }
+
+  .project_specs {
+    list-style: none;
+    margin-left: 0;
+    color: $color-details;
+    margin-bottom: 2rem;
+  }
+}
