@@ -13,6 +13,7 @@ synopsis: Chico, adolescente em férias na "maior e pior praia do mundo",
   ele vai reencontrá-la. Chico quer conversar sobre "aquela noite", mas Roza
   conta que está grávida. Até o próximo verão, ela ainda vai entrar e sair
   muitas vezes da vida dele.
+original_path: /os-filmes/produção/longas/houve-uma-vez-dois-verões.html
 ---
 ## Créditos
 
