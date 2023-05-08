@@ -82,10 +82,10 @@ Victória Mazzini (Violeta)
 "O AMOR VÊ LONGE: O primeiro longa-metragem do principal diretor brasileiro de curtas é despretensioso mas sábio. (...) Os atores se destacam pela autenticidade e as imagens captadas com câmera digital servem ao tom poético. Mas o ponto alto está na generosidade com os personagens. Furtado não esbarra em posturas moralistas, não julga mocinhas de caráter questionável e foge da vulgaridade das comédias juvenis americanas. (...) A sabedoria do diretor está em mostrar que, em vez de cego, o amor enxerga essências por trás das ações. Vê longe o suficiente para detectar beleza em seres com atitudes condenáveis pelo senso comum."\
 (Cléber Eduardo, Revista ÉPOCA, 02/09/2002)
 
-***
+- - -
 
 ## Mais sobre
 
-* Roteiro
+* [Roteiro](/textos/houve-uma-vez-dois-verões-roteiro/)
 * Texto final
 * [Música](/uploads/houve_uma_vez-.mp3)
