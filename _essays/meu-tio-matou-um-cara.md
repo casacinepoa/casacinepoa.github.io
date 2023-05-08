@@ -1,8 +1,9 @@
 ---
-date: 2004-04-08
 layout: post
-title: Meu Tio Matou um Cara - Roteiro
+title: Meu Tio Matou um Cara — Roteiro
 category: Roteiros
+date: 2004-04-08
+original_path: /os-filmes/roteiros/meu-tio-matou-um-cara-texto-inicial.html
 ---
 
 ```
