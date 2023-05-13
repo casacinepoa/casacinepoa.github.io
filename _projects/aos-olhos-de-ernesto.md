@@ -2,6 +2,7 @@
 tech_specs:
   - (HD, 122 min, cor, 2019)
   - (janela 2.35, som digital Dolby)
+category: Longas-metragens
 where_to_watch:
   - title: Globoplay + Telecine
     url: https://globoplay.globo.com/aos-olhos-de-ernesto/t/LLp2hckhFK/
@@ -63,7 +64,7 @@ synopsis: >-
 
   MÚSICA ("Por que cantamos", de Mario Benedetti, melodia e arranjo de Leo Henkin; voz: Rossana Taddei)
 title: Aos Olhos de Ernesto
-category: Longas-metragens
 image: /uploads/aode-imgr_0.jpg
+image_credits: "Foto por Fábio Rebelo: Jorge Bolani e Gabriela Poester"
 ---
 Ernesto, fotógrafo aposentado e viúvo, enfrentando as limitações da velhice como a solidão e a crescente perda da visão, encontra Bia, uma jovem e irresponsável cuidadora de cães, que atropela sua vida e coloca em risco seu cotidiano de eterno estrangeiro.
