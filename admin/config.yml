@@ -154,7 +154,7 @@ collections:
         required: false
         widget: string
         hint: >-
-          O caminho da URL dessa página. Vai ser acessável em `www.casacinepoa.com.br/[LINK PERMANENTE]/
+          O caminho da URL dessa página. Vai ser acessável em `casacinepoa.com.br/[LINK PERMANENTE]/`.
       - label: Resumo
         name: excerpt
         widget: text
