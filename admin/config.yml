@@ -149,6 +149,12 @@ collections:
       - label: Conteúdo
         name: body
         widget: markdown
+      - label: Link permanente
+        name: permalink
+        required: false
+        widget: string
+        hint: >-
+          O caminho da URL dessa página. Vai ser acessável em `www.casacinepoa.com.br/[LINK PERMANENTE]/
       - label: Resumo
         name: excerpt
         widget: text
