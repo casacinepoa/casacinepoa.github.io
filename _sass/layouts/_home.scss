@@ -139,10 +139,6 @@
 
     .excerpt {
       font-family: $content-font-family;
-
-      @include media-query($on-laptop) {
-        display: none;
-      }
     }
   }
 
