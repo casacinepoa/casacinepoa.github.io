@@ -34,6 +34,9 @@ details:
       e [Galo de Briga Filmes](https://www.galodebrigafilmes.com.br/)\
 
       **CoProdução:** GloboFilmes
+
+
+      [CRÉDITOS COMPLETOS](http://www.casacinepoa.com.br/os-filmes/longas/cidades-fantasmas-créditos)
 original_path: /os-filmes/produção/documentários/cidades-fantasmas.html
 synopsis: Deserto chileno, Amazônia brasileira, Andes colombianos e Pampa
   argentino. Quatro destinos na América Latina, onde as ruínas e o silêncio são
