@@ -105,8 +105,10 @@ details:
       (Cléber Eduardo, Revista ÉPOCA, 02/09/2002)
   - title: Mais sobre
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-inicial.html)
+      * [Créditos
+      completos](https://www.casacinepoa.com.br/os-filmes/créditos/houve-uma-vez-dois-verões.html)
+
+      * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-inicial.html)
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-final.html)
 
