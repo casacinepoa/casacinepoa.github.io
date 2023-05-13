@@ -1,0 +1,26 @@
+---
+title: Uma história de verdade
+tech_specs:
+  - (Betacam, 58 min, cor, 1998)
+  - (janela 1.33, som magnético mono)
+category: Médias-metragens
+image: /uploads/histver-imgr.jpg
+image_credits: "Foto divulgação: Olívio Dutra"
+details:
+  - title: Créditos
+    content: |-
+      **Direção**: Angela Pires e Ana Luiza Azevedo
+
+      **Produção Executiva**: Luciana Tomasi e Nora Goulart\
+      **Roteiro**: Carlos Gerbase e Jorge Furtado\
+      **Direção de Fotografia**: Roberto Henkin e Alex Sernambi\
+      **Direção de Arte**: Fiapo Barth\
+      **Direção de Produção**: Débora Peters\
+      **Montagem**: Giba Assis Brasil
+
+      **Uma Produção do Partido dos Trabalhadores/RS**
+
+      **Realização Casa de Cinema PoA**
+original_path: /os-filmes/realização/vídeos/uma-história-de-verdade.html
+---
+Como o PT gaúcho chegou ao Governo do Estado. Os melhores momentos da campanha vitoriosa de Olívio Dutra e da Frente Popular gaúcha em 1998, em direção ao Palácio Piratini. A história do Partido no estado, com imagens de todas as campanhas desde 1988.

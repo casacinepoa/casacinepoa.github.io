@@ -1,0 +1,37 @@
+---
+title: A família Sujo
+tech_specs:
+  - (DV, 31 min, cor, 2006)
+  - (janela 1.33, som digital stereo)
+category: Médias-metragens
+image: /uploads/famsuj-imgr.jpg
+image_credits: "Foto de Juliano Lopes: Vika Schabbach, Raquel Grabauska e Gustavo Finkler"
+details:
+  - title: Créditos
+    content: |-
+      **Direção:** Ana Luiza Azevedo
+
+      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
+      **Texto:** Gustavo Finkler\
+      **Músicas:** Gustavo Finkler\
+      **Direção do Espetáculo**: Mirna Spritzer e Raquel Grabauska\
+      **Direção de Fotografia:** Juliano Lopes\
+      **Montagem:** Giba Assis Brasil
+
+      **Uma produção da Casa de Cinema PoA**
+
+      **Elenco:**\
+      GRUPO CUIDADO QUE MANCHA\
+      Gustavo Finkler\
+      Raquel Grabauska\
+      Vikka Schabbach
+  - title: Mais sobre
+    content: >-
+      * [Créditos
+      completos](https://www.casacinepoa.com.br/os-filmes/créditos/família-sujo.html)
+
+      * [Letra das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/família-sujo/letras-das-músicas.html)
+original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/família-sujo.html
+---
+A história de uma família que não gosta muito de limpeza. Sérgio Sujo, o pai, e Sula Sujo, a mãe, vivem sem maiores problemas, sem banho e sem muitos amigos. Mas a confusão começa quando a filha do casal, Sílvia Sujo, desaparece no meio da sujeira.\
+Vídeo integrante do DVD "Cuidado que Mancha".

@@ -1,0 +1,40 @@
+---
+title: A mulher gigante
+tech_specs:
+  - (DV, 40 min, cor, 2006)
+  - (janela 1.33, som digital stereo)
+category: Médias-metragens
+image: /uploads/mulhg-imgr.jpg
+image_credits: "Foto de Juliano Lopes: a Mulher Gigante e Gustavo Finkler"
+details:
+  - title: Créditos
+    content: |-
+      **Direção:** Ana Luiza Azevedo
+
+      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
+      **Músicas:** Gustavo Finkler e Jackson Zambelli\
+      **Direção do Espetáculo**: Raquel Grabauska\
+      **Direção de Fotografia:** Juliano Lopes\
+      **Montagem:** Giba Assis Brasil
+
+      **Uma produção da Casa de Cinema PoA**
+
+      **Elenco:**\
+      GRUPO CUIDADO QUE MANCHA\
+      Gustavo Finkler (voz e violão)\
+      Carla Vizeu (voz)\
+      Mateus Mapa (baixo)\
+      Sérgio Olivé (teclado)\
+      Roberto Peres "Magrão" (bateria)\
+      Raquel Grabauska (manipulação de bonecos)
+  - title: Mais sobre
+    content: >-
+      * [Créditos
+      completos](https://www.casacinepoa.com.br/os-filmes/créditos/mulher-gigante.html)
+
+      * [Letras das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/mulher-gigante/letras-das-músicas.html)
+original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/mulher-gigante.html
+---
+Um espetáculo musical em que cada canção apresenta novos e divertidos personagens. Como Herculano, o príncipe mais chato do mundo; o Tião Zoreia, que escuta até pensamento; e a Mulher Gigante, que não sabe o que é patins - ela usa um ônibus em cada pé.
+
+Vídeo integrante do DVD "Cuidado que Mancha".

@@ -1,0 +1,38 @@
+---
+title: O natal de Natanael
+tech_specs:
+  - (DV, 32 min, cor, 2006)
+  - (janela 1.33, som digital stereo)
+category: Médias-metragens
+image: /uploads/natal-imgr.jpg
+image_credits: "Foto de Juliano Lopes: Raquel Grabauska, Gustavo Finkler e Vika Schabbach"
+details:
+  - title: Créditos
+    content: |-
+      **Direção:** Ana Luiza Azevedo
+
+      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
+      **Texto:** Gustavo Finkler e Raquel Grabauska\
+      **Músicas:** Gustavo Finkler\
+      **Direção do Espetáculo**: Raquel Grabauska\
+      **Direção de Fotografia:** Juliano Lopes\
+      **Montagem:** Giba Assis Brasil
+
+      **Uma produção da Casa de Cinema PoA**
+
+      **Elenco:**\
+      GRUPO CUIDADO QUE MANCHA\
+      Gustavo Finkler\
+      Raquel Grabauska\
+      Vikka Schabbach
+  - title: Mais sobre
+    content: >-
+      * [Créditos
+      completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-natal-de-natanael.html)
+
+      * [Letras das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/o-natal-de-natanael/letras-das-músicas.html)
+original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/o-natal-de-natanael.html
+---
+Todo Natal, acontece alguma coisa e o pai de Natanael tem que sair às pressas de casa. O menino então pede ao Papai Noel um único presente: que seu pai passe a noite de Natal com a família. E este é o começo da aventura mais emocionante da vida de Natanael.
+
+Vídeo integrante do DVD "Cuidado que Mancha".
