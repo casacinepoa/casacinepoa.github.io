@@ -65,7 +65,12 @@ body.page .page_content {
 // Lists
 
 ol, li {
-  list-style-position: inside;
+  list-style-position: outside;
+}
+
+li {
+  margin-top: calc($spacing-unit / 2);
+  margin-bottom: calc($spacing-unit / 2);
 }
 
 ol, ul {
