@@ -48,7 +48,12 @@ details:
       **Música:**\
 
       ("Beat Acelerado", de Yann Lao, Vicente França e Alec Haiat - grupo Metrô; arranjo de Leo Henkin; voz: Luiza Caspary)
+<<<<<<< HEAD
   - title: Prêmios
+=======
+    title: Créditos
+  - string: Prêmios
+>>>>>>> main
     content: >-
       * 2º Festival de Paulínia, 2009: Melhor filme (prêmio da crítica), Melhor
       direção, Melhor fotografia, Melhor direção de arte, Melhor música, Melhor
@@ -63,7 +68,12 @@ details:
       * Melhor filme brasileiro de 2010 pela Associação Paulista dos Críticos de Arte (APCA).
 
       * 2º CINECITA - Festival Internacional de Cinema e TV Infantil e Juvenil - Bogotá, Colômbia - maio/2012: Melhor longa-metragem juvenil.
+<<<<<<< HEAD
   - title: Crítica
+=======
+    title: Prêmios
+  - string: Crítica
+>>>>>>> main
     content: >-
       "ANTES QUE O MUNDO ACABE trata de afeto, família, globalização, mas
       principalmente de responsabilidade. Graves questões éticas são colocadas
@@ -105,7 +115,12 @@ details:
       (Anna Virginia Balloussier, Rolling Stone, 16/07/2009)\
 
       <http://www.rollingstone.com.br/secoes/novas/noticias/5792/>
+<<<<<<< HEAD
   - title: Veja mais
+=======
+    title: Crítica
+  - string: Veja mais
+>>>>>>> main
     content: >-
       * [Editora Projeto](http://www.editoraprojeto.com.br/)
 
@@ -120,6 +135,7 @@ details:
       * [Como se faz um filme](https://www.casacinepoa.com.br/antes-que-o-mundo-acabe/como-se-faz-um-filme.html)
 
       * [Veja as críticas sobre o filme](https://www.casacinepoa.com.br/comment/reply/1406/scripts.js.html)
+    title: Veja mais
 original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
 title: Antes que o mundo acabe
 image: /uploads/aqma-imgr.jpg
