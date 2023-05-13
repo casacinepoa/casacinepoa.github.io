@@ -14,7 +14,7 @@ collections:
     sort: "date:desc"
     create: true
     delete: true
-    publish: false
+    publish: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     description: >-
       Banners exibidos no início e no fim da página inicial. Apenas os dois banners mais recentes serão exibidos.
@@ -38,11 +38,6 @@ collections:
       - label: URL de destino
         name: link
         widget: string
-        pattern:
-          [
-            '/[-a-zA-Z0-9@:%_\+.~#?&//=]{2,256}\.[a-z]{2,4}\b(\/[-a-zA-Z0-9@:%_\+.~#?&//=]*)?/gi',
-            "Precisa ser uma URL",
-          ]
         required: true
   - name: post
     label: Posts
@@ -124,6 +119,63 @@ collections:
         required: false
         hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+  - name: page
+    label: Páginas
+    label_singular: Página
+    folder: _pages
+    sort: "title:desc"
+    create: true
+    delete: true
+    extension: md
+    slug: "{{slug}}"
+    preview_path: "/{{slug}}/"
+    summary: >-
+      {{title}}
+    description: >-
+      Páginas de conteúdo estático.
+    sortable_fields:
+      - title
+    view_groups:
+      - label: Rascunhos
+        field: draft
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: "page"
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: Resumo
+        name: excerpt
+        widget: text
+        required: false
+        hint: >-
+          Exibido em resultados de busca. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 160 caracteres para exibir o resumo inteiro.
+      - label: Menu lateral
+        name: supages
+        widget: list
+        label_singular: "item"
+        required: false
+        fields:
+          - label: Título
+            name: title
+            widget: string
+          - label: URL
+            name: url
+            widget: string
+          - label: Página atual?
+            name: current
+            widget: boolean
+      - label: Caminho original
+        name: original_path
+        widget: string
+        required: false
+        hint: >-
+          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: news
     label: Notícias
     label_singular: Notícia
@@ -198,6 +250,14 @@ collections:
         name: author
         widget: hidden
         default: casa
+      - label: Categoria
+        name: category
+        widget: select
+        options:
+          - label: Textos sobre Cinema
+            value: Textos sobre Cinema
+          - label: Roteiros
+            value: Roteiros
       - label: Date
         name: date
         widget: datetime

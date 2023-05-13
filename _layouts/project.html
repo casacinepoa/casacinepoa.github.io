@@ -15,7 +15,9 @@ layout: default
         {%- endfor -%}
       </div>
     {%- endif -%}
+  </header>
 
+  <div class="project_main_content">
     {%- if page.trailer -%}
       {% assign video_id = page.trailer | split: "/" | last | split: "?" | first %}
 
@@ -33,24 +35,24 @@ layout: default
         {%- endif -%}
       </figure>
     {%- endif -%}
-  </header>
 
-  <div class="project_main_content">
-    <div class="project_synopsys">
-      {{ page.synopsis | markdownify }}
+    <div class="project_details">
+      {%- if page.where_to_watch and page.where_to_watch != "" and page.where_to_watch.size > 0 -%}
+        <aside class="where-to-watch">
+          <h2 class="where-to-watch_title">Onde Assistir</h2>
+
+          {%- for watch_link in page.where_to_watch -%}
+            <a class="where-to-watch_link" href="{{- watch_link.url -}}" target="_blank">
+              {{- watch_link.title -}}
+            </a>
+          {%- endfor -%}
+        </aside>
+      {%- endif -%}
+
+      <div class="project_synopsys">
+        {{ page.synopsis | markdownify }}
+      </div>
     </div>
-
-    {%- if page.where_to_watch -%}
-      <aside class="where-to-watch">
-        <h2 class="where-to-watch_title">Onde Assistir</h2>
-
-        {%- for watch_link in page.where_to_watch -%}
-          <a class="where-to-watch_link" href="{{- watch_link.url -}}" target="_blank">
-            {{- watch_link.title -}}
-          </a>
-        {%- endfor -%}
-      </aside>
-    {%- endif -%}
   </div>
 
   {%- assign page_content = content | replace: "<hr>", "<hr />" | replace: "<hr/>", "<hr />" -%}

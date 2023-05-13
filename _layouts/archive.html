@@ -1,17 +1,27 @@
 ---
-layout: page
+layout: default
 show_tags: false
 show_content: false
 ---
+<article class="contained blog">
 
-{{ content }}
+    <header class="page_header">
+      <h1 class="page_title">
+        {{ page.title | capitalize }}
+      </h1>
+    </header>
 
-<section class="archive">
-  {% for post in paginator.posts %}
-    {%- include archive/post.html -%}
-  {% endfor %}
+  <div class="page_content">
+    <div class="blog_list">
+      {% for post in paginator.posts %}
+        {%- include archive/post.html -%}
+      {% endfor %}
 
-  {%- if page.pagination_links != false -%}
-    {%- include archive/pagination.html -%}
-  {%- endif -%}
-</section>
+      {%- if page.pagination_links != false -%}
+        {%- include archive/pagination.html -%}
+      {%- endif -%}
+    </div>
+
+    {% include archive/sidebar.html %}
+  </div>
+</article>

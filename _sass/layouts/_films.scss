@@ -78,6 +78,7 @@
     grid-template-columns: 100%;
     gap: $spacing-unit;
     list-style: none;
+    margin-left: 0;
 
     @include media-query($on-laptop) {
       grid-template-columns: repeat(4, 1fr);

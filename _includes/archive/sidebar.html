@@ -1,0 +1,88 @@
+<aside class="blog_sidebar">
+  {%- if page.pagination.collection == "news" or page.collection == "news" -%}
+
+    {%- assign years = site.news | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
+
+    <div class="sidebar_widget">
+      <h4 class="widget_title">Arquivo</h4>
+
+      <div class="widget_content">
+        <ul class="archive_list">
+          {%- for year in years -%}
+            <li>
+              <a href="{{ year.name | prepend: '/noticias/arquivo/#' | relative_url }}">{{ year.name }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  {%- elsif page.pagination.collection == "posts" or page.collection == "posts" or page.layout == "author" -%}
+    {%- assign authors = site.posts | group_by: "author" -%}
+
+    <div class="sidebar_widget">
+      <h4 class="widget_title">Publicado por</h4>
+
+      <div class="widget_content">
+        <ul class="archive_list">
+          {%- for author_id in authors -%}
+            {%- assign author = site.data.authors[author_id.name] -%}
+
+            <li>
+              <a href="{{ author_id.name | prepend: "/blog/" | relative_url }}">{{ author.name }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+
+    {%- assign years = site.posts | group_by_exp: "item", "item.date | date: '%Y'" -%}
+
+    <div class="sidebar_widget">
+      <h4 class="widget_title">Arquivo</h4>
+
+      <div class="widget_content">
+        <ul class="archive_list">
+          {%- for year in years -%}
+            <li>
+              <a href="{{ year.name | prepend: '/blog/arquivo/#' | relative_url }}">{{ year.name }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  {%- else -%}
+    {%- assign categories = site.essays | group_by: "category" | reverse -%}
+
+    <div class="sidebar_widget">
+      <h4 class="widget_title">Categorias</h4>
+
+      <div class="widget_content">
+        <ul class="archive_list">
+          {%- for category in categories -%}
+
+            <li>
+              <a href="{{ category.name | slugify | prepend: "/textos/" | relative_url }}">{{ category.name }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+
+    {%- assign years = site.essays | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
+
+    <div class="sidebar_widget">
+      <h4 class="widget_title">Arquivo</h4>
+
+      <div class="widget_content">
+        <ul class="archive_list">
+          {%- for year in years -%}
+            <li>
+              <a href="{{ year.name | prepend: '/textos/arquivo/#' | relative_url }}">{{ year.name }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
+  {%- endif -%}
+</aside>
+

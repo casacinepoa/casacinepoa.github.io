@@ -17,13 +17,13 @@
         <p>
           {{ post.excerpt | default: post.content | strip_html | truncate: 240 }}
         </p>
+
+        <a class="continue_reading" href="{{ post.url | relative_url }}" rel="bookmark">
+          Leia mais
+        </a>
       {%- else -%}
         {{ post.content }}
       {%- endif -%}
     </div>
   {%- endunless -%}
-
-  {%- if page.show_tags and post.tags.size > 0 -%}
-    {%- include post/footer.html -%}
-  {%- endif -%}
 </article>

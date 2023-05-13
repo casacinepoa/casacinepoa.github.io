@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<section class="blog">
+<section class="blog_list">
   {%- for post in paginator.posts -%}
     {%- include archive/post.html -%}
   {%- endfor -%}
@@ -11,3 +11,5 @@ layout: page
     {%- include archive/pagination.html -%}
   {%- endif -%}
 </section>
+
+{%- include archive/sidebar.html -%}

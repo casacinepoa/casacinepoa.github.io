@@ -26,10 +26,14 @@ body {
   -webkit-text-size-adjust: 100%;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+  overflow-wrap: break-word;
+  min-height: 100vh;
+}
+
+#site {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  overflow-wrap: break-word;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -46,10 +50,67 @@ a {
   transition: color 150ms ease;
 }
 
+.post .post_content,
+body.page .page_content {
+  a {
+    color: $color-accent;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+}
+
 // Lists
 
 ol, li {
   list-style-position: inside;
+}
+
+ol, ul {
+  margin-left: $spacing-unit;
+}
+
+ul {
+  list-style: disc;
+
+  ul {
+    list-style: square;
+
+    ul {
+      list-style: circle;
+    }
+  }
+}
+
+ol {
+  list-style: numeric;
+
+  ol {
+    list-style: lower-alpha;
+
+    ol {
+      list-style: lower-roman;
+    }
+  }
+}
+
+// Horizontal rule
+hr {
+  display: block;
+  height: 1rem;
+  font-size: 1rem;
+  content: "—//—";
+  color: $color-accent;
+  text-align: center;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  border: none;
+
+  &::before {
+    content: "—//—";
+  }
 }
 
 
@@ -107,10 +168,63 @@ h6 {
   }
 }
 
+// Code and pre-formatted text
+pre, code {
+  font-family: Courier, "Courier New", monospace;
+}
+
 // Media
+img + em {
+  display: block;
+  font-family: $base-font-family;
+  font-style: normal;
+  font-size: 0.875rem;
+  margin-top: -0.5rem;
+}
 
 img,
 video,
 iframe {
   max-width: 100%;
+}
+
+video, iframe {
+  aspect-ratio: 16 / 9;
+}
+
+[align="left"],
+[align="right"] {
+  &::after {
+    content: " ";
+    display: block;
+    width: 1px;
+    height: 1px;
+    clear: both;
+  }
+
+  img {
+    display: block;
+
+    @include media-query($on-laptop) {
+      display: inline-block;
+    }
+  }
+}
+
+[align="left"] {
+  img {
+    @include media-query($on-laptop) {
+      float: left;
+      margin-right: $spacing-unit;
+    }
+  }
+}
+
+[align="right"] {
+  img {
+    @include media-query($on-laptop) {
+      float: right;
+      margin-left: $spacing-unit;
+    }
+  }
 }

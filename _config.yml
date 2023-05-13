@@ -13,6 +13,7 @@ logo: /assets/img/logo.jpeg
 
 archive_path: "/blog/arquivo/"
 news_archive_path: "/noticias/arquivo/"
+essays_archive_path: "/textos/arquivo"
 
 # Collections
 collections:
@@ -44,6 +45,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-json-feed
   - jekyll-paginate-v2
+  - jekyll-auto-authors
 
 # Plugin: jekyll-seo-tag
 social:
@@ -69,15 +71,28 @@ pagination:
 autopages:
   enabled: true
   categories:
-    enabled: false
+    enabled: true
+    layouts:
+      - archive.html
+    title: ":cat"
+    permalink: "/textos/:cat/"
+    slugify:
+      mode: default
+      cased: true
   collections:
     enabled: false
   tags:
+    enabled: false
+  authors:
+    enabled: true
+    data: '_data/authors.yml' # Data file with the author details
     layouts:
-      - archive.html
-    title: "Posts com a tag “:tag”"
-    permalink: "/blog/arquivo/tags/:tag/"
-    silent: true
+      - 'author.html' # We'll define this layout later
+    title: ':author'
+    permalink: '/blog/:author/'
+    slugify:
+      mode: 'default' # choose from [raw, default, pretty, ascii or latin]
+      cased: true # if true, the uppercase letters in slug will be converted to lowercase ones.
 
 # Front-Matter Defaults
 defaults:

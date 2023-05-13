@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<article class="contained contact_page">
+
+  {%- if page.title and page.title != "" -%}
+    <header class="page_header">
+      <h1 class="page_title">
+        {{ page.title }}
+      </h1>
+    </header>
+  {%- endif -%}
+
+  <div class="blog_container">
+    <div class="page_content">
+      {{ content }}
+
+      {% if site.social.links %}
+        <div class="social_links">
+          {% for link in site.social.links %}
+          {%- assign service = link | remove: "https://" | split: "/" | first | split: "." | first -%}
+          <a class="link" href="{{ link }}" rel="nofollow">
+            {%- include icons/{{ service }}.svg -%}
+          </a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+
+    <div class="blog_sidebar">
+      {%- for widget in site.data.contact -%}
+        <section class="sidebar_widget">
+          <h3 class="widget_title">{{ widget.title }}</h3>
+
+          <div class="widget_content">
+            {{ widget.content | markdownify }}
+          </div>
+        </section>
+      {%- endfor -%}
+    </div>
+  </div>
+</article>

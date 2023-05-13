@@ -12,7 +12,27 @@ layout: default
     </header>
   {%- endif -%}
 
-  <div class="page_content">
-    {{ content }}
-  </div>
+  {%- if page.subpages -%}
+    <div class="blog_container">
+      <div class="page_content">
+        {{ content }}
+      </div>
+
+      <aside class="blog_sidebar">
+        <ul class="subpages_list">
+          {%- for page in page.subpages -%}
+            <li class="subpage_link">
+              <a href="{{ page.url }}" {% if page.current %}class="current_link"{% endif %}>
+                {{ page.title }}
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </aside>
+    </div>
+  {%- else -%}
+    <div class="page_content">
+      {{ content }}
+    </div>
+  {%- endif -%}
 </article>

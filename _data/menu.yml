@@ -1,16 +1,16 @@
 - title: Capa
   url: "/"
 - title: Sobre
-  url: "https://www.casacinepoa.com.br/a-casa.html"
+  url: "/sobre/"
 - title: Filmes
   url: "/filmes/"
 - title: Projetos
   url: "/projetos/"
 - title: Textos
-  url: "https://www.casacinepoa.com.br/as-conexoes.html"
+  url: "/textos/"
 - title: Notícias
   url: "/noticias/"
 - title: Blog
   url: "/blog/"
 - title: Contato
-  url: "https://www.casacinepoa.com.br/o-contato/geral.html"
+  url: "/contato/"

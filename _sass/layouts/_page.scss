@@ -1,0 +1,32 @@
+.page_header {
+  margin-bottom: $spacing-unit;
+}
+
+body.page {
+  .page_content {
+    font-family: $content-font-family;
+  }
+}
+
+.subpages_list {
+  text-transform: uppercase;
+  list-style: none;
+  margin-left: 0;
+  font-size: 1.25rem;
+
+  .subpage_link {
+    margin-top: calc($spacing-unit / 4);
+    margin-bottom: calc($spacing-unit / 4);
+
+    a {
+      &:hover,
+      &:focus {
+        color: $color-accent;
+      }
+    }
+  }
+
+  .current_link {
+    font-weight: 400;
+  }
+}

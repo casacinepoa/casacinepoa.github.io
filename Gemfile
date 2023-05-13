@@ -20,3 +20,5 @@ gem "jekyll-seo-tag", "~> 2.8", :group => :jekyll_plugins
 gem "jekyll-sitemap", "~> 1.4", :group => :jekyll_plugins
 gem "jekyll-paginate-v2", "~> 3.0", :group => :jekyll_plugins
 gem "jekyll-compose", "~> 0.12.0", :group => :jekyll_plugins
+
+gem "jekyll-auto-authors", "~> 1.0", :group => :jekyll_plugins

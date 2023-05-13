@@ -4,7 +4,8 @@ layout: default
 
 {% assign site_features = site.banners | reverse %}
 
-{% for feature in site_features %}
+
+{% for feature in site_features limit: 2 %}
   {% if forloop.first %}
     {% capture banner_above %}
       {% include home/banner.html %}

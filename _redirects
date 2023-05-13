@@ -10,21 +10,24 @@
 {%- endfor -%}
 
 {%- for post in site.posts -%}
-  {%- if post.original_path -%}
+{%- if post.original_path -%}
 
-    {{ post.original_path }}       {{ post.url | relative_url }}       301
+{{ post.original_path }}       {{ post.url | relative_url }}       301
 
-  {%- endif -%}
+{% endif -%}
 {%- endfor -%}
 
 {%- for project in site.projects -%}
-  {%- if project.original_path -%}
-    {{- project.original_path }}       {{ project.url | relative_url }}       301
-  {%- endif -%}
+{%- if project.original_path -%}
+{{- project.original_path }}       {{ project.url | relative_url }}       301
+{% endif -%}
 {%- endfor -%}
 
 {%- for news in site.news -%}
-  {%- if news.original_path -%}
-    {{- news.original_path }}       {{ news.url | relative_url }}       301
-  {%- endif -%}
+{%- if news.original_path -%}
+{{- news.original_path }}       {{ news.url | relative_url }}       301
+{% endif -%}
 {%- endfor -%}
+
+/o-blog/giba-assis-brasil.html    /blog/giba    301
+/o-blog/jorge-furtado.html    /blog/jorge    301
