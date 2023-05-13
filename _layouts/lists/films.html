@@ -4,51 +4,9 @@ layout: default
 
 {% assign film_categories = site.projects | group_by: "category"  %}
 
-{% assign films_nav = "" %}
-{% assign films_sections = "" %}
-
-
-{% for category in film_categories %}
-  {%- unless category.name == "Projetos" -%}
-    {%- capture films_nav -%}
-      {{- films_nav -}}
-
-      <a href="{{ category.name | slugify | prepend: '#' }}">{{ category.name | split: "-" | first }}</a>
-    {%- endcapture -%}
-
-    {% capture films_sections %}
-
-      {{ films_sections }}
-
-      <section class="contained films_section" id="{{ category.name | slugify }}">
-        <h2 class="section_title">{{ category.name }}</h2>
-
-        <ul class="films_list">
-          {%- for film in category.items -%}
-
-            <li class="list_item">
-              <a class="film" href="{{ film.url | relative_url }}" rel="bookmark">
-
-                {%- if film.image and film.image != "" -%}
-                  <img class="film_image" src="{{ film.image }}" alt="" role="presentation" />
-                {%- endif -%}
-
-                <strong class="film_title">{{ film.title }}</strong>
-              </a>
-            </li>
-
-          {%- endfor -%}
-        </ul>
-
-      </section>
-
-    {% endcapture %}
-  {%- endunless -%}
-{% endfor %}
-
 <article class="page films_page">
 
-  {%- assign film_categories = "Longas-metragens | Séries | Curtas-metragens | Médias-metragens | Origens | Distribuição" -%}
+  {%- assign film_categories = "Longas-metragens | Coproduções | Séries | Curtas-metragens | Médias-metragens | Origens | Distribuição" -%}
   {%- assign film_categories = film_categories | split: " | " -%}
 
   <header class="contained page_header">
@@ -60,7 +18,9 @@ layout: default
 
     <nav class="films_navigation">
       {%- for category in film_categories -%}
-        <a href="{{ category | slugify | prepend: '#' }}">{{ category | split: "-" | first}}</a>
+        {% unless category == "Coproduções" %}
+          <a href="{{ category | slugify | prepend: '#' }}">{{ category | split: "-" | first}}</a>
+        {% endunless %}
       {%- endfor -%}
     </nav>
   </header>
