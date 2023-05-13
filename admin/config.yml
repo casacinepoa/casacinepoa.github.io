@@ -5,7 +5,7 @@ backend:
 locale: pt
 local_backend: true
 media_folder: "uploads"
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 collections:
   - name: banner
     label: Banners
@@ -372,8 +372,8 @@ collections:
         required: false
         fields:
           - label: Título
-            name: string
-            widget: text
+            name: title
+            widget: string
           - label: Conteúdo
             name: content
             widget: markdown

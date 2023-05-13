@@ -50,29 +50,24 @@ layout: default
       {%- endif -%}
 
       <div class="project_synopsys">
-        {{ page.synopsis | markdownify }}
+        {{ content }}
       </div>
     </div>
   </div>
 
-  {%- assign page_content = content | replace: "<hr>", "<hr />" | replace: "<hr/>", "<hr />" -%}
+  {% if page.details %}
+    <div class="project_infos">
+      {% for detail in page.details %}
+        <details id="{{ detail.title | slugify | prepend: 'info_' }}" class="info" open>
+          <summary class="info_title">
+            {{ detail.title }}
+          </summary>
 
-  {% assign sections = content | split: "<hr />" %}
-
-  <div class="project_infos">
-    {%- for section in sections -%}
-      {%- assign section_title = section | split: "</h2>" | first | strip_html | strip_newlines | normalize_whitespace -%}
-      {%- assign section_content = section | split: "</h2>" | last | normalize_whitespace -%}
-
-      <details class="info" open>
-        <summary class="info_title">
-          {{- section_title -}}
-        </summary>
-
-        <div class="info_content">
-          {{ section_content }}
-        </div>
-      </details>
-    {%- endfor -%}
-  </div>
+          <div class="info_content">
+            {{ detail.content | markdownify }}
+          </div>
+        </details>
+      {% endfor %}
+    </div>
+  {% endif %}
 </article>

@@ -5,7 +5,7 @@ tech_specs:
 category: Longas-metragens
 where_to_watch: []
 details:
-  - string: Créditos
+  - title: Créditos
     content: >-
       **Direção**: Ana Luiza Azevedo
 
@@ -48,7 +48,7 @@ details:
       **Música:**\
 
       ("Beat Acelerado", de Yann Lao, Vicente França e Alec Haiat - grupo Metrô; arranjo de Leo Henkin; voz: Luiza Caspary)
-  - string: Prêmios
+  - title: Prêmios
     content: >-
       * 2º Festival de Paulínia, 2009: Melhor filme (prêmio da crítica), Melhor
       direção, Melhor fotografia, Melhor direção de arte, Melhor música, Melhor
@@ -63,7 +63,7 @@ details:
       * Melhor filme brasileiro de 2010 pela Associação Paulista dos Críticos de Arte (APCA).
 
       * 2º CINECITA - Festival Internacional de Cinema e TV Infantil e Juvenil - Bogotá, Colômbia - maio/2012: Melhor longa-metragem juvenil.
-  - string: Crítica
+  - title: Crítica
     content: >-
       "ANTES QUE O MUNDO ACABE trata de afeto, família, globalização, mas
       principalmente de responsabilidade. Graves questões éticas são colocadas
@@ -105,7 +105,7 @@ details:
       (Anna Virginia Balloussier, Rolling Stone, 16/07/2009)\
 
       <http://www.rollingstone.com.br/secoes/novas/noticias/5792/>
-  - string: Veja mais
+  - title: Veja mais
     content: >-
       * [Editora Projeto](http://www.editoraprojeto.com.br/)
 
@@ -121,13 +121,6 @@ details:
 
       * [Veja as críticas sobre o filme](https://www.casacinepoa.com.br/comment/reply/1406/scripts.js.html)
 original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
-synopsis: "Daniel é um adolescente crescendo em seu pequeno mundo com problemas
-  que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que
-  quer, como ajudar um amigo que está sendo acusado de roubo e como sair da
-  pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do
-  pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a
-  realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito
-  maior do que ele pensa."
 title: Antes que o mundo acabe
 image: /uploads/aqma-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
