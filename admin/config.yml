@@ -156,7 +156,7 @@ collections:
         hint: >-
           Exibido em resultados de busca. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 160 caracteres para exibir o resumo inteiro.
       - label: Menu lateral
-        name: supages
+        name: subpages
         widget: list
         label_singular: "item"
         required: false
