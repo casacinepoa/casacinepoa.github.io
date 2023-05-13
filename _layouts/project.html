@@ -18,7 +18,7 @@ layout: default
   </header>
 
   <div class="project_main_content">
-    {%- if page.trailer -%}
+    {%- if page.trailer and page.trailer != "" -%}
       {% assign video_id = page.trailer | split: "/" | last | split: "?" | first %}
 
       <figure class="project_cover">

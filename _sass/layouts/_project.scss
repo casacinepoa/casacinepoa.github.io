@@ -44,6 +44,10 @@
       border: 1px solid $color-text;
       padding: calc($spacing-unit / 4);
 
+      img {
+        width: 100%;
+      }
+
       @include media-query($on-laptop) {
         position: relative;
       }
