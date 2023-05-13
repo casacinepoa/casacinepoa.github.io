@@ -3,9 +3,9 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-# local_backend: true
+local_backend: true
 media_folder: "uploads"
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 collections:
   - name: banner
     label: Banners
@@ -202,10 +202,6 @@ collections:
         name: date
         widget: datetime
         format: "YYYY-MM-DD HH:mm:ss"
-      - label: Tags
-        name: tags
-        widget: list
-        required: false
       - label: Caminho original
         name: original_path
         widget: string
@@ -295,7 +291,7 @@ collections:
         widget: string
         required: false
       - label: Sinopse
-        name: synopsis
+        name: body
         widget: markdown
       - label: Onde Assistir
         name: where_to_watch
@@ -309,12 +305,18 @@ collections:
           - label: Link
             name: url
             widget: string
-      - label: Seções de conteúdo
-        name: body
-        widget: markdown
+      - label: Detalhes
+        name: details
+        widget: list
+        summary: "{{fields.title}}"
         required: false
-        hint: >-
-          Seções de conteúdo são separadas por uma linha horizontal (`***`). O título da seção é definido por um título de nível 2 (`##`).
+        fields:
+          - label: Título
+            name: string
+            widget: text
+          - label: Conteúdo
+            name: content
+            widget: markdown
       - label: Caminho original
         name: original_path
         widget: string
