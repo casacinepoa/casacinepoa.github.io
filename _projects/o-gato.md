@@ -1,0 +1,44 @@
+---
+title: O gato
+tech_specs:
+  - (16 mm/Beta digital, 58 min, cor, 2004)
+  - (janela 1.33, som digital estéreo)
+category: Distribuição
+image: /uploads/gato-imgr.jpg
+image_credits: "Foto por Jaime Lerner: Giuseppe Oristânio"
+details:
+  - title: Créditos
+    content: |-
+      **Direção:** Saturnino Rocha
+
+      **Produção:** Gilberto Baum\
+      **Produção de finalização:** Nora Goulart\
+      **Roteiro:** Saturnino Rocha, Hélio Alvarez e João Knijnik\
+      **Direção de fotografia:** Jaime Lerner\
+      **Direção de arte:** Adriana Nascimento Borba\
+      **Música:** Geraldo Flach\
+      **Montagem:** Giba Assis Brasil\
+      **Assistentes de direção:** Cláudio Penadez e João Knijnik
+
+      **Produção**: Sol, Cinema e Vídeo Ltda.\
+      **Distribuição:** Casa de Cinema P.A.
+
+      **Elenco principal:**\
+      Giuseppe Oristânio (Gato)\
+      Nora Prado (Doroti)\
+      Biratã Vieira (Pedro)\
+      Oscar Simch (Gouvêa)
+
+      **Música:**\
+      "Tema de Miramar", de Geraldo Flach
+  - title: Mais sobre
+    content: >-
+      * [Fotos de
+      cena](https://www.casacinepoa.com.br/os-filmes/distribuição/longas/o-gato/fotos-de-cena.html)
+
+      * [Música](/uploads/O_Gato.mp3)
+
+      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-gato.html)
+original_path: /os-filmes/distribuição/longas/o-gato.html
+---
+Toda primavera, na pequena Miramar, o Gato chega com sua bicicleta para provocar a inveja dos homens e o desejo das mulheres. Mas, no ano em que o Gato encontra Doroti, bela e fiel esposa do faroleiro Pedro, o cotidiano da cidade vai ser abalado para sempre. Um folhetim non-sense, uma história de amor e realismo mágico.
