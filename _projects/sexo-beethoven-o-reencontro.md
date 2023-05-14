@@ -1,0 +1,43 @@
+---
+title: Sexo & Beethoven, o reencontro
+tech_specs:
+  - (35 mm, 16 min, cor, 1997)
+  - (janela 1.33, som óptico mono)
+category: Curtas-metragens
+image: /uploads/sexbe-imgr_0.jpg
+image_credits: "Foto por Carlos Gerbase: Daniela Schmitz, Luciene Adami"
+details:
+  - title: Créditos
+    content: |-
+      **Direção**: Carlos Gerbase
+
+      **Produção Executiva**: Luciana Tomasi e Nora Goulart\
+      **Roteiro**: Carlos Gerbase\
+      **Direção de Fotografia**: Alex Sernambi\
+      **Direção de Arte**: Fiapo Barth\
+      **Música**: Ricardo Severo\
+      **Direção de Produção**: Marco Baioto\
+      **Montagem**: Giba Assis Brasil\
+      **Assistente de Direção**: Débora Peters e Ana Luiza Azevedo
+
+      **Uma Produção da Casa de Cinema PoA**
+
+      **Elenco Principal**:\
+      Pedro Santos (Peter)\
+      Marco Antônio Sorio (Tigrão)\
+      Luciene Adami (Dora)\
+      Daniela Schmitz (Ivete)
+
+      **Música:**\
+      5ª Sinfonia de Beethoven, 1º movimento, arranjo de Ricaro Severo
+  - title: Mais sobre
+    content: >-
+      *
+      [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/sexo-beethoven-o-reencontro)
+
+      * [Música](/uploads/Sexo_e_Beethoven-.mp3)
+
+      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/produção/curtas/sexo-beethoven-o-reencontro-créditos-completos.html)
+original_path: /os-filmes/produção/curtas/sexo-beethoven-o-reencontro.html
+---
+Dois rapazes heterossexuais (mas não muito) convidam duas prostitutas ingênuas (mas não muito) para uma noite de sexo. Nas conversas preliminares, um pouco de poesia, outro tanto de filosofia e doses cavalares de baixaria, tudo com Beethoven ao fundo. Mas, na hora do sexo, a verdade aparece.

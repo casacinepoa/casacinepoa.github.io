@@ -1,0 +1,52 @@
+---
+title: Rummikub
+tech_specs:
+  - (HDV/35 mm, 13 min, cor, 2007)
+  - (janela 1.77, som digital Dolby)
+category: Curtas-metragens
+image: /uploads/rummi-imgr.jpg
+image_credits: "Foto por Jacob Solitrenick: Patsy Cecato, Elisa Volpatto e Nelson Diniz"
+details:
+  - title: Créditos
+    content: |-
+      **Direção:** Jorge Furtado
+
+      **Produção:** Lucas Akoskin\
+      **Roteiro:** Jorge Furtado\
+      **Produção executiva:** Nora Goulart\
+      / Rita Moraes\
+      / Fernando Rodriguez\
+      / Luciana Lamberto\
+      **Direção de Fotografia:** Jacob Solitrenick\
+      **Direção de Arte:** Rita Faustini\
+      **Música:** Leo Henkin\
+      **Montagem:** Giba Assis Brasil
+
+      **Uma Produção:** Terra Shorts\
+      / Surdream\
+      / FYB Film Production
+
+      **Realização:** Casa de Cinema PoA
+
+      **Elenco:**\
+      Alice Braga (filha paulista)\
+      Pedro Furtado (filho gaúcho)\
+      Patsy Cecato (mãe paulista)\
+      Nelson Diniz (pai gaúcho)\
+      Elisa Volpato (namorada do pai)
+
+      **Música:**\
+      "Tema da praia", de Leo Henkin
+  - title: Mais sobre
+    content: >-
+      *
+      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub.html)
+
+      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub-texto-final.html)
+
+      * [Música](/uploads/Rummikub.mp3)
+
+      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/rummikub.html)
+original_path: /os-filmes/produção/curtas/rummikub.html
+---
+Num fim de semana chuvoso na praia, duas famílias brigam por causa do Rummikub, um jogo de mesa. Enquanto isso, alheios às brigas dos pais, surge um casal de amantes.

@@ -1,0 +1,56 @@
+---
+title: O vampiro de Novo Hamburgo
+tech_specs:
+  - (Betacam, 4 min, pb/cor, 1991)
+  - (janela 1.33, som mono)
+category: Curtas-metragens
+image: /uploads/vampnh-imgr.jpg
+image_credits: "Foto de Alex Sernambi: Antônio Carlos Falcão e Flávia Moraes"
+details:
+  - title: Créditos
+    content: |-
+      **Roteiro e Direção**: Jorge Furtado\
+      **Produção executiva**: Nora Goulart\
+      **Direção de fotografia**: Alex Sernambi\
+      **Direção de arte**: Fiapo Barth\
+      **Direção musical**: Leo Henkin\
+      **Assistente de direção**: Ana Luiza Azevedo\
+      **Direção de produção**: Marco Bajotto\
+      **2ª assistente de direção**: Dainara Toffoli
+
+      **Elenco principal**:\
+      Antônio Carlos Falcão (Wolfgang Zimberg, o Conde de Morro Reuter)\
+      Flávia Moraes (Inga Heinmann, a jovem)\
+      Zé Vitor Castiel (Gustav Heinmann, o burgomestre)\
+      Zé Adão Barbosa (Kuhn, o assistente do Conde)\
+      André Boll (Frazão, o tenente)\
+      Mary Mezzari, Flávia Aguiar e Rosângela Cortinhas (coro)\
+      Meme Meneghetti (Viking)\
+      Hique Gomes (Homem-banda)
+
+      **Apresentadora**: Ilana Kaplan
+  - title: Mais sobre
+    content: >-
+      Em 1991 a Casa de Cinema de Porto Alegre produziu, com direção de Jorge
+      Furtado, uma série de quadros para os programas "Dóris para maiores" e
+      "Programa legal", da TV Globo, todos eles rodados inteiramente em Porto
+      Alegre, com equipe e elenco locais. "O vampiro de Novo Hamburgo" foi a
+      maior dessas produções, apesar de ter apenas 4 minutos. Abaixo, a lista
+      completa dos quadros produzidos.\
+
+      Em abril: "Tempo"\
+
+      Em maio: "Dona Sílvia não gostava de música"\
+
+      Em junho: "O vampiro de Novo Hamburgo"\
+
+      Em julho: "Corpo", "Colecionadores" e "Dupla personalidade"\
+
+      Em agosto: "Dois estranhos numa terra estranha", "Let me sky away", "Inventores" e "Separatismo"\
+
+      Em setembro: "Dubladores"  e "Telegrama ao vivo"\
+
+      Em outubro: "Baile só para homens", "Replicantes" e "Senna x Manuel da Conceição"
+original_path: /os-filmes/produção/curtas/o-vampiro-de-novo-hamburgo.html
+---
+Quadro do programa "Dóris para maiores" para TV Globo. Falso documentário sobre o falso cineasta Volker Freunden e seu falso pioneiro filme de terror, que teria sido rodado na década de 1920 na verdadeira cidade de Novo Hamburgo - mas gravado em Porto Alegre.

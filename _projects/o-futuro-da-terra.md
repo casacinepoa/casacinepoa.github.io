@@ -1,0 +1,48 @@
+---
+title: O futuro da terra
+tech_specs:
+  - (Betacam, 14 min, cor, 1997)
+  - (janela 1.33, som magnético mono)
+category: Curtas-metragens
+image: /uploads/futerr-imgr.jpg
+image_credits: Foto de Alex Sernambi
+details:
+  - title: Créditos
+    content: |-
+      **Direção**: Werner Schünemann
+
+      **Produção Executiva**: Luciana Tomasi e Nora Goulart\
+      **Roteiro**: Werner Schünemann\
+      **Direção de Fotografia**: Alex Sernambi\
+      **Música**: Ricardo Severo\
+      **Direção de Produção**: Rodrigo Soprana\
+      **Montagem**: Giba Assis Brasil\
+      **Assistente de Direção**: Amabile Rocha
+
+      **Uma Produção Amigos do MST / Casa de Cinema PoA**
+
+      **Elenco Principal**:\
+      Bira Brasil (Locução)
+  - title: Prêmios
+    content: |-
+      * 3º Festival Terra em Foco, Brasília/DF, 1999:\
+        Melhor Vídeo
+  - title: Crítica
+    content: >-
+      "O diretor e roteirista Werner Schünemann leva os espectadores ao
+      assentamento 30 de Maio no município de Santa Rita no Rio Grande do Sul
+      para revelar o imaginário e os desejos das crianças. O cuidado do diretor
+      de fotografia, Alex Sernambi, fica evidente na beleza das imagens que
+      retratam com lirismo o cotidiano dos assentamentos e as atividades das
+      crianças."\
+
+      (Boletim Rede-IBPINET/SP, janeiro/1998)
+  - title: Mais sobre
+    content: >-
+      *
+      [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/o-futuro-da-terra)
+
+      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/curtas/o-futuro-da-terra-créditos.html)
+original_path: /os-filmes/realização/vídeos/o-futuro-da-terra.html
+---
+No assentamento 30 de Maio, em Charqueadas, Rio Grande do Sul, 40 famílias assentadas em 1990 mostram que é possível resistir, produzir e viver coletivamente da terra. Apenas um exemplo de como a terra brasileira pode ser generosa quando homens e mulheres trabalham pensando no futuro de todos.
