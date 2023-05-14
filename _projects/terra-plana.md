@@ -1,0 +1,11 @@
+---
+title: TERRA PLANA
+tech_specs:
+  - longa-metragem, ficção
+  - EM CAPTAÇÃO
+category: Projetos
+image: /uploads/terrapl.jpg
+---
+roteiro de Tiago Rezende e Vicente Moreno\
+\
+Três adolescentes, por brincadeira ou falta do que fazer, põem em marcha a estupidez humana e a esperteza de quem sempre lucrou com ela.
