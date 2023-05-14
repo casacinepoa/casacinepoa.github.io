@@ -42,7 +42,7 @@ layout: default
             <a class="film" href="{{ film.url | relative_url }}" rel="bookmark">
 
               {%- if film.image and film.image != "" -%}
-                <img class="film_image" src="{{ film.image }}" alt="" role="presentation" />
+                <img class="film_image" src="{{ film.image }}" alt="" role="presentation" loading="lazy" />
               {%- endif -%}
 
               <strong class="film_title">{{ film.title }}</strong>
