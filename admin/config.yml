@@ -176,6 +176,7 @@ collections:
           - label: Página atual?
             name: current
             widget: boolean
+            required: false
       - label: Caminho original
         name: original_path
         widget: string
