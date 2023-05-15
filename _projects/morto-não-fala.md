@@ -4,7 +4,7 @@ tech_specs:
   - (HD,  110min, cor,  2019)
   - (janela 2.39, som Dolby 5.1)
 category: Longas-metragens
-image: /uploads/161031-morto-8-3218.jpg
+image: /uploads/mnf-imgr.jpeg
 synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violenta
   cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom
   paranormal de comunicação com os mortos. Quando as confidências que ouve do
