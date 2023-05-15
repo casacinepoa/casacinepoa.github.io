@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Convite para acesso ao painel da Casa de Cinema</title>
+  </head>
+  <body>
+    <p>Olá!</p>
+    
+    <p>Você recebeu um convite para criar um usuário no painel de administração do site da Casa de Cinema de Porto Alegre.</p>
+    
+    <p>Por favor, <a href="{{ .SiteURL  }}/#invite_token={{ .Token }}">clique aqui</a> para aceitar o convite.</p>
+      
+    <p>Se o link não funcionar, tente acessar copiando e colando o endereço abaixo na barra de endereços do seu navegador:</p>
+    
+    <code>{{ .SiteURL  }}/#invite_token={{ .Token }}</code>
+    
+    <p>Tenha um bom dia!</p>
+  </body>
+</html>
