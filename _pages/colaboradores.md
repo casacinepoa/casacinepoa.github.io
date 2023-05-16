@@ -1,32 +1,31 @@
 ---
 layout: page
 title: Colaboradores da Casa
-original_path: "/a-casa/colaboradores.html"
-permalink: "/sobre/colaboradores/"
+permalink: /sobre/colaboradores/
 subpages:
   - title: Os Sócios
-    url: "/sobre/socios/"
+    url: /sobre/socios/
   - title: Funcionários
-    url: "/sobre/funcionarios/"
+    url: /sobre/funcionarios/
   - title: Ex-Sócios
-    url: "/sobre/ex-socios/"
+    url: /sobre/ex-socios/
   - title: Colaboradores
-    url: "/sobre/colaboradores/"
+    url: /sobre/colaboradores/
     current: true
   - title: Sobre a Casa
-    url: "/sobre/casa/"
+    url: /sobre/casa/
   - title: Outras Atividades
-    url: "/sobre/outras-atividades/"
+    url: /sobre/outras-atividades/
+original_path: /a-casa/colaboradores.html
 ---
-
 Em dezembro de 2017, quando a Casa de Cinema de Porto Alegre completa 30 anos, um levantamento em 119 fichas técnicas de filmes e programas até então produzidos aponta os seguintes números:
 
-nas equipes:  
-6647 nomes com repetição  
+nas equipes:\
+6647 nomes com repetição\
 2583 nomes sem repetição
 
-nos elencos:  
-1886 nomes com repetição  
+nos elencos:\
+1886 nomes com repetição\
 1082 nomes sem repetição
 
 ### Equipes
@@ -109,8 +108,7 @@ Chrístian Vaisz, mixador / 25 vezes
 [![](/uploads/29a_juliano.jpg)](/uploads/29_juliano.jpg)
 Juliano Lopes, diretor de fotografia / 25 vezes
 
-
-* * *
+- - -
 
 **ELENCOS**
 
@@ -182,4 +180,4 @@ Zé Victor Castiel / 10 vezes
 
 {: align="left" }
 [![](/uploads/45a_zeca.jpg)](/uploads/45_zeca_1.jpg)
-Zeca Kiechaloski / 10 vezes
+Zeca Kiechaloski (1954-2020) / 10 vezes
