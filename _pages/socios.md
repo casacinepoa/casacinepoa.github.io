@@ -1,77 +1,73 @@
 ---
 layout: page
 title: Os Sócios da Casa
-permalink: "/sobre/socios/"
-original_path: "/a-casa/os-sócios-da-casa.html"
+permalink: /sobre/socios/
 subpages:
-- title: Os Sócios
-  url: "/sobre/socios/"
-  current: true
-- title: Funcionários
-  url: "/sobre/funcionarios/"
-- title: Ex-Sócios
-  url: "/sobre/ex-socios/"
-- title: Colaboradores
-  url: "/sobre/colaboradores/"
-- title: Sobre a Casa
-  url: "/sobre/casa/"
-- title: Outras Atividades
-  url: "/sobre/outras-atividades/"
+  - title: Os Sócios
+    url: /sobre/socios/
+    current: true
+  - title: Funcionários
+    url: /sobre/funcionarios/
+  - title: Ex-Sócios
+    url: /sobre/ex-socios/
+  - title: Colaboradores
+    url: /sobre/colaboradores/
+  - title: Sobre a Casa
+    url: /sobre/casa/
+  - title: Outras Atividades
+    url: /sobre/outras-atividades/
+original_path: /a-casa/os-sócios-da-casa.html
 ---
-
-
 {: align="center" }
 ![](/uploads/casacine-3191_20x15.jpg)
-_(Da esquerda para direita)  
-**Giba Assis Brasil**, montador. **Nora Goulart**, produtora. **Jorge Furtado**, roteirista e realizador. **Ana Luiza Azevedo**, roteirista e realizadora._
+*(Da esquerda para direita)\
+**Giba Assis Brasil**, montador. **Nora Goulart**, produtora. **Jorge Furtado**, roteirista e realizador. **Ana Luiza Azevedo**, roteirista e realizadora.*
 
-***
+- - -
 
 ## Ana Luiza Azevedo
 
 {: align="left" }
 ![](/uploads/ana_maior.jpg){: width="250" }
-Diretora e roteirista. Sócia da produtora Casa de Cinema de Porto Alegre. Diretora e Roteirista do longa ANTES QUE O MUNDO ACABE (2010), do telefilme DOCE DE MÃE (2012 – TV GLOBO) e da série DOCE DE MÃE (2013/2014 - TV GLOBO). Diretora, junto com Jorge Furtado, do documentário QUEM É PRIMAVERA DAS NEVES (2017). Dirigiu e roteirizou os curtas de ficção DONA CRISTINA PERDEU A MEMÓRIA (2002), TRÊS MINUTOS (1999), BARBOSA (1988) e os documentários VENTRE LIVRE (1994), EM FRENTE DA LEI TEM UM GUARDA (2001), OLHO DA RUA (2002) e O GRÃO DA IMAGEM (2007). Dirigiu ainda vários especiais para televisão, como DIA DE VISITA (2001 – TV GLOBO), A IMPORTÂNCIA DO CURRÍCULO NA CARREIRA DO ATOR (2001 – RBSTV), O BOCHECHA (2002 - RBSTV) e as séries FANTASIAS DE UMA DONA DE CASA (2008-2009 – RBSTV) e DECAMERÃO (2010 – TV GLOBO). Fez a direção geral da série MULHER DE FASES (2011 – HBO). Como Assistente de Direção, participou de diversos filmes, entre eles os curtas ILHA DAS FLORES (1989), as séries LUNA CALIENTE (2000 – TV GLOBO) e DECAMERÃO (2009 – TV GLOBO) e os longas TOLERÂNCIA (2000) e BENS CONFISCADOS (2004). Foi diretora assistente em O HOMEM QUE COPIAVA (2003), MEU TIO MATOU UM CARA (2005), SAL DE PRATA (2005) e no telefilme HOMENS DE BEM (2011). Foi programadora, de 2001 à 2011, do Cine Santander Cultural, em Porto Alegre.
+Diretora e roteirista. Sócia da produtora Casa de Cinema de Porto Alegre. Realizadora, entre vários outros trabalhos, dos filmes de longa metragem ANTES QUE O MUNDO ACABE (2010) e AOS OLHOS DE ERNESTO (2019), das séries MULHER DE FASES (2011, HBO), DOCE DE MÃE (2014, TV GLOBO), GRANDES CENAS (2017) e SÓ SE FOR POR AMOR (2022, Netflix), dos documentários VENTRE LIVRE (1994) e QUEM É PRIMAVERA DAS NEVES (2017) e dos curtas BARBOSA (1988), TRÊS MINUTOS (1999) e DONA CRISTINA PERDEU A MEMÓRIA (2002). Como Assistente de Direção, participou de diversos filmes de Jorge Furtado, Carlos Gerbase, Carlos Reichenbach e outros. Foi programadora, de 2001 a 2011, do Cine Santander Cultural, em Porto Alegre. Acabou de dirigir uma série ainda inédita para a Globo Play. Atualmente desenvolve o projeto do longa-metragem MARIA DO SOCORRO.
 
-Atualmente é uma das responsáveis pelo Núcleo de Criação de Textos para TV e Cinema da Casa de Cinema de Porto Alegre. Está desevolvendo os roteiros da série O HARÉM e trabalha também em seu novo projeto de longa-metragem AOS OLHOS DE ERNESTO, em fase de pré-produção.
+Currículo
 
-- Currículo
-- [Filmografia no IMDB](http://us.imdb.com/name/nm0044218/)
-- <ana@casacinepoa.com.br>
+* [Filmografia no IMDB](http://us.imdb.com/name/nm0044218/)
+* [ana@casacinepoa.com.br](mailto:ana@casacinepoa.com.br)
 
-***
+- - -
 
 ## Giba Assis Brasil
 
 {: align="left" }
 ![](/uploads/giba.jpg){: width="250" }
-Montador e roteirista. Professor do curso de Realização Audiovisual da Unisinos desde 2003, também deu aulas na UFRGS entre 1994 e 2005.  Roteirista dos longas ME BEIJA (1984), O MENTIROSO (1988) e SUPER COLOSSO (1995), das minisséries de TV AGOSTO (1993) e LUNA CALIENTE (1998). Líder do Núcleo criativo da Casa de Cinema de Porto Alegre. Codirigiu o longa-metragem VERDES ANOS (1984) e o longa em super-8 DEU PRA TI ANOS 70 (1981). Montador de 20 longas-metragens: TOLERÂNCIA (2000), HOUVE UMA VEZ DOIS VERÕES (2002), O HOMEM QUE COPIAVA (2003), MEU TIO MATOU UM CARA (2005), SAL DE PRATA (2005), SANEAMENTO BÁSICO, O FILME (2007), Ó PAÍ Ó (2007), 3 EFES (2007), GIGANTE, COMO O INTER CONQUISTOU O MUNDO (2007), NADA VAI NOS SEPARAR (2009), QUASE UM TANGO (2009), ANTES QUE O MUNDO ACABE (2010), A ANTROPÓLOGA (2011), MENOS QUE NADA (2012), EL PADRE DE GARDEL (2013), O MERCADO DE NOTÍCIAS (2014), REAL BELEZA (2015), ANAUÊ (2017), QUEM É PRIMAVERA DAS NEVES (2017) e PARAÍSO PERDIDO (em finalização). Montador de mais de 40 curtas, entre eles ILHA DAS FLORES (1989), ESTA NÃO É A SUA VIDA (1991), DEUS EX-MACHINA (1995) e DONA CRISTINA PERDEU A MEMÓRIA (2002); montador de mais de 100 episódios de televisão, para séries como BRAVA GENTE (2001), CONTOS DE INVERNO (2001-2002), CENA ABERTA (2003), DECAMERÃO, A COMÉDIA DO SEXO (2009), MULHER DE FASES (2011), DOCE DE MÃE (2014) e GRANDES CENAS (2016-17).
+Montador. Sócio da produtora Casa de Cinema de Porto Alegre. Professor do curso de Realização Audiovisual da Unisinos desde 2003, também deu aulas na UFRGS (1994-2005). Montou mais de 20 longas-metragens, 40 curtas e 120 episódios de séries. Foi diretor (VERDES ANOS, 1984) e roteirista de longas (SUPER COLOSSO, 1995) e séries (AGOSTO, 1993). Montou, entre outros, os longas TOLERÂNCIA (2000), HOUVE UMA VEZ DOIS VERÕES (2002), O HOMEM QUE COPIAVA (2003), SANEAMENTO BÁSICO, O FILME (2007), Ó PAÍ Ó (2007), EL PADRE DE GARDEL (2013), RASGA CORAÇÃO (2018), AOS OLHOS DE ERNESTO (2019); curtas como ILHA DAS FLORES (1989) e séries como CENA ABERTA (2003), MULHER DE FASES (2011) e DOCE DE MÃE (2014). Recentemente montou uma série ainda inédita para a Globo Play. Seu próximo trabalho deve ser a montagem da 3ª temporada da série GRANDES CENAS.
 
-- Currículo
-- [Filmografia no IMDB](http://us.imdb.com/name/nm0039856/)
-- <gibaab@uol.com.br>
+* Currículo
+* [Filmografia no IMDB](http://us.imdb.com/name/nm0039856/)
+* [gibaab@uol.com.br](mailto:gibaab@uol.com.br)
 
-
-***
+- - -
 
 ## Jorge Furtado
 
 {: align="left" }
 ![](/uploads/jorge.jpg){: width="250" }
-Diretor e roteirista dos longas HOUVE UMA VEZ DOIS VERÕES (2002), O HOMEM QUE COPIAVA (2003) e MEU TIO MATOU UM CARA (2005) SANEAMENTO BÁSICO, O FILME (2007), O MERCADO DE NOTÍCIAS (2014),  REAL BELEZA (2015) e QUEM É PRIMAVERA DAS NEVES (2017). Dirigiu também vários curtas-metragens premiados no Brasil e no exterior, como O DIA EM QUE DORIVAL ENCAROU A GUARDA (1986), BARBOSA (1988), ILHA DAS FLORES (1989), ESTA NÃO É A SUA VIDA (1991), ÂNGELO ANDA SUMIDO (1997), e O SANDUÍCHE (2000). Para a TV Globo, dirigiu a série CENA ABERTA (2003), a minissérie LUNA CALIENTE (1998), DECAMERÃO (2010), as três temporadas de HISTÓRIA DO AMOR (2011/ 2012/2013), e os telefilmes HOMENS DE BEM (2011) e DOCE DE MÃE (2012). Este último originou a série em 14 episódios DOCE DE MÃE (2014) e rendeu dois prêmios Emmy Internacional: Melhor atriz, para Fernanda Montenegro, em 2013, e Melhor Série de Comédia, em 2015. Jorge Furtado é um dos sócios-fundadores da Casa de Cinema de Porto Alegre. Atualmente está em pré-produção do seu novo longa: RASGA CORAÇÃO.
+Diretor e roteirista. Sócio da produtora Casa de Cinema de Porto Alegre. Realizador dos longas HOUVE UMA VEZ DOIS VERÕES (2002), O HOMEM QUE COPIAVA (2003), MEU TIO MATOU UM CARA (2005) SANEAMENTO BÁSICO, O FILME (2007), O MERCADO DE NOTÍCIAS (2014), REAL BELEZA (2015), QUEM É PRIMAVERA DAS NEVES (2017), RASGA CORAÇÃO (2019) e VAI DAR NADA (2021), além de curtas premiadíssimos como ILHA DAS FLORES (1989) e ESTA NÃO É A SUA VIDA (1991) e séries como CENA ABERTA (2003), DECAMERÃO (2010) e DOCE DE MÃE (2014), vencedora de dois prêmios Emmy Internacional. Escreveu dezenas de especiais e séries para a TV Globo, como AGOSTO (1991), A COMÉDIA DA VIDA PRIVADA (1995), MISTER BRAU (2015), SOB PRESSÃO (2017) e TODAS AS MULHERES DO MUNDO (2020). Recentemente escreveu com Guel Arraes o longa GRANDE SERTÃO, ainda inédito. Atualmente escreve e prepara dois longas-metragens, a comédia MOTEL PÉROLA e o semidocumentário VIRGÍNIA E ADELAIDE.
 
-- Currículo
-- [Filmografia no IMDB](http://us.imdb.com/name/nm0299134/)
-- <jfurtado2222@gmail.com>
+* Currículo
+* [Filmografia no IMDB](http://us.imdb.com/name/nm0299134/)
+* [jfurtado2222@gmail.com](mailto:jfurtado2222@gmail.com)
 
-***
+- - -
 
 ## Nora Goulart
 
 {: align="left" }
 ![](/uploads/nora.jpg){: width="250" }
-Produtora Executiva dos longas TOLERÂNCIA (2000), HOUVE UMA VEZ DOIS VERÕES (2002), O HOMEM QUE COPIAVA (2003), MEU TIO MATOU UM CARA (2005), SAL DE PRATA (2005), SANEAMENTO BÁSICO, OFILME (2007), ANTES QUE O MUNDO ACABE (2009), REAL BELEZA (2015), CIDADES FANTASMAS (2017) e QUEM É PRIMAVERA DAS NEVES (2017) e de curtas-metragens como BARBOSA (1988), ILHA DAS FLORES (1989), A MATADEIRA (1994), UM HOMEM SÉRIO (1996), O SANDUÍCHE (2000), e do episódio ESTRADA no longa FELICIDADE É... (1995).  Foi Coordenadora de Produção da RBS Vídeo (de 1989 a 1991) e da TVC Cinema e Televisão, São Paulo (1991). Produziu, para a TV Globo, segmentos de VOCÊ DECIDE (1991), DORIS PARA MAIORES (1991-92), o especial O ALIENISTA (1993), a minissérie LUNA CALIENTE (1998) e episódios da série BRAVA GENTE (2000 e 2001), além da série CENA ABERTA (2003) e DECAMERÃO (2009) e HISTÓRIA DO AMOR (2011). Produtora Executiva dos programas de TV das campanhas eleitorais do PT em 1992 a 2000. Produtora Executiva das séries FANTASIAS DE UMA DONA DE CASA 1ª e 2ª Temporada (2008 e 2009) e AVENTURAS DA FAMÍLIA BRASIL 1ª e 2ª Temporada (2009) para RBS TV. Pra a HBO, produziu a série MULHER DE FASES (2011). Atualmente prepara a produção dos longas RASGA CORAÇÃO e AOS OLHOS DE ERNESTO.
+Produtora Executiva. Sócia da produtora Casa de Cinema de Porto Alegre. Produziu mais de 20 longas-metragens, como FELICIDADE É... (1995), TOLERÂNCIA (2000), O HOMEM QUE COPIAVA (2003), MEU TIO MATOU UM CARA (2005), SAL DE PRATA (2005), SANEAMENTO BÁSICO, O FILME (2007), ANTES QUE O MUNDO ACABE (2009), REAL BELEZA (2015), CIDADES FANTASMAS (2017), MORTO NÃO FALA (2018), AOS OLHOS DE ERNESTO (2O19), VERLUST (2020) e VAI DAR NADA (2021); e ainda dezenas de séries como CENA ABERTA (2003), DECAMERÃO, A COMÉDIA DO SEXO (2009), A HISTÓRIA DO AMOR (2011) e DOCE DE MÃE (2014). Foi Coordenadora de Produção da RBS Vídeo de Porto Alegre (de 1989-1990) e da TVC Cinema e Televisão de São Paulo (1991). Produtora Executiva dos programas de TV das campanhas eleitorais do PT/RS em 1992 a 2000. Atualmente trabalha no desenvolvimento e pré-produção de longas, séries e documentários da Casa de Cinema.
 
-- Currículo
-- [Filmografia no IMDB](http://us.imdb.com/name/nm0332291/)
-- Contato: <nora@casacinepoa.com.br>
+* Currículo
+* [Filmografia no IMDB](http://us.imdb.com/name/nm0332291/)
+* Contato: [nora@casacinepoa.com.br](mailto:nora@casacinepoa.com.br)
