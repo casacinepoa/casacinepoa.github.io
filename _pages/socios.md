@@ -34,7 +34,7 @@ Diretora e roteirista. Sócia da produtora Casa de Cinema de Porto Alegre. Reali
 Currículo
 
 * [Filmografia no IMDB](http://us.imdb.com/name/nm0044218/)
-* [ana@casacinepoa.com.br](mailto:ana@casacinepoa.com.br)
+* C﻿ontato: [ana@casacinepoa.com.br](mailto:ana@casacinepoa.com.br)
 
 - - -
 
@@ -46,7 +46,7 @@ Montador. Sócio da produtora Casa de Cinema de Porto Alegre. Professor do curso
 
 * Currículo
 * [Filmografia no IMDB](http://us.imdb.com/name/nm0039856/)
-* [gibaab@uol.com.br](mailto:gibaab@uol.com.br)
+* C﻿ontato: [gibaab@uol.com.br](mailto:gibaab@uol.com.br)
 
 - - -
 
@@ -58,7 +58,7 @@ Diretor e roteirista. Sócio da produtora Casa de Cinema de Porto Alegre. Realiz
 
 * Currículo
 * [Filmografia no IMDB](http://us.imdb.com/name/nm0299134/)
-* [jfurtado2222@gmail.com](mailto:jfurtado2222@gmail.com)
+* C﻿ontato: [jfurtado2222@gmail.com](mailto:jfurtado2222@gmail.com)
 
 - - -
 
