@@ -25,10 +25,8 @@ A única foto do Gâmbia, minúsculo país da costa oeste da África, mostra um 
 Endereço do site Países@:
 http://www.ibge.gov.br/paisesat/
 
-* Para saber mais sobre o Índice de Desenvolvimento Humano clique aqui.\
-  https://pt.wikipedia.org/wiki/Lista*de_pa%C3%ADses_por*%C3%ADndice_de_desenvolvimento_humano
-
-
+\* Para saber mais sobre o Índice de Desenvolvimento Humano clique aqui.\
+https://pt.wikipedia.org/wiki/Lista*de_pa%C3%ADses_por*%C3%ADndice_de_desenvolvimento_humano
 
 - - -
 
