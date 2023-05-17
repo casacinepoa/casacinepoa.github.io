@@ -33,17 +33,17 @@ http://br.youtube.com/watch?v=xBEyzLjs3Us
 Cartola\
 Tive Sim
 
-Tive, sim
-Outro grande amor antes do teu
-Tive, sim
-O que ela sonhava eram os meus sonhos e assim
-Íamos vivendo em paz
-Nosso lar, em nosso lar sempre houve alegria
-Eu vivia tão contente
-Como contente ao teu lado estou
-Tive, sim
-Mas comparar com o teu amor seria o fim
-Eu vou calar
+Tive, sim\
+Outro grande amor antes do teu\
+Tive, sim\
+O que ela sonhava eram os meus sonhos e assim\
+Íamos vivendo em paz\
+Nosso lar, em nosso lar sempre houve alegria\
+Eu vivia tão contente\
+Como contente ao teu lado estou\
+Tive, sim\
+Mas comparar com o teu amor seria o fim\
+Eu vou calar\
 Pois não pretendo amor te magoar
 
 X
@@ -56,24 +56,24 @@ Sérgio Sampaio
 
 Para os fãs (Cantar bonito)
 
-Tenho que cantar bonito para ninguém botar defeito
-Tenho que cantar com jeito para ninguém se arrepender de ter vindo
-Tenho que me esmerar pra nem pensar magoar o ouvido
-De quem veio comprovar se estou mesmo no lugar devido
-Preciso corresponder ao carinho de quem gosta de mim
+Tenho que cantar bonito para ninguém botar defeito\
+Tenho que cantar com jeito para ninguém se arrepender de ter vindo\
+Tenho que me esmerar pra nem pensar magoar o ouvido\
+De quem veio comprovar se estou mesmo no lugar devido\
+Preciso corresponder ao carinho de quem gosta de mim\
 Gente que me acompanhou e com razão se queixou que eu sumi daqui, daqui
 
-Quero então mostrar algumas das canções que eu fiz distante
-Longe da cidade cônjuge que agora é como a cama da amante
-Quero enfim tocar legal
-Dizer um verso banal e lindo
-E tentar surpreender quem só veio para ouvir o antigo
-Cantar bem retribuir o carinho de quem gosta de mim
-Gente que me acompanhou e com razão se queixou que eu sumi, daqui
+Quero então mostrar algumas das canções que eu fiz distante\
+Longe da cidade cônjuge que agora é como a cama da amante\
+Quero enfim tocar legal\
+Dizer um verso banal e lindo\
+E tentar surpreender quem só veio para ouvir o antigo\
+Cantar bem retribuir o carinho de quem gosta de mim\
+Gente que me acompanhou e com razão se queixou que eu sumi daqui
 
-"Aconteceu um novo amor
-Não podia acontecer
-Não era hora de amar
+"Aconteceu um novo amor\
+Não podia acontecer\
+Não era hora de amar\
 Agora o que é que eu vou fazer?"*
 
-trecho de "Não tem solução", de Dorival Caymmi e Carlos Guinle, gravada por Tim Maia.
+\* trecho de "Não tem solução", de Dorival Caymmi e Carlos Guinle, gravada por Tim Maia.
