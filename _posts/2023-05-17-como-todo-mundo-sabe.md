@@ -14,16 +14,25 @@ A fotografia, próxima a ser inventada depois de 4 mil anos sem novidades na lis
 
 Recapitulando:
 
-* 1. Música
-* 2. Dança
-* 3. Pintura / Desenho
-* 4. Escultura / Arquitetura
-* 5. Teatro
-* 6. Literatura
-* 7. Cinema
-* 8. Fotografia
-* 9. Quadrinhos
-* 10. Outros
+1. Música
+
+2. Dança
+
+3. Pintura / Desenho
+
+4. Escultura / Arquitetura
+
+5. Teatro
+
+6. Literatura
+
+7. Cinema
+
+8. Fotografia
+
+9. Quadrinhos
+
+10. Outros
 
 A lista das 10 artes aqui serve só para puxar e organizar a conversa no blog. Futebol, política, fofocas, impressões matinais? Tem mas estamos em falta.
 
