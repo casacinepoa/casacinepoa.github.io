@@ -1,0 +1,15 @@
+items:
+  - title: Sobre
+    url: "/sobre/"
+  - title: Filmes
+    url: "/filmes/"
+  - title: Projetos
+    url: "/projetos/"
+  - title: Textos
+    url: "/textos/"
+  - title: Notícias
+    url: "/noticias/"
+  - title: Blog
+    url: "/blog/"
+  - title: Contato
+    url: "/contato/"

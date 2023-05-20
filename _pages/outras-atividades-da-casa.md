@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Outras Atividades da Casa
 permalink: /sobre/outras-atividades/
 subpages:

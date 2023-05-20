@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Equipe fixa atual
 permalink: "/sobre/funcionarios/"
 original_path: "/a-casa/funcionários.html"

@@ -240,10 +240,6 @@ body {
         color: $color-accent;
       }
     }
-
-    & > a:first-child {
-      display: none;
-    }
   }
 
   .social_links {
@@ -288,3 +284,4 @@ body {
 @import "layouts/blog";
 @import "layouts/post";
 @import "layouts/contact";
+@import "layouts/about";

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Ex-Sócios da Casa
 original_path: "/a-casa/ex-sócios-da-casa.html"
 permalink: "/sobre/ex-socios/"

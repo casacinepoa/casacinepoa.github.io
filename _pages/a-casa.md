@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Sobre a Casa
 permalink: /sobre/casa/
 subpages:

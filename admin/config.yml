@@ -7,38 +7,6 @@ locale: pt
 media_folder: "uploads"
 publish_mode: editorial_workflow
 collections:
-  - name: banner
-    label: Banners
-    label_singular: Banner
-    folder: _banners
-    sort: "date:desc"
-    create: true
-    delete: true
-    publish: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    description: >-
-      Banners exibidos no início e no fim da página inicial. Apenas os dois banners mais recentes serão exibidos.
-    fields:
-      - label: Data de ativação
-        name: date
-        widget: datetime
-        format: "YYYY-MM-DD HH:mm:ss"
-        required: true
-      - label: Imagem
-        name: image
-        widget: image
-        allow_multiple: false
-        required: true
-      - label: Título
-        name: title
-        widget: string
-      - label: Conteúdo
-        name: body
-        widget: markdown
-      - label: URL de destino
-        name: link
-        widget: string
-        required: true
   - name: post
     label: Posts
     label_singular: Post
@@ -139,10 +107,6 @@ collections:
       - label: Rascunhos
         field: draft
     fields:
-      - label: Layout
-        name: layout
-        widget: hidden
-        default: "page"
       - label: Título
         name: title
         widget: string
@@ -161,28 +125,41 @@ collections:
         required: false
         hint: >-
           Exibido em resultados de busca. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 160 caracteres para exibir o resumo inteiro.
-      - label: Menu lateral
-        name: subpages
-        widget: list
-        label_singular: "item"
-        required: false
-        fields:
-          - label: Título
-            name: title
-            widget: string
-          - label: URL
-            name: url
-            widget: string
-          - label: Página atual?
-            name: current
-            widget: boolean
-            required: false
       - label: Caminho original
         name: original_path
         widget: string
         required: false
         hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+      - label: Layout
+        name: layout
+        widget: select
+        default: "page"
+        options:
+        - label: Sem layout
+          value: default
+        - label: Página simples
+          value: page
+        - label: Página "Sobre"
+          value: about
+        - label: Página de arquivo
+          value: archive
+        - label: Página de contato
+          value: contact
+        - label: Post de blog
+          value: post
+        - label: Página de projeto
+          value: project
+        - label: Lista de filmes
+          value: lists/films
+        - label: Lista de posts
+          value: lists/posts
+        - label: Lista de projetos
+          value: lists/projects
+        - label: Blog
+          value: blog
+        - label: Autor do blog
+          value: author
   - name: news
     label: Notícias
     label_singular: Notícia
@@ -390,3 +367,98 @@ collections:
         required: false
         hint: >-
           O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+  - name: menu
+    label: Menus
+    label_singular: Menu
+    description: >-
+      Os menus de navegação do site.
+    create: false
+    delete: false
+    publish: false
+    editor:
+      preview: false
+    files:
+      - label: Menu Principal
+        file: _data/menus/main.yml
+        name: main
+        fields:
+          - label: Itens
+            widget: list
+            name: items
+            label_singular: "item"
+            fields:
+              - label: Rótulo
+                name: title
+                widget: string
+              - label: Link
+                name: url
+                widget: relation
+                collection: "page"
+                display_fields: ["{{title}} - {{permalink}}"]
+                search_fields:
+                  - title
+                value_field: permalink
+              - label: Link externo
+                name: required
+                widget: boolean
+                hint: >-
+                  Se ativo, abrirá o link em uma nova janela.
+      - label: Menu das páginas Sobre
+        file: _data/menus/about.yml
+        name: about
+        description: >-
+          Os menus de navegação do site.
+        fields:
+          - label: Itens
+            widget: list
+            name: items
+            label_singular: "item"
+            fields:
+              - label: Rótulo
+                name: title
+                widget: string
+              - label: Link
+                name: url
+                widget: relation
+                collection: "page"
+                display_fields: ["{{title}} - {{permalink}}"]
+                search_fields:
+                  - title
+                value_field: permalink
+              - label: Link externo
+                name: required
+                widget: boolean
+                hint: >-
+                  Se ativo, abrirá o link em uma nova janela.
+  - name: banner
+    label: Banners
+    label_singular: Banner
+    folder: _banners
+    sort: "date:desc"
+    create: true
+    delete: true
+    publish: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    description: >-
+      Banners exibidos no início e no fim da página inicial. Apenas os dois banners mais recentes serão exibidos.
+    fields:
+      - label: Data de ativação
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DD HH:mm:ss"
+        required: true
+      - label: Imagem
+        name: image
+        widget: image
+        allow_multiple: false
+        required: true
+      - label: Título
+        name: title
+        widget: string
+      - label: Conteúdo
+        name: body
+        widget: markdown
+      - label: URL de destino
+        name: link
+        widget: string
+        required: true

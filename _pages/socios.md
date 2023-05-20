@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Os Sócios da Casa
 permalink: /sobre/socios/
 subpages:

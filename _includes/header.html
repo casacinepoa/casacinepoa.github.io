@@ -26,12 +26,15 @@
   </label>
 
   <div class="site_navigation">
-    {% if site.data.menu %}
+    {% if site.data.menus.main.items.size > 0 %}
       <nav class="site_menu" data-site-menu>
-        {% for item in site.data.menu %}
-        <a href="{{ item.url }}" {% if item.external %}target="_blank" {% endif %}>
-          {{ item.title }}
+        <a href="/">
+          Capa
         </a>
+        {% for item in site.data.menus.main.items %}
+          <a href="{{ item.url }}" {% if item.external %}target="_blank" {% endif %}>
+            {{ item.title }}
+          </a>
         {% endfor %}
       </nav>
     {% endif %}

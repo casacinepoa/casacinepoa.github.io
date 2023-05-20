@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<article class="page about_page">
+  <header class="contained page_header">
+    {%- if page.title and page.title != "" -%}
+      <h1 class="page_title">
+        Sobre
+      </h1>
+    {%- endif -%}
+
+    <nav class="about_nav">
+      {% for item in site.data.menus.about.items %}
+        <a href="{{ item.url }}" {% if item.external %}target="_blank" {% endif %}>
+          {{ item.title }}
+        </a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <div class="contained">
+    <h2 class="section_title">{{ page.title }}</h2>
+
+    <div class="post_content">
+      {{ content }}
+    </div>
+  </div>
+</article>
