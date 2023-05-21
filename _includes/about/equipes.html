@@ -1,0 +1,20 @@
+{% assign team = site.people | where: "category", "equipes" | sort: "order" | reverse %}
+
+<ul class="team_list">
+  {% for person in team %}
+    <li class="person">
+      {% if person.image and person.image != "" %}
+        <img class="person_picture" src="{{ person.image }}" />
+      {% endif %}
+
+        <strong class="person_name">
+          {{ person.title }}
+        </strong>
+
+        <span class="person_role">
+          {{ person.role }}
+        </span><br />
+        {{ person.order | append: " vezes" }}
+    </li>
+  {% endfor %}
+</ul>

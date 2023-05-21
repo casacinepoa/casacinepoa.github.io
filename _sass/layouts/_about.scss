@@ -1,5 +1,4 @@
 .about_page {
-
   .page_header {
     display: flex;
     flex-flow: column nowrap;
@@ -121,5 +120,91 @@
       font-family: $content-font-family;
       font-size: 0.875rem;
     }
+  }
+}
+
+.team_list {
+  display: grid;
+  grid-template-columns: repeat(1, 100%);
+  gap: $spacing-unit;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  @include media-query($on-laptop) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include media-query($on-desktop) {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .person {
+    font-family: $content-font-family;
+    font-size: 0.75rem;
+
+    .person_picture {
+      display: flex;
+      max-width: 100%;
+      margin-bottom: 0.5rem;
+    }
+
+    .person_name {
+      font-weight: 300;
+      font-family: $base-font-family;
+      font-size: 1.25rem;
+      text-transform: uppercase;
+      display: block;
+    }
+
+    .person_role {
+      color: $color-details;
+    }
+  }
+}
+
+.ex-socio {
+  max-width: 850px;
+  margin-top: $spacing-unit;
+  margin-bottom: calc($spacing-unit * 2);
+  font-family: $content-font-family;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: $spacing-unit;
+
+  @include media-query($on-laptop) {
+    flex-flow: row nowrap;
+  }
+
+  .person_image {
+    align-self: flex-start;
+  }
+
+  .person_name {
+    font-family: $base-font-family;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  .person_role {
+    display: block;
+    margin-bottom: $spacing-unit;
+    color: $color-details;
+    font-size: 0.875rem;
+  }
+
+  .links_list {
+    margin-left: 0;
+    list-style: none;
+  }
+}
+
+.colaboradores {
+  font-family: $content-font-family;
+
+  p, ul, ol, dl {
+    max-width: 850px;
   }
 }

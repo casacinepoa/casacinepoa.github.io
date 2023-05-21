@@ -1,0 +1,29 @@
+{% assign team = site.people | where: "category", "funcionarios" | sort: "title" %}
+
+<ul class="team_list">
+  {% for person in team %}
+    <li class="person">
+      {% if person.image and person.image != "" %}
+        <img class="person_picture" src="{{ person.image }}" />
+      {% endif %}
+
+      <strong class="person_name">
+        {{ person.title }}
+      </strong>
+
+      <span class="person_role">
+        {{ person.role }}
+      </span><br />
+
+      {% if person.links and person.links.size > 0 %}
+        {% for link in person.links %}
+          <a href="{{ link.url }}">{{ link.title }}</a>
+
+          {% unless forloop.last %}
+            <br />
+          {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
