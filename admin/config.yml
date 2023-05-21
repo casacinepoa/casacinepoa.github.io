@@ -3,7 +3,7 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-local_backend: true
+# local_backend: true
 media_folder: "uploads"
 publish_mode: editorial_workflow
 collections:
