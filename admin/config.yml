@@ -3,7 +3,7 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-# local_backend: true
+local_backend: true
 media_folder: "uploads"
 publish_mode: editorial_workflow
 collections:
@@ -113,12 +113,21 @@ collections:
       - label: Conteúdo
         name: body
         widget: markdown
+        required: false
       - label: Link permanente
         name: permalink
         required: false
         widget: string
         hint: >-
           O caminho da URL dessa página. Vai ser acessável em `casacinepoa.com.br/[LINK PERMANENTE]/`.
+      - label: Imagem em Destaque
+        name: image
+        widget: image
+        required: false
+      - label: Legenda da imagem em destaque
+        name: image_caption
+        widget: string
+        required: false
       - label: Resumo
         name: excerpt
         widget: text
@@ -462,3 +471,82 @@ collections:
         name: link
         widget: string
         required: true
+  - name: people
+    label: Pessoas
+    label_singular: Pessoa
+    folder: _people
+    sort: "title:asc"
+    create: true
+    delete: true
+    publish: false
+    slug: "{{slug}}"
+    description: >-
+      As pessoas envolvidas na Casa, sejam os sócios, funcionários, equipe e elenco.
+    view_filters:
+    - label: "Sócios"
+      field: category
+      pattern: "socios"
+    - label: "Funcionários"
+      field: category
+      pattern: "funcionarios"
+    - label: "Equipes"
+      field: category
+      pattern: "equipes"
+    - label: "Elencos"
+      field: category
+      pattern: "elencos"
+    - label: "Ex-Sócios"
+      field: category
+      pattern: "passado"
+    fields:
+      - label: Nome
+        name: title
+        widget: string
+      - label: Foto
+        name: image
+        widget: image
+        required: false
+      - label: Função
+        name: role
+        widget: string
+        required: false
+      - label: Bio
+        name: body
+        widget: markdown
+        required: false
+      - label: Currículo
+        name: cv
+        widget: markdown
+        required: false
+      - label: Aparições
+        name: order
+        widget: number
+        required: false
+        hint: >-
+          Útil para a página de Colaboradores, vai ordenar automaticamente a lista de colaboradores frequentes em Equipe e Elenco.
+      - label: Links
+        name: links
+        widget: list
+        label_singular: "link"
+        required: false
+        fields:
+          - label: Rótulo
+            name: title
+            widget: string
+          - label: URL de destino
+            name: url
+            widget: string
+      - label: Categoria
+        name: category
+        widget: select
+        options:
+          - label: Sócios
+            value: socios
+          - label: Funcionários
+            value: funcionarios
+          - label: Equipes
+            value: equipes
+          - label: Elencos
+            value: elencos
+          - label: Ex-Sócios
+            value: passado

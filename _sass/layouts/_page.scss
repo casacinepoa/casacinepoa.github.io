@@ -8,25 +8,18 @@ body.page {
   }
 }
 
-.subpages_list {
-  text-transform: uppercase;
-  list-style: none;
-  margin-left: 0;
-  font-size: 1.25rem;
+.post_content,
+.page_content {
+  a {
+    color: $color-accent;
 
-  .subpage_link {
-    margin-top: calc($spacing-unit / 4);
-    margin-bottom: calc($spacing-unit / 4);
-
-    a {
-      &:hover,
-      &:focus {
-        color: $color-accent;
-      }
+    &:hover,
+    &:focus {
+      text-decoration: underline;
     }
   }
+}
 
-  .current_link {
-    font-weight: 400;
-  }
+.current_link {
+  font-weight: 400;
 }

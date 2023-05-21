@@ -31,6 +31,8 @@ collections:
   projects:
     output: true
     permalink: "/filmes/:title/"
+  people:
+    output: false
 
 # Build settings
 permalink: "/blog/:year-:month-:day-:slug/"

@@ -19,11 +19,65 @@ layout: default
     </nav>
   </header>
 
-  <div class="contained">
+  <div class="contained page_content">
     <h2 class="section_title">{{ page.title }}</h2>
 
     <div class="post_content">
+      {%- if page.image and page.image != "" -%}
+        <figure class="image_cover">
+          <img class="featured_image" src="{{ page.image }}" alt="" />
+
+          <figcaption class="cover_caption">
+            {{ page.image_caption }}
+          </figcaption>
+        </figure>
+      {%- endif -%}
+
       {{ content }}
     </div>
+
+    {% if page.permalink contains "/socios" %}
+      {% assign socios = site.people | where: "category", "socios" %}
+
+      {% for person in socios %}
+        <section id="{{ person.title | slugify }}" class="socio">
+          <h3 class="section_title">{{ person.title }}</h3>
+
+          <div class="socios_content">
+            <div class="socios_picture">
+              {% if person.image and person.image != "" %}
+                <img class="picture_image" src="{{ person.image }}" alt="Retrato de {{ person.title }}" />
+              {% endif %}
+
+              {% if person.links and person.links.size > 0 %}
+                <details class="socios_links">
+                  <summary class="links_title">Mais sobre</summary>
+
+                  <ul class="links_list">
+                    {% for link in person.links  %}
+                      <li>
+                        <a href="{{ link.url }}">{{ link.title }}</a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </details>
+              {% endif %}
+            </div>
+
+            <div class="socios_bio">
+              {{ person.content | markdownify }}
+
+              {% if person.cv and person.cv != "" %}
+                <details class="socios_cv">
+                  <summary class="cv_title">Currículo</summary>
+
+                  {{ person.cv | markdownify }}
+                </details>
+              {% endif %}
+            </div>
+          </div>
+        </section>
+      {% endfor %}
+    {% endif %}
   </div>
 </article>

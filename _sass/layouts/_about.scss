@@ -1,4 +1,5 @@
 .about_page {
+
   .page_header {
     display: flex;
     flex-flow: column nowrap;
@@ -12,6 +13,16 @@
 
     .page_title {
       margin-bottom: 0;
+    }
+  }
+
+  .image_cover {
+    border: 1px solid $color-text;
+    padding: 0.5rem;
+
+    .cover_caption {
+      font-size: 0.75rem;
+      color: $color-details;
     }
   }
 
@@ -55,6 +66,60 @@
       &:focus {
         color: $color-accent;
       }
+    }
+  }
+}
+
+.socio {
+  margin-bottom: 2.5rem;
+
+  .section_title {
+    font-weight: 400;
+    font-size: 1.5rem;
+  }
+
+  .socios_content {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1rem;
+
+    @include media-query($on-laptop) {
+      flex-flow: row-reverse nowrap;
+      gap: 2rem;
+    }
+  }
+
+  .socios_bio {
+    font-family: $content-font-family;
+
+    @include media-query($on-laptop) {
+      flex: 0 0 75%;
+    }
+
+    @include media-query($on-desktop) {
+      flex-basis: 850px;
+    }
+  }
+
+  details {
+    summary {
+      font-family: $base-font-family;
+      font-weight: 400;
+      font-size: 1.25rem;
+      text-transform: uppercase;
+      cursor: pointer;
+      margin-bottom: calc($spacing-unit / 2);
+
+      &::before,
+      &::marker,
+      &::-webkit-details-marker {
+        color: $color-accent;
+      }
+    }
+
+    & > *:not(summary) {
+      font-family: $content-font-family;
+      font-size: 0.875rem;
     }
   }
 }
