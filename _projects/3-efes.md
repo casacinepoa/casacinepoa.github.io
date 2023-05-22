@@ -1,5 +1,5 @@
 ---
-title: 3 efes
+title: Três efes
 tech_specs:
   - (DV, 100 min, cor, 2007)
   - (janela 1.33, som stereo)
