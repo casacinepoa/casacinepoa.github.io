@@ -80,6 +80,7 @@
   .socios_content {
     display: flex;
     flex-flow: column nowrap;
+    justify-content: space-between;
     gap: 1rem;
 
     @include media-query($on-laptop) {
