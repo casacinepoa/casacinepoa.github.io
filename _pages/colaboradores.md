@@ -18,17 +18,17 @@ subpages:
   - title: Outras Atividades
     url: /sobre/outras-atividades/
 ---
-Em dezembro de 2017, quando a Casa de Cinema de Porto Alegre completa 30 anos, um levantamento em 119 fichas técnicas de filmes e programas até então produzidos aponta os seguintes números:
+Em dezembro de 2017, quando a Casa de Cinema de Porto Alegre completou 30 anos, um levantamento em 119 fichas técnicas de filmes e programas até então produzidos apontou mais de 6 mil nomes nas equipes e mais de 1,8 mil nos elencos. Eliminando-se as repetições, já trabalharam com a Casa mais de 2,5 mil artistas e técnicos e mais de mil atores e atrizes. Ou mais exatamente:
 
-nas equipes:\
-6647 nomes com repetição\
+nas equipes:
+6647 nomes com repetição
 2583 nomes sem repetição
 
-nos elencos:\
-1886 nomes com repetição\
+nos elencos:
+1886 nomes com repetição
 1082 nomes sem repetição
 
-***
+- - -
 
 #### Equipes
 
