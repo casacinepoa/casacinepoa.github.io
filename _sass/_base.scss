@@ -120,12 +120,15 @@ hr {
 
 
 // Headings
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  line-height: 1.25;
+  font-family: $base-font-family;
+}
+
 .page_content,
 .post_content {
   h1, h2, h3, h4, h6, h6 {
-    font-weight: 300;
-    line-height: 1.25;
-    font-family: $base-font-family;
     text-transform: uppercase;
 
     &::before {
