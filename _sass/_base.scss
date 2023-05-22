@@ -120,15 +120,18 @@ hr {
 
 
 // Headings
-h1, h2, h3, h4, h6, h6 {
-  font-weight: 300;
-  line-height: 1.25;
-  font-family: $base-font-family;
-  text-transform: uppercase;
+:not(.home_banner),
+:not(.posts_list) {
+  h1, h2, h3, h4, h6, h6 {
+    font-weight: 300;
+    line-height: 1.25;
+    font-family: $base-font-family;
+    text-transform: uppercase;
 
-  &::before {
-    content: "// ";
-    color: $color-accent;
+    &::before {
+      content: "// ";
+      color: $color-accent;
+    }
   }
 }
 
