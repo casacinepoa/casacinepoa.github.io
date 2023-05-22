@@ -120,7 +120,8 @@ hr {
 
 
 // Headings
-:not(.home_banner):not(.posts_list) {
+.page_content,
+.post_content {
   h1, h2, h3, h4, h6, h6 {
     font-weight: 300;
     line-height: 1.25;
