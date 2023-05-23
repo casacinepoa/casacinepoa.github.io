@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daniel de Oliveira premiado por MORTO NÃO FALA
-date: 2023-05-23 16:28:00
+date: 2021-05-31 16:28:00
 ---
 FANTLATAM 2021: O BRASILEIRO MORTO NÃO FALA VENCE PRÊMIO DE MELHOR ATOR\
 Bruno Carmelo[\
