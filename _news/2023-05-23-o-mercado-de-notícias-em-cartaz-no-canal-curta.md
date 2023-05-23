@@ -25,4 +25,6 @@ Por satélite:
 * Canal Curta! é 391 na Algar TV
 * Canal Curta! é 20 na Nossa TV
 
+![](https://www.casacinepoa.com.br/sites/default/files/images/mdn-moeda.jpg)
+
 Sérgio Lulkin, Thiago Prade, Antônio Carlos Falcão e Nélson Diniz em cena de "O mercado de notícias"
