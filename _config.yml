@@ -30,6 +30,7 @@ collections:
     sort_by: date
   projects:
     output: true
+    sort_by: title
     permalink: "/filmes/:title/"
   people:
     output: false
