@@ -1,0 +1,15 @@
+---
+layout: post
+title: SANEAMENTO BÁSICO será exibido com debate em universidade do Ceará
+date: 2023-05-29 22:46:49
+---
+ADUFC INAUGURA CINECLUBE EM REDE NO CARIRI COM EXIBIÇÃO DE "SANEAMENTO BÁSICO, O FILME" NO DIA 31/5\
+[ADUFC-Sindicato, 24/05/2023](https://www.adufc.org.br/arte-e-cultura-adufc-inaugura-cineclube-em-rede-no-cariri-com-exibicao-de-saneamento-basico-o-filme-no-dia-31-5/)\
+\
+A sede da ADUFC no Cariri inaugura, na próxima quarta-feira (31), às 14h, a parceria com o Cineclube em Rede, iniciativa da revista Corte Seco, projeto de extensão e cultura da Universidade Federal do Cariri (UFCA), com a exibição do longa "Saneamento básico, o filme". Em seguida, haverá um debate com professores da UFCA: Amanda Bezerra (Engenharia Civil), integrante da Diretoria eleita da ADUFC; e Rodrigo Capistrano (Jornalismo/UFC), da coordenação da Corte Seco. O Cineclube já está em atuação desde 2020, com mostras quinzenais de produções audiovisuais - a sede do Sindicato em Juazeiro do Norte promoverá uma dessas exibições mensais, sempre nas últimas quartas-feiras de cada mês.
+
+Para o diretor de Atividades Científicas e Culturais da ADUFC e docente da UFCA, Prof. Tiago Coutinho, o projeto concretiza uma ocupação estratégica do espaço do sindicato. "A ideia do Cine Clube é justamente a gente poder ter uma ocupação da sede de forma mais efetiva com uma programação de qualidade para a comunidade universitária, professores, estudantes, todo mundo. Essa é a primeira iniciativa e está em fase de transição, é mais uma forma de tentar ocupar o sindicato com arte e cultura", explica.
+
+O estudante Paulo Rossi, da graduação em Jornalismo da UFCA e integrante da revista Corte Seco, é um dos idealizadores da proposta. Ele acredita que o cineclube também pode contribuir com uma maior integração entre a comunidade universitária. "Sentimos muitas vezes na universidade um clima de que tá todo mundo muito isolado, um clima até hostil às vezes. Acho que esse é um espaço pra gente se aproximar e criar laços, criar laços entre docentes e estudantes", reflete. "Vai ser um espaço para debatermos vários assuntos importantes: questões estruturais com relação à UFCA, questões orçamentárias, educação, saúde mental, diversos temas que fazem parte do nosso dia a dia", acrescenta.
+
+"Saneamento básico, o filme" é uma produção do cineasta Jorge Furtado. A narrativa é centrada em um grupo de moradores de uma pequena vila no sul do Brasil que se reúnem para reivindicar melhoria no tratamento de esgoto da cidade e veem como solução a produção de um filme para angariar os custos da obra, uma vez que a prefeitura do município alega não possuir orçamento suficiente. O elenco conta com nomes como Fernanda Torres, Wagner Moura, Camila Pitanga, Bruno Garcia, Lázaro Ramos, Tonico Pereira, Paulo José, Lúcio Mauro Filho, Zéu Brito, Janaína Kremer e Sérgio Lulkin.
