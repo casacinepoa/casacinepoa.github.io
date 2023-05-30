@@ -2,7 +2,7 @@
 title: DR4G0N
 tech_specs:
   - série cômica, 8x25 min
-  - EM DESENVOLVIMENTO
+  - EM PRÉ-LANÇAMENTO
 category: Projetos
 image: /uploads/dragon.jpg
 ---
