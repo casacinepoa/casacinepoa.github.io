@@ -2,7 +2,7 @@
 title: TERRA PLANA
 tech_specs:
   - longa-metragem, ficção
-  - EM CAPTAÇÃO
+  - EM DESENVOLVIMENTO
 category: Projetos
 image: /uploads/terrapl.jpg
 ---
