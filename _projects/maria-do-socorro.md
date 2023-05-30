@@ -1,7 +1,7 @@
 ---
 title: Maria do Socorro
 tech_specs:
-  - série de ficção, 8 x 50 min
+  - longa-metragem, ficção
   - EM CAPTAÇÃO
 category: Projetos
 image: /uploads/msocorr.jpg
