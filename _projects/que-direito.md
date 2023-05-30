@@ -28,6 +28,8 @@ details:
 
       / Lúcio Born\
 
+      \
+
       **Teatro de bonecos**: Paulo Balardin
 
 
@@ -40,24 +42,23 @@ details:
       **Consultoria**: Organização Internacional do Trabalho
 
 
-      **EPISÓDIOS**
+      **EPISÓDIOS**\
 
+      01: A dignidade do trabalho (07/06/2006)
 
-      1. A dignidade do trabalho (07/06/2006)\
+      02: O respeito com que o trabalhador deve ser tratado (14/06/2006)
 
-      2. O respeito com que o trabalhador deve ser tratado (14/06/2006)\
+      03: Todo trabalhador é livre para ir e vir (21/06/2006)
 
-      3. Todo trabalhador é livre para ir e vir (21/06/2006)\
+      04: A existência do trabalho escravo e o resgate desses trabalhadores (28/06/2006)
 
-      4. A existência do trabalho escravo e o resgate desses trabalhadores (28/06/2006)\
+      05: O direito à saúde e ao bem-estar do trabalhador e de sua família (05/07/2006)
 
-      5. O direito à saúde e ao bem-estar do trabalhador e de sua família (05/07/2006)\
+      06: O direito à remuneração pelo trabalho (12/07/2006)
 
-      6. O direito à remuneração pelo trabalho (12/07/2006)\
+      07: O direito a férias remuneradas, ao descanso e à limitação de horas de trabalho (19/07/2006)
 
-      7. O direito a férias remuneradas, ao descanso e à limitação de horas de trabalho (19/07/2006)\
-
-      8. Onde denunciar a existência de trabalho escravo (26/07/2006)
+      08: Onde denunciar a existência de trabalho escravo (26/07/2006)
   - title: Que exploração é essa?
     content: >-
       Série unindo dramaturgia com bonecos, entrevistas e informações, tendo
@@ -72,7 +73,7 @@ details:
 
       **Direção**: Camila Gonzatto\
 
-      **Roteiro**: Zé Dassilva\
+      **Roteiros**: Zé Dassilva\
 
       **Produção Executiva**: Nora Goulart\
 
@@ -107,8 +108,6 @@ details:
 
       **EPISÓDIOS**\
 
-       \
-
       01: A denúncia ajuda o próximo (15/11/2009)\
 
       02: Redes hoteleiras (22/11/2009)\
@@ -128,7 +127,7 @@ details:
 
       **Direção**: Márcio Schoenardie\
 
-      **Roteiro**: Zé Dassilva\
+      **Roteiros**: Zé Dassilva\
 
       **Produção executiva**: Nora Goulart\
 
@@ -140,8 +139,9 @@ details:
 
       **Música**: Felipe Puperi e Tiago Abrahão\
 
-      **Mixagem**: Tiago Bello
+      **Mixagem**: Tiago Bello\
 
+      \
 
       **Bonecos**: Paulo Balardim
 
@@ -153,26 +153,25 @@ details:
       Parceria: **Fundação Vale do Rio Doce**
 
 
-      **EPISÓDIOS**
+      **EPISÓDIOS**\
 
+      01: Assédio moral (11/12/2012)
 
-      1. Assédio moral (11/12/2012)\
+      02: Assédio sexual (18/12/2012)
 
-      2. Assédio sexual (18/12/2012)\
+      03: Discriminação contra a mulher (25/12/2012)
 
-      3. Discriminação contra a mulher (25/12/2012)\
+      04: Discriminação de etnia (01/01/2013)
 
-      4. Discriminação de etnia (01/01/2013)\
+      05: Discriminação de orientação sexual (08/01/2013)
 
-      5. Discriminação de orientação sexual (08/01/2013)\
+      06: Discriminação contra a pessoa com deficiência (15/01/2013)
 
-      6. Discriminação contra a pessoa com deficiência (15/01/2013)\
+      07: Trabalho infantil e trabalho forçado (22/01/2013)
 
-      7. Trabalho infantil e trabalho forçado (22/01/2013)\
+      08: Relacionamento com fornecedores (29/01/2013)
 
-      8. Relacionamento com fornecedores (29/01/2013)\
-
-      9. Relacionamento com povos e comunidades tradicionais (05/02/2013)
+      09: Relacionamento com povos e comunidades tradicionais (05/02/2013)
   - title: Que abuso é esse?
     content: >-
       Ficção com bonecos discutindo o crime de exploração sexual. Além da
@@ -185,7 +184,7 @@ details:
 
       **Direção**: Márcio Schoenardie\
 
-      **Roteiro**: Zé Dassilva\
+      **Roteiros**: Zé Dassilva\
 
       **Produção Executiva**: Nora Goulart\
 
@@ -207,8 +206,7 @@ details:
       Fundação Roberto Marinho**
 
 
-      **EPISÓDIOS**
-
+      **EPISÓDIOS**\
 
       01: Desmascarando o abuso (11/12/2014)\
 
