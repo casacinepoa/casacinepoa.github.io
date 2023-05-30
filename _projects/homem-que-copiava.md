@@ -1,8 +1,11 @@
 ---
+title: O homem que copiava
 tech_specs:
   - (35 mm, 124 min, cor, 2003)
   - (janela 1.66, som óptico Dolby SR, som digital Dolby)
 category: Longas-metragens
+image: /uploads/hqc-imgr.jpg
+image_credits: "Foto por Alex Sernambi: Lázaro Ramos e Leandra Leal"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/o-homem-que-copiava/t/GtrD6KmTVM/
@@ -11,8 +14,8 @@ details:
     content: |-
       **Direção:** Jorge Furtado
 
-      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
       **Roteiro:** Jorge Furtado\
+      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
       **Direção de Fotografia:** Alex Sernambi\
       **Direção de Arte:** Fiapo Barth\
       **Música:** Leo Henkin\
@@ -21,8 +24,6 @@ details:
       **Montagem:** Giba Assis Brasil\
       **Direção de Animação:** Allan Sieber
 
-      **Uma Produção da Casa de Cinema PoA**
-
       **Elenco Principal:**\
       Lázaro Ramos (André)\
       Leandra Leal (Sílvia)\
@@ -30,6 +31,8 @@ details:
       Pedro Cardoso (Cardoso)\
       Carlos Cunha Filho (Antunes)\
       Júlio Andrade (Feitosa)
+
+      **Uma Produção da Casa de Cinema PoA**
   - title: Prêmios
     content: >-
       * 2° Prêmio RGE/Governo do Estado do RS, 2002:\
@@ -574,8 +577,5 @@ synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   loja de artigos femininos. Ajudado por seu amigo Cardoso, e depois também pela
   colega de trabalho Marinês, André faz muitos planos para conseguir dinheiro. E
   todos dão certo. E é aí que seus problemas começam.
-title: O homem que copiava
-image: /uploads/hqc-imgr.jpg
-image_credits: "Foto por Alex Sernambi: Lázaro Ramos e Leandra Leal"
 ---
 André, 20 anos, operador de fotocopiadora em uma papelaria, precisa desesperadamente de trinta e oito reais para impressionar a garota dos seus sonhos, Sílvia, que mora no prédio em frente e trabalha como balconista em uma loja de artigos femininos. Ajudado por seu amigo Cardoso, e depois também pela colega de trabalho Marinês, André faz muitos planos para conseguir dinheiro. E todos dão certo. E é aí que seus problemas começam.
