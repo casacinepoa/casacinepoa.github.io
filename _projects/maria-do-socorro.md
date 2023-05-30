@@ -7,6 +7,7 @@ category: Projetos
 image: /uploads/msocorr.jpg
 ---
 criação: Ana Luiza Azevedo\
-roteiros de Ana Luiza Azevedo, Camila Agustini, Ismael Caneppele e Tiago Rezende\
+roteiro de Ana Luiza Azevedo e Jorge Furtado\
 \
-Acolhimento e busca de direitos na história de uma mulher que precisa ajudar e ser ajudada por outras mulheres.
+Uma mulher que luta por seus direitos, luta pelo direito de muitas. 
+A vitória de uma é vitória de todas.
