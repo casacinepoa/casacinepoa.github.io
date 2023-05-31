@@ -23,3 +23,9 @@ Atenção: não leia a orelha, é péssima!
 Para ler as primeiras 30 páginas ou comprar "Fun Home", no site da Conrad, clique aqui.
 
 E Feliz Natal, a ti, aos teus e até aos ateus.
+
+\*﻿\*\*\**
+
+**Enviado por glaucia campregher em 17 de dezembro de 2008.**
+
+*Que esquisito fazer um comentário de algo que já tá de aniverssário... Mas tava aqui uma baita dica, tão sozinha, tão sem ninguém pra dizer "amei!" que resolvi. Pois é - amei! Valeu a dica, vou comprar o resto. Preciso frequentar mais esse site da casa, é uma turma que tem mesmo o que dizer. Valeu. Glaucia*
