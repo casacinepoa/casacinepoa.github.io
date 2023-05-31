@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Corpus Christi
-date: 2008-05-22 00:00 +0000
 author: giba
-original_path: "/comment/reply/187/scripts.js.html"
+date: 2008-05-22 00:00 +0000
 tags:
   - religião
+original_path: /comment/reply/187/scripts.js.html
 ---
-
 Pergunte a dez católicos praticantes o que se comemora no dia de Corpus Christi, ou seja, hoje. Provavelmente sete dirão que não têm a menor idéia.
 
 É possível que dois lembrem do "Creio em Deus Pai" ("Nasceu da Virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado, desceu à mansão dos mortos, ressuscitou no terceiro dia, subiu aos Céus e está sentado à direita, etc.") e façam o raciocínio mais ou menos óbvio: se o Natal marca o nascimento de Cristo e a Páscoa toda aquela seqüência de padecimento, cruz, morte e ressurreição, só o que falta é o tal momento do "subiu ao céu"; logo, Corpus Christi só pode ser o dia em que o corpo do Cara se foi de vez.
@@ -35,4 +34,12 @@ Perceberam? A festa tinha que ser numa quinta-feira, mas não poderia ser no dia
 Já o dia da Ascensão, em que o Cristo ressuscitado cansou de caminhar entre os vivos e partiu para uma carreira muito acima do solo, este é comemorado 42 dias depois da Páscoa, 18 antes do Corpus Christi. Mas, sendo um domingo, não rende muito assunto, e nunca vai dar feriadão.
 
 ![](/uploads/papa.jpg)
-_Presença real ou metáfora?_
+*Presença real ou metáfora?*
+
+- - -
+
+**COMENTÁRIOS**
+
+**Enviado por werner schünemann em 27 de maio de 2008.**
+
+*giba: Essa coisa de feriado religioso é a prova de que se pode combater a exploração capitalista com o poder da oração. Mas quero falar de um feriado religioso em particular, um que falta definir. Certamente o mais importante de todos: o da Sagrada Concepção (assim, com maiúsculas). Pensa comigo: está mais do que clara a posição da Igreja quanto ao momento em que a vida humana inicia. Tanto para discutir aborto quanto para aprovar pesquisas com células-tronco, dos altares, das cúrias e dos programas de TV, padres, bispos, arcebispos e o papa não deixam dúvidas: a vida humana inicia no momento em que o espermatozóide entra no óvulo. A concepção. Sabemos que Jesus foi concebido pelo espermatozóide do espírito santo e o óvulo de Maria. Então, algum dia do nono mês antes de dezembro (se não tiver nascido antes do tempo, com essa turma dos milagres nunca se sabe) houve um dia ou uma noite em que agiu esse espermatozóide masculino. Redundância? não. Trata-se do gênero do espírito santo. É homem. Com h. Cromossomas xy. Epa. De onde viria esse "x"? Deve ter sido, milagrosamente, um espermatozóide yy. E agora responda: existe para a Igreja algo mais sagrado que a fè na concepção divina de Jesus? E como é que essa data não é festejada? Não seria pelo menos uma semana de feriadão? Dez dias, quem sabe? Acho que sim. Só tem um problema: também vai cair no primeiro semestre. Aí, fora o 20 de setembro, continua não havendo feriado sério e bom no segundo semestre.*
