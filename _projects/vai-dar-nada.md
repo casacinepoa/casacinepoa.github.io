@@ -9,43 +9,45 @@ image_credits: "Foto de Fábio Rebelo: Cauê Campos"
 details:
   - title: Créditos
     content: >-
-      **Direção Geral**: Jorge Furtado
+      **Direção Geral**: Jorge Furtado\
 
-      **Direção**: Jorge Furtado e Ana Luiza Azevedo
+      **Direção**: Jorge Furtado e Ana Luiza Azevedo\
 
-      **Roteiro**: Guel Arraes e Jorge Furtado
+      **Roteiro**: Guel Arraes e Jorge Furtado\
 
-      **Produção Executiva**: Nora Goulart e Nicky Klöpsch
+      **Produção Executiva**: Nora Goulart e Nicky Klöpsch\
 
-      **Produção Executiva (VIS)**: Federico Cuervo, Maria Angela de Jesus e Tereza Gonzalez
+      **Produção Executiva (VIS)**: Federico Cuervo, Maria Angela de Jesus e Tereza Gonzalez\
 
-      **Direção de Fotografia**: Alex Sernambi
+      **Direção de Fotografia**: Alex Sernambi\
 
-      **Direção de Arte**: Fiapo Barth e Dayane Paz
+      **Direção de Arte**: Fiapo Barth e Dayane Paz\
 
-      **Direção Musical**: Maurício Nader
+      **Direção Musical**: Maurício Nader\
 
-      **Direção de Produção**: Glauco Urbim
+      **Direção de Produção**: Glauco Urbim\
 
-      **Montagem**: Giba Assis Brasil, edt. e Jonatas Rubert, edt.
+      **Montagem**: Giba Assis Brasil, edt. e Jonatas Rubert, edt.\
 
+      \
 
-      **Uma Produção da Casa de Cinema PoA
+      **Uma Produção da Casa de Cinema PoA**\
 
-      para VIS / Paramount+**
+      **para VIS / Paramount+**\
 
+      \
 
-      **Elenco Principal**:
+      **Elenco Principal**:\
 
-      Cauê Campos (Kelson)
+      Cauê Campos (Kelson)\
 
-      Katiuscia Canoro (Suzi)
+      Katiuscia Canoro (Suzi)\
 
-      Rafael Infante (Fernando)
+      Rafael Infante (Fernando)\
 
-      Kizi Vaz (Márcia)
+      Kizi Vaz (Márcia)\
 
-      Jéssica Barbosa (Rebeca)
+      Jéssica Barbosa (Rebeca)\
 
       Fernanda Teixeira (Neide)
 ---
