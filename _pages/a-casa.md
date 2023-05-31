@@ -1,7 +1,8 @@
 ---
-layout: about
 title: Sobre a Casa
 permalink: /sobre/casa/
+original_path: /a-casa/sobre-casa.html
+layout: about
 subpages:
   - title: Os Sócios
     url: /sobre/socios/
@@ -16,7 +17,6 @@ subpages:
     current: true
   - title: Outras Atividades
     url: /sobre/outras-atividades/
-original_path: /a-casa/sobre-casa.html
 ---
 **Inauguração**
 
@@ -38,7 +38,7 @@ original_path: /a-casa/sobre-casa.html
 
 (José Antônio Silva, Zero Hora, 28/01/1989)
 
-**Engenho da Arte**
+**Engenho e Arte**
 
 "Se para executar o processo de criação são necessários, como dizia Camões, engenho e arte, a Casa de Cinema dispõe dos dois atributos: é a 'Casa do Engenho e da Arte'."
 
