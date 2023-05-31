@@ -30,10 +30,12 @@ https://pt.wikipedia.org/wiki/Lista*de_pa%C3%ADses_por*%C3%ADndice_de_desenvolvi
 
 - - -
 
-Enviado por lizi em 19 de fevereiro de 2008.
+**C﻿OMENTÁRIOS**
+
+**Enviado por lizi em 19 de fevereiro de 2008.**
 
 *Oi Jorge, Olha estes mapas aqui: http://strangemaps.wordpress.com/*
 
-Enviado por Ricardo Dagnino em 03 de março de 2008.
+**Enviado por Ricardo Dagnino em 03 de março de 2008.**
 
 *Olá, Vou colocar um link para este texto no meu blog www.profissaogeografo.blogspot.com Achei muito legal a novidade do IBGE e a maneira como Jorge Furtado fala dos mapas. Acho muito importante continuar fazendo mapas mesmo que se gaste muito tempo para fazer e divulgar o trabalho. Nesse sentido repito as palavras do autor, lembrando que Atlas e mapas são documentos geográficos, mas também históricos: "O tempo necessário para revisar e publicar um bom Atlas é maior do que a longevidade de alguns países e de suas fronteiras, para não falar de suas moedas e indicadores sociais." Não fosse assim, como seria possível comparar o Brasil do Cruzeiro com o Brasil do Real, o Brasil sem Mato Grosso do Sul e o mundo com União Soviética? Abraço, Ricardo*
