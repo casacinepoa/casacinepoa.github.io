@@ -20,3 +20,15 @@ Feliz aniversário
 
 Beijos e abraços,
 Jorge
+
+- - -
+
+**COMENTÁRIOS**
+
+**Enviado por Gustavo Forti Leitão em 09 de janeiro de 2008.**
+
+*Parabéns à casa de cinema!*
+
+**Enviado por Tammíris em 11 de janeiro de 2008.**
+
+*87! Eu estava nascendo... Parabéns pelos 20 anos!*
