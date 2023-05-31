@@ -38,26 +38,26 @@ Uma tradução atual de "Aventuras de Alice no País das Maravilhas" que chame a
 
 Alice poderia procurar muitas coisas para ver se está na praia ou não. Escrevo neste momento (11:01, quarta-feira de cinzas, céu azul, mar calmo, 30 graus, sem vento) de frente para uma praia brasileira. Com a minha luneta (estou na sombra) posso distinguir na praia os seguintes objetos,de cores e formatos variados, em ordem alfabética:
 
-Araras com vestidos e cangas
-Bandeiras
-Baldinhos
-Barracas
-Bicicletas
-Bóias
-Bolas
-Bolinhas
-Bolsas
-Cadeiras
-Carrinhos de sorvete
-Casinhas de salva-vidas
-Cuias de chimarrão
-Esteiras
-Garrafas térmicas
-Guarda-sóis
-Pandorgas
-Pazinhas
-Pranchas
-Quiosques
+Araras com vestidos e cangas\
+Bandeiras\
+Baldinhos\
+Barracas\
+Bicicletas\
+Bóias\
+Bolas\
+Bolinhas\
+Bolsas\
+Cadeiras\
+Carrinhos de sorvete\
+Casinhas de salva-vidas\
+Cuias de chimarrão\
+Esteiras\
+Garrafas térmicas\
+Guarda-sóis\
+Pandorgas\
+Pazinhas\
+Pranchas\
+Quiosques\
 Raquetes de frescobol
 Rede de vôlei
 Toalhas
