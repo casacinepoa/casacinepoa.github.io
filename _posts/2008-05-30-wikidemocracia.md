@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Wikidemocracia
-date: 2008-05-30 00:00 +0000
 author: giba
+date: 2008-05-30 00:00 +0000
 tags:
   - cibercultura
   - religião
-original_path: "/comment/reply/186/scripts.js.html"
+original_path: /comment/reply/186/scripts.js.html
 ---
-
 Não lembro qual foi a primeira vez em que, certamente procurando alguma coisa no Google, fui parar na Wikipédia, essa estranha enciclopédia em que tudo é gratuito e qualquer pessoa, em qualquer parte do mundo, pode mexer em qualquer artigo a qualquer momento.
 
 Lembro de uma noite, há quase dois anos, em que eu descobri que a Wikipédia tinha uma sessão chamada "mudanças recentes", que era exatamente isso: uma lista sempre atualizada das últimas modificações que tinham sido feitas naquele oceano de textos. Lembro de ter ficado fascinado com aquilo, era como ver a maré subindo, ou uma floresta crescendo. Na parte escrita em português, também chamada de "wiki lusófona", o ritmo já era impressionante: cinco, dez, às vezes vinte modificações por minuto. Na wiki em inglês, a mãe de todas, nas horas de maior movimento dava pra contar dois ou três acréscimos por segundo.
@@ -34,3 +33,15 @@ A página de [mudanças recentes](http://en.wikipedia.org/wiki/Special:RecentCha
 Artigo na Wikipédia em português sobre [Jimmy Wales](http://pt.wikipedia.org/wiki/Jimmy_Wales), o criador da Wikipédia.
 
 ["Referência fast-food"](http://cartacapital.com.br/edicoes/2007/02/431/referencia-fast-food), um artigo mal-humorado mas bem argumentado de Antonio Luiz Monteiro Coelho da Costa (20/05/2007) CONTRA a Wikipédia.
+
+- - -
+
+**COMENTÁRIOS**
+
+**Enviado por Daniel de Bem em 03 de junho de 2008.**
+
+*Lembro-me bem, que no ensino médio (isso foi lá por 2003), em uma aula no novíssimo laboratório de informática, minhas colegas mais inteligentes, com a ajuda do professor, passaram em cada computador, para mostrar que o trabalho deveria ser procurado em um site chamado Wikipedia. Lá tinha tudo pronto, e assim os professores ficaram satisfeitos com mais aquela facilidade de ensino. Dizem que se aprende copiando, passando a limpo (como se pode fazer com a matéria copiada em cadernos). Resta saber se na cabeça dos meus ex-professores, o control C e control V tem alguma ligação telepática com o cérebro dos alunos. Até por que um aluno descuidado, como eu fiz algum tempo atrás, digitando http://www.wikipedia.org.br/ na barra de endereços (o endereço mais óbvio), será levado a uma página contra o site, com vários textos incluindo o Referência Fast Food. Um primeiro passo a uma reflexão diferente quem sabe. E o que seria a Desciclopédia nisso tudo??*
+
+**Enviado por Giba Assis Brasil em 03 de junho de 2008.**
+
+*Daniel: Posso estar enganado, mas tenho a impressão de que, se os alunos conseguem cumprir suas tarefas escolares simplesmente copiando e colando da Wikipédia, é porque o professor fez a perrgunta errada. Quanto à Desciclopédia, faz tempo que eu não entro lá, até porque a minha lembrança é de um negócio em geral muito sem graça. Um abraço.*
