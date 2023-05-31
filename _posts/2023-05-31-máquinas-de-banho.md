@@ -4,10 +4,6 @@ title: Máquinas de banho
 author: jorge
 date: 2008-02-06 00:03:26
 ---
-Máquinas de Banho
-
-06 de fevereiro de 2008
-
 No dia 4 de julho de 1862, durante um passeio de barco, Lewis Carroll inventou e contou as aventuras de Alice a pedido de três irmãs: Lorina, de 13 anos, Alice, de 10 anos, e Edith, de 8 anos. Alice gostou tanto que pediu a Carroll que escrevesse a história, o que ele fez durante dois anos, à mão, página por página, incluindo dezenas de ilustrações. 
 
 ![](/uploads/maquinas1.jpg)
@@ -69,7 +65,6 @@ Toalhas
 xx
 
 Para saber mais sobre o livro "Aventuras de Alice no País das Maravilhas" visite o ótimo verbete da Wikipédia [clicando aqui](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland).
-
 
 - - -
 
