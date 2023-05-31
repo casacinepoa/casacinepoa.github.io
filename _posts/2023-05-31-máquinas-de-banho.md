@@ -68,6 +68,8 @@ Para saber mais sobre o livro "Aventuras de Alice no País das Maravilhas" visit
 
 - - -
 
+**C﻿OMENTÁRIOS**
+
 **Enviado por wenilton daltro em 01 de outubro de 2008.**
 
 *Caro Jorge, eu sou de Araras, a mesma cidade do Tobias Ferraz, de Uberaba, que te envio um recado em 09/02/2008. É o seguinte: um livro lançado sobre uma fazenda daqui: FAZENDA SANTO ANTONIO, de Cândida Arruda Botelho (terra, 1988) tem foto(s) desta máquinas de banho. Quando eu voltar à biblioteca daqui, faço uma cópia da foto e depois te envio. Parabéns pelo curioso texto!*
