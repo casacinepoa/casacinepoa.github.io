@@ -1,11 +1,11 @@
 ---
-title: QUESTÃO DE PELE
+title: Questão de pele
 tech_specs:
-  - longa-metragem, ficção
+  - Longa-metragem, ficção
   - EM CAPTAÇÃO
 category: Projetos
 image: /uploads/qpele.jpg
 ---
-Roteiro e direção de Ismael Caneppele\
+Roteiro e direção de Ismael Caneppele.\
 \
 No interior do Brasil, o encontro entre Amadou, um imigrante africano fugindo de uma rede de trabalho escravo, e Lanelise, uma camponesa cuja família emigrou para cá dois séculos atrás.
