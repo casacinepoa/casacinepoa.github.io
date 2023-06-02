@@ -1,7 +1,7 @@
 ---
 title: Maria do Socorro
 tech_specs:
-  - longa-metragem, ficção
+  - Longa-metragem, ficção
   - EM CAPTAÇÃO
 category: Projetos
 image: /uploads/msocorr.jpg
