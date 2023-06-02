@@ -1,5 +1,5 @@
 ---
-title: GRANDES CENAS - 3ª temporada
+title: Grandes cenas - 3ª temporada
 tech_specs:
   - Série documental, 15 x 20 min
   - EM PRÉ-PRODUÇÃO
