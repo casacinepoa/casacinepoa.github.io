@@ -1,11 +1,11 @@
 ---
-title: Cinema em Conflito
+title: CINEMA EM CONFLITO
 tech_specs:
-  - série documental, 13x26 min
+  - Série documental, 13x26 min
   - PILOTO FINALIZADO; PROJETO EM CAPTAÇÃO
 category: Projetos
 image: /uploads/cineconfl.jpg
 ---
-criada por Leo Garcia, Pedro Guindani e Giordano Gio\
+Criada por Leo Garcia, Pedro Guindani e Giordano Gio.\
 \
 O cinema de países e regiões que passaram por sérios conflitos mas não deixaram de refletir em imagens suas identidades.
