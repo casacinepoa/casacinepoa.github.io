@@ -1,5 +1,5 @@
 ---
-title: CINEMA EM CONFLITO
+title: CInema em conflito
 tech_specs:
   - Série documental, 13x26 min
   - PILOTO FINALIZADO; PROJETO EM CAPTAÇÃO
@@ -8,4 +8,6 @@ image: /uploads/cineconfl.jpg
 ---
 Criada por Leo Garcia, Pedro Guindani e Giordano Gio.\
 \
-O cinema de países e regiões que passaram por sérios conflitos mas não deixaram de refletir em imagens suas identidades.
+O cinema de países e regiões que passaram por sérios conflitos mas não deixaram de refletir em imagens suas identidades.\
+\
+P﻿iloto já concluído (63 min): "Era uma vez um país - Iugoslávia"
