@@ -1,11 +1,11 @@
 ---
-title: MOTEL PÉROLA
+title: Motel Pérola
 tech_specs:
-  - longa-metragem, ficção
-  - EM CAPTAÇÃO DE RECURSOS
+  - Longa-metragem, ficção
+  - EM CAPTAÇÃO
 category: Projetos
 image: /uploads/mot-perola.jpg
 ---
-Roteiro de Jorge Furtado.\
+Roteiro e direção de Jorge Furtado.\
 \
 Uma comédia romântica sobre os algoritmos do prazer.
