@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O HOMEM QUE COPIAVA abre a mostra "Primavera Gaúcha" em Brasília
-date: 2023-06-03 16:24:05
+date: 2023-06-02 16:24:05
 ---
 MOSTRA 'PRIMAVERA GAÚCHA' DESTACA PRODUÇÃO AUDIOVISUAL DO RS NA EXPOTCHÊ\
 [Coletiva.net](https://coletiva.net/noticias/mostra-primavera-gaucha-destaca-producao-audiovisual-do-rs-na-expotche,429695.jhtml), 02/06/2023 12:00
