@@ -56,4 +56,6 @@ details:
       rlúdio-créditos)"
 original_path: /os-filmes/curtas/interlúdio
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Entre um amor desesperado, daqueles que acabam com a louça no chão, e uma paixão romântica, daquelas que parecem que nunca vão acabar, um freqüentador de supermercados tem um caso passageiro com a menina da caixa.
