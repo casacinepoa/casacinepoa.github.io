@@ -42,4 +42,6 @@ details:
       tml)"
 original_path: /os-filmes/distribuição/curtas/amigo-lupi
 ---
+D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
+\
 Documentário. O mais famoso compositor popular do Rio Grande do Sul, Lupicínio Rodrigues (1914-1974) tem sua vida lembrada através de suas canções e depoimentos de amigos.
