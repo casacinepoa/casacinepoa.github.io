@@ -219,4 +219,6 @@ details:
       * [Música](/uploads/tolerancia.mp3)
 original_path: /os-filmes/produção/longas/tolerância.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Márcia e Júlio, depois de 20 anos de casados e com uma filha adolescente, se veem obrigados a confrontar suas civilizadas teorias sobre o sexo e a política com a realidade, descobrindo que nem o mundo, nem eles mesmos, ainda são suficientemente civilizados.
