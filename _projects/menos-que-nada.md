@@ -1,8 +1,11 @@
 ---
+title: Menos que nada
 tech_specs:
   - (HD, 105 min, cor, 2012)
   - (janela 1.77, som Dolby 5.1)
 category: Longas-metragens
+image: /uploads/mqn-imgr.jpeg
+image_credits: "Foto por Marcelo Nunes: Felipe Kannenberg e Rosanne Mulholland"
 where_to_watch: []
 details:
   - title: Créditos
@@ -167,8 +170,7 @@ synopsis: Dante está internado num hospital psiquiátrico com diagnóstico de
   psiquiatra se interessa pelo caso após ver Dante surtar no pátio do hospital.
   Disposta a desvendar as relações sociais do seu paciente, a médica faz uma
   série de entrevistas com pessoas que conviviam com ele antes do internamento.
-title: Menos que nada
-image: /uploads/mqn-imgr.jpeg
-image_credits: "Foto por Marcelo Nunes: Felipe Kannenberg e Rosanne Mulholland"
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Dante está internado num hospital psiquiátrico com diagnóstico de esquizofrenia, sem falar com ninguém, nem receber visitas. Uma jovem psiquiatra se interessa pelo caso após ver Dante surtar no pátio do hospital. Disposta a desvendar as relações sociais do seu paciente, a médica faz uma série de entrevistas com pessoas que conviviam com ele antes do internamento.
