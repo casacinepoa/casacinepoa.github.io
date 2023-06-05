@@ -38,4 +38,6 @@ details:
     content: "* Créditos completos"
 original_path: /os-filmes/distribuição/batalha-naval
 ---
+D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
+\
 O desastre da queda de uma ponte, seguido pelo maior de todos os desastres: a estupidez humana.
