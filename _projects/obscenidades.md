@@ -58,4 +58,6 @@ details:
       ades-créditos.html)"
 original_path: /os-filmes/distribuição/obscenidades
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Uma dona-de-casa burguesa tem sua vida abalada por uma série de cartas anônimas que recebe periodicamente, cada vez mais obscenas. A princípio, ela acredita que o remetente seja um completo desconhecido, depois começa a suspeitar dos amigos de seu marido. Mas não ousa falar com o marido sobre as cartas ou seu conteúdo: permance ansiosa, pensando em suicídio, e sempre à espera do carteiro.
