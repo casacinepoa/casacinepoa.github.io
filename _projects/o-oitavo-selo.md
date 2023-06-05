@@ -44,4 +44,6 @@ details:
       * Festival de Cinema e Vídeo de Curitiba/2000: Melhor Roteiro e Melhor Filme
 original_path: /os-filmes/distribuição/o-oitavo-selo
 ---
+D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
+\
 Um jovem, após ter brigado com sua mulher, resolve se suicidar. A Morte chega e os dois mantêm uma longa conversa num movimentado bar de Porto Alegre.
