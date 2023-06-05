@@ -45,4 +45,6 @@ details:
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/curtas/o-futuro-da-terra-créditos.html)
 original_path: /os-filmes/realização/vídeos/o-futuro-da-terra.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 No assentamento 30 de Maio, em Charqueadas, Rio Grande do Sul, 40 famílias assentadas em 1990 mostram que é possível resistir, produzir e viver coletivamente da terra. Apenas um exemplo de como a terra brasileira pode ser generosa quando homens e mulheres trabalham pensando no futuro de todos.
