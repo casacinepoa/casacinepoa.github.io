@@ -40,6 +40,6 @@ Os nomes mais repetidos nas equipes (com exceção dos sócios da Casa) são os 
 
 #### Elencos
 
-Os nomes mais repetidos nos elencos dos filmes da Casa até dezembro de 2007 são os seguintes:
+Os nomes mais repetidos nos elencos dos filmes da Casa até dezembro de 2017 são os seguintes:
 
 \[lista_elencos]
