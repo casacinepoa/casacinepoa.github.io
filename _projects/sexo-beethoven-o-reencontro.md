@@ -40,4 +40,6 @@ details:
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/produção/curtas/sexo-beethoven-o-reencontro-créditos-completos.html)
 original_path: /os-filmes/produção/curtas/sexo-beethoven-o-reencontro.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Dois rapazes heterossexuais (mas não muito) convidam duas prostitutas ingênuas (mas não muito) para uma noite de sexo. Nas conversas preliminares, um pouco de poesia, outro tanto de filosofia e doses cavalares de baixaria, tudo com Beethoven ao fundo. Mas, na hora do sexo, a verdade aparece.
