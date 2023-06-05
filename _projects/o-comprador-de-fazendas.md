@@ -38,4 +38,6 @@ details:
       ([Amélia Gonzalez e Elena Corrêa](http://www.tribunadonorte.com.br/anteriores/010512/colunas/controle.html), Tribuna do Norte, Natal, 12/05/2001)
 original_path: /os-filmes/realização/episódios-de-tv/o-comprador-de-fazendas.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Episódio da Série "Brava Gente" da TV Globo. Família endividada tenta vender sua fazenda decadente para produtor de cinema, que planeja filmar uma adaptação do conto "O comprador de fazendas", de Monteiro Lobato e precisa de uma locação adequada. Tentando enganar o produtor, a família disfarça as más condições da propriedade.
