@@ -80,4 +80,6 @@ details:
       * [Créditos completos](http://www.casacinepoa.com.br/node/572)
 original_path: /os-filmes/distribuição/longas/inverno.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Aos 24 anos, nosso herói mora sozinho, é jornalista formado mas trabalha numa imobiliária. Identifica-se com a cidade sombria onde vive, com seu apartamento cheio de discos e livros, com os filmes a que assiste. Mas tem pouca coisa em comum com a namorada, os amigos, os pais, os colegas de serviço. Não consegue e não se esforça para conciliar os diferentes mundos por onde transita. Mas esta situação não pode durar muito tempo, e ele vai ser obrigado a dar uma resposta, ao final de doze dias de frio em Porto Alegre.
