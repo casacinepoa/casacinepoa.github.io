@@ -56,4 +56,6 @@ details:
       via-créditos.html)"
 original_path: /os-filmes/curtas/o-corpo-de-flávia.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Uma menina de quinze anos é espancada pelo pai e busca abrigo na casa de uma amiga. Entre lágrimas e soluços, observa o pai da sua amiga. Ele sente pena de uma criança, mas ela é uma mulher. Nesta noite, eles terão que descobrir a diferença entre paixão e compaixão.
