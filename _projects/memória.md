@@ -97,4 +97,6 @@ details:
       a-créditos-completos)"
 original_path: /os-filmes/produção/curtas/memória.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 No Brasil, as cópias de filmes podem ser exibidas por 5 anos, depois são destruídas. Uma fábrica em São Paulo utiliza cópias de filmes como matéria prima para confecção de vassouras. Após 25 anos afastado da vida pública, Jânio Quadros volta a se eleger prefeito de São Paulo. 1989 é um ano decisivo para o Brasil: a primeira eleição presidencial direta em três décadas. Alguns candidatos são nossos velhos conhecidos. Mas ninguém lembra mais o que aconteceu da última vez.
