@@ -1,6 +1,6 @@
 ---
 title: Carlos Cunha Filho
-image: /uploads/cunha.jpg
+image: /uploads/31_cunha-3.jpg
 order: 22
 category: elencos
 ---
