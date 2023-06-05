@@ -11,6 +11,3 @@ items:
     url: /sobre/casa/
   - title: Outras atividades
     url: /sobre/outras-atividades/
-  - title: Teste nos menus
-    url: /contato/
-    required: true
