@@ -30,4 +30,6 @@ details:
       réditos)"
 original_path: /os-filmes/distribuição/no-amor
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Um grupo de artesãos vende carteiras, cintos, bolsas e sandálias na rua da Ladeira, mas a produção é desorganizada e rende pouco. Um jovem empresário resolve investir nos garotos, divide-os em grupos de trabalho e diminui as horas de lazer. Em troca, oferece-lhes um ótimo lugar para morar. A "empresa" passa a dar lucro, mas os que trabalham continuam ganhando pouco.
