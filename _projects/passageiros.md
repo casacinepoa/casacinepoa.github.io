@@ -41,4 +41,6 @@ details:
       os-créditos)"
 original_path: /os-filmes/distribuição/passageiros
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Um assaltante típico. Um típico motorista de táxi. Um trajeto típico pela noite de Porto Alegre, da estação rodoviária até uma rua deserta. Mas, na hora do assalto, o motorista não reage como deveria. Enquanto isso, na TV, o ministro da justiça discursa contra a violência.
