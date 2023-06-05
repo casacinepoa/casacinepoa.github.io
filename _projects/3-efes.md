@@ -86,4 +86,6 @@ details:
       (Hélio Nascimento, JORNAL DO COMÉRCIO, Porto Alegre, 14/12/2007)
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Sissi é uma jovem universitária que sustenta, com bastante dificuldade, o pai viúvo e o irmão pequeno. Ela volta e meia recorre aos conselhos de sua tia Martina, uma dona-de-casa entediada que enfrenta uma crise no casamento e está atraída por William, um catador de papel. Rogério, marido de Martina, enfrenta problemas no trabalho, já que sua última campanha publicitária foi um fracasso e agora ele corre o risco de ser demitido.
