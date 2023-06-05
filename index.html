@@ -22,22 +22,6 @@ layout: default
 
 <section class="contained posts_section">
   <h2 class="section_title">
-    No blog
-  </h2>
-
-  <div class="posts_list">
-    {%- for post in site.posts limit: 4 -%}
-      {%- include home/post.html -%}
-    {%- endfor -%}
-  </div>
-
-  <a class="archive_link" href="/blog/">
-    Ver todos os posts no blog
-  </a>
-</section>
-
-<section class="contained posts_section">
-  <h2 class="section_title">
     Notícias da Casa
   </h2>
 
@@ -51,6 +35,22 @@ layout: default
 
   <a class="archive_link" href="/noticias/">
     Visite o arquivo de notícias
+  </a>
+</section>
+
+<section class="contained posts_section">
+  <h2 class="section_title">
+    No blog
+  </h2>
+
+  <div class="posts_list">
+    {%- for post in site.posts limit: 4 -%}
+      {%- include home/post.html -%}
+    {%- endfor -%}
+  </div>
+
+  <a class="archive_link" href="/blog/">
+    Ver todos os posts no blog
   </a>
 </section>
 

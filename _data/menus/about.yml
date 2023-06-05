@@ -1,13 +1,13 @@
 items:
-  - title: Os Sócios
+  - title: Sócios
     url: /sobre/socios/
-  - title: Funcionários
-    url: "/sobre/funcionarios/"
+  - title: Equipe fixa
+    url: /sobre/funcionarios/
   - title: Ex-sócios
-    url: "/sobre/ex-socios/"
+    url: /sobre/ex-socios/
   - title: Colaboradores
-    url: "/sobre/colaboradores/"
+    url: /sobre/colaboradores/
   - title: Sobre a Casa
-    url: "/sobre/casa/"
+    url: /sobre/casa/
   - title: Outras atividades
-    url: "/sobre/outras-atividades/"
+    url: /sobre/outras-atividades/

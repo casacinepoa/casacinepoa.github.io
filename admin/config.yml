@@ -3,7 +3,7 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: main # Branch to update (master by default)
 locale: pt
-# local_backend: true
+local_backend: true
 media_folder: "uploads"
 publish_mode: editorial_workflow
 collections:
@@ -383,7 +383,6 @@ collections:
       Os menus de navegação do site.
     create: false
     delete: false
-    publish: false
     editor:
       preview: false
     files:
@@ -436,6 +435,7 @@ collections:
                 value_field: permalink
               - label: Link externo
                 name: required
+                required: false
                 widget: boolean
                 hint: >-
                   Se ativo, abrirá o link em uma nova janela.
@@ -478,7 +478,8 @@ collections:
     sort: "title:asc"
     create: true
     delete: true
-    publish: false
+    editor:
+      preview: false
     slug: "{{slug}}"
     description: >-
       As pessoas envolvidas na Casa, sejam os sócios, funcionários, equipe e elenco.
