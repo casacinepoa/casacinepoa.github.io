@@ -117,4 +117,6 @@ details:
       "Um dos primeiros fatores que chama a atenção em DEUS EX-MACHINA é que grande parte do filme é feita em 'primeiro plano'. (...) Se pensarmos que Dolores está paralisada em uma cama, podemos entender que a estratégia do primeiro plano iguala todos os personagens no que diz respeito às imagens deles da cintura para baixo. Assim, podemos pensar que os primeiros planos criam a idéia de que todos personagens estão paralisados, todos eles estão mergulhados na forma como são.([Fabiano de Souza](http://www.contracampo.he.com.br/47/deusex.htm), revista virtual CONTRACAMPO, janeiro/2003)
 original_path: /os-filmes/produção/curtas/deus-ex-machina.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Dolores, mulher bonita, rica e paralítica, contrata o detetive Otávio para seguir seu marido Inácio e descobrir qual é a sua verdadeira relação com uma jovem chamada Alice. Uma história de mentiras, de pistas falsas e de motivações obscuras, em que quatro personagens de moral duvidosa tentam parecer honestos uns para os outros.
