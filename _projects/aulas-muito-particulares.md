@@ -39,4 +39,6 @@ details:
       ito-particulares-créditos.html)"
 original_path: /os-filmes/distribuição/aulas-muito-particulares
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Um garoto de 18 anos é obrigado a freqüentar um curso para receber a herança de seu pai. Na primeira lição, um beijo. Na segunda, um corpo de mulher. Na terceira, a cartilha do ato sexual. Outras lições virão, e o garoto ainda terá que enfrentar o exame final.
