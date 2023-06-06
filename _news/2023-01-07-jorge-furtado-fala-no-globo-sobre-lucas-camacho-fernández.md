@@ -3,12 +3,11 @@ layout: post
 title: Jorge Furtado fala n'O Globo sobre "Lucas Camacho Fernández"
 date: 2023-01-07 16:24:57
 ---
-JORGE FURTADO: 'SE O LIVRO FOR BOM OU RUIM, SOU O ÚNICO CULPADO'
-Por Emiliano Urbim - Porto Alegre
-O Globo, 07/01/2023 | 07h22
-https://oglobo.globo.com/cultura/noticia/2023/01/jorge-furtado-se-o-livro-for-bom-ou-ruim-sou-o-unico-culpado.ghtml
-
-Ao lançar romance histórico "As aventuras de Lucas Camacho Fernandez", cineasta e escritor gaúcho fala sobre perspectivas para a cultura, adaptação de Guimarães Rosa e criação: 'A literatura é solitária'
+JORGE FURTADO: 'SE O LIVRO FOR BOM OU RUIM, SOU O ÚNICO CULPADO'\
+Por Emiliano Urbim - Porto Alegre[\
+O Globo, 07/01/2023 | 07h22](https://oglobo.globo.com/cultura/noticia/2023/01/jorge-furtado-se-o-livro-for-bom-ou-ruim-sou-o-unico-culpado.ghtml)\
+\
+Ao lançar o romance histórico "As aventuras de Lucas Camacho Fernandez", cineasta e escritor gaúcho fala sobre perspectivas para a cultura, adaptação de Guimarães Rosa e criação: 'A literatura é solitária'
 
 Na tarde em que Jorge Furtado recebeu o repórter sob o pretexto de falar de seu livro novo, o romance histórico "As aventuras de Lucas Camacho Fernandez", e futuros projetos, o clima era de nostalgia.
 
