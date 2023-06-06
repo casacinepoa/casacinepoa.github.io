@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AOS OLHOS DE ERNESTO na mostra dos melhores do SESC
-date: 2023-06-06 16:44:43
+date: 2021-04-14 16:44:43
 ---
 SESC MELHORES FILMES: PRODUÇÕES NACIONAIS E INTERNACIONAIS, EM PROGRAMAÇÃO GRATUITA E ONLINE\
 [Folha de Pernambuco, 12/04/2021 | 15:35](https://www.folhape.com.br/cultura/47o-festival-sesc-melhores-filmesproducoes-nacionais-e/179759/)
