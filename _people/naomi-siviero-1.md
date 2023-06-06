@@ -1,7 +1,7 @@
 ---
 title: Naomi Siviero
 image: /uploads/naomi.jpg
-role: Assistente de produção executiva
+role: Produção executiva
 order: 0
 links:
   - title: casa@casacinepoa.com.br
