@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RASGA CORAÇÃO na mostra "Ditadura nunca mais" do Canal Brasil
-date: 2023-06-06 17:09:12
+date: 2021-04-13 17:09:12
 ---
 RASGA CORAÇÃO, produção da Casa de Cinema de Porto Alegre com direção de Jorge Furtado, é cartaz da mostra "Ditadura nunca mais" do Canal Brasil nesta quarta-feira, 14 de abril, a partir das 18 horas.
 
