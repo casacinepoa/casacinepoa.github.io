@@ -108,10 +108,9 @@ details:
       ([Marco Antonio Barbosa, Jornal do Brasil, 17/03/2006](http://jbonline.terra.com.br/jb/papel/cadernos/programa/2006/03/16/jorcolama20060316002.html))
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/sal-de-prata-texto-inicial.html)
+      * Roteiro
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/sal-de-prata-texto-final.html)
+      * Texto final
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/sal-de-prata.html)
 
@@ -124,4 +123,6 @@ synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \
-Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.
+Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.\
+\
+[MÚSICA](https://www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3) *("Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon)*
