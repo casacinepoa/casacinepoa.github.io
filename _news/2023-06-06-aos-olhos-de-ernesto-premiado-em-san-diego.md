@@ -1,9 +1,9 @@
 ---
 layout: post
 title: AOS OLHOS DE ERNESTO premiado em San Diego
-date: 2023-06-06 17:26:51
+date: 2021-03-21 17:26:51
 ---
-AOS OLHOS DE ERNESTO, produção da Casa de Cinema de Porto Alegre com direção de Ana Luiza Azevedo, recebeu esta noite o prêmio principal - Melhor Filme de Ficção ("Best Narrative Feature") - no 28º Festival de Cinema Latino de San Diego, na Califórnia. Devido à pandemia, o festival ocorreu totalmente online, no período de 11 a 21 de março.
+AOS OLHOS DE ERNESTO, produção da Casa de Cinema de Porto Alegre com direção de Ana Luiza Azevedo, recebeu esta noite o prêmio principal - Melhor Filme de Ficção ("Best Narrative Feature") - no 28º [Festival de Cinema Latino de San Diego](https://sdlatinofilm.com/), na Califórnia. Devido à pandemia, o festival ocorreu totalmente online, no período de 11 a 21 de março.
 
 AOS OLHOS DE ERNESTO já havia sido premiado na Mostra de Cinema de São Paulo (prêmio da crítica), no Festival Internacional de Punta del Este (melhor filme do júri popular e melhor ator), no Festival de Cinema Brasileiro de Miami (melhor filme, melhor direção e melhor roteiro) e no FIM - Festival Internacional de Mulheres no Cinema (melhor filme do júri popular).
 
