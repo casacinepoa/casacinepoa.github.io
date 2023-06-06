@@ -4,7 +4,7 @@ tech_specs:
   - (35 mm, 96 min, cor, 2005)
   - (janela 1.85, som óptico Dolby SR, som digital Dolby)
 category: Longas-metragens
-image: /uploads/sdp-im.jpeg
+image: /uploads/saldeprata-2a.jpg
 image_credits: "Foto por Jacob Solitrenick: Maria Fernanda Cândido e Bruno Garcia"
 details:
   - title: Créditos
