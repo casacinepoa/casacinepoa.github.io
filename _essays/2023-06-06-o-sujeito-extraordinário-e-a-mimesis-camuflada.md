@@ -6,15 +6,15 @@ category: Textos sobre Cinema
 date: 2003-03-21 20:59:05
 ---
 O SUJEITO EXTRAORDINÁRIO E A MIMESIS CAMUFLADA:\
-a representação da realidade no cinema.
+*a representação da realidade no cinema.*
 
-ou: Dois graus e meio de separação e as crianças das cidades do vale.\
-ou ainda: Por que desisti de fazer documentários.
+*ou: Dois graus e meio de separação e as crianças das cidades do vale.*\
+*ou ainda: Por que desisti de fazer documentários.*
 
 por  Jorge Furtado\
 21/03/2003
 
-(anotações para a "Terceira conferência internacional do documentário: imagens da subjetividade". Mesa: o sujeito extraordinário, com Eduardo Coutinho e Ismail Xavier. São Paulo, 09-11/04/2003.)
+*(anotações para a "Terceira conferência internacional do documentário: imagens da subjetividade". Mesa: o sujeito extraordinário, com Eduardo Coutinho e Ismail Xavier. São Paulo, 09-11/04/2003.)*
 
 Sempre desconfiei que a proporção 1/1,66, o formato mais comum da imagem cinematográfica, deveria ter alguma relação com a proporção do retângulo áureo, 1/1,618, o número natural (a:1 :: 1:1+a ou 0,618/1 = 1/1,618) em que se apóia a arquitetura clássica grega e, por conseqüência, a pintura renascentista. Minha desconfiança é tomada como certeza por David Mamet que, em seu estudo "Três usos da faca: sobre a natureza e a finalidade do drama", afirma que a lente de 35mm tem seu padrão de altura e largura baseado no Partenon. (1) Mas, excluído este padrão comum (que, reconheço, não é de pouca importância), sempre estranho o uso do termo "clássico" associado ao cinema. O que seria um filme "clássico"?
 
