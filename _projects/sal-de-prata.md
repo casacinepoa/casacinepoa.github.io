@@ -106,7 +106,7 @@ details:
       "Para Carlos Gerbase, o diretor de Sal de prata, a fidelidade é um fetiche. Seu longa anterior, TOLERÂNCIA, abordava a questão explicitamente, centrado no contexto do matrimônio. Este filme (que teve o lançamento no Rio adiado várias vezes desde o fim do ano passado) retoma o debate e adiciona uma variante: discute-se não só a traição conjugal, mas também a fidelidade à arte do cinema."\
 
       ([Marco Antonio Barbosa, Jornal do Brasil, 17/03/2006](http://jbonline.terra.com.br/jb/papel/cadernos/programa/2006/03/16/jorcolama20060316002.html))
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/sal-de-prata-texto-inicial.html)
