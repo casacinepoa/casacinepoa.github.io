@@ -30,6 +30,9 @@ details:
       Janaína Kremer (Mirabela)\
       Nelson Diniz (João Batista)\
       Júlio Andrade (Holmes)
+      
+      **Música:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon\
+      <audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
   - title: Prêmios
     content: |-
       * 33º Festival de Gramado, 2005:\
@@ -95,5 +98,7 @@ synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
 D﻿IREITOS ATUAIS: Prana Filmes\
 \
 Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.\
-\
-[MÚSICA](https://www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3) *("Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon)*
+
+**Música:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon
+
+<audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
