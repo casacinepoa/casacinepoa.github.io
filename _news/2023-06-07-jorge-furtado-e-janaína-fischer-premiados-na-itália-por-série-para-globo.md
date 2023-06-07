@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JORGE FURTADO E JANAÍNA FISCHER PREMIADOS NA ITÁLIA POR SÉRIE PARA GLOBO
+title: Jorge Furtado e Janaína Fischer premiados na Itália por série para Globo
 date: 2023-06-06 14:59:39
 ---
 A série da TV Globo "Todas as mulheres do mundo" foi uma das premaiadas no festival internacional de séries "Matera Fiction", no sul da Itália, região da Basilicata, encerrado nesta segunda-feira, 5 de junho. Baseada no clássico filme homônimo de Domingos de Oliveira (1966), "Todas as mulheres do mundo" foi escrita por Jorge Furtado e Janaína Fischer, ele sócio-fundador e ela uma frequente colaboradora da Casa de Cinema de Porto Alegre.
