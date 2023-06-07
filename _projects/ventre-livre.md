@@ -1,8 +1,11 @@
 ---
+title: Ventre Livre
 tech_specs:
   - (16 mm, 48 min, cor, 1994)
   - (janela 1.33, som óptico mono)
 category: Médias-metragens
+image: /uploads/vlivre-imgr.jpg
+image_credits: Foto de Carlos Gerbase
 where_to_watch:
   - title: Vimeo
     url: https://vimeo.com/239530546
@@ -106,9 +109,9 @@ synopsis: >+
   Maria do Carmo, Marlove - pessoas que nasceram no país com a mais desigual
   distribuição de renda do planeta. Um documentário sobre direitos reprodutivos
   no Brasil, enquanto o futuro não chega.
-
-title: Ventre Livre
-image: /uploads/vlivre-imgr.jpg
-image_credits: Foto de Carlos Gerbase
 ---
 O país do futuro é onde as crianças engravidam? O maior país católico do mundo é onde mais de trinta mil mulheres morrem em conseqüência de aborto? A 10ª economia do planeta é a do país onde 27% das mulheres estão esterilizadas? VENTRE LIVRE conta um pouco da história de Vera, Ivonete, Carmen, Denise, Maria do Carmo, Marlove - pessoas que nasceram no país com a mais desigual distribuição de renda do planeta. Um documentário sobre direitos reprodutivos no Brasil, enquanto o futuro não chega.
+
+**Tema musical**: "Esta é a nossa história", de Leo Henkin
+
+<audio src="//www.casacinepoa.com.br/sites/default/files/ventre_livre.mp3" controls />
