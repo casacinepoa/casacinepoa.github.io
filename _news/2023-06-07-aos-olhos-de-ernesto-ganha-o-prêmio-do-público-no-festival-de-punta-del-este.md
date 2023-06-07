@@ -1,8 +1,10 @@
 ---
 layout: post
 title: AOS OLHOS DE ERNESTO ganha o Prêmio do Público no Festival de Punta del Este
-date: 2023-06-07 17:14:08
+date: 2020-02-21 17:14:08
 ---
+2﻿1/02/2020
+
 AOS OLHOS DE ERNESTO, filme produzido pela Casa de Cinema de Porto Alegre com direção de Ana Luiza Azevedo, foi duplamente premiado no 23º Festival Internacional de Cine de Punta del Este, encerrado ontem, 20 de fevereiro.
 
 Além de Melhor Filme do Júri Popular, AOS OLHOS DE ERNESTO recebeu também o prêmio de Melhor Ator, para o protagonista Jorge Bolani.
