@@ -7,7 +7,8 @@ A série da TV Globo "Todas as mulheres do mundo" foi uma das premaiadas no fest
 
 - - -
 
-[MATERA FICTION 1 - Tutti i premi](https://www.cinemaitaliano.info/news/73714/matera-fiction-1-tutti-i-premi.html)05/06/2023, 12:22
+[MATERA FICTION 1 - Tutti i premi](https://www.cinemaitaliano.info/news/73714/matera-fiction-1-tutti-i-premi.html)\
+05/06/2023, 12:22
 
 Sono stati assegnati ieri nella serata di chiusura del MATERA FICTION, i Serial Award International, i premi in oro di Matera Fiction 2023 creati dal maestro orafo Michele Affidato.
 
