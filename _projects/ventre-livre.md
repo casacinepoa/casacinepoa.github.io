@@ -101,7 +101,7 @@ details:
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/ventre-livre.html)
 original_path: /os-filmes/produção/documentários/ventre-livre.html
-synopsis: >+
+synopsis: >
   O país do futuro é onde as crianças engravidam? O maior país católico do mundo
   é onde mais de trinta mil mulheres morrem em conseqüência de aborto? A 10ª
   economia do planeta é a do país onde 27% das mulheres estão esterilizadas?
@@ -114,4 +114,4 @@ O país do futuro é onde as crianças engravidam? O maior país católico do mu
 
 **Tema musical**: "Esta é a nossa história", de Leo Henkin
 
-<audio src="//www.casacinepoa.com.br/sites/default/files/ventre_livre.mp3" controls />
+<audio src="//www.casacinepoa.com.br/uploads/ventre_livre.mp3" controls />
