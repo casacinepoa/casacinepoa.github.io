@@ -8,30 +8,52 @@ image: /uploads/saldeprata-2a.jpg
 image_credits: "Foto por Jacob Solitrenick: Maria Fernanda Cândido e Bruno Garcia"
 details:
   - title: Créditos
-    content: |-
+    content: >-
       **Direção**: Carlos Gerbase\
+
       \
+
       **Produção Executiva**: Nora Goulart e Luciana Tomasi\
+
       **Roteiro**: Carlos Gerbase\
+
       **Direção de Fotografia**: Jacob Sarmento Solitrenick\
+
       **Direção de Arte**: Fiapo Barth\
+
       **Música**: Tiago Flores\
+
       **Diretora Assistente**: Ana Luiza Azevedo\
+
       **Direção de Produção**: Marco Baioto\
+
       **Montagem**: Giba Assis Brasil\
+
       \
+
       **Uma Produção da Casa de Cinema PoA**\
+
       \
+
       **Elenco Principal**:\
+
       Maria Fernanda Cândido (Cátia)\
+
       Camila Pitanga (Cassandra)\
+
       Marcos Breda (Veronese)\
+
       Bruno Garcia (Valdo)\
+
       Janaína Kremer (Mirabela)\
+
       Nelson Diniz (João Batista)\
+
       Júlio Andrade (Holmes)
-      
+
+
       **Música:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon\
+
       <audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
   - title: Prêmios
     content: |-
@@ -97,8 +119,8 @@ synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \
-Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.\
+Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.
 
-**Música:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon
+**T﻿ema musical:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon
 
 <audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
