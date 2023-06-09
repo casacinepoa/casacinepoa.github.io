@@ -10,3 +10,5 @@ Após as oficinas, os nonos anos se juntaram para realizar seu próprio curta-me
 Agradecimento especial para Gabriela Greco e Christian Pizzolatto.
 
 AO SOL E À SOMBRA é um projeto, em fase de produção, com financiamento do Edital SEDAC FAC FILMA RS - Pró-cultura, dirigido por Teresa Assis Brasil e Richard Tavares e produzido pela Casa de Cinema de Porto Alegre.
+
+![](/uploads/filmagem-asas.jpg)
