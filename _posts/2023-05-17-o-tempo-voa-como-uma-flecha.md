@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O Tempo voa como uma flecha
+title: O tempo voa como uma flecha
 author: jorge
 date: 2007-12-22 01:46:00
 ---
