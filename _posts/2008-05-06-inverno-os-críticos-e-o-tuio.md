@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Inverno, os críticos e o Tuio
-date: 2008-05-06 00:00 +0000
 author: giba
+date: 2008-05-06 00:00 +0000
 category: blog
-original_path: "/comment/reply/190/scripts.js.html"
 tags:
   - Casa de Cinema
   - cinema
+original_path: /comment/reply/190/scripts.js.html
 ---
-
 O protagonista não tinha nome. Era interpretado pelo Werner Schünemann e a gente o chamava de "Herói", embora ele não fizesse nada de heróico o filme todo. O filme se chamava "Inverno", tinha sido escrito e estava sendo dirigido pelo Carlos Gerbase. Eu era assistente de direção e produtor, mais ou menos o que o próprio Gerbase tinha sido pra mim e pro Nelson Nadotti no "Deu pra ti anos 70", dois anos antes. A equipe era mínima para um longa-metragem, mas altamente profissional para um super-8: Roberto Henkin, Alex Sernambi, Luciana Tomasi, Marta Biavaschi, Garlos Grübber. "Um bando e muitos outros", como diria o Bebeto Alves.
 
 A cena 46 do filme mostrava o Herói em seu ambiente de trabalho. O roteiro, concluído em julho de 1981, a descrevia em seis frases:
@@ -28,17 +27,39 @@ A decupagem redigida coletivamente (Gerbase, eu, Alex, Werner e Roberto) nem esp
 
 Lembrei de tudo isso porque, para nós, o Tuio Becker era o crítico que fechava a série, e era o único que percebia o olhar perplexo e perdido do Herói. Tuio era crítico, mas era também superoitista como nós. A gente fazia questão que ele fosse o primeiro a ver os nossos filmes. Nem sempre concordávamos com o que ele dizia, mas sempre o ouvíamos com atenção. Apesar de mais velho (e nem tanto assim, mas na época parecia), ele era da turma. Não sei se ele aceitaria essa turma, mas não posso fazer nada: pra mim, ele sempre foi da turma.
 
-Passados 26 anos, Luiz Carlos Merten e Hélio Nascimento seguem sendo dois dos mais importantes e assíduos críticos de cinema do país. Antônio Hohlfeldt, mesmo tendo se dedicado mais à política, não parou de escrever nem de dar aulas, é um intelectual em tempo integral. Hiron Goidanich, o Goida, está aposentado da imprensa, mas continua sendo a enciclopédia de cinema e de quadrinhos que os amigos consultam sempre que precisam. Ivo Egon Stigger é gerente de marketing e imprensa da Santa Casa, além de pai da Verônica.
+Passados 26 anos, Luiz Carlos Merten e Hélio Nascimento seguem sendo dois dos mais importantes e assíduos críticos de cinema do país. Antônio Hohlfeldt, mesmo tendo se dedicado mais à política, não parou de escrever nem de dar aulas, é um intelectual em tempo integral. Hiron Goidanich, o Goida, está aposentado da imprensa, mas continua sendo a enciclopédia de cinema e de quadrinhos que os amigos consultam sempre que precisam. Ivo Egon Stigger é gerente de marketing e imprensa da Santa Casa, além de pai da Verônica e da Helena.
 
 Paulo Fontoura Gastal, o P.F., o Calvero, o decano dos críticos gaúchos, o inventor do Festival de Gramado, o fundador do Clube de Cinema de Porto Alegre, desde 1996 abandonou esse mundo e a sua máquina de escrever no Correio do Povo. Luiz César Cozzatti sacaneou seus amigos em fevereiro de 2006, indo embora cedo demais, sem nem se despedir.
 
 E o Tuio, nascido Luiz Fernando Becker no dia 8 de agosto de 1943 (13 dias depois do Mick Jagger e 9 antes do Robert de Niro), foi saindo do ar há uns 5 anos, vítima do mal de Alzheimer, e apagou a luz esta semana, dia 2 de maio, mas continua da turma.
 
 ![](/uploads/tuio.jpg)
-_Tuio Becker encarando o Herói em "Inverno" (1982)_
+*Tuio Becker encarando o Herói em "Inverno" (1982)*
+
+- - -
 
 TEM MAIS
 
-- Texto sobre o Tuio no blog do [Luiz Carlos Merten](http://blogs.estadao.com.br/luiz-carlos-merten/tuio-becker/).
-- Texto da [Maristela Bairros](http://coletiva.dominiotemporario.com/site/coluna_detalhe.php?idColuna=1392), que foi colega do Tuio na Folha da Manhã e no Correio do Povo.
-- Para comprar o livro ["Sublime obsessão"](http://www.2001video.com.br/detalhes_produto_extra_livros.asp?produto=6609) (Unidade Editorial, 2003), reunindo críticas e textos de Tuio Becker.
+* Texto sobre o Tuio no [blog do Luiz Carlos Merten](<* http://blogs.estadao.com.br/luiz-carlos-merten/tuio-becker/>).
+* Texto da [Maristela Bairros](<* http://coletiva.dominiotemporario.com/site/coluna_detalhe.php?idColuna=1392>), que foi colega do Tuio na Folha da Manhã e no Correio do Povo.
+* Para comprar o livro "[Sublime obsessão](<* http://www.2001video.com.br/detalhes_produto_extra_livros.asp?produto=6609>)" (Unidade Editorial, 2003), reunindo críticas e textos de Tuio Becker.
+
+- - -
+
+**C﻿OMENTÁRIOS**
+
+**Enviado por eron duarte fagundes em 23 de maio de 2008.**
+
+*Meu caro Giba, confesso que me emocionei com tuas evocações do Tuio Becker ligadas ao filme "Inverno". Ah, os anos 80 de cinema em Porto Alegre!... Saudações.*
+
+**Enviado por Sergio Lulkin em 20 de maio de 2008.**
+
+*Giba, que beleza! Emociona por ser memória e, ao mesmo tempo, escrito como se tudo estivesse passando agora já, os nomes que lembramos e os que celebramos.*
+
+**Enviado por Carlos Gerbase em 09 de maio de 2008.**
+
+*Giba, que belo texto! Me fez voltar uns 25 anos. Também lembrei que, por motivos que não interessam explicar aqui, eu estava bastante triste na época em que planejamos, decupamos e filmamos a cena dos críticos. E lembro também que a idéia inicial era reunir todos eles numa mesma locação (uma imobiliária, por exemplo), o que estava se revelando impossível, porque os horários deles não permitiam. Aí tu disseste o óbvio: filmamos cada um em seu local de trabalho real, e depois a montagem se encarrega de juntá-los. Foi uma idéia tão simples quanto genial, e fez a minha tristeza diminuir um pouco. Agora todos estamos tristes com a saída de cena do Tuio, que fez a primeira crítica ("Uma surpresa que emociona", na Folha da Tarde) do meu primeiro filme ("Meu primo", co-direção de Nelson Nadotti e Hélio Alvarez). Mas o Tuio está no "Inverno", está nas nossas memórias e, para mim, será sempre aquele cara que, além de ver nossos filmes e palpitar, sabia ter um olhar sincero, mas carinhoso, com seus amigos do cinema. Grande abraço, Tuio. Grand abraço, Giba.*
+
+**Enviado por Henrique em 06 de maio de 2008.**
+
+*Muito da crítica passa pelo que conseguimos enxergar no outro, na obra, na vida... e o que conseguimos enxergar tem a ver com o que reconhecemos. E, de certa forma, a gente só reconhece ou que conhece. Por isso vejo algo de bastante simbólico nessaespécie de metalinguagem que foi fazer os críticos se verem na tela. Sobre a despedida de amigos (sempre dura), penso que memória é meu material para criar. abs*
