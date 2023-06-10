@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FUN HOME: O melhor filme do ano é de papel"
+title: "Fun home: O melhor filme do ano é de papel"
 author: jorge
 date: 2007-12-24 01:00:00
 ---
