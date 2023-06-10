@@ -24,7 +24,7 @@ E a história do diabo é que é interessante: nos primeiros anos, vários barri
 
 Boa essa, hein? Mas não tente espalhar uma história parecida em relação à sua conta bancária, ou ao rádio do seu carro. Não funcionaria. Não se fazem mais lendas antigas como antigamente.
 
-\*﻿\*\*\*\*\*
+- - -
 
 **C﻿OMENTÁRIOS**
 
