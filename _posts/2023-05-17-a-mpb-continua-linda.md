@@ -77,3 +77,9 @@ Não era hora de amar\
 Agora o que é que eu vou fazer?"*
 
 \* trecho de "Não tem solução", de Dorival Caymmi e Carlos Guinle, gravada por Tim Maia.
+
+- - -
+
+**Enviado por Henrique em 07 de fevereiro de 2008.**
+
+*o dj pode ser responsável por criar um ambiente através de uma "colagem" - juntar as músicas numa ordem determinada. A ordem pode fazer toda a diferença. o que talvez sejamais uma semelança com o cinema mais precisamente com a montagem cinematográfica. / Sobre a "nova" música brasileira acredito que ela é muito boa. Se partirmospara uma comparaçãoi com o que se convencionou chamar de fazede ouro da mpb temosque levar em conta o contexto, as ferramentas usadas, o entendimento da música, a relaçãocom a música etc em cada época. Quero dizer que; não podemosir em buscade um novo Chico Buarque porque aobrade Chicoetalvez o próprio Chico em última instânciasejam fruto de uma determinada condição de "temperatura e pressão" saca?*
