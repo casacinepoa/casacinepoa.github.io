@@ -38,9 +38,10 @@ Vocês acreditaram nesta história? Eu também não. E hoje pouca gente acredita
 
 Apesar disso, o livro de Stuart Kelly é excelente, lê-se como gibi. E tem preciosidades, como trechos das cartas de Kafka ao seu amigo Max Brod, implorando para que queimasse todos os seus originais não publicados, entre eles a "Carta ao pai". Brod, para o bem da humanidade, não atendeu ao último pedido de seu grande amigo. Destruir livros não é coisa que se peça a alguém. Muito menos aos amigos.
 
-Jorge Furtado
-
+Jorge Furtado\
 22 de dezembro de 2007
+
+- - -
 
 Sobre Téspis:
 http://en.wikipedia.org/wiki/Thespis
@@ -49,22 +50,18 @@ http://en.wikipedia.org/wiki/Thespis
 http://pt.wikipedia.org/wiki/Tespis
 (português)
 
-Sobre ésquilo:
-
-http://en.wikipedia.org/wiki/Aeschylus
-
+Sobre Ésquilo:\
+http://en.wikipedia.org/wiki/Aeschylus\
 (inglês)
 
-http://pt.wikipedia.org/wiki/%C3%89squilo
-
+http://pt.wikipedia.org/wiki/%C3%89squilo\
 (português)
 
-Para ler ésquilo, em inglês:
+Para ler Ésquilo, em inglês:
 http://www.bartleby.com/people/Aeschylu.html
 
 Sobre a antiga Biblioteca de Alexandria:
-http://educaterra.terra.com.br/voltaire/antiga/
-2002/10/31/002.htm
+http://educaterra.terra.com.br/voltaire/antiga/2002/10/31/002.htm
 
 Sobre a nova Biblioteca de Alexandria:
 http://www.bibalex.org/English/index.aspx
@@ -72,13 +69,9 @@ http://www.bibalex.org/English/index.aspx
 Google Livros
 http://books.google.com/books
 
-Para comprar ésquilo em português:
-http://compare.buscape.com.br/orestia-
-agamemnon-coeforas-eumenid-esquilo-
-8571101809.html
+Para comprar Ésquilo em português:
+http://compare.buscape.com.br/orestia-agamemnon-coeforas-eumenid-esquilo-8571101809.html
 
 ou
 
-http://www.bondfaro.com.br/livros.html?kw=
-orestia-agamemnon-coeforas
--eumenid-esquilo-8571101809
+http://www.bondfaro.com.br/livros.html?kw=orestia-agamemnon-coeforas-eumenid-esquilo-8571101809
