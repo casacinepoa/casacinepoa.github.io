@@ -10,6 +10,11 @@ where_to_watch:
   - title: Vimeo
     url: https://vimeo.com/239530546
 details:
+  - title: Tema musical
+    content: |-
+      "﻿Esta é a nossa história", de Leo Henkin
+
+      <audio src="//nova.casacinepoa.com.br/uploads/ventre_livre.mp3 controls />
   - title: Créditos
     content: |-
       **Direção:** Ana Luiza Azevedo\
