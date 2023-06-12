@@ -8,53 +8,28 @@ image: /uploads/saldeprata-2a.jpg
 image_credits: "Foto por Jacob Solitrenick: Maria Fernanda Cândido e Bruno Garcia"
 details:
   - title: Créditos
-    content: >-
+    content: |-
       **Direção**: Carlos Gerbase\
-
       \
-
       **Produção Executiva**: Nora Goulart e Luciana Tomasi\
-
       **Roteiro**: Carlos Gerbase\
-
       **Direção de Fotografia**: Jacob Sarmento Solitrenick\
-
       **Direção de Arte**: Fiapo Barth\
-
       **Música**: Tiago Flores\
-
       **Diretora Assistente**: Ana Luiza Azevedo\
-
       **Direção de Produção**: Marco Baioto\
-
       **Montagem**: Giba Assis Brasil\
-
       \
-
       **Uma Produção da Casa de Cinema PoA**\
-
       \
-
       **Elenco Principal**:\
-
       Maria Fernanda Cândido (Cátia)\
-
       Camila Pitanga (Cassandra)\
-
       Marcos Breda (Veronese)\
-
       Bruno Garcia (Valdo)\
-
       Janaína Kremer (Mirabela)\
-
       Nelson Diniz (João Batista)\
-
       Júlio Andrade (Holmes)
-
-
-      **Música:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon\
-
-      <audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
   - title: Prêmios
     content: |-
       * 33º Festival de Gramado, 2005:\
@@ -106,6 +81,13 @@ details:
       "Para Carlos Gerbase, o diretor de Sal de prata, a fidelidade é um fetiche. Seu longa anterior, TOLERÂNCIA, abordava a questão explicitamente, centrado no contexto do matrimônio. Este filme (que teve o lançamento no Rio adiado várias vezes desde o fim do ano passado) retoma o debate e adiciona uma variante: discute-se não só a traição conjugal, mas também a fidelidade à arte do cinema."\
 
       ([Marco Antonio Barbosa, Jornal do Brasil, 17/03/2006](http://jbonline.terra.com.br/jb/papel/cadernos/programa/2006/03/16/jorcolama20060316002.html))
+  - title: Tema musical
+    content: >-
+      "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann
+      Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon
+
+
+      <audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
   - title: Veja mais
     content: |-
       * Roteiro
@@ -120,7 +102,3 @@ synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
 D﻿IREITOS ATUAIS: Prana Filmes\
 \
 Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.
-
-**T﻿ema musical:** "Largo arioso", 2º movimento do Concerto em Fá Menor, BWV 1056, de Johann Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon
-
-<audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
