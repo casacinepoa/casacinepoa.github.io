@@ -34,6 +34,8 @@ Artigo na Wikipédia em português sobre [Jimmy Wales](http://pt.wikipedia.org/w
 
 ["Referência fast-food"](http://cartacapital.com.br/edicoes/2007/02/431/referencia-fast-food), um artigo mal-humorado mas bem argumentado de Antonio Luiz Monteiro Coelho da Costa (20/05/2007) CONTRA a Wikipédia.
 
+
+
 - - -
 
 **COMENTÁRIOS**
