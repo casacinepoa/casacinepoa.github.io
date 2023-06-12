@@ -10,12 +10,6 @@ where_to_watch:
   - title: Vimeo
     url: https://vimeo.com/239530546
 details:
-  - title: Tema musical
-    content: >-
-      "﻿Esta é a nossa história", de Leo Henkin
-
-
-      <audio src="//nova.casacinepoa.com.br/uploads/ventre_livre.mp3" controls />
   - title: Créditos
     content: |-
       **Direção:** Ana Luiza Azevedo\
@@ -96,6 +90,12 @@ details:
       "O filme começa com números sobre a nossa desigualdade social. Mas não pára nos números. É preciso entender, muito profundamente, que cada número nessas estatísticas é um ser humano como você. Ventre livre é um filme capaz de comunicar isso, com talento. É bom cinema, porque é justo."
 
       (David França Mendes, Estação Virtual, 01/08/96)
+  - title: Tema musical
+    content: >-
+      "﻿Esta é a nossa história", de Leo Henkin
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/ventre_livre.mp3" controls />
   - title: Mais sobre
     content: >-
       *
