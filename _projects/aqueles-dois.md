@@ -84,12 +84,18 @@ details:
       "Os meios tons, as grandes elipses, as cenas interrompidas, a narração 'off', a marcação visual da passagem do tempo transpõem para a tela a subjetividade e a sutileza de sentimentos do conto literário. O ritmo cadenciado do filme marca a passagem do que pode ser uma substituição às mulheres (a belíssima cena da dança na noite embriagada) para o que vem a se tornar uma relação insubstituível. O momento indefinível em que as pequenas afinidades tornam se as únicas grandes certezas. (...) Não há aqui a dor da fatalidade (da VERA de Sérgio Toledo) ou o elogio homoerótico (do CINEMA FALADO de Caetano Veloso). AQUELES DOIS não elege como único o caminho de Raul e Saul. Acena com a possibilidade do encontro das pessoas. Do direito de ser feliz, deixando para trás as almas infelizes e desamadas."\
 
       (Régis Muller, ZERO HORA, Porto Alegre, 15/12/87)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       * [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/aqueles-dois.html)
 
       * [Música](/uploads/Aqueles_dois.mp3)
+  - title: Tema musical
+    content: >-
+      ("Vinheta Tu me acostumbraste", de Augusto Licks)
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Aqueles_dois.mp3" controls />
 original_path: /os-filmes/distribuição/longas/aqueles-dois.html
 ---
 Raul é extrovertido e brincalhão. Vem de um casamento frustrado e passa o tempo ouvindo e tocando melancólicos boleros no pequeno apartamento onde mora. Saul é tímido, de espírito crítico e amargo. Vem de um noivado tão interminável que um dia terminou. Também de uma recente tentativa de suicídio. Raul e Saul são duas pessoas simples, sensíveis, solitárias, e se conhecem no primeiro dia de trabalho em uma repartição pública.
