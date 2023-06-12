@@ -24,9 +24,6 @@ details:
       Lisa Becker (Marília)\
       Werner Schünemann (Voz do Mágico, português)\
       Sérgio Lulkin (Voz do Mágico, inglês)
-
-      **Música:**\
-      Três minutos", de Leo Henkin
   - title: Prêmios
     content: >-
       * 6º Prêmio Iecine (Governo do Estado/RS), 1997-98:\
@@ -80,16 +77,20 @@ details:
       "La película de Ana Luiza Azevedo dura sólo tres minutos, pero en ésta hay dos temas fundamentales: la ruptura sentimental y el deseo de encontrar un mejor futuro."\
 
       (Juan Rodríguez Flores, La Opinión, Los Angeles, 28/07/2000)
-  - title: Mais sobre
+  - content: >-
+      Três minutos", de Leo Henkin
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Tres_minutos.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/três-minutos.html)
 
       * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/três-minutos/fotos-de-cena.html)
 
-      * [Cannes 2000](https://www.casacinepoa.com.br/os-filmes/produção/curtas/três-minutos/cannes2000.html)
-
-      * [Música](/uploads/Tres_minutos.mp3)
+      * [Cannes 2000](https://www.casacinepoa.com.br/os-filmes/produção/curtas/três-minutos/cannes2000.html)[](/uploads/Tres_minutos.mp3)
 
       * [Créditos completos](http://www.casacinepoa.com.br/node/481)
 original_path: /os-filmes/produção/curtas/três-minutos.html
