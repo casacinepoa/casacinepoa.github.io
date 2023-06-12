@@ -21,7 +21,7 @@ details:
       **Assistentes de direção:** Cláudio Penadez e João Knijnik
 
       **Produção**: Sol, Cinema e Vídeo Ltda.\
-      **Distribuição:** Casa de Cinema P.A.
+      **Distribuição:** Casa de Cinema PoA
 
       **Elenco principal:**\
       Giuseppe Oristânio (Gato)\
