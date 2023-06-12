@@ -29,9 +29,6 @@ details:
       Sandra Dani (atriz, Jocasta)\
       Cláudio Heemann (psiquiatra)\
       Tânia Carvalho (Helô)
-
-      **Música:**\
-      "Mulata bacana", de José Roberto Torero
   - title: Prêmios
     content: >-
       * 4º Prêmio Iecine (Governo do Estado/RS), 1995:\
@@ -42,12 +39,16 @@ details:
         Melhor Direção de Arte.
       * 16° Festival Cinematográfico Internacional del Uruguay, Montevideo, 1998:\
         Menção especial.
-  - title: Mais sobre
+  - content: >-
+      "Mulata bacana", de José Roberto Torero
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Um_Homem_serio.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       * [Texto
-      final](https://www.casacinepoa.com.br/os-filmes/roteiros/um-homem-sério-texto-final.html)
-
-      * [Música](/uploads/Um_Homem_serio.mp3)
+      final](https://www.casacinepoa.com.br/os-filmes/roteiros/um-homem-sério-texto-final.html)[](/uploads/Um_Homem_serio.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/um-homem-sério.html)
 original_path: /os-filmes/produção/curtas/um-homem-sério.html
