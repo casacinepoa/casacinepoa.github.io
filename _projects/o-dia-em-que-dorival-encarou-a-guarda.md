@@ -84,12 +84,16 @@ details:
       "É desconcertante notar que basta a autoridade para que se acate passivamente a uma ordem ou crie-se um direito. No filme, obedece-se a uma ordem sem se saber sua fonte e fundamentos. A 'ideologia burocrática' não consegue ir além de si mesma, esgotando-se e mostrando sua verdadeira natureza. (...) Triste ironia: o prisioneiro tem seu pedido tragicamente atendido! Vemos, quando encurralada, a "ideologia burocrática" mostrar seu autoritarismo e violência. A truculência, no filme, é escancarada."\
 
       (Vinícius Magalhães Pinheiro, [Revista Crítica do Direito](http://www.criticadodireito.com.br/home/o-dia-em-que-dorival-encarou-a-guarda), 27/06/2011)
-  - title: Mais sobre
+  - content: >-
+      "Limpem o sangue", de Augusto Licks
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/O_Dia_em_que_Dorival-.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       * [Texto
-      final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-dia-em-que-dorival-encarou-guarda-texto-final.html)
-
-      * [Música](/uploads/O_Dia_em_que_Dorival-.mp3)
+      final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-dia-em-que-dorival-encarou-guarda-texto-final.html)[](/uploads/O_Dia_em_que_Dorival-.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-dia-em-que-dorival-encarou-guarda.html)
 original_path: /os-filmes/produção/curtas/o-dia-em-que-dorival-encarou-guarda.html
