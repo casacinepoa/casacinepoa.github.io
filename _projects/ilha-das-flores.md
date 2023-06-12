@@ -25,9 +25,6 @@ details:
       **Elenco Principal**:\
       Paulo José (Narração)\
       Ciça Reckziegel (Dona Anete)
-
-      **Música:**\
-      "Fantasia sobre O Guarani", de Geraldo Flach, com Zé Flávio na guitarra
   - title: Prêmios
     content: >-
       * 17º Festival do Cinema Brasileiro, Gramado, 1989:\
@@ -157,7 +154,13 @@ details:
       (Isabelle Regnier, LE MONDE, Paris, 13/02/2004)\
 
       http://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html
-  - title: Mais sobre
+  - title: Tema musical
+    content: >-
+      "Fantasia sobre O Guarani", de Geraldo Flach, com Zé Flávio na guitarra
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Ilha_das_flores.mp3" controls />
+  - title: Veja mais
     content: >-
       * [Roteiro
       original](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-original.html)
@@ -165,8 +168,6 @@ details:
       * [Roteiro consolidado](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-consolidado.html)
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-final.html)
-
-      * [Música](/uploads/Ilha_das_flores.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/ilha-das-flores.html)
 original_path: /os-filmes/produção/curtas/ilha-das-flores.html
