@@ -48,11 +48,6 @@ details:
       Ana Maria Mainieri (Guida)\
 
       Werner Schünemann (Juvenal)
-
-
-      **Música:**\
-
-      "Amor e morte", de Júlio Reny e Jaqueline Vallandro, com a banda Dolly
   - title: Prêmios
     content: >-
       * 1° Prêmio RGE/Governo do Estado do RS, 1999:\
@@ -203,7 +198,12 @@ details:
       (Fernando Mascarello, revista SINOPSE, abril/2002)\
 
       (também publicado na [revista virtual CONTRACAMPO](http://www.contracampo.com.br/47/tolerancianoir.htm), janeiro/2003)
-  - title: Mais sobre
+  - content: |-
+      "Amor e morte", de Júlio Reny e Jaqueline Vallandro, com a banda Dolly
+
+      <audio src="//nova.casacinepoa.com.br/uploads/tolerancia.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       * [Material de
       imprensa](https://www.casacinepoa.com.br/filmes/tolerancia/imprensa.htm)
@@ -214,9 +214,7 @@ details:
 
       * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/tolerância-texto-inicial.html)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/tolerância-texto-final.html)
-
-      * [Música](/uploads/tolerancia.mp3)
+      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/tolerância-texto-final.html)[](/uploads/tolerancia.mp3)
 original_path: /os-filmes/produção/longas/tolerância.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
