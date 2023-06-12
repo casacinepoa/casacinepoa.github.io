@@ -115,4 +115,7 @@ synopsis: >
   distribuição de renda do planeta. Um documentário sobre direitos reprodutivos
   no Brasil, enquanto o futuro não chega.
 ---
-O país do futuro é onde as crianças engravidam? O maior país católico do mundo é onde mais de trinta mil mulheres morrem em conseqüência de aborto? A 10ª economia do planeta é a do país onde 27% das mulheres estão esterilizadas? VENTRE LIVRE conta um pouco da história de Vera, Ivonete, Carmen, Denise, Maria do Carmo, Marlove - pessoas que nasceram no país com a mais desigual distribuição de renda do planeta. Um documentário sobre direitos reprodutivos no Brasil, enquanto o futuro não chega.
+O país do futuro é onde as crianças engravidam? O maior país católico do mundo é onde mais de trinta mil mulheres morrem em conseqüência de aborto? A 10ª economia do planeta é a do país onde 27% das mulheres estão esterilizadas? VENTRE LIVRE conta um pouco da história de Vera, Ivonete, Carmen, Denise, Maria do Carmo, Marlove - pessoas que nasceram no país com a mais desigual distribuição de renda do planeta. Um documentário sobre direitos reprodutivos no Brasil, enquanto o futuro não chega.\
+\
+**T﻿ema musical**: "﻿Esta é a nossa história", de Leo Henkin\
+<audio src="//nova.casacinepoa.com.br/uploads/ventre_livre.mp3 controls />
