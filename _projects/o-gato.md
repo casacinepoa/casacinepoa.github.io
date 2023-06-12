@@ -28,15 +28,15 @@ details:
       Nora Prado (Doroti)\
       Biratã Vieira (Pedro)\
       Oscar Simch (Gouvêa)
-
-      **Música:**\
+  - content: |-
       "Tema de Miramar", de Geraldo Flach
-  - title: Mais sobre
+
+      <audio src="//nova.casacinepoa.com.br/uploads/O_Gato.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       * [Fotos de
       cena](https://www.casacinepoa.com.br/os-filmes/distribuição/longas/o-gato/fotos-de-cena.html)
-
-      * [Música](/uploads/O_Gato.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-gato.html)
 original_path: /os-filmes/distribuição/longas/o-gato.html
