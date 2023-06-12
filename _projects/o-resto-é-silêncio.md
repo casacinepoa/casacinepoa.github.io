@@ -32,12 +32,16 @@ details:
       Nadya Mendes (Regina)\
       Rodrigo Pessin (noivo)\
       Marcelo Herrera (policial)
-  - title: Mais sobre
+  - title: Tema musical
+    content: >-
+      "O Resto é silêncio", de Geraldo Flach
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/O_Resto_e_silencio.mp3" controls />
+  - title: Veja mais
     content: >-
       *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-resto-é-silêncio.html)
-
-      * [Música](/uploads/O_Resto_e_silencio.mp3)
+      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-resto-é-silêncio.html)[](/uploads/O_Resto_e_silencio.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-resto-é-silêncio.html)
 original_path: /os-filmes/realização/episódios-de-tv/o-resto-é-silêncio.html
