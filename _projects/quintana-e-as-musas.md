@@ -24,15 +24,16 @@ details:
 
       **Elenco Principal**:\
       Luiz Paulo Vasconcellos (Zeus)
+  - content: >-
+      "Dança, poeta", de Marcelo Fornazzier
 
-      **Música:**\
-      ("Dança, poeta", de Marcelo Fornazzier)
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Quintana_e_as_musas.mp3" controls />
+    title: Tema musical
   - title: Mais sobre
     content: >-
       *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/quintana-e-musas.html)
-
-      * [Música](/uploads/Quintana_e_as_musas.mp3)
+      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/quintana-e-musas.html)[](/uploads/Quintana_e_as_musas.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/quintana-e-musas.html)
 original_path: /os-filmes/realização/episódios-de-tv/quintana-e-musas.html
