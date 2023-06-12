@@ -71,7 +71,12 @@ details:
       "Um dos curtas brasileiros mais comunicativos e originais dos últimos tempos. É um filme onde tudo funciona à perfeição, do roteiro ao elenco. Sem esquecer da montagem impecável, da surpreendente utilização do vídeo e da integração entre ficção e documentário."\
 
       (Sérgio Bazi, CORREIO BRASILIENSE, Brasília, 28/10/88)
-  - title: Mais sobre
+  - title: Tema musical
+    content: |-
+      "O Silêncio e a culpa", de Geraldo Flach
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Barbosa.mp3" controls />
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/barbosa.html)
