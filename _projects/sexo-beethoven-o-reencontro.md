@@ -27,15 +27,16 @@ details:
       Marco Antônio Sorio (Tigrão)\
       Luciene Adami (Dora)\
       Daniela Schmitz (Ivete)
-
-      **Música:**\
+  - content: >-
       5ª Sinfonia de Beethoven, 1º movimento, arranjo de Ricaro Severo
-  - title: Mais sobre
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Sexo_e_Beethoven-.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       *
-      [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/sexo-beethoven-o-reencontro)
-
-      * [Música](/uploads/Sexo_e_Beethoven-.mp3)
+      [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/sexo-beethoven-o-reencontro)[](/uploads/Sexo_e_Beethoven-.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/produção/curtas/sexo-beethoven-o-reencontro-créditos-completos.html)
 original_path: /os-filmes/produção/curtas/sexo-beethoven-o-reencontro.html
