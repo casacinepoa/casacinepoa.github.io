@@ -34,17 +34,17 @@ details:
       Patsy Cecato (mãe paulista)\
       Nelson Diniz (pai gaúcho)\
       Elisa Volpato (namorada do pai)
-
-      **Música:**\
+  - content: |-
       "Tema da praia", de Leo Henkin
-  - title: Mais sobre
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Rummikub.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub.html)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub-texto-final.html)
-
-      * [Música](/uploads/Rummikub.mp3)
+      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub-texto-final.html)[](/uploads/Rummikub.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/rummikub.html)
 original_path: /os-filmes/produção/curtas/rummikub.html
