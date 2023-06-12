@@ -74,18 +74,18 @@ details:
 
 
       (Renata Gomes, O Povo, Fortaleza, 02/06/1998)
-  - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/angelo-anda-sumido.html)
-
-      * [Créditos completos](http://www.casacinepoa.com.br/node/490)[](/uploads/Angelo_anda_sumido.mp3)
   - title: Tema musical
     content: >-
       "Baladas", Nei Lisboa
 
 
       <audio src="//nova.casacinepoa.com.br/uploads/Angelo_anda_sumido.mp3" controls />
+  - title: Veja mais
+    content: >-
+      *
+      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/angelo-anda-sumido.html)
+
+      * [Créditos completos](http://www.casacinepoa.com.br/node/490)[](/uploads/Angelo_anda_sumido.mp3)
 original_path: /os-filmes/produção/curtas/angelo-anda-sumido.html
 ---
 Dois velhos amigos se reencontram e combinam de jantar juntos, mas em seguida voltam a se perder no labirinto de grades, cercas e muros de uma grande cidade.
