@@ -27,23 +27,23 @@ details:
       Amora Marzulo (Cláudia)\
       Marina Mansur (Betty)\
       Inácio Aguirrezábal (Saldanha)
-
-      **Música:**\
-      "Pegadinha", Leo Henkin
   - title: Prêmios
     content: |-
       * 26º Festival de Gramado, Cinema Latino, 1998:\
         Melhor curta gaúcho
       * 31º Festival do Cinema Brasileiro de Brasília, 1998:\
         Melhor montagem
-  - title: Mais sobre
+  - content: |-
+      "Pegadinha", Leo Henkin
+
+      <audio src="//nova.casacinepoa.com.br/uploads/Trampolim.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/trampolim.html)
 
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/trampolim/fotos-de-cena.html)
-
-      * [Música](/uploads/Trampolim.mp3)
+      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/trampolim/fotos-de-cena.html)[](/uploads/Trampolim.mp3)
 
       * [Créditos completos](http://www.casacinepoa.com.br/node/484)
 original_path: /os-filmes/produção/curtas/trampolim.html
