@@ -27,9 +27,6 @@ details:
       / Sertanejo, Antônio Conselheiro, Pastor)\
       Carlos Cunha Filho (Locução masculina)\
       Lisa Becker (Locução feminina)
-
-      **Música:**\
-      "Quem ouvir e não aprender", Leo Henkin
   - title: Prêmios
     content: >-
       * 22º Festival de Gramado, Cinema Latino, 1994:\
@@ -67,12 +64,15 @@ details:
       "A MATADEIRA é o último curta documental de Jorge Furtado, e provavelmente o filme que mais se aproximaria a um questionamento dos procedimentos do filme documentário. (...) Vemos aí o filme mais se fechando na possibilidade de contar uma história ou mais se abrindo para o objeto a ser deslindado? A briga é boa: por mais que os depoimentos – e em especial o do historiador/sujeito-suiposto-saber – nos remetam para a banalidade que é qualquer discurso diante de um acontecimento decisivo (no caso, a morte de centenas de camponeses em Canudos), há de outra parte o texto literário, em off, de Kurt Vonnegut Jr. (influência, aliás, muito maior em Jorge Furtado do que qualquer cineasta documentarista, brasileiro ou não) que, mesmo não sendo sobre o acontecimento narrado – aí a parte de auto-consciência sempre cara a Furtado –, o espelha e revela seus reflexos."\
 
       ([Ruy Gardnier, revista virtual CONTRACAMPO, janeiro/2003](http://www.contracampo.com.br/47/furtadocumentario.htm))
-  - title: Mais sobre
+  - content: |-
+      "Quem ouvir e não aprender", Leo Henkin
+
+      <audio src="//nova.casacinepoa.com.br/uploads/A_Matadeira.mp3" controls />
+    title: Tema muscial
+  - title: Veja mais
     content: >-
       *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/matadeira.html)
-
-      * [Música](/uploads/A_Matadeira.mp3)
+      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/matadeira.html)[](/uploads/A_Matadeira.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/matadeira.html)
 original_path: /os-filmes/produção/documentários/matadeira.html
