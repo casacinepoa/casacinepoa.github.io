@@ -1,8 +1,11 @@
 ---
+title: O homem que copiava
 tech_specs:
   - (35 mm, 124 min, cor, 2003)
   - (janela 1.66, som óptico Dolby SR, som digital Dolby)
 category: Longas-metragens
+image: /uploads/hqc-imgr.jpg
+image_credits: "Foto por Alex Sernambi: Lázaro Ramos e Leandra Leal"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/o-homem-que-copiava/t/GtrD6KmTVM/
@@ -11,8 +14,8 @@ details:
     content: |-
       **Direção:** Jorge Furtado
 
-      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
       **Roteiro:** Jorge Furtado\
+      **Produção Executiva:** Nora Goulart e Luciana Tomasi\
       **Direção de Fotografia:** Alex Sernambi\
       **Direção de Arte:** Fiapo Barth\
       **Música:** Leo Henkin\
@@ -21,8 +24,6 @@ details:
       **Montagem:** Giba Assis Brasil\
       **Direção de Animação:** Allan Sieber
 
-      **Uma Produção da Casa de Cinema PoA**
-
       **Elenco Principal:**\
       Lázaro Ramos (André)\
       Leandra Leal (Sílvia)\
@@ -30,6 +31,8 @@ details:
       Pedro Cardoso (Cardoso)\
       Carlos Cunha Filho (Antunes)\
       Júlio Andrade (Feitosa)
+
+      **Uma Produção da Casa de Cinema PoA**
   - title: Prêmios
     content: >-
       * 2° Prêmio RGE/Governo do Estado do RS, 2002:\
@@ -557,14 +560,18 @@ details:
       "The story highlights the life of the majority of Brazilians, who live in relative poverty earning very little (with the average wage around 250 Reais a month). But it also shows how these people, despite their poverty, struggle with the everyday issues that we all struggle with, such as falling in love, making friends, passing time etc."\
 
       ([Mark Taylor, GRINGOES.COM, 12/11/22005](http://www.gringoes.com/articles.asp?ID_Noticia=999))
-  - title: Mais sobre
+  - title: Tema musical
+    content: >-
+      "Parece mais fácil", de Leo Henkin
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/o_homem_que_copiava.mp3" controls />
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-inicial.html)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-final.html)
-
-      * [Música](/uploads/o_homem_que_copiava.mp3)
+      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-final.html)[](/uploads/o_homem_que_copiava.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-homem-que-copiava.html)
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
@@ -574,8 +581,5 @@ synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   loja de artigos femininos. Ajudado por seu amigo Cardoso, e depois também pela
   colega de trabalho Marinês, André faz muitos planos para conseguir dinheiro. E
   todos dão certo. E é aí que seus problemas começam.
-title: O homem que copiava
-image: /uploads/hqc-imgr.jpg
-image_credits: "Foto por Alex Sernambi: Lázaro Ramos e Leandra Leal"
 ---
 André, 20 anos, operador de fotocopiadora em uma papelaria, precisa desesperadamente de trinta e oito reais para impressionar a garota dos seus sonhos, Sílvia, que mora no prédio em frente e trabalha como balconista em uma loja de artigos femininos. Ajudado por seu amigo Cardoso, e depois também pela colega de trabalho Marinês, André faz muitos planos para conseguir dinheiro. E todos dão certo. E é aí que seus problemas começam.
