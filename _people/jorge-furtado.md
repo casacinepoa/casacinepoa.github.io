@@ -1,6 +1,6 @@
 ---
 title: Jorge Furtado
-image: /uploads/jorge.jpg
+image: /uploads/jorge-2023.jpg
 links:
   - title: Filmografia no IMDB
     url: http://us.imdb.com/name/nm0299134/
