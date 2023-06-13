@@ -31,9 +31,6 @@ details:
       Lázaro Ramos (Zico)\
       Tonico Pereira (Antônio)\
       Paulo José (Otaviano)
-
-      **Música:**\
-      "Tema da pinguela", Leo Henkin
   - title: Prêmios
     content: >-
       * Melhor Filme pelo Júri Popular do 10º Festival do Cinema Brasileiro de
@@ -194,16 +191,20 @@ details:
       "Se, por um lado, Furtado parece em alguns momentos estar fazendo o elogio de um cinema naif e inocente (como num estágio pré-técnica), ou de um vale-tudo criativo para além de qualquer crítica (que todos façam filmes, não importam quais), por outro, há o estímulo da paixão pela criação artística antes de qualquer coisa. E, quem sabe até mais importante, o incentivo que esta tenha meios de se manifestar em qualquer lugar: num grande centro ou numa comunidade afastada. Porque disto depende a saúde artística (para além da rubrica de "cultura") de um povo: da multiplicidade e diversidade de tudo aquilo que não é ordinário, mas pessoal, inventivo e apaixonado."\
 
       (Tatiana Monassa, Contracampo, agosto/2007)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/saneamento-básico-o-filme-texto-inicial.html)
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/saneamento-básico-o-filme-texto-final.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/saneamento-básico-o-filme.html)
+      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/saneamento-básico-o-filme.html)[](/uploads/saneamento_basico-.mp3)
+  - title: Tema musical
+    content: >-
+      "Tema da pinguela", Leo Henkin
 
-      * [Música](/uploads/saneamento_basico-.mp3)
+
+      <audio src="//nova.casacinepoa.com.br/uploads/saneamento_basico-.mp3" controls />
 original_path: /os-filmes/produção/longas/saneamento-básico-o-filme.html
 synopsis: Na pequena Linha Cristal, a comunidade se mobiliza para construir uma
   fossa no arroio e acabar com o mau cheiro. Marina, a líder do movimento,
