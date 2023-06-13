@@ -4,7 +4,7 @@ tech_specs:
   - Longa-metragem, ficção
   - EM CAPTAÇÃO
 category: Projetos
-image: /uploads/msocorr.jpg
+image: /uploads/mdsoc-cartaz-2.jpg
 ---
 Criação de Ana Luiza Azevedo.\
 Roteiro de Ana Luiza Azevedo e Jorge Furtado.\
