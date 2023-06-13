@@ -560,14 +560,18 @@ details:
       "The story highlights the life of the majority of Brazilians, who live in relative poverty earning very little (with the average wage around 250 Reais a month). But it also shows how these people, despite their poverty, struggle with the everyday issues that we all struggle with, such as falling in love, making friends, passing time etc."\
 
       ([Mark Taylor, GRINGOES.COM, 12/11/22005](http://www.gringoes.com/articles.asp?ID_Noticia=999))
-  - title: Mais sobre
+  - title: Tema musical
+    content: >-
+      "Parece mais fácil", de Leo Henkin
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/o_homem_que_copiava.mp3" controls />
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-inicial.html)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-final.html)
-
-      * [Música](/uploads/o_homem_que_copiava.mp3)
+      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-final.html)[](/uploads/o_homem_que_copiava.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-homem-que-copiava.html)
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
