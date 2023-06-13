@@ -6,6 +6,7 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/h1x2v-imgr.jpeg
 image_credits: "Foto por Alex Sernambi: André Arteche e Ana Maria Mainieri"
+where_to_watch: []
 details:
   - title: Créditos
     content: |-
@@ -29,9 +30,6 @@ details:
       Pedro Furtado (Juca)\
       Júlia Barth (Carmem)\
       Victória Mazzini (Violeta)
-
-      **Música:**\
-      "Lets's surf", de Leo Henkin
   - title: Prêmios
     content: >-
       - 12° Cine Ceará, Fortaleza, 2002:
@@ -103,16 +101,20 @@ details:
       "O AMOR VÊ LONGE: O primeiro longa-metragem do principal diretor brasileiro de curtas é despretensioso mas sábio. (...) Os atores se destacam pela autenticidade e as imagens captadas com câmera digital servem ao tom poético. Mas o ponto alto está na generosidade com os personagens. Furtado não esbarra em posturas moralistas, não julga mocinhas de caráter questionável e foge da vulgaridade das comédias juvenis americanas. (...) A sabedoria do diretor está em mostrar que, em vez de cego, o amor enxerga essências por trás das ações. Vê longe o suficiente para detectar beleza em seres com atitudes condenáveis pelo senso comum."\
 
       (Cléber Eduardo, Revista ÉPOCA, 02/09/2002)
-  - title: Mais sobre
+  - content: >-
+      "Lets's surf", de Leo Henkin
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/houve_uma_vez-.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: >-
       * [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/houve-uma-vez-dois-verões.html)
 
       * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-inicial.html)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-final.html)
-
-      * [Música](/uploads/Houve_uma_vez-.mp3)
+      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-final.html)[](/uploads/Houve_uma_vez-.mp3)
 original_path: /os-filmes/produção/longas/houve-uma-vez-dois-verões.html
 synopsis: Chico, adolescente em férias na "maior e pior praia do mundo",
   encontra Roza num fliperama e se apaixona. Transam na primeira noite, mas ela
