@@ -4,7 +4,7 @@ tech_specs:
   - Série cômica, 8x25 min
   - FINALIZADA; EM PRÉ-LANÇAMENTO
 category: Projetos
-image: /uploads/dragon.jpg
+image: /uploads/dragon-1.jpg
 ---
 Criada por Tiago Rezende.\
 D﻿ireção de Tiago Rezende e Ana Luiza Azevedo.\
