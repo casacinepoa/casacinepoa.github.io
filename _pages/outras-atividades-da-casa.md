@@ -48,7 +48,6 @@ De 1992 a 2000, a Casa de Cinema de Porto Alegre foi responsável pelos programa
 * Além das redes de colaboração (2007)\
   Em 2007, em parceria com a Associação Software Livre (RS) e Projeto Software Livre do Rio Grande do Norte (RN), realizamos o seminário "Além das redes de colaboração: diversidade cultural e as tecnologias do poder", em Porto Alegre (15 a 18 de outubro) e Natal (7 a 10 de novembro).
 * [Festas de ano novo (desde 1987)](https://www.casacinepoa.com.br/sobre/festas)Mas o evento promovido pela Casa de Cinema com mais regularidade desde a sua fundação, em 1987, é a tradicional Festa de Fim de Ano da Casa, que chegou a fazer parte do calendário cultural de Porto Alegre. Em 2012, a festa que comemorou os 25 anos da Casa marcou um novo momento: a ideia era que, a partir de então, a festa passassse a acontecer apenas a cada 5 anos.
-*
 
 **Programação**
 
