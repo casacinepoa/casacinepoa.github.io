@@ -31,3 +31,4 @@
 
 /o-blog/giba-assis-brasil.html    /blog/giba    301
 /o-blog/jorge-furtado.html    /blog/jorge    301
+/giba/* https://giba.casacinepoa.com.br/:splat 200!
