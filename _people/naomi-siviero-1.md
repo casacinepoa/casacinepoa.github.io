@@ -1,6 +1,6 @@
 ---
 title: Naomi Siviero
-image: /uploads/unnamed.jpg
+image: ""
 role: Produção executiva
 order: 0
 links:
