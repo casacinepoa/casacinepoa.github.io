@@ -1,5 +1,5 @@
 ---
-title: 1º Curso Introdução ao Fazer Cinema (1989)
+title: 1º Curso de Introdução ao Fazer Cinema (1989)
 permalink: sobre/curso-1989
 image: /uploads/aa90-imgr.jpg
 image_caption: Tatiana Toffoli em "O amor nos anos 90", curta-metragem realizado
