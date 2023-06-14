@@ -9,6 +9,8 @@ layout: about
 2º Curso prático-teórico de introdução à realização cinematográfica.\
 07 de maio a 18 de junho de 1990
 
+**P﻿ROGRAMA**
+
 1º dia: seg 07/05 - 19:30 as 23:00\
 INTRODUÇÃO
 
@@ -303,7 +305,7 @@ CONCLUSÃO
 
 - - -
 
-ALUNOS
+**ALUNOS**
 
 * Adriana Gomes
 * Alvaro Fraga
