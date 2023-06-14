@@ -30,10 +30,7 @@ details:
       Maria Elena Boz Nora\
       Eduardo Juliano Boz
   - title: Tema musical
-    content: |-
-      
-
-      <audio src="//casacinepoa.com.br/uploads/Oscar_Boz.mp3" controls />
+    content: <audio src="//casacinepoa.com.br/uploads/oscar-boz.mp3" controls />
   - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/oscar-boz.ht\
