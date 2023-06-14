@@ -5,7 +5,7 @@ image: /uploads/aa90-imgr.jpg
 image_caption: Tatiana Toffoli em "O amor nos anos 90", curta-metragem realizado
   pelos alunos do 1º Curso Introdução ao fazer cinema
 original_path: ""
-layout: archive
+layout: page
 ---
 Curso prático-teórico de introdução à realização cinematográfica.\
 22 de maio a 26 de junho de 1989
