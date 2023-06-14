@@ -37,7 +37,7 @@ details:
       "O Resto é silêncio", de Geraldo Flach
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/O_Resto_e_silencio.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/O_Resto_e_silencio.mp3" controls />
   - title: Veja mais
     content: >-
       *

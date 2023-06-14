@@ -28,7 +28,7 @@ details:
       "Dança, poeta", de Marcelo Fornazzier
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Quintana_e_as_musas.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Quintana_e_as_musas.mp3" controls />
     title: Tema musical
   - title: Mais sobre
     content: >-

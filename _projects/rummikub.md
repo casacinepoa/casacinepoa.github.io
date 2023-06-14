@@ -37,7 +37,7 @@ details:
   - content: |-
       "Tema da praia", de Leo Henkin
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Rummikub.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Rummikub.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

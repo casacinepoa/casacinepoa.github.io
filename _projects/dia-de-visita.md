@@ -50,7 +50,7 @@ details:
       "Elemento armado, parece perigoso", de Leo Henkin
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/dia_de_visita.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/dia_de_visita.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

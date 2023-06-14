@@ -31,7 +31,7 @@ details:
       5ª Sinfonia de Beethoven, 1º movimento, arranjo de Ricaro Severo
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Sexo_e_Beethoven-.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Sexo_e_Beethoven-.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

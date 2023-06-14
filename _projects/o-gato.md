@@ -31,7 +31,7 @@ details:
   - content: |-
       "Tema de Miramar", de Geraldo Flach
 
-      <audio src="//nova.casacinepoa.com.br/uploads/O_Gato.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/O_Gato.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

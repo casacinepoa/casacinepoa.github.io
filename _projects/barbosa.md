@@ -75,7 +75,7 @@ details:
     content: |-
       "O Silêncio e a culpa", de Geraldo Flach
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Barbosa.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Barbosa.mp3" controls />
   - title: Veja mais
     content: >-
       *

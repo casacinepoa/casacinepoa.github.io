@@ -67,7 +67,7 @@ details:
   - content: |-
       "Quem ouvir e não aprender", Leo Henkin
 
-      <audio src="//nova.casacinepoa.com.br/uploads/A_Matadeira.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/A_Matadeira.mp3" controls />
     title: Tema muscial
   - title: Veja mais
     content: >-

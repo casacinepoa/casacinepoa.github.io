@@ -201,7 +201,7 @@ details:
   - content: |-
       "Amor e morte", de Júlio Reny e Jaqueline Vallandro, com a banda Dolly
 
-      <audio src="//nova.casacinepoa.com.br/uploads/tolerancia.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/tolerancia.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

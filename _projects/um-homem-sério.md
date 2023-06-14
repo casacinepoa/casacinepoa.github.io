@@ -43,7 +43,7 @@ details:
       "Mulata bacana", de José Roberto Torero
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Um_Homem_serio.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Um_Homem_serio.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

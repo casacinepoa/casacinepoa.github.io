@@ -33,7 +33,7 @@ details:
     content: |-
       
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Oscar_Boz.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Oscar_Boz.mp3" controls />
   - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/oscar-boz.ht\

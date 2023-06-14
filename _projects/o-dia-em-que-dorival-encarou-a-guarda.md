@@ -88,7 +88,7 @@ details:
       "Limpem o sangue", de Augusto Licks
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/O_Dia_em_que_Dorival-.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/O_Dia_em_que_Dorival-.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-

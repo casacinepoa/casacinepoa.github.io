@@ -159,7 +159,7 @@ details:
       "Fantasia sobre O Guarani", de Geraldo Flach, com Zé Flávio na guitarra
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Ilha_das_flores.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Ilha_das_flores.mp3" controls />
   - title: Veja mais
     content: >-
       * [Roteiro

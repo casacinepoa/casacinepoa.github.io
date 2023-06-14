@@ -86,7 +86,7 @@ details:
       Vinheta "Tu me acostumbraste", de Augusto Licks
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Aqueles_dois.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Aqueles_dois.mp3" controls />
   - title: Veja mais
     content: >-
       * [Créditos

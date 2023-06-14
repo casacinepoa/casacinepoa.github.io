@@ -196,7 +196,7 @@ details:
       "Tema da pinguela", Leo Henkin
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/saneamento_basico-.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/saneamento_basico-.mp3" controls />
   - title: Veja mais
     content: >-
       *

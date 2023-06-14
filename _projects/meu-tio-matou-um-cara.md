@@ -281,7 +281,7 @@ details:
       "Pra te esquecer", de Nei Lisboa, com Caetano Veloso
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/meu_tio_matou_um_cara.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/meu_tio_matou_um_cara.mp3" controls />
     title: Tema musical
 original_path: /os-filmes/produção/longas/meu-tio-matou-um-cara.html
 synopsis: Duca, aos 15 anos, descobre que os crimes que ele está acostumado a

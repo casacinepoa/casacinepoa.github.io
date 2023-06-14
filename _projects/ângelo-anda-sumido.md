@@ -79,7 +79,7 @@ details:
       "Baladas", Nei Lisboa
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/Angelo_anda_sumido.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/Angelo_anda_sumido.mp3" controls />
   - title: Veja mais
     content: >-
       *

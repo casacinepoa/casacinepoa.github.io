@@ -79,7 +79,7 @@ details:
     content: |-
       "O Sanduíche", de Leo Henkin
 
-      <audio src="//nova.casacinepoa.com.br/uploads/O_Sanduiche.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/O_Sanduiche.mp3" controls />
   - title: Veja mais
     content: >-
       *

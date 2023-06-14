@@ -565,7 +565,7 @@ details:
       "Parece mais fácil", de Leo Henkin
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/o_homem_que_copiava.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/o_homem_que_copiava.mp3" controls />
   - title: Veja mais
     content: >-
       *

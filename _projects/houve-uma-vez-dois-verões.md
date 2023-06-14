@@ -105,7 +105,7 @@ details:
       "Lets's surf", de Leo Henkin
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/houve_uma_vez-.mp3" controls />
+      <audio src="//casacinepoa.com.br/uploads/houve_uma_vez-.mp3" controls />
     title: Tema musical
   - title: Veja mais
     content: >-
