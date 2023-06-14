@@ -26,7 +26,7 @@ Entre 1989 e 1995, quando ainda não havia cursos superiores de audiovisual no R
 
 [\- 2º Curso de Introdução ao Fazer Cinema (1990)](https://www.casacinepoa.com.br/sobre/curso-1990)
 
-[\- Curso "Imagens no Papel" (1995)](https://www.casacinepoa.com.br/a-casa/outras-atividades-da-casa/imagens-no-papel.html)
+[\- Curso "Imagens no Papel" (1995)](casacinepoa.com.br/sobre/curso-1995)
 
 **Campanhas políticas**
 
