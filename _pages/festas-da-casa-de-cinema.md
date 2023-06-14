@@ -4,7 +4,7 @@ permalink: sobre/festas
 image: /uploads/convites-festa.jpg
 layout: about
 ---
-Todo ano, durante mais de duas décadas, no dia 22 de dezembro acontecia uma das festas mais esperadas de Porto Alegre: a comemoração de fim de ano e de aniversário da Casa de Cinema. Esta tradição se manteve até 2012, quando foram comemorados os 25 anos de fundação da Casa. A partir de então, a festa passou a acontecer a cada 5 anos. Em 2022, chegamos à 22ª festa.
+Todo ano, durante mais de duas décadas, no dia 22 de dezembro acontecia uma das festas mais esperadas de Porto Alegre: a comemoração de fim de ano e de aniversário da Casa de Cinema. Esta tradição se manteve até 2012, quando foram comemorados os 25 anos de fundação da Casa. A partir de então, a festa passou a acontecer a cada 5 anos. Em 2022, chegamos a 35 anos e 22 festas.
 
 Abaixo, os convites para as festas, sempre criados por artistas talentosos e amigos da Casa.
 
