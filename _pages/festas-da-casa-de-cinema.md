@@ -9,7 +9,7 @@ Todo ano, durante mais de duas décadas, no dia 22 de dezembro acontecia uma das
 Abaixo, os convites para as festas, sempre criados por artistas talentosos e amigos da Casa.
 
 * Guti Guti, 2022
-* [Otto Guerra, 2017](blob:https://www.casacinepoa.com.br/fbad4401-1feb-4cd0-8d88-891422c6eb32)		
+* [Otto Guerra, 2017](www.casacinepoa.com.br/uploads/convite-2017.jpg)		
 * [Zehh Castro, 2012](blob:https://www.casacinepoa.com.br/fc7de876-3915-4c7f-a0b1-40a3c04b14f9)
 * [Walter Pax, 2011](blob:https://www.casacinepoa.com.br/288ea7fd-4815-408a-b5b1-2319ba0e5ea6)
 * [Lehgau-Z, 2010](blob:https://www.casacinepoa.com.br/0ad573c9-1c26-48b2-8659-94de7781a429)
