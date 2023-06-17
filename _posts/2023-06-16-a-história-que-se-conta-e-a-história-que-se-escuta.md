@@ -10,6 +10,8 @@ Jesus é o maior personagem do Ocidente: ao mesmo tempo deus e humano, pai e fil
 
 A Via-Sacra, os Passos da Paixão de Cristo, renderam algumas das maiores obras de arte da história, desde as esculturas em madeira do Mestre Aleijadinho (Antônio Francisco Lisboa (1738-1814), no Santuário do Senhor Bom Jesus de Matosinhos, em Congonhas do Campo (MG), até esta história em quadrinhos medieval, do acervo do Museu Arqueológico de Nápoles.
 
+![](/uploads/hq-napoles.jpg)
+
 Cada cultura invadida pelos soldados de Cristo assimilou e transformou suas imagens e ensinamentos segundo os seus próprios olhos, e esta visão virou arte, música, e também orações. Aqui, um exemplo de releitura da Via Sacra por um africano do povo Banto, coletada pela revista Apostel der H. Herzen, transcrita em "As Mais Belas Orações de Todos os Tempos", de Rose Marie Muraro e Frei Raimundo Cintra. (Prefácio de Alceu Amoroso Lima. Editora Pensamento, São Paulo, 2001.)
 
 - - -
