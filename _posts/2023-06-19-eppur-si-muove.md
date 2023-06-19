@@ -19,7 +19,9 @@ Tentando traduzir "eppur si muove" pra nossa linguagem de hoje, talvez não haja
 
 (A primeira versão desse texto era um e-mail pra minha amiga e ex-aluna Lisie Ane Santos. A versão revisada foi publicada no Jornal "A República" número 1 (e único até agora), de julho de 2007.)
 
-Galileu Galilei (1564-1642)
+![](/uploads/galileu.jpg)
+
+*Galileu Galilei (1564-1642)*
 
 - - -
 
