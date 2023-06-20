@@ -1,9 +1,14 @@
 ---
+title: Antes que o mundo acabe
 tech_specs:
   - (35 mm, 100 min, cor, 2009)
   - (janela 1.85, som óptico Dolby SR, som digital Dolby)
 category: Longas-metragens
-where_to_watch: []
+image: /uploads/aqma-imgr.jpg
+image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
+where_to_watch:
+  - title: Sulflix
+    url: https://sulflix.com.br/app/longas/antes-que-o-mundo-acabe
 details:
   - title: Créditos
     content: >-
@@ -121,8 +126,5 @@ details:
 
       * [Veja as críticas sobre o filme](https://www.casacinepoa.com.br/comment/reply/1406/scripts.js.html)
 original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
-title: Antes que o mundo acabe
-image: /uploads/aqma-imgr.jpg
-image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
 ---
 Daniel é um adolescente crescendo em seu pequeno mundo com problemas que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que quer, como ajudar um amigo que está sendo acusado de roubo e como sair da pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito maior do que ele pensa.
