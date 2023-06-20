@@ -1,9 +1,10 @@
 ---
-date: 2022-12-14
 title: O fabuloso destino
 author: jorge
+date: 2022-12-14
 category: blog
 ---
+![](/uploads/captura-de-tela-2023-06-20-às-14.58.00.png)
 
 Meu pai me ligava quase todo dia, onde quer que eu estivesse, para comentar qualquer coisa, política, uma música ou livro, uma piada. Uma noite eu estava em Xapuri, no Acre, num bar na beira de um rio amazônico, tocou o telefone no orelhão da praça, um homem que passava atendeu e depois gritou: "Tem algum Jorge aí?" Era o meu pai, no hotel disseram que eu podia estar por ali, ele queria comentar um livro que estava lendo, mas isso é outra história.
 
