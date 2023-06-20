@@ -19,6 +19,7 @@ A Mostra encerra em 21 de dezembro, com a exibição da série Grandes Cenas, di
 
 Confira a programação da quarta semana da mostra:
 
+*11/dez segunta-feira*\
 **2008 / Fantasias de uma Dona de Casa (15 min)**
 
 * Episódio disponibilizado: 01 "Inicializando"
@@ -41,6 +42,7 @@ Sem legendas
 
 - - -
 
+*12/dez terça-feira*\
 **2009 / Decamerão, a Comédia do Sexo**
 
 * Série de 5 episódios produzida para a TV Globo
@@ -64,6 +66,7 @@ Sem legendas
 
 - - -
 
+*13/dez quarta-feira*\
 **2010 / Mulher de Fases**
 
 * Série de 13 episódios produzida para a HBO
@@ -88,6 +91,7 @@ Sem legendas
 
 - - -
 
+*14/dez quinta-feira*\
 **2011 / Até a Vista (18 min)**
 
 * Direção: Jorge Furtado
@@ -109,6 +113,7 @@ Sem legendas
 
 - - -
 
+*15/dez sexta-feira*\
 **2012 / Doce de Mãe (70 min)**
 
 * Telefilme e piloto de série para a TV Globo
@@ -131,6 +136,7 @@ Sem legendas
 
 - - -
 
+*16/dez sábado*\
 **2013 / A história do Amor 3 (51 min)**
 
 * Série de 16 episódios produzida para a TV Globo
@@ -152,6 +158,7 @@ Sem legendas
 
 - - -
 
+*17/dez domingo*\
 **2014 / A Copa Passou por Aqui**
 
 * Série de 11 episódios produzida para SporTV
