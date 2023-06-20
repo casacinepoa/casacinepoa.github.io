@@ -6,6 +6,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/sbof-imgr.jpeg
 image_credits: "Foto de Leopoldo Plentz: Wagner Moura e Fernanda Torres"
+where_to_watch:
+  - url: https://globoplay.globo.com/saneamento-basico-o-filme/t/fcDXBmQBH1/?gclsrc=aw.ds&&gclid=Cj0KCQjwnMWkBhDLARIsAHBOftoOpkq1fhz0qFGaQnccSnvxo8ncJFaFUmNwUIcEG52WWXPLgOKZIJ4aAiIaEALw_wcB&gclsrc=aw.ds
+    title: Globoplay
 details:
   - title: Créditos
     content: |-
