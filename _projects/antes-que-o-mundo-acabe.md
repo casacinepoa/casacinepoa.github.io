@@ -1,8 +1,7 @@
 ---
 title: Antes que o mundo acabe
 tech_specs:
-  - (35 mm, 100 min, cor, 2009)
-  - (janela 1.85, som óptico Dolby SR, som digital Dolby)
+  - (2009, duração 100 min, prop.tela 1.85)
 category: Longas-metragens
 image: /uploads/aqma-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
@@ -48,11 +47,6 @@ details:
       Janaína Kremer (Elaine)\
 
       Murilo Grossi (Antônio)
-
-
-      **Música:**\
-
-      ("Beat Acelerado", de Yann Lao, Vicente França e Alec Haiat - grupo Metrô; arranjo de Leo Henkin; voz: Luiza Caspary)
   - title: Prêmios
     content: >-
       * 2º Festival de Paulínia, 2009: Melhor filme (prêmio da crítica), Melhor
@@ -111,20 +105,13 @@ details:
 
       <http://www.rollingstone.com.br/secoes/novas/noticias/5792/>
   - title: Veja mais
+    content: "* ﻿Créditos completos"
+  - title: Tema musical
     content: >-
-      * [Editora Projeto](http://www.editoraprojeto.com.br/)
+      "Beat Acelerado", de Yann Lao, Vicente França e Alec Haiat - grupo Metrô;
+      arranjo de Leo Henkin; voz: Luiza Caspary\
 
-      * [Projeto Escola no Cinema](http://www.escolanocinema.com.br/categorias.asp?cod_serie=25&cod_materia=64)
-
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/longas/antes-que-o-mundo-acabe-créditos.html)
-
-      * [Da diretora](https://www.casacinepoa.com.br/antes-que-o-mundo-acabe/da-diretora.html)
-
-      * [Exposição](https://www.casacinepoa.com.br/antes-que-o-mundo-acabe/exposição.html)
-
-      * [Como se faz um filme](https://www.casacinepoa.com.br/antes-que-o-mundo-acabe/como-se-faz-um-filme.html)
-
-      * [Veja as críticas sobre o filme](https://www.casacinepoa.com.br/comment/reply/1406/scripts.js.html)
+      <audio src="//nova.casacinepoa.com.br/uploads/antes-que-o-mundo-acabe.mp3" controls />
 original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
 ---
 Daniel é um adolescente crescendo em seu pequeno mundo com problemas que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que quer, como ajudar um amigo que está sendo acusado de roubo e como sair da pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito maior do que ele pensa.
