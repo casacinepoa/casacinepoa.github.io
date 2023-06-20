@@ -1,9 +1,16 @@
 ---
+title: Cidades fantasmas
 tech_specs:
   - (HD, 70 min, cor, 2017)
   - (som Dolby 5.1)
 category: Longas-metragens
-where_to_watch: []
+image: /uploads/cidfant-imgr.jpeg
+image_credits: "Foto por Glauco Firpo: Epecuén"
+where_to_watch:
+  - title: Claro TV+
+    url: https://www.clarotvmais.com.br/filme/cidades-fantasmas/1846680
+  - title: TamanduáTV
+    url: https://curtaon.com.br/filme/?name=cidades-fantasmas1
 details:
   - title: Créditos
     content: >-
@@ -46,8 +53,5 @@ synopsis: Deserto chileno, Amazônia brasileira, Andes colombianos e Pampa
   contemplativo sobre o que restou, refletimos sobre o que deixamos e podemos
   deixar do nosso legado, entendendo que tudo pode ter um fim e que nada está
   livre da luta contra o esquecimento.
-title: Cidades fantasmas
-image: /uploads/cidfant-imgr.jpeg
-image_credits: "Foto por Glauco Firpo: Epecuén"
 ---
 Deserto chileno, Amazônia brasileira, Andes colombianos e Pampa argentino. Quatro destinos na América Latina, onde as ruínas e o silêncio são o plano de fundo da nossa jornada. Alguns de seus antigos moradores ainda guardam na memória o que viveram ali e, através de relatos mais intimistas, evocam lembranças de um passado que não querem esquecer. Com um olhar contemplativo sobre o que restou, refletimos sobre o que deixamos e podemos deixar do nosso legado, entendendo que tudo pode ter um fim e que nada está livre da luta contra o esquecimento.
