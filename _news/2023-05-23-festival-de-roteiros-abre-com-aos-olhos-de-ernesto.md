@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Festival de roteiros abre com AOS OLHOS DE ERNESTO
-date: 2021-09-04 15:48:23
+date: 2021-09-06 15:48:23
 ---
 EVENTO DESTACA ROTEIROS DE CINEMA E TELEVISÃO E TERÁ EXIBIÇÃO ON-LINE DE FILMES\
 [Correio do Povo, 04/09/2021 | 11:00](https://www.correiodopovo.com.br/arteagenda/come%C3%A7a-o-frapa-1.684755)
