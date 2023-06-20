@@ -13,7 +13,7 @@ where_to_watch:
     url: https://www.clarotvmais.com.br/filme/morto-nao-fala/1089189
   - title: Google Play
     url: https://play.google.com/store/movies/details?id=oKezLtSWvms.P&pli=1
-  - title: Youtube
+  - title: YouTube
     url: https://www.youtube.com/watch?v=RBej33n5THE
 details:
   - title: Créditos
