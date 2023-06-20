@@ -6,7 +6,11 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/h1x2v-imgr.jpeg
 image_credits: "Foto por Alex Sernambi: André Arteche e Ana Maria Mainieri"
-where_to_watch: []
+where_to_watch:
+  - title: Globoplay
+    url: https://globoplay.globo.com/houve-uma-vez-dois-veroes/t/HC1X28ZGdj/
+  - title: Sulflix
+    url: https://sulflix.com.br/app/longas/houve-uma-vez-dois-veroes
 details:
   - title: Créditos
     content: |-
@@ -101,9 +105,8 @@ details:
       "O AMOR VÊ LONGE: O primeiro longa-metragem do principal diretor brasileiro de curtas é despretensioso mas sábio. (...) Os atores se destacam pela autenticidade e as imagens captadas com câmera digital servem ao tom poético. Mas o ponto alto está na generosidade com os personagens. Furtado não esbarra em posturas moralistas, não julga mocinhas de caráter questionável e foge da vulgaridade das comédias juvenis americanas. (...) A sabedoria do diretor está em mostrar que, em vez de cego, o amor enxerga essências por trás das ações. Vê longe o suficiente para detectar beleza em seres com atitudes condenáveis pelo senso comum."\
 
       (Cléber Eduardo, Revista ÉPOCA, 02/09/2002)
-  - content: >-
+  - content: |-
       "Lets's surf", de Leo Henkin
-
 
       <audio src="//casacinepoa.com.br/uploads/houve_uma_vez-.mp3" controls />
     title: Tema musical
