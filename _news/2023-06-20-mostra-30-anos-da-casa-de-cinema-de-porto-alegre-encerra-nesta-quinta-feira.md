@@ -158,11 +158,9 @@ A atriz Fernanda Montenegro e o montador Eduardo Escorel partilham memórias e p
 * Som Direto: Rafael Rodrigues (Brasil) / Facundo Gomez (Argentina)
 * Trilha Original: Maurício Nader
 
-\[MAIS INFORMAÇÕES](<https://www.casacinepoa.com.br/filmes/grandes-cenas/ 
+[MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/grandes-cenas/)
 
-\*>)\
-Disponível de 20 a 26/dez
-
+* Disponível de 20 a 26/dez
 * Legendas em português
 
 - - -
