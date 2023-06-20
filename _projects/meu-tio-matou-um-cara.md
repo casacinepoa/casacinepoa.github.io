@@ -6,6 +6,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/mtm1c-imgr.jpeg
 image_credits: "Foto por Alex Sernambi: Lázaro Ramos"
+where_to_watch:
+  - title: Globoplay
+    url: https://globoplay.globo.com/meu-tio-matou-um-cara/t/hdjqC8N1Ls/
 details:
   - title: Créditos
     content: |-
