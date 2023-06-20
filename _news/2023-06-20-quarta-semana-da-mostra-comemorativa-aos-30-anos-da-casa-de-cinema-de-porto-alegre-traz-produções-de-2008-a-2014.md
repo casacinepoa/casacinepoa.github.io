@@ -2,7 +2,7 @@
 layout: post
 title: Quarta semana da Mostra comemorativa aos 30 anos da Casa de Cinema de
   Porto Alegre traz produções de 2008 a 2014
-date: 2023-06-20 01:31:07
+date: 2017-12-11 01:31:07
 ---
 Títulos são disponibilizados para streaming gratuitamente, através do site da produtora, até 21 de dezembro
 
