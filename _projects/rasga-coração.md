@@ -6,6 +6,13 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/rgcor-imgr.jpeg
 image_credits: "Foto por Fábio Rebello: Chay Suede e Marco Ricca"
+where_to_watch:
+  - title: Globoplay + Telecine
+    url: https://globoplay.globo.com/rasga-coracao/t/q2SLg6HZQs/
+  - title: Google Play
+    url: https://play.google.com/store/movies/details?id=nwyojfTfCpE.P
+  - title: YouTube
+    url: https://www.youtube.com/watch?v=lSDH6pQf5zo
 details:
   - title: Créditos
     content: |-
