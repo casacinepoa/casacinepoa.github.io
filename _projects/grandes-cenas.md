@@ -133,4 +133,6 @@ original_path: /os-filmes/realização/séries-de-tv/grandes-cenas
 ---
 Uma grande cena é aquela que não se define apenas na relação com as demais. Uma grande cena é aquela que contém em si um filme à parte, um universo à parte, capaz de alterar nossa sensibilidade e perdurar na nossa memória. Com o objetivo de resgatar o apreço por essa unidade fundamental que é a cena, a série Grande Cenas busca relembrar cenas marcantes do cinema brasileiro e sul-americano.	 
 
-Projeto selecionado na Chamada Pública BRDE/FSA - PRODAV 02/2012
+Projeto selecionado nas Chamadas Públicas BRDE/FSA - PRODAV 02/2012 (1ª temporada) e BRDE/FSA - PRODAV 02/2016 (2ª temporada)
+
+**Primeira temporada no Canal Curta! todas as quartas-feiras, às 20h**
