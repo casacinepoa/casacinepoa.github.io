@@ -87,6 +87,7 @@ ELENCO (número de produções)
 
 Confira a programação da quinta semana da mostra:
 
+*18/dez segunta-feira*\
 **2015 / Real Beleza (87 min)**
 
 * Roteiro e Direção: Jorge Furtado
@@ -109,6 +110,7 @@ Confira a programação da quinta semana da mostra:
 
 - - -
 
+*19/dez terça-feira*\
 **2016 / A Olimpíada Passou por Aqui (18 min)**
 
 * Série de 5 episódios para SporTV
@@ -133,6 +135,7 @@ COMO SER HERÓI
 
 - - -
 
+*20/dez quarta-feira*\
 **2017 / Grandes Cenas**
 
 * Série de 22 episódios produzida para o Canal Curta!
@@ -155,15 +158,16 @@ A atriz Fernanda Montenegro e o montador Eduardo Escorel partilham memórias e p
 * Som Direto: Rafael Rodrigues (Brasil) / Facundo Gomez (Argentina)
 * Trilha Original: Maurício Nader
 
-[MAIS INFORMAÇÕES](<https://www.casacinepoa.com.br/filmes/grandes-cenas/ 
+\[MAIS INFORMAÇÕES](<https://www.casacinepoa.com.br/filmes/grandes-cenas/ 
 
-*>)\
+\*>)\
 Disponível de 20 a 26/dez
 
 * Legendas em português
 
 - - -
 
+*21/dez quinta-feira*\
 **2018 - o que está por vir**
 
 FILMES A SEREM LANÇADOS EM 2018
