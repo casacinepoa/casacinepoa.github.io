@@ -6,6 +6,9 @@ tech_specs:
   - Série de 13 episódios para o Canal Brasil
 category: Séries
 image: /uploads/fdq-imgr.jpg
+where_to_watch:
+  - title: Sulflix
+    url: https://sulflix.com.br/app/series/fora-de-quadro
 details:
   - title: Créditos
     content: |-
