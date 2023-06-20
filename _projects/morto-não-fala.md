@@ -6,6 +6,11 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/mnf-imgr.jpeg
 image_credits: "Foto por André Faccioli: Daniel de Oliveira e Fabíula Nascimento"
+where_to_watch:
+  - title: Google Play
+    url: https://play.google.com/store/movies/details?id=oKezLtSWvms.P&pli=1
+  - title: AppleTV
+    url: https://tv.apple.com/br/movie/morto-nao-fala/umc.cmc.3b2utu56x13h5nvz87bl50ewj?action=play
 details:
   - title: Créditos
     content: |-
