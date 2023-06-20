@@ -6,6 +6,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/realb-imgr.jpeg
 image_credits: "Foto por Fábio Rebello: Vladimir Brichta e Adriana Esteves"
+where_to_watch:
+  - title: Globoplay
+    url: https://globoplay.globo.com/real-beleza/t/dVQshK9HqN/
 details:
   - title: Créditos
     content: |-
