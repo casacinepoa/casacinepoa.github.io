@@ -3,6 +3,8 @@ layout: post
 title: Quarta semana da Mostra de 30 anos da Casa
 date: 2017-12-11 01:31:07
 ---
+Quarta semana da Mostra comemorativa aos 30 anos da Casa de Cinema de Porto Alegre traz produções de 2008 a 2014\
+\
 Títulos são disponibilizados para streaming gratuitamente, através do site da produtora, até 21 de dezembro
 
 Porto Alegre, 11 de dezembro de 2017 - São 30 anos, 21 longas, 14 médias, 31 curtas, 18 séries e mais de 200 episódios, em 7593 minutos de material produzido, com 2583 profissionais envolvidos e 1082 atores e atrizes nas 119 fichas técnicas. Dentre todas as produções realizadas pela Casa de Cinema, fica clara a valorização dos profissionais locais: dos quinze nomes que mais aparecem nas fichas técnicas de elenco dos filmes e séries, todos são gaúchos.
