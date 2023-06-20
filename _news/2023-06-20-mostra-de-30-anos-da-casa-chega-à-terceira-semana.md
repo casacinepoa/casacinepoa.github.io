@@ -21,6 +21,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*04/dez segunta-feira*\
 **2001 / Dia de Visita (27 min)**
 
 * Episódio da série "Brava gente" da TV Globo.
@@ -42,6 +43,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*05/dez terça-feira*\
 **2002 / Dona Cristina perdeu a Memória (13 min)**
 
 * Direção: Ana Luiza Azevedo
@@ -62,6 +64,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*06/dez quarta-feira*\
 **2003 / A Hora da Estrela (40 min)**
 
 * Episódio da série "Cena Aberta" da TV Globo
@@ -83,6 +86,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*07/dez quinta-feira*\
 **2004 / Meu Tio Matou um Cara (85 min)**
 
 * Direção: Jorge Furtado
@@ -105,6 +109,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*08/dez sexta-feira*\
 **2005 / O Resto é Silêncio (28 min)**
 
 * Episódio da série "5 Vezes Erico" da RBS TV
@@ -127,6 +132,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*09/dez sábado*\
 **2006 / Um dos Três**
 
 * Série de 20 episódios para a TV Globo
@@ -145,6 +151,7 @@ Confira a programação da terceira semana da mostra:
 
 - - -
 
+*10/dez domingo*\
 **2007 / Rummikub (13 min)**
 
 * Direção: Jorge Furtado
