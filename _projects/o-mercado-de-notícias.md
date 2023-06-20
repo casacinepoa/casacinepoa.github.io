@@ -6,6 +6,11 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/mdn-imgr.jpeg
 image_credits: "Foto por Fábio Rebelo: Elisa Volpatto"
+where_to_watch:
+  - title: Claro TV+
+    url: https://www.clarotvmais.com.br/filme/o-mercado-de-noticias/1846689
+  - title: Curta!On
+    url: https://canalcurta.tv.br/filme/?name=o_mercado_de_noticias
 details:
   - title: Créditos
     content: |-
