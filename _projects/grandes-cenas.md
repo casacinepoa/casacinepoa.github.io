@@ -6,6 +6,11 @@ tech_specs:
   - "Série em 22 episódios para o Canal Curta\t"
 category: Séries
 image: /uploads/grc-imgr.jpg
+where_to_watch:
+  - title: "1ª temporada: Curta!On"
+    url: https://www.curtaon.com.br/series/grandes-cenas
+  - title: "2ª temporada: Curta!On"
+    url: https://www.portacurtas.com.br/series/grandes-cenas_2%C2%AA-temporada
 details:
   - title: Créditos
     content: >-
