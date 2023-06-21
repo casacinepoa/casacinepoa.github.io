@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AOS OLHOS DA NAMÍBIA
+title: Aos Olhos da Namíbia
 date: 2023-06-19 15:38:36
 ---
 Na última quinta-feira, dia 15 de junho, Aos Olhos de Ernesto lotou a maior sala do Maerua Mall, principal cinema comercial da capital da Namíbia, na abertura da 9a. edição do Festival Iberoamericano de Windhoek. Entre os presentes estavam a Ministra da Justiça e Vice-Ministra da Cultura da Namíbia, o prefeito de Windoek, vários Embaixadores e membros do corpo diplomático.
