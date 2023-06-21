@@ -1,5 +1,5 @@
 ---
-date: 2023-06-20 20:53:01
+date: 2023-06-21 15:22:56
 image: /uploads/hqc-20anos.jpg
 title: 20 anos de O HOMEM QUE COPIAVA
 link: https://gauchazh.clicrbs.com.br/cultura-e-lazer/cinema/noticia/2023/06/o-homem-que-copiava-mostrava-porto-alegre-pelos-olhos-de-jorge-furtado-ha-20-anos-clit8bw4u00780151xwxs6736.html
