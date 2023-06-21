@@ -9,4 +9,4 @@ A Embaixadora do Brasil na Namíbia, Vivian Loss Sanmartin, agradeceu à Casa de
 
 Vivian também destaca a importância da mensagem em vídeo gravada pela da diretora Ana Luiza Azevedo, exibida no início do filme, onde compartilha a história que a motivou escrever o roteiro e, também, revela um Brasil pouco conhecido no exterior, de paisagens frias e muito próximo culturalmente dos seus vizinhos Uruguai e Argentina.
 
-E nós aproveitamos para agradecer o trabalho da embaixadora Vívian Sanmartin  e toda a sua equipe na Namíbia para difundir e, especialmente, buscar novos mercados para o audiovisual brasileiro.
+E nós aproveitamos para agradecer o trabalho da embaixadora Vivian Sanmartin e toda a sua equipe na Namíbia para difundir e, especialmente, buscar novos mercados para o audiovisual brasileiro.
