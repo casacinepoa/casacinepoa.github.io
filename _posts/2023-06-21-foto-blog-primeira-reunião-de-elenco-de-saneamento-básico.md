@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "foto-blog: primeira reunião de elenco de Saneamento Básico"
+title: "Foto-blog: primeira reunião de elenco de Saneamento Básico"
 author: jorge
 date: 2023-06-21 08:21:54
 ---
