@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/eneasv-imgr.jpg
 image_credits: "Foto por Carlos Gerbase: Noeli Cavalheiro"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/238459313
 details:
   - title: Créditos
     content: |-
