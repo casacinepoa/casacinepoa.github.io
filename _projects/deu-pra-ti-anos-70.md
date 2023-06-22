@@ -1,5 +1,5 @@
 ---
-title: Deu pra ti, anos 70
+title: Deu pra ti anos 70
 tech_specs:
   - (Super-8 mm, 108 min, cor, 1981)
   - (janela 1.33, som magnético mono)
