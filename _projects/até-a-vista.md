@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/ateav-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Salo Pasik e Felipe de Paula"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/243215363
 details:
   - title: Créditos
     content: |-
