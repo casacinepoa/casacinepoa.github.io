@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/tramp-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Júlia Barth"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/240164806
 details:
   - title: Créditos
     content: |-
