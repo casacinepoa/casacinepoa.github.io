@@ -6,6 +6,9 @@ tech_specs:
 category: Médias-metragens
 image: /uploads/mulhg-imgr.jpg
 image_credits: "Foto de Juliano Lopes: a Mulher Gigante e Gustavo Finkler"
+where_to_watch:
+  - url: https://vimeo.com/399438821
+    title: Vimeo
 details:
   - title: Créditos
     content: |-
