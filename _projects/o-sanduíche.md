@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/sand-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Felippe Monnaco e Janaína Kremer Motta"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/240198939
 details:
   - title: Créditos
     content: |-
