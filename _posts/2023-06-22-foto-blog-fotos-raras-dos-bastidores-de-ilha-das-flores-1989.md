@@ -12,7 +12,7 @@ N﻿a sala de aula, eu ensino uma criança a fingir estar estudando. O última d
 
 A﻿s outras fotos são da filmagem das animações. 
 
-A﻿s filmagens da tela do computador, um TK3000 primitivo,  com desenhos feitos por mim. Ao fundo, Giba Assis Brasil pensando em como ia fazer para montar aquilo tudo.
+A﻿s filmagens da tela do computador, um primitivo TK3000, com desenhos feitos por mim. Ao fundo, Giba Assis Brasil pensando em como ia fazer para montar aquilo tudo.
 
 ![](/uploads/captura-de-tela-2023-06-22-às-10.58.03.png)
 
