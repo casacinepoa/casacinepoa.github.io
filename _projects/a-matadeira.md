@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/matad-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Cardoso"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/238568218
 details:
   - title: Créditos
     content: |-
