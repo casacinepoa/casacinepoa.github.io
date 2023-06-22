@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/3min-imgr.jpg
 image_credits: "Foto por Carlos Gerbase: Lisa Becker"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/240196565
 details:
   - title: Créditos
     content: |-
@@ -77,9 +80,8 @@ details:
       "La película de Ana Luiza Azevedo dura sólo tres minutos, pero en ésta hay dos temas fundamentales: la ruptura sentimental y el deseo de encontrar un mejor futuro."\
 
       (Juan Rodríguez Flores, La Opinión, Los Angeles, 28/07/2000)
-  - content: >-
+  - content: |-
       Três minutos", de Leo Henkin
-
 
       <audio src="//casacinepoa.com.br/uploads/Tres_minutos.mp3" controls />
     title: Tema musical
