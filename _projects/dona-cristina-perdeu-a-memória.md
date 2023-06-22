@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/dcris-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Tergolina e Lissy Brock"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/240478265
 details:
   - title: Créditos
     content: |-
