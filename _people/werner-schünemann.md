@@ -1,6 +1,6 @@
 ---
 title: Werner Schünemann
-image: /uploads/werner2.jpg
+image: /uploads/werner-duplo.jpg
 role: integrante da Casa de Cinema de 1987 a 1991
 links:
   - title: Filmografia no IMDB
