@@ -91,6 +91,6 @@ details:
       <audio src="//nova.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
-D﻿IREITOS ATUAIS: Prana Filmes\
+D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
 \
 Sissi é uma jovem universitária que sustenta, com bastante dificuldade, o pai viúvo e o irmão pequeno. Ela volta e meia recorre aos conselhos de sua tia Martina, uma dona-de-casa entediada que enfrenta uma crise no casamento e está atraída por William, um catador de papel. Rogério, marido de Martina, enfrenta problemas no trabalho, já que sua última campanha publicitária foi um fracasso e agora ele corre o risco de ser demitido.
