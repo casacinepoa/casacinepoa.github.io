@@ -164,6 +164,13 @@ details:
       "A trama de MENOS QUE NADA parte de fatos já bem conhecidos da psicose - em sua maioria desvendados por Freud ainda no começo do século 20 - mas que ainda são misteriosos para o cidadão comum. Sem didatismos, e sem trazer dogmas para o mais subjetivo dos temas - "Menos que nada" pretende lançar alguma luz para um problema que a sociedade tem deixado nas sombras."\
 
       ([Castrinho](http://universoinsonia.com.br/menos-que-nada-um-filme-de-carlos-gerbase/), Universo Insônia, 23/07/2012)
+  - title: Tema musical
+    content: >-
+      "Uma tarde de outono de 73", letra e música de Júlio Reny, arranjo de
+      Luciano Granja
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/menos-que-nada.mp3" controls />
 original_path: /os-filmes/longas/menos-que-nada
 synopsis: Dante está internado num hospital psiquiátrico com diagnóstico de
   esquizofrenia, sem falar com ninguém, nem receber visitas. Uma jovem
