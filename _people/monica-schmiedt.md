@@ -1,6 +1,6 @@
 ---
 title: Monica Schmiedt
-image: /uploads/monica2.jpg
+image: /uploads/monica-duplo.jpg
 role: (1961-2016) integrante da Casa de Cinema de 1987 a 1991.
 links:
   - title: Filmografia no IMDB
