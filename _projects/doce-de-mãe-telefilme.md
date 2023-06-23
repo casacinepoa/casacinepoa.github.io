@@ -1,8 +1,11 @@
 ---
+title: Doce de mãe (telefilme)
 tech_specs:
   - (HD, 70 min, cor, 2012)
   - (janela 1.77, som 2.0)
 category: Longas-metragens
+image: /uploads/ddmp-imgr.jpg
+image_credits: "Foto por Alex Sernambi: Fernanda Montenegro"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/doce-de-mae/t/881LYyHzBy/
@@ -69,6 +72,12 @@ details:
       "Se depender do sucesso feito nas redes sociais, Dona Picucha não acaba hoje.  A atração que contou com um elenco afinado e com uma maravilhosa fotografia, merece ter continuídade. Um Doce de Mãe é a atração perfeita para as noites de Quinta, no lugar de A Grande Família."\
 
       ([Daniel Juliano](http://jovemolhar.blogspot.com.br/2012/12/um-doce-de-mae-que-conquistou-o-brasil.html), Blog "Jovem Olhar", 28/12/2012)
+  - title: Tema musical
+    content: >-
+      "Amor em si", por Maurício Nader
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/doce-de-mae-piloto.mp3" controls />
 original_path: /os-filmes/produção/longas/doce-de-mãe-tele-filme
 synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   por Zaida (Mirna Spritzer) há 27 anos. Sempre bem-humorada, apaixonada por
@@ -77,8 +86,5 @@ synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   Nachtergaele) - para anunciar que Zaida vai se casar e deixar o emprego. A
   prole se preocupa, mas a senhora aproveita a oportunidade única de encontrar a
   liberdade.\t"
-title: Doce de mãe (telefilme)
-image: /uploads/ddmp-imgr.jpg
-image_credits: "Foto por Alex Sernambi: Fernanda Montenegro"
 ---
 Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada por Zaida (Mirna Spritzer) há 27 anos. Sempre bem-humorada, apaixonada por samba e pela cozinha, a doce Picucha reúne os filhos - Silvio (Marco Ricca), Elaine (Louise Cardoso), Suzana (Mariana Lima) e Fernando (Matheus Nachtergaele) - para anunciar que Zaida vai se casar e deixar o emprego. A prole se preocupa, mas a senhora aproveita a oportunidade única de encontrar a liberdade.
