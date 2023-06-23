@@ -1,5 +1,5 @@
 ---
-title: Ângelo anda sumido
+title: Angelo anda sumido
 tech_specs:
   - (35 mm, 17 min, cor, 1997)
   - (janela 1.66, som óptico mono)
