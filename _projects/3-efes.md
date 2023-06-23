@@ -84,6 +84,11 @@ details:
       "Ao falar das necessidades básicas do ser humano, a partir de uma tese de Aníbal Damasceno Ferreira, que aparece na tela como o Professor Valadares, o cineasta olha para um processo que tende a deformá-las, transformando-as em alvos difíceis de serem alcançados. Para alcançar o equilíbrio, muito terá de ser abandonado para evitar a queda. O preço a ser pago é revelador. E, ao optar pela leveza e o humor, o realizador conclui seu filme com um achado que tudo resume e permite que a narrativa se conclua de forma tão apropriada quanto divertida."\
 
       (Hélio Nascimento, JORNAL DO COMÉRCIO, Porto Alegre, 14/12/2007)
+  - title: Tema musical
+    content: |-
+      "Tecno andina", por Laura L e Músicas Intermináveis para Viagem
+
+      <audio src="//nova.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
