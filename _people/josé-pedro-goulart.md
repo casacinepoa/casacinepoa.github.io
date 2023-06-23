@@ -1,6 +1,6 @@
 ---
 title: José Pedro Goulart
-image: /uploads/zepedro2.jpg
+image: /uploads/zepedro-duplo.jpg
 role: integrante da Casa de Cinema de 1987 a 1991.
 links:
   - title: Filmografia no IMDB
