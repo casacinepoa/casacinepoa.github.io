@@ -107,10 +107,6 @@ details:
       "Em 1981, o longa-metragem DEU PRA TI ANOS 70, rodado em Super 8 pelos diretores Giba Assis Brasil e Nelson Nadotti, arrebatou crítica, e considerável público, com sua narrativa sobre encontros e desencontros da incipiente juventude urbana de Porto Alegre. O filme tinha participações de artistas como Júlio Reny (Expresso Oriente), Augusto Licks (Engenheiros do Hawaii) e Wander Wildner (Os Replicantes), desbravadores da falecida sigla outrora conhecida como rock gaúcho. Quase 30 anos depois, Deu Pra Ti Anos 70 ainda é raro exemplo de pop fiction feita no Brasil."\
 
       (Cristiano Bastos, O ESTADO DE SÃO PAULO, 17/04/2010)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/deu-pra-ti-a\
-      nos-70.html)"
   - title: Tema musical
     content: >-
       "A tribo toda em dia de festa", de Nei Lisboa; intérpretes: Nei Lisboa e
@@ -118,6 +114,10 @@ details:
 
 
       <audio src="//nova.casacinepoa.com.br/uploads/deu-pra-ti.mp3" controls />
+  - title: Veja mais
+    content: "* [Créditos
+      completos](https://www.casacinepoa.com.br/os-filmes/créditos/deu-pra-ti-a\
+      nos-70.html)"
 original_path: /os-filmes/distribuição/longas/deu-pra-ti-anos-70.html
 ---
 Histórias da década de 70, contadas do ponto de vista de quem despertou para o mundo no período. Ao longo de 10 anos, Marcelo e Ceres encontram-se e desencontram-se em reuniões dançantes, bares, cinemas, universidades e acampamentos. Na noite de ano novo de 1980, eles ainda têm motivos para sonhar, agora juntos.
