@@ -171,6 +171,6 @@ synopsis: Dante está internado num hospital psiquiátrico com diagnóstico de
   Disposta a desvendar as relações sociais do seu paciente, a médica faz uma
   série de entrevistas com pessoas que conviviam com ele antes do internamento.
 ---
-D﻿IREITOS ATUAIS: [Prana Filmes](pranafilmes.com.br)\
+DIREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br)﻿\
 \
 Dante está internado num hospital psiquiátrico com diagnóstico de esquizofrenia, sem falar com ninguém, nem receber visitas. Uma jovem psiquiatra se interessa pelo caso após ver Dante surtar no pátio do hospital. Disposta a desvendar as relações sociais do seu paciente, a médica faz uma série de entrevistas com pessoas que conviviam com ele antes do internamento.
