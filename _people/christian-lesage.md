@@ -1,6 +1,6 @@
 ---
 title: Christian Lesage
-image: /uploads/christian2.jpg
+image: /uploads/christian-duplo.jpg
 role: integrante da Casa de Cinema de 1987 a 1988.
 links:
   - title: Filmografia no IMDB
