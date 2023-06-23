@@ -7,4 +7,3 @@ links:
     url: http://www.imdb.com/name/nm0377091/
 category: passado
 ---
-Diretor e fotógrafo freelancer de cinema e publicidade. Desde 2013 reside em Florianópolis. Integrante da [ABC](http://abcine.org.br/abc/socio.php?id=113), Associação Brasileira de Cinematografia.
