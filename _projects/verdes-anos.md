@@ -107,7 +107,12 @@ details:
       "O roteiro de VERDES ANOS é bem mais complexo do que o filme, ou seja, os diretores Gerbase e Assis Brasil retiraram do filme todo o conteúdo violento e político que a história continha. (...) Cortaram todas as cenas de violência na prisão e todo um personagem, um jovem que era metralhado no final. Foi pena. (...) Resultou um filme simpático, do qual eu e o roteirista Alvaro Luiz Teixeira até gostamos, mas ingênuo, juvenil demais. Engraçado é que é exatamente esta ingenuidade, este frescor, que torna o filme encantador para quem o vê sem ter conhecido a história verdadeira."\
 
       (Luiz Fernando Emediato, A GAZETA, Rio de Janeiro, 15/09/86)
-  - title: Mais sobre
+  - title: Tema musical
+    content: |-
+      "Rock'n'roll bye bye", por Nei Lisboa
+
+      <audio src="//nova.casacinepoa.com.br/uploads/verdes-anos.mp3" controls />
+  - title: Veja mais
     content: >-
       * [Fotos de
       cena](https://www.casacinepoa.com.br/os-filmes/distribuição/longas/verdes-anos/fotos-de-cena.html)
