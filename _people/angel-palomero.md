@@ -1,6 +1,6 @@
 ---
 title: Angel Palomero
-image: /uploads/angel2.jpg
+image: /uploads/angel-duplo.jpg
 role: Integrante da Casa de Cinema de 1987 a 1991.
 links:
   - title: Filmografia no IMDB
