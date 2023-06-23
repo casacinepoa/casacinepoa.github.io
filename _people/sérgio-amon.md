@@ -1,6 +1,6 @@
 ---
 title: Sérgio Amon
-image: /uploads/amon1.jpg
+image: /uploads/amon-duplo.jpg
 role: integrante da Casa de Cinema de 1987 a 1991
 links:
   - title: Filmografia no IMDB
