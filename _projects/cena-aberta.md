@@ -101,6 +101,13 @@ details:
 
 
       (*) O episódio "Folhetim" foi produzido unicamente pela TV Globo. Mais informações no saite [Memória Globo](http://memoriaglobo.globo.com/programas/entretenimento/seriados/cena-aberta.htm).
+  - title: Tema musical
+    content: >-
+      "Por que cantamos", letra de Mario Benedetti, música de Leo Henkin;
+      intérprete: Rossana Taddei
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/cena-aberta.mp3" controls />
 original_path: /os-filmes/realização/séries-de-tv/cena-aberta.html
 ---
 Série de 4 episódios produzida pela Casa de Cinema para a TV Globo. Partindo de originais literários, cada episódio mostra uma interpretação ficcional misturada a um documentário sobre a sua própria preparação, escolha de elenco, filmagem e finalização.
