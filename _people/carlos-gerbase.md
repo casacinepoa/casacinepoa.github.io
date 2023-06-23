@@ -3,8 +3,6 @@ title: Carlos Gerbase
 image: /uploads/gerbase2a.jpg
 role: Integrante da Casa de Cinema de 1987 a 2011.
 links:
-  - title: gerbase@pranafilmes.com.br
-    url: mailto:gerbase@pranafilmes.com.br
   - title: Filmografia no IMDB
     url: http://us.imdb.com/name/nm0314068/
 category: passado
