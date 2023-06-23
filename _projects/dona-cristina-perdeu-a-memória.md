@@ -120,7 +120,13 @@ details:
       "DONA CRISTINA PERDEU A MEMÓRIA é um curta belo, comovente e que merece ser visto. (...) Contando com uma trilha sonora cativante, o curta dirigido pela gaúcha Ana Luíza Azevedo é mergulhado em um reconfortante tom lúdico e traz o jovem ator Pedro Tergolina e a veterana Lissy Brock em uma interação dinâmica e repleta de química. Engraçado e tocante, o filme ainda é enriquecido pelo inteligente simbolismo referente à bagagem emocional e à experiência de Dona Cristina, que finalmente conferem \`lastro\` para que Antônio possa vencer seus próprios obstáculos."\
 
       (Pablo Villaça, revista virtual CINEMA EM CENA, 29/09/2003)
-  - title: Mais sobre
+  - title: Tema musical
+    content: >-
+      "Tema de encerramento", por Gustavo Finkler
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/dona-cristina.mp3" controls />
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/dona-cristina-perdeu-memória.html)
