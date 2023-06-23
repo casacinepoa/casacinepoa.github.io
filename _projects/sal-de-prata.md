@@ -99,6 +99,6 @@ synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
   deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas
   realizados e muitos roteiros no computador.
 ---
-D﻿IREITOS ATUAIS: Prana Filmes\
+DIREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
 \
 Cátia, uma bem-sucedida economista, tem que repensar sua vida quando seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco, deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas realizados e muitos roteiros no computador.
