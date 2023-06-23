@@ -111,6 +111,13 @@ details:
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/deu-pra-ti-a\
       nos-70.html)"
+  - title: Tema musical
+    content: >-
+      "A tribo toda em dia de festa", de Nei Lisboa; intérpretes: Nei Lisboa e
+      Augusto Licks
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/deu-pra-ti.mp3" controls />
 original_path: /os-filmes/distribuição/longas/deu-pra-ti-anos-70.html
 ---
 Histórias da década de 70, contadas do ponto de vista de quem despertou para o mundo no período. Ao longo de 10 anos, Marcelo e Ceres encontram-se e desencontram-se em reuniões dançantes, bares, cinemas, universidades e acampamentos. Na noite de ano novo de 1980, eles ainda têm motivos para sonhar, agora juntos.
