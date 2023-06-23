@@ -10,22 +10,22 @@ details:
     content: |-
       **Direção**: Esmir Filho
 
-      **Produção Executiva**: Nora Goulart
-      **Roteiro**: Esmir Filho e Ismael Caneppele
-      **Direção de Fotografia**: Inti Briones
-      **Direção de Arte**: Mariana Urriza
-      **Música**: Marina Lima
-      **Direção de Produção**: Padro Barcia e Glauco Urbim
+      **Produção Executiva**: Nora Goulart\
+      **Roteiro**: Esmir Filho e Ismael Caneppele\
+      **Direção de Fotografia**: Inti Briones\
+      **Direção de Arte**: Mariana Urriza\
+      **Música**: Marina Lima\
+      **Direção de Produção**: Padro Barcia e Glauco Urbim\
       **Montagem**: Germano de Oliveira
 
-      **Uma Produção da Casa de Cinema PoA**
+      **Uma Produção da Casa de Cinema PoA**\
       com Saliva Shots, Oriental Features, Canal Brasil e Globo Filmes
 
-      **Elenco Principal:**
-      Andréa Beltrão (Frederica)
-      Marina Lima (Lenny)
-      Alfredo Castro (Constantin)
-      Ismael Caneppele (João)
+      **Elenco Principal:**\
+      Andréa Beltrão (Frederica)\
+      Marina Lima (Lenny)\
+      Alfredo Castro (Constantin)\
+      Ismael Caneppele (João)\
       Fernanda Pavanelli (Tuane)
   - title: Tema musical
     content: >-
