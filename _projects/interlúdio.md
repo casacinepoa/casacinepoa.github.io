@@ -50,7 +50,12 @@ details:
       "INTERLÚDIO é ótimo. Entre duas grandes paixões, um rapaz vive um romance sem futuro - um interlúdio - com a caixa de um supermercado. Gerbase, que se baseou num conto de sua autoria, discute o amor como consumo."\
 
       ([Luis Carlos Merten](http://www.terra.com.br/cinema/noticias/2000/10/03/010.htm), Agência Estado, 03/10/2000)
-  - title: Mais sobre
+  - content: |-
+      "Tema de interlúdio", por Marcelo Fornazzier
+
+      <audio src="//nova.casacinepoa.com.br/uploads/interludio.mp3" controls />
+    title: Tema musical
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/curtas/interlúdio/inte\
       rlúdio-créditos)"
