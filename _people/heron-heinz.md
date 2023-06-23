@@ -1,6 +1,6 @@
 ---
 title: Heron Heinz
-image: /uploads/heron-2010.jpg
+image: /uploads/heron-duplo.jpg
 role: integrante da Casa de Cinema de 1987 a 1991.
 links:
   - title: Filmografia no IMDB
