@@ -52,7 +52,13 @@ details:
       "A intenção do autor deste filme é uma incógnita, pois apesar de realizado com capricho do ponto de vista técnico, (deixa) passar uma mensagem bastante estranha: de que uma mulher qualquer em situação de solidão e tédio aceita e quase pede a pornografia e a obscenidade como diversão. (...) Num país como o nosso, em que mocinhas são mortas em consequência de crimes sexuais quase que semanalmente, esse tipo de mensagem irrefletida é no mínimo irresponsável."\
 
       (Eliana Dutra, CINE IMAGINÁRIO, Rio de Janeiro, julho de 1987)
-  - title: Mais sobre
+  - title: Tema musical
+    content: >-
+      "Gnossienne #5", de Erik Satie, por Glauco Sagebin
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/obscenidades.mp3" controls />
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/distribuição/obscenid\
       ades-créditos.html)"
