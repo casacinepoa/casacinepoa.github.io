@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Foto-blog: primeira reunião de elenco de O Homem que copiava."
+title: "Foto-blog: primeira reunião de elenco de O Homem que copiava (2001)"
 author: jorge
 date: 2023-06-20 18:15:33
 ---
