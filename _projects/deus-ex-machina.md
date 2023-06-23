@@ -115,6 +115,12 @@ details:
 
 
       "Um dos primeiros fatores que chama a atenção em DEUS EX-MACHINA é que grande parte do filme é feita em 'primeiro plano'. (...) Se pensarmos que Dolores está paralisada em uma cama, podemos entender que a estratégia do primeiro plano iguala todos os personagens no que diz respeito às imagens deles da cintura para baixo. Assim, podemos pensar que os primeiros planos criam a idéia de que todos personagens estão paralisados, todos eles estão mergulhados na forma como são.([Fabiano de Souza](http://www.contracampo.he.com.br/47/deusex.htm), revista virtual CONTRACAMPO, janeiro/2003)
+  - title: Tema musical
+    content: >-
+      "Tema de abertura", por Ricardo Severo
+
+
+      <audio src="//nova.casacinepoa.com.br/uploads/deus-ex-machina.mp3" controls />
 original_path: /os-filmes/produção/curtas/deus-ex-machina.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
