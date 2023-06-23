@@ -1,6 +1,6 @@
 ---
 title: Luciana Tomasi
-image: /uploads/luli2a.jpg
+image: /uploads/luli-duplo.jpg
 role: integrante da Casa de Cinema de 1987 a 2011.
 links:
   - title: Filmografia no IMDB
