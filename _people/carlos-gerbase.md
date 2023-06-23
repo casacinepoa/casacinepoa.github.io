@@ -1,6 +1,6 @@
 ---
 title: Carlos Gerbase
-image: /uploads/gerbase2a.jpg
+image: /uploads/gerbase-duplo.jpg
 role: Integrante da Casa de Cinema de 1987 a 2011.
 links:
   - title: Filmografia no IMDB
