@@ -104,14 +104,14 @@ details:
       (Anna Virginia Balloussier, Rolling Stone, 16/07/2009)\
 
       <http://www.rollingstone.com.br/secoes/novas/noticias/5792/>
-  - title: Veja mais
-    content: "* ﻿Créditos completos"
   - title: Tema musical
     content: >-
       "Beat Acelerado", de Yann Lao, Vicente França e Alec Haiat - grupo Metrô;
       arranjo de Leo Henkin; voz: Luiza Caspary\
 
       <audio src="https://www.casacinepoa.com.br/uploads/antes-que-o-mundo-acabe.mp3" controls />
+  - title: Veja mais
+    content: "* ﻿Créditos completos"
 original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
 ---
 Daniel é um adolescente crescendo em seu pequeno mundo com problemas que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que quer, como ajudar um amigo que está sendo acusado de roubo e como sair da pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito maior do que ele pensa.
