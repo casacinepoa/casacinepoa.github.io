@@ -43,7 +43,7 @@ Desconheço os critérios da comissão do ano passado, que tinha os cineastas Br
 
 * A decisão foi unânime? Se não, que filme ficou em segundo lugar?
 
-A decisão não foi unânime, mas foi consensual. Discutimos todos os filmes, cada um de nós indicou os seus três favoritos, rediscutimos os mais votados nessa primeira rodada, fechamos a discussão em torno de três filmes e, afinal, quando ficou claro que a maioria escolheria "Última parada 174", estabaleceu-se o consenso. Não houve propriamente uma votação final. Na prática, ficaram em segundo lugar os outros 13 filmes inscritos, ou seja (em ordem alfabética): "A Casa de Alice", "Chega de Saudade", "Os Desafinados", "Era Uma Vez", "Estômago", "Meu nome não é Johnny", "Mutum", "Nossa vida não cabe num Opala", "Olho de Boi", "Onde andará Dulce Veiga?", "O Passado", "O Signo da Cidade" e "A Via Láctea".
+A decisão não foi unânime, mas foi consensual. Discutimos todos os filmes, cada um de nós indicou os seus três favoritos, rediscutimos os mais votados nessa primeira rodada, fechamos a discussão em torno de três filmes e, afinal, quando ficou claro que a maioria escolheria "Última parada 174", estabaleceu-se o consenso. Não houve propriamente uma votação final. Na prática, ficaram em segundo lugar os outros 13 filmes inscritos, ou seja (em ordem alfabética): "A casa de Alice", "Chega de saudade", "Os desafinados", "Era uma vez", "Estômago", "Meu nome não é Johnny", "Mutum", "Nossa vida não cabe num Opala", "Olho de boi", "Onde andará Dulce Veiga?", "O passado", "O signo da cidade" e "A Via Láctea".
 
 * Quanto vocês ganharam por isso?
 
@@ -51,11 +51,9 @@ A participação na comissão do Óscar não é remunerada. O MinC pagou a minha
 
 Então? É pra isso que serve um blogue?
 
-
-
 ![](/uploads/174.jpg)
 
-"Última parada 174" estréia dia 24/10 em todo o Brasil, menos em Jundiaí, que assistirá Corinthians x Grêmio pela série B.
+*"Última parada 174" estréia dia 24/10 em todo o Brasil, menos em Jundiaí, que assistirá Corinthians x Grêmio pela série B.*
 
 - - -
 
