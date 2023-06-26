@@ -31,7 +31,7 @@ Mas também não é o caso.
 
 ![](/uploads/cortazar_hole.jpg)
 
-Julio Cortázar (1914-1984) não chegou a conhecer a Wikipédia (2001).
+*Julio Cortázar (1914-1984) não chegou a conhecer a Wikipédia (2001).*
 
 - - -
 
