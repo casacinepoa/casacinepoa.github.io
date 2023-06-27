@@ -19,10 +19,10 @@ Voltei atrás. Passei a defender "Volta na quadra", título de um belo poema do 
 
 Logo depois da queda do muro de Berlim, este título voltou a me bater com força: achei que ele podia significar, naquele momento, a defesa do socialismo contra as novas e velhas barbáries, incluindo-se aí até mesmo o recém sepultado "socialismo real". Cheguei a propor que ele fosse usado como slogan de nossa primeira campanha política como profissionais, em 1992: a de Tarso Genro para prefeito de Porto Alegre. Claro que não fui levado a sério, nem pelo Jorge, nem pelo Gerbase, e muito menos pela coordenação de comunicação da campanha. Mas em 1994, na segunda campanha do Lula para Presidente, a frase completa chegou a ser usada, e eu nunca fiquei sabendo por quem. Lembro que a Folha de São Paulo deu meia página explicando a origem da frase e considerando ridícula a associação - o que me deixou ainda mais satisfeito: era uma garantia de que eu estava certo. Eu e o membro da equipe de Lula que, num dia de entrevista coletiva, colocara no quadro do QG da campanha, escrita a giz, a citação ao mestre Raul Seixas:
 
-"Todo jornal que eu leio\
-me diz que a gente já era,\
-que já não é mais primavera.\
-Mas baby, oh baby,\
-a gente ainda nem começou."
+*"Todo jornal que eu leio*\
+*me diz que a gente já era,*\
+*que já não é mais primavera.*\
+*Mas baby, oh baby,*\
+*a gente ainda nem começou."*
 
 \[Raul Seixas e] Giba Assis Brasil
