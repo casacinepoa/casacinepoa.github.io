@@ -56,4 +56,4 @@ Escrevo no dia 04/09/2008, 13:45. Daniel Dantas continua solto, Nelson Jobin seg
 
 **Enviado por Jorge em 08 de setembro de 2008.**
 
-*Alô Henrique. Nãpo conheço muito a obra do Cassavetes como diretor, acho que só vi "Gloria", "Uma Mulher sob influência" e um mais antigo, "Faces". Me parece que ele misturava bastante os dois "sistemas", momentos com planos elaborados e precisão e momentos mais soltos. Wong Kar Wai é decididamente da outra ponta.*
+*Alô Henrique. Não conheço muito a obra do Cassavetes como diretor, acho que só vi "Gloria", "Uma Mulher sob influência" e um mais antigo, "Faces". Me parece que ele misturava bastante os dois "sistemas", momentos com planos elaborados e precisão e momentos mais soltos. Wong Kar Wai é decididamente da outra ponta.*
