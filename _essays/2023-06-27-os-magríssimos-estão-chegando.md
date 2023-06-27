@@ -9,7 +9,9 @@ date: 1998-02-24 18:02:51
 *(24/02/1998)*\
 *publicado originalmente no [Não 54](https://www.nao-til.com.br/nao-54/magrissi.htm)*
 
-Já fui um magro do cinema gaúcho, no sentido definido por Aníbal Damasceno Ferreira: alguém disposto a contestar a estética e a ideologia dos filmes feitos em determinado período no Rio Grande do Sul. Esta contestação aconteceu a partir do final da década de 70 e foi exercida de três maneiras diferentes: (1) pela criação de uma nova estrutura de produção (curtas e longas em super-8), em oposição aos curtas e longas em 35mm;
+Já fui um magro do cinema gaúcho, no sentido definido por Aníbal Damasceno Ferreira: alguém disposto a contestar a estética e a ideologia dos filmes feitos em determinado período no Rio Grande do Sul. Esta contestação aconteceu a partir do final da década de 70 e foi exercida de três maneiras diferentes:
+
+(1) pela criação de uma nova estrutura de produção (curtas e longas em super-8), em oposição aos curtas e longas em 35mm;
 
 (2) pela utilização de uma temática "urbana" e "jovem", em oposição aos filmes "rurais" (José Mendes e Teixeirinha) e "adultos" (Jesus Pfeil, Textor);
 
