@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/ateav-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Salo Pasik e Felipe de Paula"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/243215363
 details:
   - title: Créditos
     content: |-
@@ -45,9 +48,9 @@ details:
 
 
       ([Maria do Rosário Caetano](https://almanakito.wordpress.com/2012/05/07/cine-pe-2012-balanco-da-xvi-edicao-do-fest-recifolinda-2/), blog Almanakito, 07/05/2012)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/créditos/até-vista)"
+  - title: Veja mais
+    content: "* [R﻿oteiro](<https://www.casacinepoa.com.br/uploads/ate a vista -
+      rot.pdf>) - 1º tratamento - 15/04/2011"
 original_path: /os-filmes/produção/curtas/até-vista-0.html
 ---
 Jovem cineasta procura uma história para o seu primeiro longa-metragem. Na tentativa de conseguir os direitos autorais de um romance, o jovem aceita a proposta inusitada do autor e juntos partem à procura de um antigo amor do escritor.
