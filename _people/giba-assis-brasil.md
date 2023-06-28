@@ -1,6 +1,6 @@
 ---
 title: Giba Assis Brasil
-image: /uploads/giba.jpg
+image: /uploads/giba-2023.jpg
 order: ""
 links:
   - title: Filmografia no IMDB
