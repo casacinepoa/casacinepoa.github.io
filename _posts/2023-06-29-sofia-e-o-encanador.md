@@ -27,7 +27,7 @@ E tem ainda o Jeca Tatu de Monteiro Lobato e o Jeca Total de Gilberto Gil, a mai
 
 Mas a Sofia, que o Jorge nomeou quase por acaso, no meio de uma frase, provavelmente sem tempo de lembrar que significa "sabedoria" em grego, já era leitora modelo há mais de dois séculos. Alguns anos depois da tal reunião, lendo o "Discurso sobre a poesia dramática" que Denis Diderot escreveu em 1758 (minha edição é de 1986, da Brasiliense) encontrei o seguinte trecho (p. 40):
 
-"Ao escrever, deve-se ter em vista a virtude e as pessoas virtuosas. Quando tomo da pena, sois vós, meu amigo, que evoco e, quando ajo, sois vós que tenho diante dos olhos. É a Sofia que pretendo agradar. Se me sorrirdes, se ela derrama uma lágrima, se ambos me têm mais afeição, sinto-me recompensado."
+*"Ao escrever, deve-se ter em vista a virtude e as pessoas virtuosas. Quando tomo da pena, sois vós, meu amigo, que evoco e, quando ajo, sois vós que tenho diante dos olhos. É a Sofia que pretendo agradar. Se me sorrirdes, se ela derrama uma lágrima, se ambos me têm mais afeição, sinto-me recompensado."*
 
 Segundo o tradutor L.F. Franklin de Matos, "trata-se de Sophie de Volland, com quem Diderot manteve relações amorosas e trocou uma farta correspondência, que se estendeu por aproximadamente trinta anos".
 
