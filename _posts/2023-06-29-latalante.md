@@ -47,4 +47,4 @@ Sobre [Miguel Almereyda](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=8
 
 **Enviado por fabio nunes em 08 de setembro de 2009.**
 
-*organizo um cibeclube em Marília e estou com uma dúvida: Atalante ou Santa Sangre do Jodorowski?*
+*organizo um cineclube em Marília e estou com uma dúvida: Atalante ou Santa Sangre do Jodorowski?*
