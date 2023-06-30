@@ -58,7 +58,7 @@ layout: default
   {% if page.details %}
     <div class="project_infos">
       {% for detail in page.details %}
-        <details id="{{ detail.title | slugify | prepend: 'info_' }}" class="info" open>
+        <details id="{{ detail.title | slugify | prepend: 'info_' }}" class="info">
           <summary class="info_title">
             {{ detail.title }}
           </summary>
