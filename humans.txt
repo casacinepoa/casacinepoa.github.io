@@ -1,5 +1,34 @@
 /*
   HUMANS.TXT
-  The people who made this site
-  and some technology colophon.
+  As pessoas que fizeram esse site
+  e um colofão de tecnologias.
 */
+
+# DESENVOLVIDO POR
+
+Arthur Freitas -- https://arthr.me
+
+# AUTORES
+
+Giba Assis Brasil -- https://casacinepoa.com.br/blog/giba/
+Jorge Furtado -- https://casacinepoa.com.br/blog/jorge/
+
+# A EQUIPE DA CASA
+
+Ana Luiza Azevedo
+Anísio Guedes
+Giba Assis Brasil
+Joelma Machado Leão
+Jonatas Rubert
+Jorge Furtado
+Naomi Siviero
+Nora Goulart
+Simone Guedes
+
+# TECNOLOGIAS
+
+HTML5, CSS3
+Jekyll, Nova
+GitHub
+
+Código-fonte: https://github.com/casacinepoa/casacinepoa.github.io
