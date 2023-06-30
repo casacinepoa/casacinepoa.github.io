@@ -3,6 +3,7 @@ backend:
   name: github # Netlify’s Git Gateway connects to Git provider’s API
   repo: casacinepoa/casacinepoa.github.io
   branch: main # Branch to update (master by default)
+  site_domain: casacinepoa.netlify.app
 locale: pt
 local_backend: true
 media_folder: "uploads"
