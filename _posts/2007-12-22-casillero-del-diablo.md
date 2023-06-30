@@ -8,8 +8,6 @@ tags:
   - gastronomia
 original_path: /comment/reply/199/scripts.js.html
 ---
-Teste de editor.
-
 O vinho chileno foi servido, provado, aprovado e surgiu a dúvida: o que significa "Casillero del Diablo"? Na roda, muitos apreciadores mas nenhum "conhecedor"; ninguém sabia. Depois de alguns palpites mais ou menos humorados, passamos a outro assunto. Mas eu fiquei com o Google atrás da orelha. Chegando em casa, pesquisa.
 
 Procurei primeiro no Michaelis Espanhol-Português, em papel mesmo, que pra muitas coisas ainda é mais rápido. Casillero é fichário, arquivo. Mas não achei suficiente: e por que "del diablo"? Fichário do capeta? Arquivo do demo? Por que um vinho teria esse nome?
