@@ -10,6 +10,25 @@ body.page {
 
 .image_cover {
   margin-bottom: $spacing-unit;
+  position: relative;
+
+  .cover_caption {
+    background-color: #fff;
+    font-family: $content-font-family;
+    color: $color-details;
+    font-size: 0.875rem;
+    text-align: right;
+    hyphens: none;
+
+    @include media-query($on-laptop) {
+      padding: calc($spacing-unit / 4);
+      display: inline-block;
+      position: absolute;
+      bottom: calc($spacing-unit / 4);
+      right: calc($spacing-unit / 4);
+      max-width: 300px;
+    }
+  }
 }
 
 .post_content,
