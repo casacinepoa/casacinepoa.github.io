@@ -10,6 +10,12 @@ locale: pt
 local_backend: true
 media_folder: "uploads"
 publish_mode: editorial_workflow
+site_url: "https://www.casacinepoa.com.br/"
+display_url: "https://www.casacinepoa.com.br/"
+logo_url: "https://www.casacinepoa.com.br/assets/img/favicon.png"
+slug:
+  encoding: "unicode"
+  clean_accents: true
 collections:
   - name: post
     label: Posts
@@ -255,6 +261,13 @@ collections:
             value: Textos sobre Cinema
           - label: Roteiros
             value: Roteiros
+      - label: Arquivo
+        name: file
+        widget: file
+        media_library:
+          config:
+            allow_multiple: false
+            media_folder: "/uploads/roteiros/"
       - label: Date
         name: date
         widget: datetime

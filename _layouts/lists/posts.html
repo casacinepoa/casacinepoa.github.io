@@ -22,7 +22,13 @@ layout: page
     {%- include post/meta.html -%}
     <br />
     <strong>
-      <a href="{{ post.url | relative_url }}" rel="bookmark">
+      {% assign post_permalink = post.url | relative_url %}
+
+      {% if post.file and post.file != "" %}
+        {% assign post_permalink = post.file | absolute_url %}
+      {% endif %}
+
+      <a href="{{ post_permalink }}" rel="bookmark">
         {{ post.title }}
       </a>
     </strong>

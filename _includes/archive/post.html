@@ -4,7 +4,11 @@
 
     {%- if page.title != "" -%}
     <h2 class="post_title">
-      <a class="post_bookmark" href="{{ post.url | relative_url }}" rel="bookmark">
+      {% assign post_permalink = post.url | relative_url %}
+      {% if post.file and post.file != "" %}
+        {% assign post_permalink = post.file | absolute_url %}
+      {% endif %}
+      <a class="post_bookmark" href="{{ post_permalink }}" rel="bookmark">
         {{ post.title }}
       </a>
     </h2>
@@ -22,8 +26,14 @@
           Leia mais
         </a>
       {%- else -%}
-        {{ post.content }}
+        {{ post.content | markdownify }}
       {%- endif -%}
     </div>
   {%- endunless -%}
+
+  {% if post.category == "Roteiros" %}
+    <div class="post_content">
+      {{ post.content | markdownify }}
+    </div>
+  {% endif %}
 </article>
