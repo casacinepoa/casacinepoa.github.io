@@ -13,9 +13,9 @@ publish_mode: editorial_workflow
 site_url: "https://www.casacinepoa.com.br/"
 display_url: "https://www.casacinepoa.com.br/"
 logo_url: "https://www.casacinepoa.com.br/assets/img/favicon.png"
-slug:
-  encoding: "unicode"
-  clean_accents: true
+# slug:
+#   encoding: "unicode"
+#   clean_accents: true
 collections:
   - name: post
     label: Posts
@@ -317,6 +317,9 @@ collections:
     - label: "Projetos"
       field: category
       pattern: "Projetos"
+    - label: "Episódios"
+      field: category
+      pattern: "Episódios"
     description: >-
       Os projetos ou os filmes. Dependendo da categoria, eles são exibidos em sua lista respectiva.
     fields:
@@ -347,6 +350,7 @@ collections:
           - Distribuição
           - Coleções
           - Projetos
+          - Episódios
       - label: Trailer
         name: trailer
         widget: string
