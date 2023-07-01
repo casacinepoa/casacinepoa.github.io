@@ -54,6 +54,30 @@
 .post_content {
   font-family: $content-font-family;
   max-width: 850px;
+
+  p:has(img) {
+    position: relative;
+    border: 1px solid $color-text;
+    padding: 0.5em;
+    text-align: center;
+
+    em {
+      background-color: #fff;
+      font-family: $content-font-family;
+      color: $color-details;
+      font-size: 0.875rem;
+      text-align: right;
+
+      @include media-query($on-laptop) {
+        padding: calc($spacing-unit / 4);
+        display: inline-block;
+        position: absolute;
+        bottom: calc($spacing-unit / 4);
+        right: calc($spacing-unit / 4);
+        max-width: 300px;
+      }
+    }
+  }
 }
 
 .blog_container {
