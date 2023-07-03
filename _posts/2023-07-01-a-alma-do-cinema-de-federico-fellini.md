@@ -7,7 +7,7 @@ date: 2023-07-01 10:36:59
 
 "Acusaram-me de fugir à realidade e de refugiar-me no sonho.
 
-[]()Penso que não se pode considerar a realidade como um panorama de uma superfície única, pois uma paisagem tem várias espessuras e, a mais profunda - aquela que somente a linguagem poética pode revelar - não é a menos real.
+Penso que não se pode considerar a realidade como um panorama de uma superfície única, pois uma paisagem tem várias espessuras e, a mais profunda - aquela que somente a linguagem poética pode revelar - não é a menos real.
 
 Quero ir além da epiderme das coisas.
 
