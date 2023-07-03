@@ -8,7 +8,7 @@
   </h3>
 
   <div class="excerpt">
-    <p>{{ post.excerpt | truncate: 120, "…" }}</p>
+    {{ post.excerpt }}
   </div>
 
   <a class="continue_reading" href="{{ post.url | relative_url }}" rel="bookmark">
