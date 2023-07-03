@@ -5,7 +5,7 @@ title: 'Kurt Vonnegut: "Até personagens paralisados pela falta de sentido da
 author: jorge
 date: 2023-07-02 10:56:20
 ---
-![](/uploads/captura-de-tela-2023-07-02-às-10.53.29.png)
+![]()
 
 Kurt Vonnegut: Até personagens paralisados pela falta de sentido da vida moderna têm que beber água de tempos em tempos.
 
