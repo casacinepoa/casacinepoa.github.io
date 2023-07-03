@@ -4,9 +4,10 @@ title: A Alma do Cinema, de Federico Fellini
 author: jorge
 date: 2023-07-01 10:36:59
 ---
+
 "Acusaram-me de fugir à realidade e de refugiar-me no sonho.
 
-[](<>)Penso que não se pode considerar a realidade como um panorama de uma superfície única, pois uma paisagem tem várias espessuras e, a mais profunda - aquela que somente a linguagem poética pode revelar - não é a menos real.
+[]()Penso que não se pode considerar a realidade como um panorama de uma superfície única, pois uma paisagem tem várias espessuras e, a mais profunda - aquela que somente a linguagem poética pode revelar - não é a menos real.
 
 Quero ir além da epiderme das coisas.
 
@@ -38,4 +39,4 @@ x
 
 do livro "As mais belas orações do mundo", de Rose Marie Muraro e Frei Raimundo Cintra, Círculo do Livro, São Paulo, 1969.
 
-![](/uploads/captura-de-tela-2023-06-30-às-09.44.54.png)
+![](/uploads/captura-de-tela-2023-06-30-as-09.44.54.png)

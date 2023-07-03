@@ -5,9 +5,8 @@ title: 'Kurt Vonnegut: "Até personagens paralisados pela falta de sentido da
 author: jorge
 date: 2023-07-02 10:56:20
 ---
-![]()
 
-![](/uploads/captura-de-tela-2023-07-02-às-10.53.29.png)
+![](/uploads/captura-de-tela-2023-07-02-as-10.53.29.png)
 
 Kurt Vonnegut: Até personagens paralisados pela falta de sentido da vida moderna têm que beber água de tempos em tempos.
 
@@ -15,7 +14,7 @@ Kurt Vonnegut: Até personagens paralisados pela falta de sentido da vida modern
 
 Pergunta: Acha realmente que a arte de escrever de forma criativa pode ser ensinada?
 
-[](<>)VONNEGUT: Mais ou menos da mesma maneira que o golfe pode ser ensinado. Um profissional pode apontar falhas óbvias no seu modo de mover o taco. (...) Sei apenas a teoria.
+VONNEGUT: Mais ou menos da mesma maneira que o golfe pode ser ensinado. Um profissional pode apontar falhas óbvias no seu modo de mover o taco. (...) Sei apenas a teoria.
 
 Pergunta: Poderia expor a teoria em poucas palavras?
 
