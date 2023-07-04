@@ -30,7 +30,7 @@ details:
       06 - Minas do Camaquã (Rio Grande do Sul, Brasil)\
       07 - Fordlândia (Pará, Brasil)\
       08 - Humberstone (Chile)
-  - title: Mais sobre
+  - title: Veja mais
     content: |-
       * [Sinopses dos episódios](http://www.casacinepoa.com.br/node/2040)
       * [Créditos completos](http://www.casacinepoa.com.br/node/2039)
