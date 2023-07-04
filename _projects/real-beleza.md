@@ -74,7 +74,7 @@ details:
       "O fotógrafo é o trabalhador das imagens, o fascinado pelos rostos das meninas. Quando ele descobre a biblioteca, se aproxima de um mundo para ele até então praticamente desconhecido. (...) Esta biblioteca tem como guardião um personagem borgeano que parece tê-la quase toda na memória. (...) O novo filme de Jorge Furtado não tem receio algum de praticar um gesto de rebeldia nos quadros do atual cinema brasileiro, ao tocar em temas não abordados por outros."\
 
       ([Hélio Nascimento](http://jcrs.uol.com.br/site/noticia.php?codn=205054), Jornal do Comércio, 14/08/2015)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos completos](/filmes/real-beleza/creditos-completos/)"
 original_path: /os-filmes/produção/longas/real-beleza
 synopsis: João é um fotógrafo à procura candidatas a modelo em cidades do
