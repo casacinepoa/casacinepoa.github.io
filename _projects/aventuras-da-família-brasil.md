@@ -52,7 +52,7 @@ details:
       06 - Família a gente não escolhe\
       07 - O Teatro Mágico de Mongo\
       08 - De onde viemos e para onde vamos
-  - title: Mais sobre
+  - title: Veja mais
     content: |-
       * [Sinopse dos episódios](http://www.casacinepoa.com.br/node/2007)
       * [Créditos completos](http://www.casacinepoa.com.br/node/2006)
