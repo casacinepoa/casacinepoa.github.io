@@ -41,7 +41,7 @@ details:
       Marilisa Bier\
 
       Djanira Correa
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/curtas/domésticas-créd\
       itos)"
