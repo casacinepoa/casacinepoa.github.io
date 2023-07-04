@@ -65,7 +65,7 @@ details:
       "Jorge Furtado é o cineasta brasileiro mais premiado da atualidade. Na semana passada, Furtado levantou, com a unanimidade do júri, o primeiro prêmio do Festival de Clermont-Ferrand, na França, que é considerado o Cannes dos curtas. Com Esta Não É a Sua Vida, que resume, em dezesseis minutos, a biografia de uma dona de casa de Porto Alegre, Furtado derrotou setenta e nove concorrentes de quarenta países. 'A ternura e o humor da fita são cativantes, emocionantes. Eles nos prendem com força', elogia o diretor de fotografia e cineasta Jimmy Glasberg, um dos jurados do concurso".\
 
       (Revista Veja)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Pré-roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/esta-não-é-sua-vida-pré-roteiro.html)
