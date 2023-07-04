@@ -100,7 +100,7 @@ details:
       "O documentário de Furtado, painel da vida intelectual no Rio daquele período, que vai se revelando por meio da história singular de Primavera, não teria a mesma emoção sem a delicadeza e a generosidade da amiga Eulalie, que nunca a esqueceu. E sendo assim, o filme de Furtado não nos oferece apenas um perfil de uma mulher que viveu intensamente o seu tempo, sem se esquivar de atitudes e comportamentos considerados avançados para a época, mas também o da importância da amizade entre duas mulheres que possuíam uma enorme afinidade intelectual."\
 
       ([Luiza Lusvarghi](http://revistaogrito.com/femmefatale/primavera-eulalie-e-furtado-cronica-de-afetos-e-literatura/), Blog Femme Fatale, 15/06/2017)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](/filmes/quem-é-primavera-das-neves/creditos-completos/)"
 original_path: /os-filmes/produção/documentários/quem-é-primavera-das-neves.html
