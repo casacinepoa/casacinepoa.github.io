@@ -31,7 +31,7 @@ details:
         Destaque do ano em cinema (para os cursos Introdução ao Fazer Cinema)
       * Prêmio Quero-quero, SATED, 1990:\
         Melhor filme gaúcho do ano.
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/coisa-mais-i\
       mportante-da-vida.html)"
