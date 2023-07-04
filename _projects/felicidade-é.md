@@ -77,7 +77,7 @@ details:
       "Com quatro idéias na cabeça, uma câmara na mão e um orçamento enxuto, um quarteto de cineastas enfim conseguiu realizar o sonho dourado do cinema brasileiro: fazer um longa-metragem. (...) De longe, o melhor episódio é Estrada, roteirizado e dirigido por Jorge Furtado. Para a tela grande, Furtado recriou o charme e a frivolidade de dois jovens casais de classe média alta brasileira que planejam seus passatempos para um final de semana campestre. Enquanto isso, em rota de colisão com eles, trafega um caminhoneiro feio, sujo, malvado, carregando sucata e xingando palavrões. No cruzamento fugaz de destinos tão díspares, Furtado condiciona a felicidade à sorte. Acaba fazendo um belo curta".\
 
       (Revista Veja, 20/09/1995)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/créditos/felicidade-é\
       .html)"
