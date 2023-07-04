@@ -36,7 +36,7 @@ details:
       Bob Fernandes\
       Cristiana Lôbo\
       Fernando Rodrigues
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       * [Site do filme](http://www.omercadodenoticias.com.br/)
 
