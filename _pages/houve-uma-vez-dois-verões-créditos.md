@@ -1,5 +1,6 @@
 ---
-title: HOUVE UMA VEZ DOIS VERÕES - CRÉDITOS
+title: Houve uma vez dois verões - créditos
+original_path: /filmes/houve-uma-vez-dois-verões/creditos-completos/
 layout: page
 ---
 **ELENCO**
