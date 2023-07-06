@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Quem é Primavera das Neves - créditos
 permalink: /filmes/quem-é-primavera-das-neves/creditos-completos/
 original_path: /os-filmes/longas/quem-é-primavera-das-neves-créditos.html
+layout: page
 ---
 **ELENCO**
 
@@ -17,10 +17,10 @@ Manuel Pedroso Marques
 **EQUIPE**
 
 Direção: Jorge Furtado\
-/ e Ana Luiza Azevedo
+/ Ana Luiza Azevedo
 
 Roteiro: Jorge Furtado\
-/ e Pedro Furtado
+/  Pedro Furtado
 
 **PRODUÇÃO**
 
