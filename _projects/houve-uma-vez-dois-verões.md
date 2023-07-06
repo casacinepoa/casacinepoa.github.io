@@ -112,7 +112,8 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      * [Créditos completos](/creditos-completos)
+      * [Créditos
+      completos](https://arquivo.casacinepoa.com.br/os-filmes/créditos/houve-uma-vez-dois-verões.html)
 
       * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-inicial.html)
 
