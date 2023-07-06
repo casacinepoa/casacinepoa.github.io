@@ -92,7 +92,7 @@ details:
     content: |-
       * Roteiro
       * Texto final
-      * [Créditos completos](filmes/sal-de-prata/creditos-completos)
+      * [Créditos completos](/filmes/sal-de-prata/creditos-completos/)
 original_path: /os-filmes/produção/longas/sal-de-prata.html
 synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
   seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco,
