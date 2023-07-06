@@ -270,6 +270,12 @@ details:
       "MEU TIO MATOU UM CARA, ao contrariar a estética (travestida ou não em cosmética publicitária) do choque do real, deflagra mais uma assertiva ao manifesto de Glauber Rocha: atormentados que estamos por uma rotina de extrema violência - real ou inventada - talvez precisemos reaver os vestígios da humanidade que nos foi tomada. Um filme que desvenda a inocência escamoteada por trás de um ato violento é, sem dúvidas, um gesto político. Que nos atinge em cheio enquanto nos entretemos, distraídos, e nos lembra de que a força que nós temos é a da busca por novas possibilidades de existência. E que, para a empreendermos, necessitamos recuperar nossa inocência primeira."\
 
       (Simone Paterman, PARALELOS, 06/03/2005)
+  - content: >-
+      "Pra te esquecer", de Nei Lisboa, com Caetano Veloso
+
+
+      <audio src="//casacinepoa.com.br/uploads/meu_tio_matou_um_cara.mp3" controls />
+    title: Tema musical
   - title: Veja mais
     content: >-
       *
@@ -279,13 +285,7 @@ details:
 
       * [Filmagens](http://www.terra.com.br/blog/meutiomatou1kra/)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/meu-tio-matou-um-cara.html)[](/uploads/meu_tio_matou_um_cara.mp3)
-  - content: >-
-      "Pra te esquecer", de Nei Lisboa, com Caetano Veloso
-
-
-      <audio src="//casacinepoa.com.br/uploads/meu_tio_matou_um_cara.mp3" controls />
-    title: Tema musical
+      * [Créditos completos](/filmes/meu-tio-matou-um-cara/creditos-completos)[](/uploads/meu_tio_matou_um_cara.mp3)
 original_path: /os-filmes/produção/longas/meu-tio-matou-um-cara.html
 synopsis: Duca, aos 15 anos, descobre que os crimes que ele está acostumado a
   ver em jogos eletrônicos também podem existir na vida real, quando seu tio
