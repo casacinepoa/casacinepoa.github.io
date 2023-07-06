@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' “Aos Olhos de Ernesto" em Belo Horizonte'
+title: AOS OLHOS DE ERNESTO em Belo Horizonte
 date: 2023-07-06 08:18:26
 ---
 ![](/uploads/ernestobh.png)
