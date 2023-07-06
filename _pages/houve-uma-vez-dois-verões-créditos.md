@@ -1,6 +1,6 @@
 ---
 title: Houve uma vez dois verões - créditos
-permalink: ""
+permalink: filmes/houve-uma-vez-dois-verões/creditos-completos/
 original_path: https://arquivo.casacinepoa.com.br/os-filmes/créditos/houve-uma-vez-dois-verões.html
 layout: page
 ---
