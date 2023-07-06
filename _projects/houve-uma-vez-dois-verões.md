@@ -113,7 +113,7 @@ details:
   - title: Veja mais
     content: >-
       * [Créditos
-      completos](https://arquivo.casacinepoa.com.br/os-filmes/créditos/houve-uma-vez-dois-verões.html)
+      completos](/filmes/houve-uma-vez-dois-verões/creditos-completos)
 
       * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-inicial.html)
 
