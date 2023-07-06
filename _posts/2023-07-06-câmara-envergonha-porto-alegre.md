@@ -2,7 +2,7 @@
 layout: post
 title: Câmara envergonha Porto Alegre
 author: jorge
-date: 2023-07-06 14:28:44
+date: 2008-11-19 14:28:44
 ---
 *por Jorge Furtado*\
 *em 19 de novembro de 2008*
