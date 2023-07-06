@@ -4,7 +4,7 @@ title: Se eu quiser falar com Deus
 author: jorge
 date: 2023-07-06 15:59:26
 ---
-Todas as religiões, em todas as épocas, têm alguma e de oração, e sempre em forma poética. Em seu ensaio sobre Dante, Boccaccio explica porque os seres humanos não vivem se fé. E sem poesia.spcéie
+Todas as religiões, em todas as épocas, têm algum tipo de oração, e sempre em forma poética. Em seu ensaio sobre Dante, Boccaccio explica porque os seres humanos não vivem se fé. E sem poesia.
 
 X
 
