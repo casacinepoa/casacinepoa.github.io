@@ -1,7 +1,7 @@
 ---
-title: Antes que o mundo acabe - créditos
+title: Sal de prata - créditos
 permalink: /filmes/sal-de-prata/creditos-completos/
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/sal-de-prata.html
+original_path: https://arquivo.casacinepoa.com.br/os-filmes/créditos/sal-de-prata.html
 layout: page
 ---
 **ELENCO**
