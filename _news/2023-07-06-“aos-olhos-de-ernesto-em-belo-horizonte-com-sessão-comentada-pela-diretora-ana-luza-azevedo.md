@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ' “Aos Olhos de Ernesto" em Belo Horizonte, com sessão comentada pela
-  diretora Ana Luza Azevedo.'
+title: ' “Aos Olhos de Ernesto" em Belo Horizonte'
 date: 2023-07-06 08:18:26
 ---
 ![](/uploads/captura-de-tela-2023-07-06-às-08.20.59.png)
