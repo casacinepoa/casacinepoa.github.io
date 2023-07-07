@@ -207,7 +207,7 @@ details:
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/saneamento-básico-o-filme-texto-final.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/saneamento-básico-o-filme.html)[](/uploads/saneamento_basico-.mp3)
+      * [Créditos completos](/filmes/saneamento-básico-o-filme/creditos-completos)[](/uploads/saneamento_basico-.mp3)
 original_path: /os-filmes/produção/longas/saneamento-básico-o-filme.html
 synopsis: Na pequena Linha Cristal, a comunidade se mobiliza para construir uma
   fossa no arroio e acabar com o mau cheiro. Marina, a líder do movimento,
