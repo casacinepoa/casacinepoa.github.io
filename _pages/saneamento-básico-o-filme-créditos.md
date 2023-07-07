@@ -4,7 +4,7 @@ image_caption: /filmes/saneamento-básico/creditos-completos
 original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/saneamento-b%C3%A1sico-o-filme.html
 layout: page
 ---
-ELENCO
+**ELENCO**
 
 Fernanda Torres (Marina)\
 Wagner Moura (Joaquim)\
@@ -35,9 +35,9 @@ Coral Viccentino\
 Grupo de Dança Ballo D'Italia\
 Projeto Coração Cidadão
 
-EQUIPE
+**EQUIPE**
 
-DIREÇÃO
+**DIREÇÃO**
 
 Roteiro e Direção: Jorge Furtado
 
@@ -45,7 +45,7 @@ Assistente de Direção: Janaína Fischer\
 2ª Assistente de Direção: Laura Mansur\
 Continuísta: Pedro Furtado
 
-PRODUÇÃO
+**PRODUÇÃO**
 
 Produção Executiva: Nora Goulart\
 / Luciana Tomasi
@@ -66,7 +66,7 @@ Produção de Set: Marne Pereira\
 / Marcelo Tchaca\
 Estagiária: Elis Portes Dorneles
 
-FOTOGRAFIA
+**FOTOGRAFIA**
 
 Diretor de Fotografia: Jacob Solitrenick, ABC\
 Operador de Câmera: Jacob Solitrenick\
@@ -86,7 +86,7 @@ Eletricistas: Wolmar Beck\
 Maquinistas: Everton Juba Machado\
 / Maurício Leite
 
-ARTE
+**ARTE**
 
 Diretor de Arte: Fiapo Barth\
 Figurinos: Rosângela Cortinhas\
@@ -101,12 +101,12 @@ Assistentes de Maquilagem: Britney\
 Produção Gráfica: Dani Langer\
 Cenotécnico: Padre Lívio
 
-SOM DIRETO
+**SOM DIRETO**
 
 Som Direto: Rafael Rodrigues\
 Microfonista: Douglas Povoas Vianna
 
-FINALIZAÇÃO
+**FINALIZAÇÃO**
 
 Montagem: Giba Assis Brasil\
 Assistente de Montagem: Lúcio Born\
@@ -116,7 +116,7 @@ Coordenação de Finalização SP: Eliane Ferreira\
 Coordenação de Finalização POA: Bel Merel\
 / Zu Escobar
 
-BASE
+**BASE**
 
 Produção de Base: Renata Ferraz\
 Financeiro: Laura Enrich\
@@ -133,7 +133,7 @@ Seguranças: Paulo Roberto Karwaitzki\
 / Eduardo Marques\
 / Rubens Pereira
 
-MOTORISTAS
+**MOTORISTAS**
 
 César de Oliveira\
 Daniel Dante Cognato\
@@ -149,7 +149,7 @@ Rogério Sauer\
 Hugo Guimarães\
 Marçal de Oliveira
 
-EDIÇÃO DE SOM
+**EDIÇÃO DE SOM**
 
 Supervisão e Edição de Som: Luiz Adelmo\
 Edição de Diálogos: Nathalia S. Rabczuk\
@@ -168,7 +168,7 @@ Consultor Dolby: Carlos Klachquin
 
 Gravação de Dublagem: Kiko Ferraz
 
-MÚSICA
+**MÚSICA**
 
 Direção Musical: Leo Henkin\
 Pesquisa de Repertório: Leo Henkin:
@@ -200,7 +200,7 @@ Cantor Tenor: Luis Eduardo Dienstmann
 
 Coral de Monte Belo do Sul
 
-GLOBO FILMES
+**GLOBO FILMES**
 
 Diretor Executivo: Carlos Eduardo Rodrigues\
 Marketing e Lançamentos: Gisélia Martins\
@@ -218,7 +218,7 @@ Estagiária: Ruth Zagury\
 Apoio Administrativo: Maria Conceição Correia\
 / Leonardo Santos
 
-TELEIMAGE
+**TELEIMAGE**
 
 General Manager: Patrick Siaretta\
 Sup. de Pós-produção e Efeitos: Marcelo Siqueira, ABC\
@@ -278,7 +278,7 @@ Revelação: Emerson R. Da Silva\
 Responsável Químico: José Roberto de Oliveira\
 / Rinaldo Piagerini
 
-FORNECEDORES
+**FORNECEDORES**
 
 Película: Kodak Eastmancolor\
 Câmara Super 16mm Aaton e lentes: CINE PRO Locações\
@@ -302,7 +302,7 @@ Montado Digitalmente em: Final Cut Pro com Cinema Tools
 Intermediação Digital 2K: TELEIMAGE\
 Copiagem: Laboratórios CineColor do Brasil
 
-MÚSICAS\
+**MÚSICAS**\
  \
 "IN PUNTO ALLA MEZZANOTTE"\
 (Tradicional/música de Alessandro Franchini)\
@@ -374,7 +374,7 @@ Editada por Quai nº 3\
 com a autorização de Com'Nicole Courtois Higelin\
 / e de Le Chant du Monde
 
-HISTÓRICO
+**HISTÓRICO**
 
 Filmado em Bento Gonçalves, Monte Belo do Sul\
 / e Santa Teresa (RS), de 11/07 a 13/08/2006.\
