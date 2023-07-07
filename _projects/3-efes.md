@@ -89,6 +89,8 @@ details:
       "Tecno andina", por Laura L e Músicas Intermináveis para Viagem
 
       <audio src="//nova.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
+  - title: Veja mais
+    content: "* [C﻿réditos completos](/filmes/3-efes/creditos-completos)"
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
