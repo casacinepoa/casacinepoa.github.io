@@ -6,7 +6,7 @@ date: 2023-07-07 18:33:26
 ---
 ![](/uploads/viasacra2.png)
 
-As orações, que existem em todas as religiões, em todas as épocas, em todos os lugares, são um retrato dos desejos, dos temores, dos sentimentos humanos. Quem reza, fala pessoalmente com o seu próprio Deus e pede a ele que o recompense, ampare, aconselhe e perdoe, revelando, ao fazê-lo, seus orgulhos, seus problemas, suas dúvidas e seus pecados.
+As orações, que existem em todas as religiões, em todas as épocas, em todos os lugares, são um retrato dos sentimentos humanos. Quem reza, fala pessoalmente com o seu próprio Deus e pede a ele que o recompense, ampare, aconselhe e perdoe, revelando, ao fazê-lo, seus orgulhos, seus problemas, suas dúvidas e seus pecados.
 
 No ótimo livro “As mais belas orações de todos os tempos”, Rose Marie Muraro e Frei Raimundo Cintra registraram exemplos de orações de povos primitivos em todos os continentes, de civilizações do ocidente e oriente, do judaísmo, do islamismo, dos gregos e romanos, do cristianismo, e também um a série de textos e poemas do século XX. Um dos textos mais interessantes do livro é uma oração de um “negro banto” que comenta os 14 passos da Paixão de Cristo, a Via-Sacra. Os bantos não são um povo, ou uma etnia, o banto é um tronco linguístico que deu origem a diversas outras línguas africanas.
 
@@ -50,7 +50,7 @@ X
 
 *Meu Jesus, o seu corpo estendido é como o meu povo preto. Está deitado no chão. Escutam-se as batidas dos martelos. O sangue sai para todas as partes do mundo, mas os cortes são em nossa a própria carne. Lutamos contra o alto preço das batatas e não comemos batatas. Centenas de pessoas são despedidas do trabalho e não têm mais dinheiro. Compreendo muito bem, Jesus, o que significa "ficar deitado no chão". Ficar pregado. Compreendo isto muito bem!*
 
-*Deixe-me ajoelhar diante do senhor, cheio de amor para com todas as raças. Ao lado branco, quero ajoelhar diante da cruz e agradecer. Quero enterrar o ódio atrás do campo de milho. Neste momento estamos todos reunidos diante do senhor. Vejo derramar a última gota de sangue. Estou escutando o senhor balbuciar que é para mim e para os seus irmãos brancos. E sua boca, Senhor, se prepara para dar um beijo em cada cor de pele.*
+*Deixe-me ajoelhar diante do senhor, cheio de amor para com todas as raças. Ao lado do branco, quero ajoelhar diante da cruz e agradecer. Quero enterrar o ódio atrás do campo de milho. Neste momento estamos todos reunidos diante do senhor. Vejo derramar a última gota de sangue. Estou escutando o senhor balbuciar que é para mim e para os seus irmãos brancos. E sua boca, Senhor, se prepara para dar um beijo em cada cor de pele.*
 
 *Surge nova aurora. Sua via-sacra é esperança para o meu povo. O aloé em flor mostra o caminho para o alto. A cruz, na igreja da selva, anuncia o fim do nosso medo, o medo dos espíritos, que prendeu a nossa vida durante tantos anos. A paz e a alegria, o desejo do alto, vem com o homem de batina preta, que nos trouxe a cruz. A cobra-verde pendurada na árvore silvestre não nos amedronta mais como antes. O leopardo não pode tirar a alma de nosso corpo. A seca dos campos de milho pode somente fazer o nosso coração bater mais devagar na morte de fome, mas não nossa alma. E isso que diz o seu sacerdote. E nós cremos. Vida nova surge em nossa aldeia. Vem sem o nosso merecimento como a bola do sol de manhã.*
 
