@@ -205,8 +205,9 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      * [Material de
-      imprensa](https://www.casacinepoa.com.br/filmes/tolerancia/imprensa.htm)
+      * [Créditos completos](/filmes/tolerância/creditos-completos)
+
+      * [Material de imprensa](https://www.casacinepoa.com.br/filmes/tolerancia/imprensa.htm)
 
       * [Diário de filmagem](https://www.casacinepoa.com.br/filmes/tolerancia/diario.htm)
 
