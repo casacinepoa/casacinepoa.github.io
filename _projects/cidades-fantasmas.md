@@ -44,6 +44,8 @@ details:
 
 
       [CRÉDITOS COMPLETOS](http://www.casacinepoa.com.br/os-filmes/longas/cidades-fantasmas-créditos)
+  - title: Veja mais
+    content: "* [C﻿réditos completos](filmes/cidades-fantasmas/creditos-completos)"
 original_path: /os-filmes/produção/documentários/cidades-fantasmas.html
 synopsis: Deserto chileno, Amazônia brasileira, Andes colombianos e Pampa
   argentino. Quatro destinos na América Latina, onde as ruínas e o silêncio são
