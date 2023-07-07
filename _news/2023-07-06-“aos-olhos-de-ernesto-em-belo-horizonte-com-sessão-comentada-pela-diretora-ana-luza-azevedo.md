@@ -6,7 +6,7 @@ date: 2023-07-06 08:18:26
 ![](/uploads/aode-bia-machucada.jpg)
 
 CIRCUITO CINE SANTÊ ABRE JULHO COM SESSÃO COMENTADA DE "AOS OLHOS DE ERNESTO"\
-[Prefeitura de Belo Horizinte, 05/07/202](https://prefeitura.pbh.gov.br/noticias/circuito-cine-sante-abre-julho-com-sessao-comentada-de-aos-olhos-de-ernesto)\
+[Prefeitura de Belo Horizonte, 05/07/202](https://prefeitura.pbh.gov.br/noticias/circuito-cine-sante-abre-julho-com-sessao-comentada-de-aos-olhos-de-ernesto)\
 \
 A programação de julho do Circuito Cine Santê, promovido pelo Circuito Municipal de Cultura de Belo Horizonte, apresenta o longa-metragem “Aos Olhos de Ernesto”, em uma sessão comentada pela diretora Ana Luiza Azevedo, que acontece na terça-feira (11), às 19h, no Cine Santa Tereza. A entrada é gratuita, mediante retirada antecipada de ingressos no site do **[Sympla ](https://site.bileto.sympla.com.br/cinesantatereza/?fbclid=PAAaZgjnqqP03jSNfvm4kXQZswLbtguEjEzkWgFXl9XPHSjBmgsMJ7aRmnel8&gclid=CjwKCAjwv8qkBhAnEiwAkY-ahjQQGJnwU10aGrcIgMdifWq6TKlIgUAYD5YkWDrLMCUNDEyfYQ66CRoCFjoQAvD_BwE)**ou na bilheteria do cinema, de acordo com a disponibilidade. Mais informações podem ser encontradas nas redes sociais e no site do **[Circuito Municipal de Cultura](http://portalbelohorizonte.com.br/circuitomunicipaldecultura)**, projeto realizado pela Prefeitura de Belo Horizonte, por meio da Secretaria Municipal de Cultura e da Fundação Municipal de Cultura, em parceria com o Instituto Odeon.
 
