@@ -65,6 +65,8 @@ details:
       "O texto do filme é brilhante. Afiado e cheio de ironia, faz o espectador prestar atenção em cada fala. (...) Merece destaque a atuação de Débora Falabella (sempre muito bem nos filmes em que atuou) e de Fúlvio Stefanini no papel de um político honesto. Sim, isso existe e tenho convicção de que não só na ficção."\
 
       ([Alfeu Matera](http://tvcinemaeafins.blogspot.com/2011/12/homens-de-bem-um-otimo-filme-feito-para.html), Blog TV, Cinema e afins, 30/12/2011)
+  - title: Veja mais
+    content: "* [C﻿réditos completos](filmes/homens-de-bem/creditos-completos)"
 original_path: /os-filmes/realização/episódios-de-tv/homens-de-bem.html
 synopsis: Ciba é um espião que presta serviços não oficiais para a Polícia
   Federal, mas também para outros clientes. Quando um empresário é suspeito de
