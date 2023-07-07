@@ -1,7 +1,7 @@
 ---
 title: Saneamento básico, o filme - créditos
-image_caption: /filmes/saneamento-básico/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/saneamento-b%C3%A1sico-o-filme.html
+image_caption: /filmes/saneamento-básico-o-filme/creditos-completos
+original_path: https://arquivo.casacinepoa.com.br/os-filmes/céditos/saneamento-básico-o-filme.html
 layout: page
 ---
 **ELENCO**
