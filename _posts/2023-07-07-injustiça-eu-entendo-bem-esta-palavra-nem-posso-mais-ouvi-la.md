@@ -6,7 +6,7 @@ date: 2023-07-07 18:33:26
 ---
 ![](/uploads/viasacra2.png)
 
-As orações, que existem em todas as religiões, em todas as épocas, em todos os lugares, são um retrato dos desejos, dos temores, dos sentimentos humanos. Quem reza, fala pessoalmente com o seu próprio Deus e pede a ele que o recompense, ampare, aconselhe e perdoe, revelando, ao fazê-lo, seus orgulhos, seus problemas, suas dúvidas e seus pecados.
+As orações, que existem em todas as religiões, em todas as épocas, em todos os lugares, são um retrato dos sentimentos humanos. Quem reza, fala pessoalmente com o seu próprio Deus e pede a ele que o recompense, ampare, aconselhe e perdoe, revelando, ao fazê-lo, seus orgulhos, seus problemas, suas dúvidas e seus pecados.
 
 No ótimo livro “As mais belas orações de todos os tempos”, Rose Marie Muraro e Frei Raimundo Cintra registraram exemplos de orações de povos primitivos em todos os continentes, de civilizações do ocidente e oriente, do judaísmo, do islamismo, dos gregos e romanos, do cristianismo, e também um a série de textos e poemas do século XX. Um dos textos mais interessantes do livro é uma oração de um “negro banto” que comenta os 14 passos da Paixão de Cristo, a Via-Sacra. Os bantos não são um povo, ou uma etnia, o banto é um tronco linguístico que deu origem a diversas outras línguas africanas.
 
