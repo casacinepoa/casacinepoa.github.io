@@ -58,13 +58,13 @@ details:
       "A estética dos anos 1990 hoje pode causar estranheza, mas a relevância da obra é atual. O roteiro de Furtado, Giba Assis Brasil e Carlos Gerbase reflete sobre como a imagem veio a prevalecer sobre o conteúdo na política e o fim das ilusões. Tem o brilho de relacionar o cinismo na vida adulta a uma disputa de pênaltis no Colégio Anchieta nos anos 70."\
 
       ([Alexandre Rodrigues](https://gauchazh.clicrbs.com.br/porto-alegre/noticia/2016/06/alexandre-rodrigues-ilusoes-perdidas-6041154.html), Zero Hora, 18/06/2016)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       * Roteiros:
 
         * [1º tratamento (longa)](https://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-longa.html)
         * [6º tratamento (episódio)](https://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-episódio.html)
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/anchietanos.html)
+      * [Créditos completos](filmes/anchietanos/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/anchietanos.html
 ---
 Chico, Luciano e Cristina têm 13 anos e estudam no Colégio Anchieta. Chico e Luciano são apaixonados por Cristina, que dá bola pra ambos alternadamente. Andrew, pobre, é de outra turma, mas eles se enfrentam num campeonato de futebol. Vinte anos depois eles voltam a se enfrentar, e Chico vai ter que tomar a decisão mais importante de sua vida.
