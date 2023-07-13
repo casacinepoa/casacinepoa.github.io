@@ -46,9 +46,8 @@ details:
       "Um dos méritos foi o desfecho musical, onde o sonoplasta pescou de um álbum perdido de Sérgio Sampaio, compositor capixaba jamais reproduzido em CD, uma faixa com a dramaticidade perfeita pedida para a cena e com a citação de um nome, Maria de Lourdes, o mesmo da personagem de Malu Mader. A impressão é que nome e história funcionaram quase que como pretexto para que a música explodisse, com uma tensão emocional espetacular, no final do programa. Valeu a pena."\
 
       ([Joaquim Ferreira dos Santos, Observatório de Imprensa, 12/07/2001](http://www.observatoriodaimprensa.com.br/artigos/qtv180720015.htm))
-  - content: >-
+  - content: |-
       "Elemento armado, parece perigoso", de Leo Henkin
-
 
       <audio src="//casacinepoa.com.br/uploads/dia_de_visita.mp3" controls />
     title: Tema musical
@@ -58,6 +57,8 @@ details:
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/dia-de-visita.html)
 
       * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/realização/episódios-de-tv/dia-de-visita/fotos-de-cena.html)[](/uploads/Dia_de_visita.mp3)
+
+      * [C﻿réditos completos](filmes/dia-de-visita/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/dia-de-visita.html
 ---
 Uma dona de casa suburbana tem seu apartamento invadido por um perigoso bandido que acabou de escapar da prisão. A chegada do policial encarregado de prendê-lo desencadeia uma trama eletrizante, em que nada é o que parece ser.
