@@ -41,7 +41,7 @@ details:
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/em-frente-da-lei-tem-um-guarda.html)
 
-      * [Créditos completos](/creditos-completos)
+      * [Créditos completos](filmes/em-frente-da-lei-tem-um-guarda/creditos-completos)
 original_path: /os-filmes/realização/vídeos/em-frente-da-lei-tem-um-guarda.html
 ---
 Desde 1993 a ONG Themis - Assessoria Jurídica e Estudos de Gênero - desenvolve cursos de formação de Promotoras Legais Populares (PLPs) em Porto Alegre e outras cidades gaúchas. As PLPs são mulheres treinadas para defender direitos e ajudar a fazer justiça em comunidades onde a Justiça não costumava chegar.
