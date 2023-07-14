@@ -58,7 +58,7 @@ details:
 
       * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/realização/episódios-de-tv/dia-de-visita/fotos-de-cena.html)[](/uploads/Dia_de_visita.mp3)
 
-      * [C﻿réditos completos](/creditos-completos/)
+      * [C﻿réditos completos](/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/dia-de-visita.html
 ---
 Uma dona de casa suburbana tem seu apartamento invadido por um perigoso bandido que acabou de escapar da prisão. A chegada do policial encarregado de prendê-lo desencadeia uma trama eletrizante, em que nada é o que parece ser.
