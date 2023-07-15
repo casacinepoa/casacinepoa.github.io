@@ -77,7 +77,7 @@ details:
       "Amor em si", por Maurício Nader
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/doce-de-mae-piloto.mp3" controls />
+      <audio src="https://www.casacinepoa.com.br/uploads/doce-de-mae-piloto.mp3" controls />
 original_path: /os-filmes/produção/longas/doce-de-mãe-tele-filme
 synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   por Zaida (Mirna Spritzer) há 27 anos. Sempre bem-humorada, apaixonada por
