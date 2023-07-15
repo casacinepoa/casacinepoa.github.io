@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Da dificuldade de traduzir o tí-tulo do filme "Houve uma vez dois verões"
+title: Da dificuldade de traduzir o título do filme "Houve uma vez dois verões"
 author: jorge
 date: 2009-03-21 12:32:44
 ---
