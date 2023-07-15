@@ -41,9 +41,6 @@ details:
       e [Galo de Briga Filmes](https://www.galodebrigafilmes.com.br/)\
 
       **CoProdução:** GloboFilmes
-
-
-      [CRÉDITOS COMPLETOS](http://www.casacinepoa.com.br/os-filmes/longas/cidades-fantasmas-créditos)
   - title: Veja mais
     content: "* [C﻿réditos completos](/filmes/cidades-fantasmas/creditos-completos)"
 original_path: /os-filmes/produção/documentários/cidades-fantasmas.html
