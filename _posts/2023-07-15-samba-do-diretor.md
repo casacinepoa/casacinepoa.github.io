@@ -20,10 +20,10 @@ A dona da locação quer que a coisa se conclua\
 O som já se recolheu mas o filme continua\
 E o montador pede, urgente, um outro plano da lua
 
-(refrão)
-
+refrão:\
 Cada um pensa no seu...\
 Cada um pensa no seu, quem pensa em tudo sou eu.\
+\
 Tenho que saber de brinco, de escaleta e cronograma\
 Tenho que beber champanhe e almoçar uma banana\
 Tenho que saber de vaca, tenho que saber de grama\
