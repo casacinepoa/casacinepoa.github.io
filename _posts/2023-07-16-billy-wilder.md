@@ -1,0 +1,25 @@
+---
+layout: post
+title: Billy Wilder
+author: jorge
+date: 2023-07-16 16:11:46
+---
+
+
+![](/uploads/billywilder.png)
+
+Quando você passeia no menu de qualquer streaming procura filmes primeiro em qual gênero? Comédia? Então a minha sugestão é “Quanto Mais Quente Melhor”, eleita pela crítica americana como a melhor da história. Prefere ver a Marilyn em cores? “O Pecado Mora ao Lado”, onde ela revela ao vizinho que guarda sua calcinha na geladeira. Não gosta da Marilyn e sentiu falta de Jack Lemmon? Então tente “Irma la Douce”, é impossível não se apaixonar por Shirley MacLaine neste filme.
+
+ Não, seu negócio não é comédia, você procura algo entre os policiais. “Dupla Indenização”, baseado no romance de James M. Cain, tem uma das maiores vilãs da história do cinema, Phyllis Nirdlinger. Para você ter uma idéia, ela resolve matar um bebê, o herdeiro de seu futuro marido e, só para disfarçar, mata três outros bebês, que não tinham nada a ver com a história. Prefere um drama? Então veja “Se Meu Apartamento Falasse”. Parece uma comédia, você vai parando de rir aos poucos. Não, nada de choro, você não abre mão de um happy-end. Que tal um romance? “Sabrina”, um conto de fadas onde um milionário cínico (Humphrey Bogart) se apaixona pela filha do motorista (Audrey Hepburn).
+
+ Não, aí também já é romance demais. Você quer um filme com romance, engraçado, mas que tenha também alguma crítica social. “A Primeira Página”, uma denúncia da cumplicidade criminosa entre a mídia e a política. E ainda tem piadas ótimas. Você gostou do tema, mas não quer as piadas. “A Montanha dos Sete Abutres”, um filme profético sobre a crueldade da mídia. Não é este ainda? E que tal um filme sobre os filmes? O melhor de todos é “Crepúsculo dos Deuses”, onde a estrela decadente Norma Desmond (Gloria Swanson) afirma que continua grande, “os filmes é que ficaram pequenos”.  Gosta de filmes de júri? O melhor filme de júri é “Testemunha de Acusação”, um roteiro perfeito, a maior atuação de Tyrone Power, o que não quer dizer nada, e também de Marlene Dietrich e Charles Laughton, o que quer dizer muito.
+
+ O que estas obras primas de vários gêneros têm em comum é o seu diretor e roteirista, Billy Wilder. Nascido em 1906 na cidade de Sucha, uma província do império austro-húngaro que hoje pertence à Polônia, Wilder começou sua vida profissional como repórter de um jornal sensacionalista vienense, o Stunde, onde teve a chance de entrevistar Alfred Adler, Richard Strauss e Sigmund Freud. (“Numa mesma manhã!”). Sua entrevista com o criador da psicanálise foi, na verdade, bastante curta. Freud o recebeu na porta de sua sala de jantar e perguntou: “O senhor é repórter?” Wilder respondeu que sim. Freud apontou para a saída e disse: “A porta é ali”. Enxotado por Freud e cansado de entrevistar celebridades, Wilder foi para Berlin onde trabalhou como repórter free-lance, guia turístico e dançarino profissional.
+
+ No final dos anos 20 Wilder descobre o cinema: “Vi três filmes que foram um choque para mim! De repente, eu tive certeza: é isso! Isto é mais nada! A partir daí, tudo ficou claro: quero fazer filmes, pensei, e ninguém vai me impedir.” Os três filmes eram “O Encouraçado Potemkin”, de Sergei Eisenstein, “Sob os tetos de Paris”, de René Clair e “Senhoritas de uniforme”, de Leontine Sagan. Em 1929 ele encontra sua turma e assina seu primeiro roteiro, “Homens num domingo”, dirigido por Robert Siodmak. Nos quatro anos seguintes ele escreveu roteiros para 14 filmes.   
+
+ Wilder foi para Hollywood em 1934, fugindo do nazismo, contratado como roteirista por engano por um estúdio que não sabia que ele não falava inglês. Chegou a morar num banheiro feminino - onde, segundo ele, aprendeu a escrever diálogos - até ser contratado pela Paramount, onde tinha que escrever onze páginas por semana. Depois de alguns roteiros de sucesso – entre eles “Ninotchka”, de Ernest Lubitsch, a quem considerava seu maior mestre - Wilder escreveu “A Porta de Ouro”, uma comédia triste sobre refugiados à espera de um visto para entrar nos Estados Unidos. No roteiro de Wilder o astro Charles Boyer terminava a história num hotel de terceira categoria, conversando com uma barata: “Onde você vai? Mostre seus documentos.” Boyer se recusou a fazer a cena: “Não se fala com uma barata. O senhor quer que eu pareça estúpido?” Wilder jurou matá-lo, mas mudou de idéia: resolveu virar diretor.
+
+Billy Wilder foi o maior dos diretores-roteiristas, um dos maiores artistas da história do cinema. Claro que sempre aparecerá alguém que queira confiná-lo a uma única prateleira, a dos “filmes de entretenimento”, que não contentes de serem bons cometeram o ultraje de serem populares. Muita gente boa cai nesta armadilha, dividindo alta e baixa cultura, arte e entretenimento. Tolstoi, em seu ensaio “O que é arte?” diz que as “obras imorais, visando apenas à recreação e diversão dos espectadores, não podem representar o ensino da vida”. É claro que Tolstoi, que morreu em 1910, nunca viu um filme de Billy Wilder. Ele estava se referindo a William Shakespeare.
+
+<!--EndFragment-->
