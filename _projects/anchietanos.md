@@ -64,7 +64,7 @@ details:
 
         * [1º tratamento (longa)](https://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-longa.html)
         * [6º tratamento (episódio)](https://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-episódio.html)
-      * [Créditos completos](filmes/anchietanos/creditos-completos)
+      * [Créditos completos](creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/anchietanos.html
 ---
 Chico, Luciano e Cristina têm 13 anos e estudam no Colégio Anchieta. Chico e Luciano são apaixonados por Cristina, que dá bola pra ambos alternadamente. Andrew, pobre, é de outra turma, mas eles se enfrentam num campeonato de futebol. Vinte anos depois eles voltam a se enfrentar, e Chico vai ter que tomar a decisão mais importante de sua vida.
