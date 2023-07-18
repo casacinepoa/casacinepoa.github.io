@@ -45,10 +45,8 @@ details:
       "Previsões amorosas para a próxima década. Como será o amor na próxima década? Quem quiser ter algumas dicas pode ir até o cine Brasília preparado para ver um trabalho no mínimo curioso dos alunos do curso Introdução ao Fazer Cinema, da Casa de Cinema e da Universidade Federal do RS. São cinco episódios que abordam diferentes temas que afligiram a população nos anos 80 e que podem continuar por mais dez anos no rol das preocupações.\
 
       (CORREIO BRAZILIENSE, Brasília, 04/11/89)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-amor-nos-a\
-      nos-90.html)"
+  - title: Veja mais
+    content: "* [Créditos completos](/filmes/o-amor-nos-anos-90/creditos-completos)"
 original_path: /os-filmes/produção/curtas/o-amor-nos-anos-90.html
 ---
 Cinco interpretações do amor e seu futuro próximo, em episódios curtíssimos. (1) Os cupidos estão fora da lei, e quem possuir um deles pode ser incriminado. (2) Duas pessoas se encontram e se desejam numa galeria de arte. (3) Um casal entra em crise no dia em que é descoberta a vacina contra a AIDS. (4) O último vôo está partindo, como em Casablanca. Mas desta vez só há passagem para um. (5) Um homem e uma mulher separados por uma antena, um desejo e um crime que vai ser cometido.
