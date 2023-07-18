@@ -1,6 +1,6 @@
 ---
 title: Em frente da lei tem um guarda - créditos
-permalink: filmes/em-frente-da-lei-tem-um-guarda/creditos-completos
+permalink: /filmes/em-frente-da-lei-tem-um-guarda/creditos-completos
 original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/em-frente-da-lei-tem-um-guarda.html
 layout: page
 ---
