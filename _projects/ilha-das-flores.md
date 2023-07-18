@@ -155,9 +155,8 @@ details:
 
       http://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html
   - title: Tema musical
-    content: >-
+    content: |-
       "Fantasia sobre O Guarani", de Geraldo Flach, com Zé Flávio na guitarra
-
 
       <audio src="//casacinepoa.com.br/uploads/Ilha_das_flores.mp3" controls />
   - title: Veja mais
@@ -169,7 +168,7 @@ details:
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-final.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/ilha-das-flores.html)
+      * [Créditos completos](/filmes/ilha-das-flores/creditos-completos)
 original_path: /os-filmes/produção/curtas/ilha-das-flores.html
 ---
 Um tomate é plantado, colhido, transportado e vendido num supermercado, mas apodrece e acaba no lixo. Acaba? Não. ILHA DAS FLORES segue-o até seu verdadeiro final, entre animais, lixo, mulheres e crianças. E então fica clara a diferença que existe entre tomates, porcos e seres humanos.
