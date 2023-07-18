@@ -39,9 +39,8 @@ details:
         Melhor Direção de Arte.
       * 16° Festival Cinematográfico Internacional del Uruguay, Montevideo, 1998:\
         Menção especial.
-  - content: >-
+  - content: |-
       "Mulata bacana", de José Roberto Torero
-
 
       <audio src="//casacinepoa.com.br/uploads/Um_Homem_serio.mp3" controls />
     title: Tema musical
@@ -50,7 +49,7 @@ details:
       * [Texto
       final](https://www.casacinepoa.com.br/os-filmes/roteiros/um-homem-sério-texto-final.html)[](/uploads/Um_Homem_serio.mp3)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/um-homem-sério.html)
+      * [Créditos completos](/filmes/um-homem-sério/creditos-completos)
 original_path: /os-filmes/produção/curtas/um-homem-sério.html
 ---
 Morreu Hilário Pestana, o mais famoso, o mais engraçado e, por ironia, o mais triste dos atores brasileiros. Hilário passou por várias fases do cinema nacional: pelas chanchadas, pelos clássicos da Vera Cruz, pela pornochanchada, pelos experimentais. Era adorado pelo público, tinha a vocação para o riso, mas desejava apenas e tão somente ser um homem sério.
