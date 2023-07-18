@@ -72,7 +72,7 @@ details:
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/esta-não-é-sua-vida-texto-final.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/esta-não-é-sua-vida.html)
+      * [Créditos completos](/filmes/esta-não-é-sua-vida/creditos-completos)
 original_path: /os-filmes/produção/documentários/esta-não-é-sua-vida.html
 ---
 Documentário sobre a vida de Noeli Joner Cavalheiro. Noeli mora num subúrbio de Porto Alegre, é dona de casa e tem dois filhos. Nasceu numa cidade do interior, foi pra capital, trabalhou numa padaria, casou. É uma pessoa comum. Mas não existem pessoas comuns.
