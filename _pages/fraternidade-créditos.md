@@ -10,7 +10,7 @@ Roteiro e Direção: Jorge Furtado\
 Assistente de direção: Janaina Fischer
 
 Produção executiva: Nora Goulart\
-/ e Luciana Tomasi\
+/ Luciana Tomasi\
 Direção de produção: Zu Escobar\
 Produção de elenco: Cynthia Caprara\
 Assistente de produção executiva: Flávia Matzenbacher\
