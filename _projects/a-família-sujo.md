@@ -28,10 +28,9 @@ details:
       Gustavo Finkler\
       Raquel Grabauska\
       Vikka Schabbach
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
-      * [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/família-sujo.html)
+      * [Créditos completos](/filmes/a-família-sujo-creditos-completos)
 
       * [Letra das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/família-sujo/letras-das-músicas.html)
 original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/família-sujo.html
