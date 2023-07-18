@@ -41,10 +41,8 @@ details:
       ludens e o homo faber."\
 
       (Ismail Xavier)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/veja-bem.htm\
-      l)"
+  - title: Veja mais
+    content: "* [Créditos completos](/filmes/veja-bem/creditos-completos)"
 original_path: /os-filmes/produção/curtas/veja-bem.html
 ---
 Veja Bem é um filme e é também um objeto, um Zootrópio, espécie de precursor do cinema. Na primeira parte do filme (e do lado de dentro do objeto), o foco de atenção é o homem-músculo, as imagens se repetem até a exaustão, e o texto é de João Cabral. Na segunda parte do filme (e do lado de fora do objeto), o foco de atenção é o maravilhoso e ridículo caleidoscópio de ofertas da cidade, as imagens são pura diversidade, e o texto é de Drummond.
