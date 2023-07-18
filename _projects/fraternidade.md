@@ -25,10 +25,8 @@ details:
 
       **Elenco**:\
       Paulo José (narração)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/fraternidade\
-      .html)"
+  - title: Veja mais
+    content: "* [Créditos completos](/filmes/fraternidade/creditos-completos)"
 original_path: /os-filmes/realização/vídeos/fraternidade.html
 ---
 15 anos depois, uma equipe de filmagem volta à Ilha Grande dos Marinheiros, em Porto Alegre, onde foi realizado o curta-metragem ILHA DAS FLORES. E discute a possibilidade de ajudar, de fato, a mudar um pouco a vida das pessoas que moram lá e sobrevivem da coleta do lixo.
