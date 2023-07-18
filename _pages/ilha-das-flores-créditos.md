@@ -1,6 +1,6 @@
 ---
 title: Ilha das Flores - créditos
-permalink: filmes/ilha-das-flores/creditos-completos
+permalink: /filmes/ilha-das-flores/creditos-completos
 image_caption: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/ilha-das-flores.html
 layout: page
 ---
