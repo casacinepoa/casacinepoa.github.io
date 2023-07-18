@@ -91,7 +91,7 @@ details:
       "Depoimentos de cidadãos são mesclados a uma construção narrativa incrível, que dá ao filme uma característica de meta-cinema, algo muito caro às produções da Casa de Cinema. (...) Com uma abordagem crítica e pontuada de amargura pela ignorância corrente, o curta de Henkin relembra que 'lembrar é preciso', caso contrário, não há vida, há um espetáculo de marionetes."\
 
       ([Luiz Santiago](http://www.cinerevista.com.br/nacional/Memoria.htm), Blog Cinerevista, 01/08/2017)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/produção/curtas/memóri\
       a-créditos-completos)"
