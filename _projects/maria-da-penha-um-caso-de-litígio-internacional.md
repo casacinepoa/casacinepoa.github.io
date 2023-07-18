@@ -29,7 +29,7 @@ details:
       Festival Internacional de Cinema de Porto Alegre, 2012.
 
       * Melhor curta-metragem na 7ª [Mostra Cinema e Direitos Humanos](http://www.ebc.com.br/cidadania/2013/02/documentario-marighella-vence-mostra-de-cinema) na América Latina, 2013.
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/curtas/maria-da-penha\
       -um-caso-de-litígio-internacional/maria-da-penha-créditos.html)"
