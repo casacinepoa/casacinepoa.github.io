@@ -133,7 +133,7 @@ details:
 
       * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/dona-cristina-perdeu-memória/fotos-de-cena.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/dona-cristina-perdeu-memória.html)
+      * [Créditos completos](/filmes/dona-cristina-perdeu-a-memória/creditos-completos)
 original_path: /os-filmes/produção/curtas/dona-cristina-perdeu-memória.html
 ---
 Antônio, um menino de 8 anos, descobre que sua vizinha Cristina, de 80, conta histórias sempre diferentes sobre a sua vida, os nomes de seus parentes e os santos do dia. E Dona Cristina acredita que Antônio pode ajudá-la a recuperar a memória perdida.
