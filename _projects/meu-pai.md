@@ -44,7 +44,7 @@ details:
       Jussara Moraes (avó)\
       Nelson Diniz (Dr. Wagner)\
       Arieli G. Mendes (Bruna)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/curtas/meu-pai/meu-pa\
       i-créditos.html)"
