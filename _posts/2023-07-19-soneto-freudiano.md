@@ -39,9 +39,7 @@ Giba Assis Brasil, 21/11/2005
 
 **TEM MAIS**
 
-Os primeiros 3036 sonetos de [Glauco Mattoso](<http://sonetodos.sites.uol.com.br/
-
-*>).
+Os primeiros 3036 sonetos de [Glauco Mattoso](http://sonetodos.sites.uol.com.br/).
 
 [Freud nunca escreveu](http://en.wikiquote.org/wiki/Sigmund_Freud) que o medo das armas era um sinal de imaturidade sexual. Mas escreveu que a América era um erro, um grande erro.
 
