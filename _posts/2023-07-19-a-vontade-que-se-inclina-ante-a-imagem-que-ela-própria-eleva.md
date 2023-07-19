@@ -147,7 +147,7 @@ Bibliografia:
 
 - - -
 
-Sobre Tróilo e Créssida:
+Sobre [Tróilo e Créssida](http://en.wikipedia.org/wiki/Troilus_and_Cressida):
 
 Xxxxx
 
