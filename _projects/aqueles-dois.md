@@ -82,16 +82,13 @@ details:
 
       (Régis Muller, ZERO HORA, Porto Alegre, 15/12/87)
   - title: Tema musical
-    content: >-
+    content: |-
       Vinheta "Tu me acostumbraste", de Augusto Licks
-
 
       <audio src="//casacinepoa.com.br/uploads/Aqueles_dois.mp3" controls />
   - title: Veja mais
-    content: >-
-      * [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/aqueles-dois.html)
-
+    content: |-
+      * [Créditos completos](/filmes/aqueles-dois/creditos-completos)
       * [Música](/uploads/Aqueles_dois.mp3)
 original_path: /os-filmes/distribuição/longas/aqueles-dois.html
 ---
