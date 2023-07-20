@@ -31,7 +31,7 @@ details:
     content: |-
       * Festival Internacional do Audiovisual, São Paulo, 2016:\
         Melhor piloto de série de ficção
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/curtas/fuinha-caçapava\
       -créditos)"
