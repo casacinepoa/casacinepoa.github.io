@@ -37,7 +37,7 @@ details:
       crianças."\
 
       (Boletim Rede-IBPINET/SP, janeiro/1998)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/o-futuro-da-terra)
