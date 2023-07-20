@@ -117,7 +117,7 @@ details:
       * [Fotos de
       cena](https://www.casacinepoa.com.br/os-filmes/distribuição/longas/verdes-anos/fotos-de-cena.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/verdes-anos.html)
+      * [Créditos completos](/filmes/verdes-anos/creditos-completos)
 original_path: /os-filmes/distribuição/longas/verdes-anos.html
 ---
 Três dias na vida de uma turma de colégio, em 1972. Nando namora Soninha, que dá bola pra todo mundo. Robertão apresenta o baile de escolha da Rainha. Teco se interessa por Rita. Dudu edita um jornalzinho de fofocas. Pedro é o goleiro do time da aula, e está apaixonado pela professora. Quanto tempo se leva para passar da adolescência à maturidade? Um fim-de-semana, alguns anos ou a vida inteira?
