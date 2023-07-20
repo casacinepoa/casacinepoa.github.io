@@ -30,10 +30,9 @@ details:
       Sérgio Olivé (teclado)\
       Roberto Peres "Magrão" (bateria)\
       Raquel Grabauska (manipulação de bonecos)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
-      * [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/mulher-gigante.html)
+      * [Créditos completos](/filmes/a-mulher-gigante/creditos-completos)
 
       * [Letras das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/mulher-gigante/letras-das-músicas.html)
 original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/mulher-gigante.html
