@@ -50,7 +50,7 @@ details:
 
 
       ([Isabelle Regnier, LE MONDE](<[http://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html](http://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html "http\://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html")>), Paris, 13/02/2004)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/curtas/o-corpo-de-flá\
       via-créditos.html)"
