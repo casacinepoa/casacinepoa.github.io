@@ -30,12 +30,12 @@ details:
 
       <audio src="//casacinepoa.com.br/uploads/Quintana_e_as_musas.mp3" controls />
     title: Tema musical
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/quintana-e-musas.html)[](/uploads/Quintana_e_as_musas.mp3)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/quintana-e-musas.html)
+      * [Créditos completos](/filmes/quintana-e-as-musas/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/quintana-e-musas.html
 ---
 Do alto de um prédio no centro de Porto Alegre, uma figura que diz ser Zeus apresenta suas nove filhas, as musas, e busca a inspiração de cada uma delas em diferentes trechos da poesia de Mario Quintana.
