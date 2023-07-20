@@ -573,7 +573,7 @@ details:
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-final.html)[](/uploads/o_homem_que_copiava.mp3)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-homem-que-copiava.html)
+      * [Créditos completos](/filmes/o-homem-que-copiava/creditos-completos)
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
 synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   desesperadamente de trinta e oito reais para impressionar a garota dos seus
