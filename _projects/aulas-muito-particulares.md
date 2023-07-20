@@ -33,7 +33,7 @@ details:
       técnico e artístico no Rio Grande do Sul."\
 
       (Zero Hora, 15/04/88)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/distribuição/aulas-mu\
       ito-particulares-créditos.html)"
