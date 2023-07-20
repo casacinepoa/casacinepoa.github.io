@@ -60,10 +60,8 @@ details:
       "ME BEIJA é um filme que termina por nos lembrar que as marcas da repressão não são apenas as políticas. Existem também as marcas na alma, invisíveis num primeiro olhar, mas que terminam por se constituir na própria capacidade de um indivíduo, oprimido pelo medo, de alcançar o equilíbrio emocional. (...) Cinematograficamente, (o filme apresenta) a correta opção pelo realismo de cena e pela luz que sempre emana de personagens verídicos. Como documento, expressa a dor, a frustração e os sinais de esperança de uma geração que cresceu limitada e que terminou criando o seu espaço."\
 
       (Hélio Nascimento, FILME CULTURA, Rio de Janeiro, dezembro/84)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/me-beija.htm\
-      l)"
+  - title: Veja mais
+    content: "* [Créditos completos](/filmes/me-beija/creditos-completos)"
 original_path: /os-filmes/distribuição/longas/me-beija.html
 ---
 Vera é orientadora educacional numa escola do interior. Passa os dias resolvendo pequenos problemas dos alunos e, nos intervalos, tomando chá e conversando com seu grande amigo Leandro. De repente, surge um hóspede na escola. Parece que o seu nome é Raul. Ninguém sabe de onde ele veio ou o que faz para viver. Vera se apaixona, Leandro descobre que está sozinho, o diretor Sartori se inquieta. De alguma forma, toda a escola se modifica com a breve passagem de Raul. Pra sempre.
