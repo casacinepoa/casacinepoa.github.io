@@ -28,10 +28,9 @@ details:
       Gustavo Finkler\
       Raquel Grabauska\
       Vikka Schabbach
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
-      * [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-natal-de-natanael.html)
+      * [Créditos completos](/filmes/o-natal-de-natanael/creditos-completos)
 
       * [Letras das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/o-natal-de-natanael/letras-das-músicas.html)
 original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/o-natal-de-natanael.html
