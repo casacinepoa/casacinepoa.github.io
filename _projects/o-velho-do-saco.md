@@ -39,12 +39,12 @@ details:
       Velho do Saco)."\
 
       (Marcus Mello, revista virtual CONTRACAMPO, janeiro/2003)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-velho-do-saco.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-velho-do-saco.html)
+      * [Créditos completos](/filmes/o-velho-do-saco/creditos-completos)
 original_path: /os-filmes/distribuição/curtas/o-velho-do-saco.html
 ---
 Ricardo tem 10 anos, mora no interior do Rio Grande do Sul e tem pesadelos com o Velho do Saco, "que arranca os olhos das crianças mal comportadas". Não é fácil distinguir verdades e mentiras quando a perda da inocência se confunde com a perda do olhar.
