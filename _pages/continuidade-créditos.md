@@ -16,7 +16,7 @@ Direção: Rodrigo Portela\
 Produção executiva: Daniel Merel\
 Roteiro: Rodrigo Portela\
 Direção de fotografia: Joel Sagardia\
-/ e Paulo Lyrio\
+/ Paulo Lyrio\
 Direção de arte: Rafael dos Santos\
 Música: Alex Sernambi
 
