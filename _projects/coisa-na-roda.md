@@ -46,10 +46,8 @@ details:
       "É claro que há um efeito nostálgico inevitável em COISA NA RODA, mesmo para quem não viveu naquele tempo e naquele lugar. Sendo o filme a expressão de uma experiência geracional, não podia ser de outra forma. São bichos-grilos que freqüentam aulas de teatro, namoram entre uma aula e outra, vivem em repúblicas de estudantes, participam do movimento estudantil, viajam de carona e acampam na serra gaúcha. O super-8, com a sua imagem precária, sem definição, suja e riscada, contribui para criar um efeito de filme doméstico, de documentário caseiro, feito entre amigos. É o registro de um modo de fazer que se perdeu. Mas, antes de tudo, é um documento de juventude, de um tempo em que ainda só havia energia e vontade, em que demandas externas não eram levadas em conta, quando tudo ainda podia ser apenas oferta."\
 
       (Bernardo de Carvalho, FOLHA DE SÃO PAULO, 28/03/2006)
-  - title: Mais sobre
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/coisa-na-rod\
-      a.html)"
+  - title: Veja mais
+    content: "* [Créditos completos](/filmes/coisa-na-roda/creditos-completos)"
 original_path: /os-filmes/distribuição/longas/coisa-na-roda.html
 ---
 Quatro estudantes moram numa comunidade urbana, onde, em princípio, tudo pode ser "posto na roda", dividido, compartilhado: a mesada de cada um, os objetos pessoais, os relacionamentos, os compromissos políticos. Mas as coisas começam a mudar com a chegada de um quinto morador, mais velho e desiludido, que coloca em xeque a capacidade de cada um viver de acordo com suas idéias.
