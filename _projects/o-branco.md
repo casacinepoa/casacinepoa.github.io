@@ -71,7 +71,7 @@ details:
       * 9° Festival Internazionale Cinema Delle Donne, Torino, Itália 2002 – Melhor Curta-metragem
 
       * 11º Vitória Cine Vídeo, Vitória/Espírito Santo, 2004 – Prêmio Júri Popular Festivalzinho.
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/créditos/o-branco)"
 original_path: /os-filmes/distribuição/curtas/o-branco
