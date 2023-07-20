@@ -70,7 +70,7 @@ details:
       "O primeiro longa totalmente assumido de Carlinhos Gerbase é um marco, sob muitos aspectos. Mostra um narrador seguro, capaz de enfrentar os perigos da longa duração sem cair na monotonia ou na disritmia (o problema dos estreantes). Mostra um acabamento técnico profissional, desmentindo aqueles que julgam a precariedade um dado inerente à bitola. (...) Para Gerbase, um valor a mais: desvincula sua personalidade autoral da figura carismática de Nelson Nadotti, com quem era confundido em trabalhos anteriores."\
 
       (Luiz César Cozzatti, ZERO HORA, Porto Alegre, 08/05/83)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/inverno-texto-inicial.html)
@@ -80,4 +80,6 @@ details:
       * [Créditos completos](http://www.casacinepoa.com.br/node/572)
 original_path: /os-filmes/distribuição/longas/inverno.html
 ---
+D﻿IREITOS ATUAIS: Prana Filmes\
+\
 Aos 24 anos, nosso herói mora sozinho, é jornalista formado mas trabalha numa imobiliária. Identifica-se com a cidade sombria onde vive, com seu apartamento cheio de discos e livros, com os filmes a que assiste. Mas tem pouca coisa em comum com a namorada, os amigos, os pais, os colegas de serviço. Não consegue e não se esforça para conciliar os diferentes mundos por onde transita. Mas esta situação não pode durar muito tempo, e ele vai ser obrigado a dar uma resposta, ao final de doze dias de frio em Porto Alegre.
