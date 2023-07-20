@@ -68,9 +68,8 @@ details:
       "Se os críticos da APCA já não tivessem escolhido os melhores do ano, certamente levariam em consideração o especial Brava Gente, que a Globo exibiu depois do Natal. Assinado por Guel Arraes, um dos mais talentosos diretores da TV brasileira, Brava Gente vem provar que é possível conjugar entretenimento com um pouco de informação cultural. (...) Ao liderar o processo de abrir as portas do veículo para novas experiências - o episódio Meia Encarnada Dura de Sangue, foi entregue à Casa de Cinema, uma produtora independente do Rio Grande do Sul, por exemplo -, Guel está arejando a área de criação da Globo, ocupada por profissionais competentes, mas que dominam o pedaço há mais de 20 anos."\
 
       (Leila Reis, O Estado de São Paulo, 01/01/2001)
-  - content: >-
+  - content: |-
       "Bonifácio e Elisa", de Leo Henkin
-
 
       <audio src="//casacinepoa.com.br/uploads/meia_encarnada-.mp3" controls />
     title: Tema musical
@@ -79,7 +78,7 @@ details:
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/meia-encarnada-dura-de-sangue.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/meia-encarnada-dura-de-sangue.html)[](/uploads/Meia_encarnada-.mp3)
+      * [Créditos completos](/filmes/meia-encarnada-dura-de-sangue/creditos-completos)[](/uploads/Meia_encarnada-.mp3)
 original_path: /os-filmes/realização/episódios-de-tv/meia-encarnada-dura-de-sangue.html
 ---
 No interior do Rio Grande do Sul, em 1953, o craque Bonifácio vive um dilema. Jogador de um time de futebol amador integrado por jogadores negros e pobres, ele é convidado a fazer parte da equipe dos brancos e ricos. Seria a chance de oferecer uma vida melhor à namorada, a doméstica Elisa. Mas seu melhor amigo Vicente não entende o que considera uma traição.
