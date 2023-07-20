@@ -7,7 +7,7 @@ tech_specs:
 category: Séries
 image: /uploads/vidarep-imgr.jpg
 details:
-  - title: Ficha técnica
+  - title: Créditos
     content: >-
       **Direção**: Janaína Fischer, Márcio Schoenardie e Mirela Kruel Bilhar
 
