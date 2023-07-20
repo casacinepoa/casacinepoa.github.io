@@ -24,7 +24,7 @@ details:
   - title: Prêmios
     content: "* 10º Festival do Cinema Brasileiro de Gramado, 1982: Melhor curta
       gaúcho."
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/distribuição/no-amor-c\
       réditos)"
