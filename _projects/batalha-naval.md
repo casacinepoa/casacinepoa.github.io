@@ -34,7 +34,7 @@ details:
       * Prêmio Quero-quero (SATED/RS), 1992: Melhor filme gaúcho do ano.
 
       * 45ª Mostra Internacional de Cinema de Montecatini Termi, Itália, 1994: Prêmio Especial do Júri.
-  - title: Mais sobre
+  - title: Veja mais
     content: "* Créditos completos"
 original_path: /os-filmes/distribuição/batalha-naval
 ---
