@@ -86,7 +86,7 @@ details:
       "O MENTIROSO foi proibido para menores de 14 anos, com a justificativa de possuir 'situações de criminalidade', eufemismo dos senhores censores na tentativa de limitar o público de um filme saborosamente subversivo, que sugere, conscientemente ou não, idéias libertárias. (..) A virtude que deve irritar os detratores deste filme gaúcho é que Werner Schünemann não é um pós-moderno careta. Mais que um inventário de citações e homenagens ao 'road-movie', O MENTIROSO é uma bem-humorada elegia à liberdade."\
 
       (Carlos Reichenbach, FOLHA DE SãO PAULO, 09/03/89)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/distribuição/o-mentiro\
       so-créditos)"
