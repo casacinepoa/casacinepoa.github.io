@@ -35,7 +35,7 @@ details:
       subversão de valores pela solidariedade dos oprimidos."\
 
       (Tuio Becker, CADERNO DE CRÍTICA/FCB, Rio de Janeiro, maio de 1989)
-  - title: Mais sobre
+  - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/distribuição/passageir\
       os-créditos)"
