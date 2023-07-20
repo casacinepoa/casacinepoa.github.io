@@ -58,7 +58,7 @@ Assistente de Câmara: Fernando Usar\
 Fotografia Adicional: Christian Lesage\
 Supervisão Técnica: Júlio Spier\
 Eletricista: Luis Maria Casabón\
-Continuidade, Som?guia e Operador de Vídeo: Cibelo de Grandi\
+Continuidade, Som guia e Operador de Vídeo: Cibelo de Grandi\
 Produção de Elenco: Simone Lopes\
 Produção de Figurinos: Zanza Pereira\
 Produção Técnica: Monica Schmiedt e Carlos Grubber\
