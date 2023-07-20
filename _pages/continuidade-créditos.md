@@ -12,7 +12,7 @@ Zé Adão Barbosa (o cara)
 
 Direção: Rodrigo Portela\
 / Márcio Schoenardie\
-/ e Daniel Merel\
+/ Daniel Merel\
 Produção executiva: Daniel Merel\
 Roteiro: Rodrigo Portela\
 Direção de fotografia: Joel Sagardia\
