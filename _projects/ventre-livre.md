@@ -91,12 +91,11 @@ details:
 
       (David França Mendes, Estação Virtual, 01/08/96)
   - title: Tema musical
-    content: >-
+    content: |-
       "﻿Esta é a nossa história", de Leo Henkin
 
-
       <audio src="//casacinepoa.com.br/uploads/ventre_livre.mp3" controls />
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Pré-roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/ventre-livre-pré-roteiro.html)
@@ -105,7 +104,7 @@ details:
 
       * [Música](/uploads/Ventre_livre.mp3)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/ventre-livre.html)
+      * [Créditos completos](/filmes/ventre-livre/creditos-completos)
 original_path: /os-filmes/produção/documentários/ventre-livre.html
 synopsis: >
   O país do futuro é onde as crianças engravidam? O maior país católico do mundo
