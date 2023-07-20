@@ -26,12 +26,12 @@ details:
       Sandra Alencar (Teresa)\
       Lívia Dávalos (Esperanza)\
       Adriano Basegio (cabo)
-  - title: Mais sobre
+  - title: Veja mais
     content: >-
       *
       [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-padeiro-e-revoluções.html)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/créditos/o-padeiro-e-revoluções.html)
+      * [Créditos completos](/filmes/o-padeiro-e-as-revoluções/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/o-padeiro-e-revoluções.html
 ---
 Na pequena Porto Alegre da primeira metade do século XIX, Joaquim, um padeiro que não gosta de pão, precisa ser traído pela mulher para descobrir alguns dos prazeres da vida, inclusive a necessidade de gritar em praça pública contra os poderosos de plantão.
