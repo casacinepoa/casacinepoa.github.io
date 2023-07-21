@@ -1,5 +1,5 @@
 ---
-title: Doce de mãe - créditos
+title: Doce de mãe (telefilme) - créditos
 permalink: /filmes/doce-de-mãe/creditos-completos
 layout: page
 ---
