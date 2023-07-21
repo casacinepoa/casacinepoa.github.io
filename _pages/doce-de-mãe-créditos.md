@@ -144,7 +144,7 @@ Juliana Lago\
 Germano Oliveira\
 \
 **ASSISTENTES DE PRODUÇÃO**\
-Jéssica Luz\
+Jessica Luz\
 Marcos Röhrig\
 Marcelo Tchaca\
 Wagner Teixeira Alves\
