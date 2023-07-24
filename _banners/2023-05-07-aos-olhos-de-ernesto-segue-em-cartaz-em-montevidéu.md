@@ -1,5 +1,5 @@
 ---
-date: 2023-06-29 15:59:03
+date: 2023-07-24 20:23:12
 image: /uploads/ernesto-uru.jpg
 title: AOS OLHOS DE ERNESTO faz sucesso em Montevidéu
 link: https://cinemateca.org.uy/peliculas/1000
