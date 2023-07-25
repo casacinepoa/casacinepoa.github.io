@@ -7,7 +7,7 @@ date: 2009-10-09 20:46:32
 *por Giba Assis Brasil*\
 *em 9 de outubro de 2009*
 
-Não sei se em japonês tem palavra pra tudo. Aliás, não tenho a menor ideia. Mas o caso do "soramimi" é interessante: segundo a Wikipédia, o significado original da palavra, "ouvido vazio" (empty ear), evoluiu para "surdez fingida" (feigned deafness), ou seja: a brincadeira de ouvir errado que a gente poderia chamar de mondegreen, mas que, por ser intencional, eu prefiro associar ao virundum.
+Não sei se em japonês tem palavra pra tudo. Aliás, não tenho a menor ideia. Mas o caso do "soramimi" é interessante: segundo a Wikipédia, o significado original da palavra, "ouvido vazio" (empty ear), evoluiu para "surdez fingida" (feigned deafness), ou seja: a brincadeira de ouvir errado que a gente poderia chamar de [mondegreen](https://www.casacinepoa.com.br/blog/2009-09-23-mondegreen-virundum/), mas que, por ser intencional, eu prefiro associar ao [virundum](https://www.casacinepoa.com.br/blog/2009-10-01-mondegreen-virundum-soramimi/).
 
 Como "kashi" em japonês é "letra de música", a expressão "soramimi kashi" surgiu para designar uma das grandes manias nacionais do Japão moderno, ao lado do flipperama e do sudoku: a reinterpretação irônica do rock'n'roll, a perplexidade diante da cultura do império ocidental, "esses romanos são todos uns loucos". Com o tempo (e o tempo das palavras anda passando muito rápido ultimamente), a expressão perdeu o qualificativo e manteve o significado específico: soramimi é a interpretação intencionalmente errada de uma letra de música escrita em outra língua, geralmente o inglês - provocada, é claro, por similaridades sonoras. Um virundum bilíngue.
 
