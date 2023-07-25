@@ -30,7 +30,7 @@ Na edição de novembro de 1954 da "Harper's Magazine", Sylvia Wright escreveu o
 
 E pegou. Como a coisa existia e era facilmente identificável, e como o nome era sonoro e tinha uma história curiosa por trás, nome e coisa foram aos poucos se juntando e o termo se incorporou à língua inglesa. Mondegreen foi incluída no dicionário da Random House em 2000, e chegou ao Merriam-Webster em 2008. Hoje tem mais de 200 mil referências no Google. Blogueiros pelo mundo afora fazem listas dos "meus mondegreens favoritos". E até um cantor norueguês chamado (?) Dylan Mondegreen lançou seu primeiro CD em 2007.
 
-E o Virundum? Esse fica pra outro dia.
+E o Virundum? Esse fica pra [outro dia](https://www.casacinepoa.com.br/blog/2009-10-01-mondegreen-virundum-soramimi/).
 
 (1) "Noite do prazer", música de Paulo Zdanowski, Cláudio Zoli e Arnaldo Brandão
 
