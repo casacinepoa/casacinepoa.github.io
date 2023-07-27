@@ -14,6 +14,6 @@ Que eu não mudo de opinião.”
 
 A [](<>)estreante Maria Bethania substituiu Nara Leão, sua interpretação de “Carcará” conquistou o Brasil. A peça é uma brilhante mistura de canções, textos libertários, denúncia social, anedotas e depoimentos pessoais dos atores. O espetáculo foi gravado, o livro é uma raridade, se eu encontrar links ponho nos comentários.
 
-No trecho a seguir, dramaturgia e vida real. Nara conta de sua primeira tentativa de gravar um disco, do assédio pesado que sofreu. João do Vale fala do momento em que, já fazendo sucesso na voz de grandes cantoras, ainda trabalhava e dormia numa construção. Zé Keti narra sua experiência no cinema.
+No [trecho a seguir](https://www.youtube.com/watch?v=fGLOrHS7t1k), dramaturgia e vida real. Nara conta de sua primeira tentativa de gravar um disco, do assédio pesado que sofreu. João do Vale fala do momento em que, já fazendo sucesso na voz de grandes cantoras, ainda trabalhava e dormia numa construção. Zé Keti narra sua experiência no cinema.
 
 ![](/uploads/captura-de-tela-2023-06-28-às-09.09.14.png)
