@@ -1,0 +1,18 @@
+---
+layout: post
+title: TAMBÉM É CARO, TAMBÉM É RUIM, E TAMBÉM É VOCÊ QUE PAGA
+author: casa
+category: Textos sobre Cinema
+date: 1999-07-10 19:41:46
+---
+*Por Jorge Furtado*\
+*(julho de 1999)*\
+*originalmente publicado no [Não 64](https://www.nao-til.com.br/nao-64/jorge.htm)*
+
+Falando nisso, li a Veja, só a matéria sobre cinema brasileiro, seis páginas. O título: Caros, ruins e você paga. Bastante atrasada mas até que enfim, Veja denuncia o desperdício de dinheiro público pelo mau uso da lei do audiovisual. A reportagem traz dados alarmantes sobre diversas aberrações mas se equivoca ao associar, apesar de negar que o faça, "satisfação do espectador" com qualidade. Mídia faz bilheteria e espectadores freqüentemente se satisfazem com lixo industrial. Veja revela seu gosto colonizado, por exemplo, ao classificar "O Quatrilho" de "ótimo". E ao ignorar bons filmes de baixo custo de produção, como "Céu de Estrelas", "Amores" e "Baile Perfumado".
+
+Estranho também é ver Luis Carlos Barreto, um dos mentores da lei, denunciar sua má utilização. Participei de um encontro em Gramado para discutir a lei. Foi interrompido por Norma Benguel, aos gritos, dizendo que não aceitava um teto na captação de recursos, que ela queria filmar "O Guarani" e precisava de muitos milhões, uma orquestra e veludo de verdade. Usava em defesa de sua tese um argumento irrespondível: "Eu sou Norma Benguel". Está provado que era mesmo. A lei foi claramente feita de modo a permitir o uso que dela fazem, seguindo os princípios éticos revelados pela argumentação de Diogo Mainardi: "Se lhe oferecessem 800 000 mil reais, restituindo a metade por baixo do pano, você aceitaria? Aceitaria, claro". Claro? Mas isso não é crime? Se não é, devia ser. E se devia ser e não é, a lei está errada. Tire estes 50% de "custo-cinema-Brasil" e o preço médio dos nossos filmes já se equipara aos da Espanha.
+
+Quando defende a necessidade óbvia de controle público sobre a utilização de dinheiro público ou reivindica que a televisão patrocine compulsoriamente ao cinema Veja presta um serviço à cultura brasileira. Quando associa qualidade à bilheteria, a reportagem malandramente ignora a torrente de lixo industrial que Hollywood despeja em nossas telas toda semana. Se o cinema brasileiro é quase sempre indigente tem ao menos como desculpa esfarrapada as enormes dificuldades que qualquer realizador enfrenta para vencer a distância entre intenção e obra. Mas o que dizer de produções tipo "Independence Day" ou "Twister", promovidas com matérias de capa e vastas reportagens de Veja? Na construção de suas fábulas a maioria dos filmes americanos é tão ou mais indigente que a pior novela das seis. Imagine, por exemplo, como seria tratado um cineasta brasileiro que resolvesse fazer um filme (sério) onde o presidente da república, no dia sete de setembro, pilota um jato para enfrentar invasores extraterrestres. Na média, o cinema brasileiro é bem mais inteligente que o americano. Eles produzem cerca de 500 longas por ano e seguramente menos de 20 exigem do espectador QI maior que o de um tapir adulto.
+
+A matéria de Veja termina num artigo de Diogo Mainardi sugerindo ao cinema nacional a adoção de uma linguagem única, que ele chama de "pobre contemporânea". A julgar a proposta por sua incursão ao cinema - o constrangedor "16.060", com roteiro seu e direção do irmão - Diogo parece estar pregando uma espécie de "estética da anorexia", onde o uso da tal "tecnologia de ponta" do mundo publicitário não esconde que por trás da pose só há mais pose. O que o Brasil tem de mais rico é a sua diversidade. Espero que ela possa vir a ser representada por uma cinematografia produzida sem desperdício e/ou roubalheira mas também sem padrões, muito menos os ditados pela Veja.
