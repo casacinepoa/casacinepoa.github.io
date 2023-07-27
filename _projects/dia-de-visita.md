@@ -52,12 +52,8 @@ details:
       <audio src="//casacinepoa.com.br/uploads/dia_de_visita.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/dia-de-visita.html)
-
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/realização/episódios-de-tv/dia-de-visita/fotos-de-cena.html)[](/uploads/Dia_de_visita.mp3)
-
+    content: |-
+      * [Roteiro](/uploads/dia-de-visita-rot.pdf)[](/uploads/Dia_de_visita.mp3)
       * [C﻿réditos completos](/filmes/dia-de-visita/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/dia-de-visita.html
 ---
