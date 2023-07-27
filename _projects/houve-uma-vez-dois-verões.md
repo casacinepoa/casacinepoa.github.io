@@ -115,9 +115,9 @@ details:
       * [Créditos
       completos](/filmes/houve-uma-vez-dois-verões/creditos-completos)
 
-      * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-inicial.html)
+      * [R﻿oteiro (versão 15/03/2001)](/uploads/houve-uma-vez-dois-veroes-rot.pdf)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/houve-uma-vez-dois-verões-texto-final.html)[](/uploads/Houve_uma_vez-.mp3)
+      * [T﻿exto final (05/12/2001)](/uploads/houve-uma-vez-dois-veroes-txf.pdf)
 original_path: /os-filmes/produção/longas/houve-uma-vez-dois-verões.html
 synopsis: Chico, adolescente em férias na "maior e pior praia do mundo",
   encontra Roza num fliperama e se apaixona. Transam na primeira noite, mas ela
