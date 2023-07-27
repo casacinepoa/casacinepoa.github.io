@@ -278,14 +278,13 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/meu-tio-matou-um-cara-texto-inicial.html)
-
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/meu-tio-matou-um-cara-texto-final.html)
-
       * [Filmagens](http://www.terra.com.br/blog/meutiomatou1kra/)
 
       * [Créditos completos](/filmes/meu-tio-matou-um-cara/creditos-completos)[](/uploads/meu_tio_matou_um_cara.mp3)
+
+      * [Roteiro - versão 08/04/2004](/uploads/meu-tio-matou-um-cara-rot.pdf)
+
+      * [Texto final - 13/01/2005](/uploads/meu-tio-matou-um-cara-txf.pdf)
 original_path: /os-filmes/produção/longas/meu-tio-matou-um-cara.html
 synopsis: Duca, aos 15 anos, descobre que os crimes que ele está acostumado a
   ver em jogos eletrônicos também podem existir na vida real, quando seu tio
