@@ -87,7 +87,7 @@ details:
       Sebastian Bach; arranjo de Tiago Flores; Carlito Magallanes, bandoneon
 
 
-      <audio src="//www.casacinepoa.com.br/sites/default/files/Sal_de_prata.mp3" controls />
+      <audio src="/uploads/sal_de_prata.mp3" controls />
   - title: Veja mais
     content: |-
       * Roteiro
