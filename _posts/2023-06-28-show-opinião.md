@@ -4,10 +4,8 @@ title: Show "Opinião"
 author: jorge
 date: 2023-06-28 19:52:41
 ---
-“Podem me prender podem me bater
-
-Podem até deixar-me sem comer
-
+“Podem me prender podem me bater\
+Podem até deixar-me sem comer\
 Que eu não mudo de opinião.”
 
 “Opinião”, espetáculo teatral escrito por Armando Costa, Oduvaldo Vianna Filho e Paulo Pontes, com músicas de Zé Keti e João do Vale, com Nara Leão, com direção da Augusto Boal, estreou em São Paulo no dia 11 de dezembro de 1964. Foi o primeiro grande enfrentamento da arte brasileira com a ditadura militar, recém instaurada em Brasília, de onde só sairia 25 anos depois.
