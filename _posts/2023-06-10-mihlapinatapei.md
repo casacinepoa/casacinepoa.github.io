@@ -4,8 +4,8 @@ title: Mihlapinatapei
 author: jorge
 date: 2008-03-03 11:45:30
 ---
-por Jorge Furtado\
-em 03 de março de 2008
+*por Jorge Furtado*\
+*em 03 de março de 2008*
 
 Lá pelo início do último quartel do século vinte eu li "Eu e Tu", do Martin Buber, pela primeira vez. Não entendi praticamente nada, nem terminei de ler, mas o livro ativou em mim aquele atributo humano que o Umberto Eco chama de "extraordinário esforço de decifração", também conhecido como "aí tem coisa". E por isso volto a ele seguidamente, desde então.
 
@@ -17,7 +17,7 @@ Antes de entrar no dicionário, uma palavra deve cumprir uma série de requisito
 
 Adam encontrou "zechpreller", do alemão, que é "quem vai embora do restaurante sem pagar". Ou seja, todo silviador é um zechpreller, embora nem todo zechpreller silvie. Deu para entender ou eu estou "dui niu tanqin"? (Do chinês: falar sobre assunto do qual o interlocutor não se interessa ou para o público errado. Literalmente: tocar alaúde para uma vaca.) Em caso afirmativo, por favor, muja.
 
-x
+xxx
 
 A outra palavra-frase mencionada pelo Martin Buber é uma expressão do Zulu que significa "bem longe" e que literalmente é: "Lá onde alguém grita: Mãe! Eu estou perdido!". Essa eu ainda não sei qual é.
 
@@ -25,35 +25,35 @@ O Elomar ("Na quadrada das águas perdidas") tem uma boa expressão para o mesmo
 
 E, antes que eu me esqueça, a palavra que eu levei 25 anos para encontrar é "mihlapinatapei".
 
-x
+xxx
 
 Alguns dos melhores momentos de "Tingo" (para saber o que é, só lendo):
 
-Neko-neko. Do indonésio. Alguém que tem uma idéia criativa que só piora tudo.
+**Neko-neko**. Do indonésio. Alguém que tem uma idéia criativa que só piora tudo.
 
-Iktsuarpok. Do inuíte. Ir muitas vezes à porta de casa para ver se a pessoa esperada vem vindo.
+**Iktsuarpok**. Do inuíte. Ir muitas vezes à porta de casa para ver se a pessoa esperada vem vindo.
 
-Shitta. Do persa. Comida da noite anterior que se come na manhã seguinte.
+**Shitta**. Do persa. Comida da noite anterior que se come na manhã seguinte.
 
-Hakamaroo. Do indonésio. Ficar com um objeto emprestado até o dono o pedir de volta.
+**Hakamaroo**. Do indonésio. Ficar com um objeto emprestado até o dono o pedir de volta.
 
-Megillah. Do iídiche. História desnecessariamente longa e chata.
+**Megillah**. Do iídiche. História desnecessariamente longa e chata.
 
-Olfrygt. Do dinamarquês. Medo que acabe a cerveja.
+**Olfrygt**. Do dinamarquês. Medo que acabe a cerveja.
 
-Uttori aware. Do japonês, ficar maravilhado diante de uma beleza efêmera.
+**Uttori aware**. Do japonês, ficar maravilhado diante de uma beleza efêmera.
 
-Yugen. Do japonês, a consciência do universo que desperta sentimentos profundos e misteriosos demais para serem expressos em palavras.
+**Yugen**. Do japonês, a consciência do universo que desperta sentimentos profundos e misteriosos demais para serem expressos em palavras.
 
 Expressões e frases:
 
-Avoir la moule qui baille. Do francês. Uma mulher excitada, louca para fazer sexo. Literalmente, "estar com o mexilhão bocejando".
+**Avoir la moule qui baille**. Do francês. Uma mulher excitada, louca para fazer sexo. Literalmente, "estar com o mexilhão bocejando".
 
-Zolst farliren aleh tseyner achitz eynm, un dos zol dir vey ton! Do iídiche. Tradução: Tomara que você perca todos os dentes menos um, e que este único doa!
+**Zolst farliren aleh tseyner achitz eynm, un dos zol dir vey ton!** Do iídiche. Tradução: Tomara que você perca todos os dentes menos um, e que este único doa!
 
-War nam nihadan. Do persa. Matar uma pessoa, enterrá-la e plantar flores sobre sua cova para a esconder.
+**War nam nihadan**. Do persa. Matar uma pessoa, enterrá-la e plantar flores sobre sua cova para a esconder.
 
-x
+xxx
 
 Para saber mais sobre "Tingo":\
 http://www.lojaconrad.com.br/trecho/tingo_p1.asp
@@ -62,8 +62,6 @@ Para saber mais sobre Martin Buber:\
 http://en.wikipedia.org/wiki/Martin_Buber\
 http://pt.wikipedia.org/wiki/Martin_Buber\
 http://buber.de/en/
-
-
 
 - - -
 
