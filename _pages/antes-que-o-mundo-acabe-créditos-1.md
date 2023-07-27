@@ -25,10 +25,20 @@ Luiz Fernando Barão / Barão\
 Carolina Muller / Dona Preta\
 Lelo Almeida / Lelo\
 \
-Turma da escola: Bárbara Weschenfelder, Bernardo Perini, Bruna Marques, Guilherme Michels, Jehan Vargas, Lucas, Luiz Eduardo Gil, Patrick Fagundes, Patrick Soares, Paula Porto, Daniel Bracho, Dada, Mariana Muller.\
+Turma da escola: Bárbara Weschenfelder\
+/ Bernardo Perini\
+/ Bruna Marques\
+/ Guilherme Michels\
+/Jehan Vargas, Lucas\
+/ Luiz Eduardo Gil\
+/ Patrick Fagundes\
+/ Patrick Soares\
+/ Paula Porto\
+/ Daniel Bracho\
+/ Dada\
+/ Mariana Muller\
 \
-\
-**DIREÇÃO**\
+**E﻿QUIPE / DIREÇÃO**\
 \
 Direção / Ana Luiza Azevedo\
 \
@@ -37,7 +47,6 @@ Assistente de Direção / Janaína Fischer\
 Preparação de elenco / Ângela Gonzaga\
 e Mirna Spritzer\
 Continuísta / Guilherme Keenan\
-\
 \
 **ROTEIRO**\
 \
@@ -51,7 +60,6 @@ a partir do livro de / Marcelo Carneiro da Cunha\
 \
 O roteiro deste filme participou do\
 LABORATÓRIO SESC RIO DE ROTEIROS 2006\
-\
 \
 **PRODUÇÃO**\
 \
@@ -72,7 +80,6 @@ Produção de Set / Marne Pereira\
 Marcelo Tchaca\
 Pesquisa de Locações / Marco Bajotto\
 Betânia Furtado\
-\
 \
 **FOTOGRAFIA**\
 \
@@ -98,7 +105,6 @@ Marcos da Silva\
 Maquinista Chefe / Everton Juba Machado\
 Maquinista / Maurício Leite\
 \
-\
 **ARTE**\
 \
 Diretor de Arte / Fiapo Barth\
@@ -115,7 +121,6 @@ Cenotécnicos / Marcos Antônio da Silva\
 Carlos F. Branquinho\
 Desenhos praxinoscópio / Denny Chang\
 \
-\
 **MONTAGEM**\
 \
 Montagem / Giba Assis Brasil\
@@ -123,7 +128,6 @@ Assistente de Montagem / Lúcio Born\
 Telecine Offline / Laura Futuro\
 \
 Coord. Finalização/SP / Ewa Wawelberg\
-\
 \
 **EFEITOS VISUAIS**\
 \
@@ -151,7 +155,6 @@ Animação digital / ESTÚDIO MAKAKO\
 animador / Mathias Dalcol Townsend\
 animador / Bernardo Assis Brasil\
 \
-\
 **SOM**\
 \
 Som Direto / Rafael Rodrigues\
@@ -166,7 +169,6 @@ Augusto Stern\
 Artista de Foley / Felipe Burger Marques\
 Edição de Foley / Fábio Sampaio\
 Coord. Estúdio de Som / Lísia Faccin\
-\
 \
 **MÚSICA**\
 \
@@ -184,14 +186,12 @@ Mixagem das Músicas / Kiko Ferraz\
 Chrístian Vaisz\
 Assistente de Gravação / Bruno Croda\
 \
-\
 **MIXAGEM**\
 \
 Mixagem / Pedro Sergio\
 Masterização / José Luiz Sasso\
 Gerência Operacional / Daniel Sasso\
 Consultor Dolby / Carlos Klachquin\
-\
 \
 **BASE**\
 \
@@ -215,7 +215,6 @@ Marne Pereira\
 Mauro Rebello\
 Olavo de Carvalho\
 Paulo Roberto Silveira\
-\
 \
 **TELEIMAGE**\
 \
@@ -300,7 +299,6 @@ Laboratório de copiagem / Cinecolor do Brasil Ltda.\
 Montado Digitalmente em / Final Cut Pro\
 com Cinema Tools\
 \
-\
 **MÚSICAS**\
 \
 "Beat Acelerado" / (Yann Lao/Vicente França/Alec Haiat)\
@@ -320,8 +318,6 @@ Editora / Humaitá\
 \
 "Long Plays" / (Pedro Metz e João Amaro)\
 Interpretada por / Pública\
-\
-\
 \
 **AGRADECIMENTOS**\
 \
@@ -364,7 +360,6 @@ Laura Galli - Leo Azevedo - Leo Assis Brasil - Luciana Velho\
 Luis Henrique Santos - Maria Eduarda V. Cunha - Natália Blumberg\
 Pedro Borba - Rodrigo Malamute - Teresa Assis Brasil\
 \
-\
 **PATROCÍNIO**\
 \
 BNDES\
@@ -380,6 +375,6 @@ CORRETORA GERAL\
 \
 Casa de Cinema de Porto Alegre, 2009
 
+**HISTÓRICO**
 
-
-<!--EndFragment-->
+Filmado no Rio Grande do Sul (municípios de Taquara, Santo Antônio da Patrulha, Rolante, Caxias do Sul e Porto Alegre), de 30 de outubro a 2 de dezembro de 2007. Montado em Final Cut Pro, de 27 de dezembro de 2007 a 11 de fevereiro de 2009. Mixagem final na JLS Facilidades Sonoras, São Paulo, de 4 a 8 de junho de 2009. Pré-estreia no Festival de Paulínia, 15 de julho de 2009. Lançamento comercial dia 4 de maio de 2010.
