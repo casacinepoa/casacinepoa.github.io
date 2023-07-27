@@ -6,6 +6,6 @@ category: Roteiros
 file: /uploads/ate-a-vista-rot.pdf
 date: 2023-07-01 11:28:55
 ---
-(Episódio da série FRONTEIRAS)\
+(Episódio da série "Fronteras")\
 Roteiro e argumento de Jorge Furtado\
 Primeiro tratamento - 15/04/2011
