@@ -680,4 +680,10 @@ Canal Brasil
 **PRODUÇÃO**
 
 Casa de Cinema de Porto Alegre\
-Porto Alegre, 2018
+\
+**H﻿ISTÓRICO**\
+\
+Filmado em Porto Alegre, de 08/10 a 05/12/2017.\
+Montado em Avid, de 10/11 a 10/04/2018.\
+Mixagem final na JLS, São Paulo, 05/07.\
+Pré-estreia no Cine Espaço Itaú, 03/12/2018.
