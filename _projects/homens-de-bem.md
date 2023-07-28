@@ -66,7 +66,9 @@ details:
 
       ([Alfeu Matera](http://tvcinemaeafins.blogspot.com/2011/12/homens-de-bem-um-otimo-filme-feito-para.html), Blog TV, Cinema e afins, 30/12/2011)
   - title: Veja mais
-    content: "* [C﻿réditos completos](/filmes/homens-de-bem/creditos-completos)"
+    content: |-
+      * [C﻿réditos completos](/filmes/homens-de-bem/creditos-completos)
+      * [R﻿oteiro - versão 01/06/2011](/uploads/doce-de-mae-rot.pdf)
 original_path: /os-filmes/realização/episódios-de-tv/homens-de-bem.html
 synopsis: Ciba é um espião que presta serviços não oficiais para a Polícia
   Federal, mas também para outros clientes. Quando um empresário é suspeito de
