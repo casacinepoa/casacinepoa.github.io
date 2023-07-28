@@ -79,7 +79,9 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/doce-de-mae-piloto.mp3" controls />
   - title: Veja mais
-    content: "* [C﻿réditos completos](/filmes/doce-de-mãe/creditos-completos)"
+    content: |-
+      * [C﻿réditos completos](/filmes/doce-de-mãe/creditos-completos)
+      * [R﻿oteiro - versão 17/09/2012](/uploads/doce-de-mae-rot.pdf)
 original_path: /os-filmes/produção/longas/doce-de-mãe-tele-filme
 synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   por Zaida (Mirna Spritzer) há 27 anos. Sempre bem-humorada, apaixonada por
