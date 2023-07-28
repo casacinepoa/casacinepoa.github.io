@@ -568,10 +568,9 @@ details:
       <audio src="//casacinepoa.com.br/uploads/o_homem_que_copiava.mp3" controls />
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-inicial.html)
+      * [Roteiro](/uploads/o-homem-que-copiava-rot.pdf)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-homem-que-copiava-texto-final.html)[](/uploads/o_homem_que_copiava.mp3)
+      * [Texto final](/uploads/o-homem-que-copiava-txf.pdf)[](/uploads/o_homem_que_copiava.mp3)
 
       * [Créditos completos](/filmes/o-homem-que-copiava/creditos-completos)
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
