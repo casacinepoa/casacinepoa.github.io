@@ -377,4 +377,8 @@ Casa de Cinema de Porto Alegre, 2009
 
 **HISTÓRICO**
 
-Filmado no Rio Grande do Sul (municípios de Taquara, Santo Antônio da Patrulha, Rolante, Caxias do Sul e Porto Alegre), de 30 de outubro a 2 de dezembro de 2007. Montado em Final Cut Pro, de 27 de dezembro de 2007 a 11 de fevereiro de 2009. Mixagem final na JLS Facilidades Sonoras, São Paulo, de 4 a 8 de junho de 2009. Pré-estreia no Festival de Paulínia, 15 de julho de 2009. Lançamento comercial dia 4 de maio de 2010.
+Filmado no Rio Grande do Sul (municípios de Taquara, Santo Antônio da Patrulha, Rolante, Caxias do Sul e Porto Alegre), de 30/10 a 02/12/2007.\
+Montado em Final Cut Pro, de 27/12/2007 a 11/02/2009.\
+Mixagem final na JLS Facilidades Sonoras, São Paulo, de 04 a 08/06/2009.\
+Pré-estreia no Festival de Paulínia, 15/07/2009.\
+Lançamento comercial dia 04/05/2010.
