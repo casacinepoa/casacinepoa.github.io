@@ -223,6 +223,9 @@ Warner Chappell Edições Musicais
 Fonograma cedido por Saravá Discos\
 Editora Copyright
 
-HISTÓRICO
+**HISTÓRICO**
 
-Filmado em Garibaldi de 09 a 14 de outubro, e em Porto Alegre de 07 a 20 de dezembro de 2013. Montagem finalizada em 21 de julho de 2014. Estreia no Cine Ceará, 20 de junho de 2015.
+Filmado em Garibaldi de 09 a 14/10,\
+e em Porto Alegre de 07 a 20/12/2013.\
+Montagem finalizada em 21/07/2014.\
+Estreia no Cine Ceará, 20/06/2015.
