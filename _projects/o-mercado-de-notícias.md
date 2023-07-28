@@ -41,6 +41,10 @@ details:
       * [Site do filme](http://www.omercadodenoticias.com.br/)
 
       * [Créditos completos](http://www.casacinepoa.com.br/os-filmes/longas/o-mercado-de-notícias-créditos)
+
+      * [Pré-roteiro versão 09/08/2012](/uploads/o-mercado-de-noticias-pre-rot.pdf)
+
+      * [Texto final - 22/10/2013](/uploads/o-mercado-de-noticias-txf.pdf)
 original_path: /os-filmes/produção/longas/o-mercado-de-noticias
 synopsis: Documentário sobre jornalismo e democracia. O filme traz os
   depoimentos de treze importantes jornalistas brasileiros sobre o sentido e a
