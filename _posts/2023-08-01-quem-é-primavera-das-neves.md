@@ -9,6 +9,8 @@ date: 2010-03-22 11:22:17
 
 Sou fascinado pelo nome desta tradutora brasileira: Primavera das Neves. Tenho uma edição de sua tradução dos dois livros de Lewis Carroll, "Alice no país das maravilhas" e "Através do espelho", muito boas, Editorial Bruguera, Rio de Janeiro, infelizmente sem data.
 
+![](/uploads/primavera-credito.jpg)
+
 Fui procurar mais informações sobre ela no Google e, pasmem, encontrei apenas uma referência, uma raridade. (Experimente. Nunca encontrei apenas uma referência a qualquer pessoa que procurei no Google, ou não há referência alguma - e talvez a pessoa não exista ou você escreveu o nome errado - ou há muitas referências. Só uma?)
 
 [Pesquisa no Google](http://www.google.com.br/search?hl=pt-BR&source=hp&q=%22primavera+das+neves%22&btnG=Pesquisa+Google&meta=&aq=f&oq=), em 25.01.10:
