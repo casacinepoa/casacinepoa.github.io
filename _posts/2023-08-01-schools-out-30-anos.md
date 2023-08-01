@@ -11,7 +11,7 @@ Segundo a Zero Hora de hoje, as principais notícias do dia 8 de outubro de 1980
 
 Mas, para quem foi à Sala Alvaro Moreyra, no Centro Municipal de Cultura, naquela noite, exatamente 30 anos atrás, a grande notícia foi a estreia do espetáculo "School's out", texto de Pedro Santos com direção coletiva e interpretação do Grupo Vende-se Sonhos.
 
-O grupo era uma dissidência do Grêmio Dramático Açores, que Luciano Alabarse havia criado (*) para fazer teatro experimental dentro do Teatro de Arena, então administrado por Jairo de Andrade e Marlise Saueressig. Em menos de dois anos de atuação (*), Luciano e o Açores já haviam montado "O Evangelho segundo Zebedeu", uma dramatização da guerra de Canudos pelo autor paulista César Vieira; e "A Lata de lixo da História", recriação de Roberto Schwartz a partir do clássico conto "O Alienista", de Machado de Assis. Nos dois casos, os textos originais haviam sido retrabalhados para a realidade brasileira e portoalegrense do final dos anos 1970, com improvisações e um uso do humor próximo ao deboche, com um tom entre o carnaval e a música pop que não seria exagero, na época, chamar de neotropicalista.
+O grupo era uma dissidência do Grêmio Dramático Açores, que Luciano Alabarse havia criado (1*) para fazer teatro experimental dentro do Teatro de Arena, então administrado por Jairo de Andrade e Marlise Saueressig. Em menos de dois anos de atuação (2*), Luciano e o Açores já haviam montado "O Evangelho segundo Zebedeu", uma dramatização da guerra de Canudos pelo autor paulista César Vieira; e "A Lata de lixo da História", recriação de Roberto Schwartz a partir do clássico conto "O Alienista", de Machado de Assis. Nos dois casos, os textos originais haviam sido retrabalhados para a realidade brasileira e portoalegrense do final dos anos 1970, com improvisações e um uso do humor próximo ao deboche, com um tom entre o carnaval e a música pop que não seria exagero, na época, chamar de neotropicalista.
 
 Mas, depois que o grupo carioca "Asdrúbal trouxe o trombone" esteve em Porto Alegre, apresentando seu seminal "Trate-me leão" e orientando aqui uma oficina livre de interpretação, uma parte do Grupo Açores, uma gurizada com vinte e poucos anos e muito teatro pela frente, começou a achar que só fazer teatro experimental não bastava. Era preciso praticar a criação coletiva desde o texto, era preciso levar pro palco a sua forma de convivência, ou talvez fosse preciso inventar uma forma de convivência que pudesse ser levada pro palco, sei lá, eles também não sabiam. Era preciso falar sobre o que significava ter vinte e poucos anos em Porto Alegre naquele momento.
 
@@ -29,7 +29,7 @@ E então a peça ficou pronta e tinha que estrear. Ou tinha que estrear, e por i
 
 *Soraia Simaan, Cleide Fayad, Pedro Santos, Rosa Luporini, Osvaldo Perrenoud, Xala Felippi, Marco Antônio Sorio, Márcia do Canto e Angel Palomero: 30 anos de "School's out". A foto é do Carlos Gerbase.*
 
-(*) "que Luciano Alabarse havia criado" e "em menos de dois anos de atuação": ver correções no comentário da Mirna Spritzer, abaixo.
+(1) "que Luciano Alabarse havia criado" e (2) "em menos de dois anos de atuação": ver correções no comentário da Mirna Spritzer, abaixo.
 
 - - -
 
