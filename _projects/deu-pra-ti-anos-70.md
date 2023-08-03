@@ -113,7 +113,7 @@ details:
       Augusto Licks
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/deu-pra-ti.mp3" controls />
+      <audio src="/uploads/deu-pra-ti.mp3" controls />
   - title: Veja mais
     content: |-
       * [Créditos completos](/filmes/deu-pra-ti-anos-70/creditos-completos)
