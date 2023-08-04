@@ -535,58 +535,57 @@ O nome Maria é usado por mais de 13 milhões pessoas; enquanto José, o segundo
  \
 Outro dado curioso do levantamento é o nome Luiz com “z”, que é três vezes mais usado que Luis com “s”. Luiz ultrapassa os 1,5 milhões de adeptos, enquanto Luis não chega a 500 mil. E, depois de Maria, Ana é a alcunha feminina mais usada no Brasil, com quase 2 milhões.\
  \
-A pesquisa da proScore foi realizada com informações de seu banco de dados, que possui aproximadamente 165 milhões de CPF's capturados em todo o Brasil. Abaixo, segue a lista completa do levantamento.\
- \
+A pesquisa da proScore foi realizada com informações de seu banco de dados, que possui aproximadamente 165 milhões de CPF's capturados em todo o Brasil. Abaixo, segue a lista completa do levantamento.
 
-1. MARIA 13.356.965\
-2. JOSÉ 7.781.515\
-3. ANTONIO 3.550.752\
-4. JOÃO 2.988.744\
-5. FRANCISCO 2.242.146\
-6. ANA 1.996.377\
-7. LUIZ 1.541.895\
-8. PAULO 1.416.768\
-9. CARLOS 1.384.201\
-10. MANOEL 1.334.182\
-11. PEDRO 995.254\
-12. FRANCISCA 853.590\
-13. MARCOS 823.738\
-14. RAIMUNDO 821.242\
-15. SEBASTIÃO 798.627\
-16. ANTONIA 672.400\
-17. MARCELO 628.138\
-18. JORGE 587.670\
-19. MARCIA 557.347\
-20. GERALDO 530.050\
-21. ADRIANA 529.778\
-22. SANDRA 497.971\
-23. LUIS 492.208\
-24. FERNANDO 489.142\
-25. FABIO 481.790\
-26. ROBERTO 480.695\
-27. MARCIO 471.906\
-28. EDSON 467.806\
-29. ANDRE 465.484\
-30. SERGIO 462.397\
-31. JOSEFA 453.636\
-32. PATRICIA 446.001\
-33. DANIEL 439.826\
-34. RODRIGO 438.083\
-35. RAFAEL 432.356\
-36. JOAQUIM 431.594\
-37. VERA 430.683\
+1. MARIA 13.356.965
+2. JOSÉ 7.781.515
+3. ANTONIO 3.550.752
+4. JOÃO 2.988.744
+5. FRANCISCO 2.242.146
+6. ANA 1.996.377
+7. LUIZ 1.541.895
+8. PAULO 1.416.768
+9. CARLOS 1.384.201
+10. MANOEL 1.334.182
+11. PEDRO 995.254
+12. FRANCISCA 853.590
+13. MARCOS 823.738
+14. RAIMUNDO 821.242
+15. SEBASTIÃO 798.627
+16. ANTONIA 672.400
+17. MARCELO 628.138
+18. JORGE 587.670
+19. MARCIA 557.347
+20. GERALDO 530.050
+21. ADRIANA 529.778
+22. SANDRA 497.971
+23. LUIS 492.208
+24. FERNANDO 489.142
+25. FABIO 481.790
+26. ROBERTO 480.695
+27. MARCIO 471.906
+28. EDSON 467.806
+29. ANDRE 465.484
+30. SERGIO 462.397
+31. JOSEFA 453.636
+32. PATRICIA 446.001
+33. DANIEL 439.826
+34. RODRIGO 438.083
+35. RAFAEL 432.356
+36. JOAQUIM 431.594
+37. VERA 430.683
 38. RICARDO 423.616\
-39. EDUARDO 417.277\
-40. TEREZINHA 409.120\
-41. SONIA 403.702\
-42. ALEXANDRE 403.114\
-43. RITA 396.901\
-44. LUCIANA 390.507\
-45. CLAUDIO 390.104\
-46. ROSA 385.634\
-47. BENEDITO 378.680\
-48. LEANDRO 378.136\
-49. RAIMUNDA 372.672\
+39. EDUARDO 417.277
+40. TEREZINHA 409.120
+41. SONIA 403.702
+42. ALEXANDRE 403.114
+43. RITA 396.901
+44. LUCIANA 390.507
+45. CLAUDIO 390.104
+46. ROSA 385.634
+47. BENEDITO 378.680
+48. LEANDRO 378.136
+49. RAIMUNDA 372.672
 50. MARIO 364.589\
-     \
+    \
     stilo.uol.com.br/comportamento/ultimas-noticias/2011/11/28/maria-e-jose-sao-os-nomes-mais-comuns-no-brasil-veja-lista-com-os-50-mais-populares.htm
