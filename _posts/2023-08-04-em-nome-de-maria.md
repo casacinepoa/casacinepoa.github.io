@@ -402,12 +402,8 @@ Incrível! Lucas, que ocupava um modesto vigésimo nono lugar na década anterio
 \
 Salve Maria! Em sensacional recuperação, Maria volta à liderança. Adeus Jéssica! Sejam bem-vindas as Julias! José, cansado, ocupa a última colocação e vê Maria distante. \
  \
-Será que José se recupera? Surgirá alguma nova Jéssica a ameaçar o reinado de Maria? Não percam a próxima década.\
- \
- \
-X\
- \
- \
+Será que José se recupera? Surgirá alguma nova Jéssica a ameaçar o reinado de Maria? Não percam a próxima década.
+
 xxxxx\
 \
 Este ano (atualiazado em 20.09.10) , Maria vem mantendo a liderança. José mostra novo fôlego. As novidades são Yasmin, Kauan (ou Kaua) e Isabela (ou Isabella), entre os 10 primeiros.\
@@ -445,14 +441,10 @@ Período de 01.01.2010 a 20.09.2010\
 29 CARLOS 57 \
   KAUA 57 
 
- 
-
- \
-X\
- \
+x﻿xxxx\
+\
 Se considerarmos os últimos 110 anos, o ranking dos nomes brasileiros é o seguinte:\
- \
- \
+\
 (1900-2010)\
  \
 1 MARIA 24644 \
@@ -488,7 +480,8 @@ Se considerarmos os últimos 110 anos, o ranking dos nomes brasileiros é o segu
  \
  \
 X\
- \
+xxxxx\
+\
 Faça suas próprias pesquisas no site Certifixe, que reúne um banco de dados com quase 1 milhão e meio de registros em cartórios. É claro que registros recentes são muito mais numerosos que os do começo do século passado, mas a amostragem é boa.\
  \
 [http://www.certidao.com.br/buscas/ranking.php](http://www.certidao.com.br/buscas/ranking.php "http\://www.certidao.com.br/buscas/ranking.php")\
@@ -526,7 +519,7 @@ Depois pedi os nomes mais comuns possíveis, deu esses:\
  \
 <http://www.kleimo.com/random/name.cfm>\
  \
-x\
+xxxxx\
  \
 **Atualizado em 28.11.11**  
 
@@ -544,6 +537,7 @@ Outro dado curioso do levantamento é o nome Luiz com “z”, que é três veze
  \
 A pesquisa da proScore foi realizada com informações de seu banco de dados, que possui aproximadamente 165 milhões de CPF's capturados em todo o Brasil. Abaixo, segue a lista completa do levantamento.\
  \
+
 1. MARIA 13.356.965\
 2. JOSÉ 7.781.515\
 3. ANTONIO 3.550.752\
@@ -594,5 +588,5 @@ A pesquisa da proScore foi realizada com informações de seu banco de dados, qu
 48. LEANDRO 378.136\
 49. RAIMUNDA 372.672\
 50. MARIO 364.589\
- \
-stilo.uol.com.br/comportamento/ultimas-noticias/2011/11/28/maria-e-jose-sao-os-nomes-mais-comuns-no-brasil-veja-lista-com-os-50-mais-populares.htm
+     \
+    stilo.uol.com.br/comportamento/ultimas-noticias/2011/11/28/maria-e-jose-sao-os-nomes-mais-comuns-no-brasil-veja-lista-com-os-50-mais-populares.htm
