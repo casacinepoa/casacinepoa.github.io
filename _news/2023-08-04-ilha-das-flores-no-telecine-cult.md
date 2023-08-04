@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Ilha das Flores" no Telecine Cult'
+title: ILHAS DAS FLORES no Telecine Cult
 date: 2023-08-04 09:29:09
 ---
 ![](/uploads/ilhacerebro.png)
