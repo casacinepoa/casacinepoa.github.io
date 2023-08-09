@@ -9,8 +9,9 @@ details:
   - title: Créditos
     content: |-
       **Direção**: Esmir Filho
-
-      **Produção Executiva**: Nora Goulart\
+    
+      **Produção**: Nora Goulart, Diego Robino Picón
+      **Produção Executiva**: Nicky Klöpsch, Santiago Lopez e Thereza Menezes\
       **Roteiro**: Esmir Filho e Ismael Caneppele\
       **Direção de Fotografia**: Inti Briones\
       **Direção de Arte**: Mariana Urriza\
