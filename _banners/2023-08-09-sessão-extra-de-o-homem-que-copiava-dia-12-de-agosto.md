@@ -1,5 +1,5 @@
 ---
-date: 2023-08-09 17:25:19
+date: 2023-08-09 17:59:12
 image: /uploads/hqc-dinheiro.jpg
 title: O HOMEM QUE COPIAVA tem sessão extra no sábado 12 de agosto
 link: https://prefeitura.poa.br/smc/noticias/sessao-especial-e-projeto-raros-na-programacao-da-cinemateca
