@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Rasga coração" dia 16 na Sala Redenção da UFRGS '
+title: "RASGA CORAÇÃO dia 16 na Sala Redenção da UFRGS "
 date: 2023-08-10 14:53:52
 ---
 ![](/uploads/rasga-passeata.jpg)
