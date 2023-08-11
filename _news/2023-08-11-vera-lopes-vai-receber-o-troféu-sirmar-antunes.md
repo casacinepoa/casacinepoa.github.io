@@ -57,73 +57,73 @@ A Comissão de Jurados, formada por realizadores, jornalistas, críticos e profe
 Curtas selecionados para a mostra competitiva
 Os Curtas Gaúchos, classificados para a mostra competitiva de 2023 serão exibidos ao público nos dias 12 e 13 de agosto, à partir das 13 horas, no Palácio dos Festivais de Gramado
 
-As Ondas - Porto Alegre
+As Ondas - Porto Alegre\
 Direção: Leandro Engelke e Richard Tavares
 
-Aurora - Pelotas
+Aurora - Pelotas\
 Direção: Bruna Ueno
 
-Carcinização - Pelotas
+Carcinização - Pelotas\
 Direção: Denis Souza
 
-Centenário da Minha Bisa - Alvorada
+Centenário da Minha Bisa - Alvorada\
 Direção: Cristyelen Ambrozio
 
-Colapso Terra em Chamas - Porto Alegre
+Colapso Terra em Chamas - Porto Alegre\
 Direção: Lucas Tergolina e Matheus Melchionna
 
-Combustão Espontânea - Pelotas
+Combustão Espontânea - Pelotas\
 Direção: João Werlang e Pedro Bournoukian
 
-Concha de Água Doce - Porto Alegre
+Concha de Água Doce - Porto Alegre\
 Direção: Lau Azevedo e João Pires
 
-Concorso Internazionale - Porto Alegre
+Concorso Internazionale - Porto Alegre\
 Direção: Bruno de Oliveira
 
-Eu Tibano - Santa Cruz Do Sul
+Eu Tibano - Santa Cruz Do Sul\
 Direção: Diego Tafarel e Zé Corrêa
 
-Fiar O Vento - Porto Alegre
+Fiar O Vento - Porto Alegre\
 Direção: Mari Moraga
 
-Fitoterapia - Porto Alegre
+Fitoterapia - Porto Alegre\
 Direção: Eduardo Piotroski
 
-Flora - Porto Alegre
+Flora - Porto Alegre\
 Direção: Ana Moura
 
-Glênio - Santa Maria
+Glênio - Santa Maria\
 Direção: Luiz Alberto Cassol
 
-Livra-Me - Santa Cruz Do Sul
+Livra-Me - Santa Cruz Do Sul\
 Direção: Felipe da Fonseca Peroni
 
-Messi - Encantado
+Messi - Encantado\
 Direção: Henrique Lahude e Camila Acosta
 
-Meu Nome É Leco - Porto Alegre
+Meu Nome É Leco - Porto Alegre\
 Direção: Diana Mesquita e Marina Falkembach
 
-Nau - Porto Alegre
+Nau - Porto Alegre\
 Direção: Renata de Lélis
 
-O Tempo - Porto Alegre
+O Tempo - Porto Alegre\
 Direção: Ellen Correa
 
-Os Féders Vão Dormir - Esteio
+Os Féders Vão Dormir - Esteio\
 Direção: Eder Ramos
 
-Rasgão - Porto Alegre
+Rasgão - Porto Alegre\
 Direção: Victor Di Marco e Márcio Picoli
 
-Restaurante - Taquari
+Restaurante - Taquari\
 Direção: Leonardo da Rosa
 
-Sabão Líquido - Porto Alegre
+Sabão Líquido - Porto Alegre\
 Direção: Fernanda Reis e Gabriel Faccini
 
-Tremendo Trovão - Porto Alegre
+Tremendo Trovão - Porto Alegre\
 Direção: Rubens Fabricio Anzolin
 
 - - -
