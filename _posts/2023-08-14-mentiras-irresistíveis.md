@@ -37,7 +37,7 @@ O princípio básico do jornalismo é só publicar aquilo que se imagina ser ver
 
 xxx
 
-(1) http://www.casacinepoa.com.br/o-blog/jorge-furtado/folha-de-s-paulo-e-su...
+(1) <https://www.casacinepoa.com.br/blog/2010-06-23-a-folha-de-s-paulo-e-suas-manchetes-cretinas/>
 
 A "notícia" foi comentada aqui mesmo pela Liziane Kugland, em 25 de agosto de 2009:
 
