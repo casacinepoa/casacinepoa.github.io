@@ -2,7 +2,7 @@
 layout: post
 title: A bizarrice das leis anti-nepotistas
 author: jorge
-date: 2010-06-26 10:31:34
+date: 2023-08-14 10:38:24
 ---
 *por Jorge Furtado*\
 *em 25 de junho de 2010*
