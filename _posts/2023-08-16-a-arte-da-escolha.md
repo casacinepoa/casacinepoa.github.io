@@ -76,8 +76,8 @@ dor, fome, angústia, azar, algo ruim.\
 Não basta o "como" em verso ou prosa pronta.\
 Temer o tema é o medo que amedronta.
 
-No "Sonetário":
-<http://www.elsonfroes.com.br/sonetario/britto.htm>
+No "Sonetário":[\
+http://www.elsonfroes.com.br/sonetario/britto.htm](http://www.elsonfroes.com.br/sonetario/britto.htm)
 
 [](http://www.elsonfroes.com.br/sonetario/britto.htm)xxx
 
