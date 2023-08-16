@@ -264,6 +264,7 @@ collections:
       - label: Arquivo
         name: file
         widget: file
+        required: false
         media_library:
           config:
             allow_multiple: false
