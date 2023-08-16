@@ -58,7 +58,7 @@ Agora é Serra Presidente do Brasil
 
 [](http://joseserra.psdb.org.br/jingle-da-campanha)xxx
 
-Acréscimo em 22.08:10:
+Acréscimo em 22.08:10
 
 Maior crise de identidade vive o candidato a senador Arthur Virgilio, símbolo da oposição mais grosseira ao Lula, em quem prometeu dar "uma surra". Mudou completamente de nome, esqueceu o Virgilio e tirou a letra h do seu prenome, agora é apenas Artur.
 
