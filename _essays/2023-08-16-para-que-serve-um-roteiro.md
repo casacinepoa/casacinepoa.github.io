@@ -3,7 +3,7 @@ layout: post
 title: PARA QUE SERVE UM ROTEIRO
 author: casa
 category: Textos sobre Cinema
-file: https://giba.casacinepoa.com.br//pqserve.htm
+file: ""
 date: 1999-12-01 10:32:48
 ---
 OBSERVAÇÕES PARA A HISTÓRIA DE UM NÃO-GÊNERO LITERÁRIO\
