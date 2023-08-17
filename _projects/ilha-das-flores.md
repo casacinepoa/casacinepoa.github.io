@@ -161,12 +161,11 @@ details:
       <audio src="//casacinepoa.com.br/uploads/Ilha_das_flores.mp3" controls />
   - title: Veja mais
     content: >-
-      * [Roteiro
-      original](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-original.html)
+      * [Roteiro original](/uploads/ilha-das-flores-rot-orig.pdf) (01/12/1988)
 
-      * [Roteiro consolidado](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-consolidado.html)
+      * [Roteiro consolidado](/uploads/ilha-das-flores-rot-cons.pdf) (01/03/1989)
 
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/ilha-das-flores-texto-final.html)
+      * [Texto final em português](/uploads/ilha-das-flores-texto-final.pdf) (01/05/1989)
 
       * [Créditos completos](/filmes/ilha-das-flores/creditos-completos)
 original_path: /os-filmes/produção/curtas/ilha-das-flores.html
