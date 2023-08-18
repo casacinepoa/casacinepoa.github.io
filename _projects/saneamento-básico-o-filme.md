@@ -205,7 +205,7 @@ details:
       * [Roteiro - versão
       01/01/2005](/uploads/saneamento-basico-o-filme-rot.pdf)
 
-      * [Créditos completos](/saneamento-básico-o-filme/creditos-completos/)
+      * [Créditos completos](/saneamento-basico-o-filme/creditos-completos)
 original_path: /os-filmes/produção/longas/saneamento-básico-o-filme.html
 synopsis: Na pequena Linha Cristal, a comunidade se mobiliza para construir uma
   fossa no arroio e acabar com o mau cheiro. Marina, a líder do movimento,
