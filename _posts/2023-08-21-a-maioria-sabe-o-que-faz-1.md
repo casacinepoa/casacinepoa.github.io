@@ -2,7 +2,7 @@
 layout: post
 title: A maioria sabe o que faz
 author: jorge
-date: 2023-08-21 01:09:01
+date: 2010-10-04 01:09:01
 ---
 *por Jorge Furtado*\
 *em 04 de outubro de 2010*
