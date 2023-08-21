@@ -1,0 +1,57 @@
+---
+layout: post
+title: '"Terra sem mapa" volta no Teatro Glênio Peres dias 25 e 26 de agosto'
+date: 2023-08-21 16:55:39
+---
+![](/uploads/lubi-vrum.jpg)
+
+[TERRA SEM MAPA INTEGRA A PROGRAMAÇÃO DA VII MOSTRA DE ARTES CÊNICAS E MÚSICA DO TEATRO GLÊNIO PERES](https://www.picsphotopress.com/2023/08/20/terra-sem-mapa-integra-a-programacao-da-vii-mostra-de-artes-cenicas-e-musica-do-teatro-glenio-peres/)\
+Divulgação, 20/08/2023\
+\
+/ Projeto que estreou com temporada lotada no Zona Cultural e contou com apresentações no teatro do CHC Santa Casa celebra 45 anos de teatro e amizade de Mirna Spritzer e Sergio Lulkin. Apresentações gratuitas ocorrem nos dias 25 e 26 de agosto
+
+Quarenta e cinco anos de dedicação ao teatro e de amizade se celebram no palco, com duas apresentações nos dias 25 e 26 de agosto: Mirna Spritzer e Sergio Lulkin comemoram mais de quatro décadas de trajetória profissional iniciada no mesmo espaço, o Teatro de Arena de Porto Alegre, com Terra sem Mapa, que após estreia no Zona Cultural com temporada lotada em todas as sessões e apresentações no teatro do CHC Santa Casa, integra a programação da VII Mostra de Artes Cênicas e Música do Teatro Glênio Peres com entrada franca. Nesta criação autoral, reúnem-se por suas semelhanças artísticas e seus diferentes caminhos de formação para dar corpo a uma dupla que há muito se desenha: Vrum e Luba.
+
+Apaixonados por Teatro, Vrum e Luba resolvem fazer um espetáculo. Em cena, eles revivem lendas e casos e narram histórias de vida e de morte, de exílios e encontros, de casas deixadas para trás e de novos lares. Entre bênçãos e pragas, dançam as lembranças e miram as estrelas. Viajantes de um tempo imaginado perambulam pela terra sem mapa da Memória.
+
+"Esse universo de narrativas brota de fontes literárias sobre migrantes que aportam em novos mundos onde as pessoas buscam vida, alimento e futuro. Correm riscos, no limite da vida e da morte e desembocam na cena que é desenhada no espaço puro, denso de luz e sombra, e por textos diversos apropriados por dois tipos que habitam a memória familiar", contam Mirna e Sérgio. O espetáculo apresenta imagens advindas da memória, das palavras e dos corpos em desenho no espaço. Profundamente apoiado no trabalho da atriz e do ator em relação com a luz, a sombra, o silêncio e a música. Humor e melancolia se mostram no movimento e na pausa. E no vazio imenso e intenso do palco aberto ao jogo e à contracenação.
+
+Após o primeiro encontro, há 45 anos, a dupla de artistas cruzou por muitas vezes, em diversos âmbitos profissionais, ambos com experiências em diferentes linguagens como o teatro, o rádio, cinema e televisão. Estudantes do Departamento de Arte Dramática e Docentes da Universidade Federal do Rio Grande do Sul/UFRGS, onde também realizaram seu Doutoramento na área da Educação. Em Terra sem Mapa, reúnem-se para a criação autoral após a experiência desses personagens com teatro online e vídeo, decidem ancorar seus desejos artísticos no Estúdio Stravaganza, onde trabalharam com práticas diversas, jogos, dramaturgias e ensaios. Assim, após trabalhos com diferentes direções e meios, iniciam aqui uma nova trajetória onde são criadores artísticos da cena em que habitam.
+
+Mirna e Sérgio estiveram juntos nos filmes O Mercado de Notícias, direção de Jorge Furtado, Antes que o mundo acabe, direção de Ana Luiza Azevedo e no telefilme Doce de Mãe, direção de Jorge Furtado e Ana Luiza Azevedo para TV Globo, todas produções da Casa de Cinema de Porto Alegre. No teatro contracenaram no icônico O casamento do pequeno burguês, de Brecht, com direção de Irene Brietzke, em 1978. Mirna integrou o Teatro Vivo, sob direção de Irene Brietzke, de 1979 a 2001, Sergio integrou o grupo TEAR sob direção de Maria Helena Lopes, de 1980 a 2002.
+
+Terra sem Mapa conta com colaboração artística de Carlos Mõdinger, figurinos de Rõ Cortinhas, desenho de luz de Ricardo Vivian, música original de Gustavo Finkler, identidade visual de Leandro Selister e produção de Mirna, Lulkin e Renata Stein. O espetáculo estará em cartaz nos dias 25 e 26 de agosto, às 19h, com retirada de ingressos a partir do dia 22 de agosto de 2023 na Seção de Memorial da Câmara Municipal, das 9h às 18h e no sábado, somente 30 minutos antes do espetáculo, quando houver disponibilidade.
+
+**Saiba Mais**
+
+Sinopse: Apaixonados por Teatro, Vrum e Luba resolvem fazer um espetáculo. Em cena, eles revivem lendas e casos e narram histórias de vida e de morte, de exílios e encontros, de casas deixadas para trás e de novos lares. Entre bênçãos e pragas, dançam as lembranças e miram as estrelas. Viajantes de um tempo imaginado perambulam pela terra sem mapa da Memória.
+
+**SERVIÇO**:
+
+* O que: TERRA SEM MAPA NA VII MOSTRA DE ARTES CÊNICAS E MÚSICA DO TEATRO GLÊNIO PERES
+* Dias: 25 e 26 de agosto, 19h
+* Local: Teatro Glênio Peres - Av. Loureiro da Silva, 255 - Câmara Municipal de Porto Alegre
+* Entrada franca - retirada de ingressos a partir do dia 22 de agosto de 2023 na Seção de Memorial da Câmara Municipal, das 9h às 18h e no sábado, somente 30 minutos antes do espetáculo, quando houver disponibilidade
+* Duração: 55 minutos
+* Classificação: Livre
+
+**Ficha Técnica:**
+
+Criação e Atuação: Mirna Spritzer e Sergio Lulkin\
+Colaboração Artística: Carlos Modinger\
+Figurino: Rô Cortinhas\
+Iluminação: Ricardo Vivian\
+Operação de luz: Ricardo Vivian e Fabi Santos\
+Trilha sonora original: Gustavo Finkler\
+Operação de som: Luiz Manoel e Fabi Santos\
+Identidade Visual: Leandro Selister\
+Fotografia: Adriana Marchiori\
+Assessoria de imprensa: Bruna Paulin - Assessoria de Flor em Flor\
+Produção: Mirna Spritzer, Renata Stein e Sergio Lulkin
+
+**Mirna Spritzer**: Atriz, professora e radialista. Pesquisadora das vozes, escutas e paisagens sonoras nas Artes Cênicas e Radiofônicas. Bacharela em Interpretação, Mestre e Doutora em Educação pela UFRGS. Professora aposentada do DAD e PPGAC, UFRGS. Seus trabalhos mais recentes são, no cinema, Ana, Sem Título, com direção de Lúcia Murat, da Taiga Filmes. Aos olhos de Ernesto, com direção de Ana Luiza Azevedo, da Casa de Cinema de Porto Alegre, YONLU, com direção de Hique Montanari, da Container e Prana Filmes. No teatro, Expresso Paraíso, de Thomas Kock, direção de Maurício Casiraghi, pela ATO Cia Cênica e A Comédia dos Erros, de William Shakespeare, direção de Adriane Mottola, com a Cia Stravaganza. Cidade Proibida, Cena Urbana com direção de Patrícia Fagundes para Cia Rústica de Teatro. Língua Mãe. Mameloschn de Mariana Salzmann, direção de Mirah Laline, Troféu Braskem de Melhor Atriz, no 22º Festival Internacional Porto Alegre em Cena e Prêmio Açorianos de Melhor Espetáculo. Na televisão, Doce de Mãe, realização da Rede Globo de Televisão e Casa de Cinema de Porto Alegre, direção de Jorge Furtado e Ana Luiza Azevedo. E Fantasias de uma Dona de Casa, realização da RBS TV e Casa de Cinema de Porto Alegre, com direção de Ana Luiza Azevedo, série com duas temporadas. Participou com Sergio Lulkin do vídeo Lubi e Vrum no Clube de Esquina apresentado no show on-line SOS Ocidente, em 2021. Participou como atriz do Projeto Quartas Dramáticas, realização da Ato Cia Cênica, Cia Indeterminada e Cia Stravaganza, com a leitura de Lesões incompatíveis com a vida, de Angélica Lidell, direção de Paulo Roberto Farias, e Os Cegos de Michel de Ghelderode, onde foi também diretora, E ainda, Tudo nasce de uma ferida íntima, espetáculo multimídia dentro do Festival Kino Beat e Sarau Deslocamentos, espetáculo cênico - musical dentro do Projeto Unirnúsica UFRGS, com direção de Miriam Amaral e Carla Joner, em ambos como atriz e roteirista. Foi criadora, apresentadora e produtora do Programa RADIOTEATRO na Rádio FM Cultura de Porto Alegre, 10 anos no ar. Premiada no Edital NOSSA ONDA do Minc e da Cinemateca Brasileira para peças radiofônicas, com a peça Radiofônica Guarda-Roupa. Participou como atriz do podcast O amor que horror, dentro do 28º Festival Internacional Porto Alegre Em Cena. E ainda, A história do Disco, de Bruna Paulin e Submersa, de Camila Prato, dentro do Festival Kino Beat 2019. Também do projeto acústico P.S. Palavras que entrego a ti, de Danuta Zaghetto. E o episódio Das peças radiofônicas, no podcast RESPIRA CULTURA da UFRGS. Produz o perfil Coisas pra dizer em voz alta, no Instagram. Fez a leitura vocalizada de A Caverna, com a presença de José Saramago, no lançamento da obra em Porto Alegre, em 2000. Duas vezes premiada com o Troféu Açorianos e uma com o Prêmio Quero Quero, todos de Melhor Atriz. Compôs com Irene Brietzke, Denize Barella e Antonio Carlos Brunet, o TEATRO VIVO, grupo que marcou a história do teatro no Rio Grande do Sul com espetáculos como Salão Grená, Mahagonny, No Natal a gente vem te buscar e Peer Gynt, o imperador de si mesmo, entre outros. Publicou os livros Bem Lembrado, memórias do radioteatro em Porto Alegre, com Raquel Grabauska pela Editora AGE e A formação do Ator, um diálogo de ações, pela Editora Mediação, em sétima edição. E ainda, capítulos de livros e artigos publicados em vários periódicos, em especial A poética da escuta, na Revista Voz e Cena, em <https://periodicos.unb.br/index.php/vozecena/article/view/31599/26378>
+
+**Sergio Lulkin**: Ator, bacharel em Artes Cênicas pelo Instituto de Artes da Universidade Federal do Rio Grande do Sul (1983). Mestre em Educação (2001) e Doutor em Educação (2007) pela Universidade Federal do Rio Grande do Sul, e professor aposentado pela mesma Universidade e mantém atividades de formação e criação nas áreas de Educação e Teatro. Atua desde 1977, tendo integrado o Grêmio Dramático Açores do Teatro de Arena e, posteriormente, atuou em O Casamento do Pequeno Burguês de Bertolt Brecht, primeira montagem, com direção de Irene Brietzke; atuou em outros espetáculos sob direção de Roberto Ruas, Suzana Saldanha e Luiz Arthur Nunes. Integrou o grupo TEAR de 1980 a 2002, sob a direção de Maria Helena Lopes, tendo participado de espetáculos com destaque como Quem Manda na Banda (Prêmio Tibicuera de Melhor Ator, 1981), Os Reis Vagabundos, Crônica da Cidade Pequena e O império da Cobiça. Em 2001, com o espetáculo Solos em Cena, com direção de Maria Helena Lopes, ganhou o prêmio Açorianos de Melhor Ator. Atuou em diversos filmes de curta e longa metragem, tendo participado de Saneamento Básico, com direção de Jorge Furtado, em 2007. Participou do longa-metragem Antes que o mundo acabe (2010), com direção de Ana Luiza Azevedo. De 2008 a 2010 atuou no espetáculo O bairro, dirigido por Marco Fronchetti. Em 2012 e 2013 participou do Telefilme e da série de TV Doce de Mãe, produção Casa de Cinema e TV Globo. Em 2013 integrou o elenco do filme O mercado de notícias, documentário de longa metragem com direção de Jorge Furtado. De 2016 a 2019 apresentou o espetáculo El Juego de Antonia, em parceria com Luciana Paz e direção de Andre Carreira. Entre 2020 e 2022 seguiu diversos cursos de formação em Clown, Canto para o Teatro, Experimentos de Zoom para o Teatro, Experimentos em Audiovisual, ofertados em plataformas digitais. Nesse mesmo período, com direção e roteiro de Marco Fronchetti, a partir da obra "O torcicologologista" de Gonçalo Tavares, participou de Excelências, Experimento Zoom I e II, apresentados pelo Youtube e pela Fundarte de Montenegro, RS. Em 2021, atua com Mirna Spritzer em Lubi e Vrum no Clube de Esquina, vídeo apresentado no show on-line SOS Ocidente.
+
+Assessoria de Imprensa: Bruna Paulin - Assessoria de Flor em Flor\
+Crédito da Foto: Renata Stein
