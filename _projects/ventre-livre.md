@@ -97,8 +97,8 @@ details:
       <audio src="//casacinepoa.com.br/uploads/ventre_livre.mp3" controls />
   - title: Veja mais
     content: |-
-      * [Pré-roteiro](/uploads/ventre-livre-pre-rot)
-      * [Roteiro de montagem](/uploads/ventre-livre-rot)
+      * [Pré-roteiro](/uploads/ventre-livre-pre-rot.pdf)
+      * [Roteiro de montagem](/uploads/ventre-livre-rot.pdf)
       * [Créditos completos](/filmes/ventre-livre/creditos-completos)
 original_path: /os-filmes/produção/documentários/ventre-livre.html
 synopsis: >
