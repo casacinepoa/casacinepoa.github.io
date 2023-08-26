@@ -84,12 +84,8 @@ details:
 
       <audio src="//casacinepoa.com.br/uploads/O_Sanduiche.mp3" controls />
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/o-sanduiche-download.html)
-
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/o-sanduíche/fotos-de-cena.html)[](/uploads/O_Sanduiche.mp3)
-
+    content: |-
+      * [Roteiro](/uploads/o-sanduiche-rot.pdf)[](/uploads/O_Sanduiche.mp3)
       * [Créditos completos](http://www.casacinepoa.com.br/node/477)
 original_path: /os-filmes/produção/curtas/o-sanduíche.html
 ---
