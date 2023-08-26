@@ -33,7 +33,7 @@ details:
   - title: Veja mais
     content: >-
       *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/quintana-e-musas.html)[](/uploads/Quintana_e_as_musas.mp3)
+      [Roteiro](/uploads/quintana-e-as-musas-rot.pdf)[](/uploads/Quintana_e_as_musas.mp3)
 
       * [Créditos completos](/filmes/quintana-e-as-musas/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/quintana-e-musas.html
