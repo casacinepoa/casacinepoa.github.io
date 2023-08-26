@@ -41,8 +41,7 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub.html)
+      * [Roteiro](/uploads/rummikub-rot.pdf)
 
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub-texto-final.html)[](/uploads/Rummikub.mp3)
 
