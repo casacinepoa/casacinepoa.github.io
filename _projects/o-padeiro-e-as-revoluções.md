@@ -28,8 +28,7 @@ details:
       Adriano Basegio (cabo)
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-padeiro-e-revoluções.html)
+      * [Roteiro](/uploads/o-padeiro-e-as-revolucoes-rot.pdf)
 
       * [Créditos completos](/filmes/o-padeiro-e-as-revoluções/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/o-padeiro-e-revoluções.html
