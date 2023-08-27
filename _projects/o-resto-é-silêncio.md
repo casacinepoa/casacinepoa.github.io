@@ -44,7 +44,7 @@ details:
   - title: Veja mais
     content: >-
       *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-resto-é-silêncio.html)[](/uploads/O_Resto_e_silencio.mp3)
+      [Roteiro](/uploads/o-resto-eh-silencio-rot.pdf)[](/uploads/O_Resto_e_silencio.mp3)
 
       * [Créditos completos](/filmes/o-resto-é-silêncio/creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/o-resto-é-silêncio.html
