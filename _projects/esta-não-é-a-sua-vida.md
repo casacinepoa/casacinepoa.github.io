@@ -66,12 +66,9 @@ details:
 
       (Revista Veja)
   - title: Veja mais
-    content: >-
-      *
-      [Pré-roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/esta-não-é-sua-vida-pré-roteiro.html)
-
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/esta-não-é-sua-vida-texto-final.html)
-
+    content: |-
+      * [Pré-roteiro](/uploads/esta-nao-eh-a-sua-vida-rot.pdf)
+      * [Texto final](/uploads/esta-nao-eh-a-sua-vida-txf.pdf)
       * [Créditos completos](/filmes/esta-não-é-a-sua-vida/creditos-completos)
 original_path: /os-filmes/produção/documentários/esta-não-é-sua-vida.html
 ---
