@@ -75,8 +75,7 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/meia-encarnada-dura-de-sangue.html)
+      * [Roteiro](/uploads/meia-encarnada-dura-de-sangue-rot.pdf)
 
       * [Créditos completos](/filmes/meia-encarnada-dura-de-sangue/creditos-completos)[](/uploads/Meia_encarnada-.mp3)
 original_path: /os-filmes/realização/episódios-de-tv/meia-encarnada-dura-de-sangue.html
