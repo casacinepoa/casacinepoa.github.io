@@ -82,8 +82,7 @@ details:
       <audio src="//casacinepoa.com.br/uploads/Angelo_anda_sumido.mp3" controls />
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/angelo-anda-sumido.html)
+      * [Roteiro](/uploads/angelo-anda-sumido-rot.pdf)
 
       * [Créditos completos](http://www.casacinepoa.com.br/node/490)[](/uploads/Angelo_anda_sumido.mp3)
 original_path: /os-filmes/produção/curtas/angelo-anda-sumido.html
