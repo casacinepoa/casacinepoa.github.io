@@ -38,8 +38,7 @@ details:
       (Kátia Suman, ABC Domingo, 11/03/2001)
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/em-frente-da-lei-tem-um-guarda.html)
+      * [Roteiro](/uploads/em-frente-da-lei-rot.pdf)
 
       * [Créditos completos](/filmes/em-frente-da-lei-tem-um-guarda/creditos-completos)
 original_path: /os-filmes/realização/vídeos/em-frente-da-lei-tem-um-guarda.html
