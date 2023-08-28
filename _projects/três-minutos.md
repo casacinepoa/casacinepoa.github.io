@@ -86,15 +86,11 @@ details:
       <audio src="//casacinepoa.com.br/uploads/Tres_minutos.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/três-minutos.html)
-
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/três-minutos/fotos-de-cena.html)
-
-      * [Cannes 2000](https://www.casacinepoa.com.br/os-filmes/produção/curtas/três-minutos/cannes2000.html)[](/uploads/Tres_minutos.mp3)
-
-      * [Créditos completos](http://www.casacinepoa.com.br/node/481)
+    content: |-
+      \- [Roteiro de 1993](/uploads/tres-minutos-rot1.pdf)\
+      - [Roteiro de 1998](/uploads/tres-minutos-rot2.pdf)\
+      - Cannes 2000\
+      - Créditos completos
 original_path: /os-filmes/produção/curtas/três-minutos.html
 ---
 Três minutos. O tempo de passar o bastão e correr 1600 metros. De cozinhar um ovo. O tempo de tomar uma decisão que pode mudar a sua vida, antes que caia a ficha.
