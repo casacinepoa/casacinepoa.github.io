@@ -4,11 +4,11 @@ title: A sua causa
 author: giba
 date: 2007-02-06 15:17:12
 ---
-G﻿Iba Assis Brasil\
-(﻿originalmente publicado no Terra Magazine)\
-06/02/2007
+*G﻿Iba Assis Brasil*\
+*(﻿originalmente publicado no Terra Magazine)*\
+*06/02/2007*
 
-Aibofobia é um neologismo em várias línguas. Já tem 987 ocorrências no Google, em italiano, espanhol, inglês, português, finalndês, francês e mais alguns idiomas que eu não consegui identificar. Significa, ou deveria significar, "medo mórbido de palíndromos", se o Houaiss ou o Aurélio estivessem atentos para o assunto. Não, não há nenhum surto de aibofobia em qualquer canto do mundo, que eu saiba. Pensando bem, eu nunca ouvi falar de uma única pessoa que apresentasse este sintoma. Ainda assim, a palavra se espalha por aí, mais uma vez comprovando que "no princípio era o verbo", o sentido veio depois, aos poucos.
+Aibofobia é um neologismo em várias línguas. Já tem 987 ocorrências no Google, em italiano, espanhol, inglês, português, finalndês, francês e mais alguns idiomas que eu não consegui identificar. Significa, ou deveria significar, "medo mórbido de palíndromos", se o Houaiss ou o Aurélio estivessem atentos para o as sunto. Não, não há nenhum surto de aibofobia em qualquer canto do mundo, que eu saiba. Pensando bem, eu nunca ouvi falar de uma única pessoa que apresentasse este sintoma. Ainda assim, a palavra se espalha por aí, mais uma vez comprovando que "no princípio era o verbo", o sentido veio depois, aos poucos.
 
 Aibo não significa palíndromo, nem em grego nem em latim. Aiba, me conta o Houaiss, é "coisa estragada ou azeda" em tupi-guarani, mas certamente não é essa a origem do termo. Aibofobia é aversão a palavras que podem ser lidas ao contrário, sim, mas por um motivo mais simples que qualquer etimologia: a própria palavra é um palíndromo, caso não tão raro assim de diagnóstico que esconde a doença.
 
@@ -26,12 +26,12 @@ Como, ao contrário do Laerte, eu não consigo desenhar nem mesmo uma vaca tossi
 
 Por exemplo.
 
-No abafado verão de Verona, o amante declara que sua amada é tão bela que o próprio céu morreria por ela. E Julieta reclama: Ar, Romeu, que calor! Eu quero lá céu que morra?
+No abafado verão de Verona, o amante declara que sua amada é tão bela que o próprio céu morreria por ela. E Julieta reclama: **Ar, Romeu, que calor! Eu quero lá céu que morra?**
 
-Economistas selenitas discutem na academia os motivos de sua dependência externa: aula da dívida da lua.
+Economistas selenitas discutem na academia os motivos de sua dependência externa: **aula da dívida da lua.**
 
-Um menino perdido, tentando encontrar algum parente no meio da multidão: Oi, tu é meu tio?
+Um menino perdido, tentando encontrar algum parente no meio da multidão: **Oi, tu é meu tio?**
 
-A figurinista da nossa maior roqueira, depois de revirar o baú, encontra o tecido certo para a sua próxima criação: E ela tira daí a saia da Rita Lee.
+A figurinista da nossa maior roqueira, depois de revirar o baú, encontra o tecido certo para a sua próxima criação: **E ela tira daí a saia da Rita Lee.**
 
-E para terminar: num encontro de palindromistas (ou de poetas, ou de piadistas), o mais experiente tenta convencer um novato tímido a participar: Adorar palavras, usar: vá lá pra roda!
+E para terminar: num encontro de palindromistas (ou de poetas, ou de piadistas), o mais experiente tenta convencer um novato tímido a participar: **Adorar palavras, usar: vá lá pra roda!**
