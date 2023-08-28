@@ -109,7 +109,9 @@ details:
       ([Maria do Rosário Caetano](http://revistadecinema.com.br/2018/12/jorge-furtado-volta-a-ficcao-com-rasga-coracao/), Revista de Cinema, 06/12/2018)
     title: Crítica
   - title: Veja mais
-    content: "* [Créditos completos](/filmes/rasga-coração/creditos-completos/)"
+    content: |-
+      * [Créditos completos](/filmes/rasga-coração/creditos-completos/)
+      * [R﻿oteiro](/uploads/rasga-coracao-rot.pdf)
 original_path: /os-filmes/longas/rasga-coracao.html
 synopsis: "Custódio Manhães é um funcionário público de meia idade que continua
   pensando como o militante político que foi na juventude, quando era conhecido
