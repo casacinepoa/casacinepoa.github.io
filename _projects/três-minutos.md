@@ -87,10 +87,10 @@ details:
     title: Tema musical
   - title: Veja mais
     content: |-
-      \- [Roteiro de 1993](/uploads/tres-minutos-rot1.pdf)\
-      - [Roteiro de 1998](/uploads/tres-minutos-rot2.pdf)\
-      - Cannes 2000\
-      - Créditos completos
+      [Roteiro de 1993](/uploads/tres-minutos-rot1.pdf)\
+      [Roteiro de 1998](/uploads/tres-minutos-rot2.pdf)\
+      Cannes 2000\
+      Créditos completos
 original_path: /os-filmes/produção/curtas/três-minutos.html
 ---
 Três minutos. O tempo de passar o bastão e correr 1600 metros. De cozinhar um ovo. O tempo de tomar uma decisão que pode mudar a sua vida, antes que caia a ficha.
