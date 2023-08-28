@@ -128,10 +128,7 @@ details:
       <audio src="//nova.casacinepoa.com.br/uploads/dona-cristina.mp3" controls />
   - title: Veja mais
     content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/dona-cristina-perdeu-memória.html)
-
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/dona-cristina-perdeu-memória/fotos-de-cena.html)
+      * [Roteiro](/uploads/dona-cristina-perdeu-a-memoria-rot.pdf)
 
       * [Créditos completos](/filmes/dona-cristina-perdeu-a-memória/creditos-completos)
 original_path: /os-filmes/produção/curtas/dona-cristina-perdeu-memória.html
