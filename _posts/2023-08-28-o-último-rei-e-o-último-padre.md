@@ -38,4 +38,4 @@ Quanto aos iluministas, eu prefiro ficar com outra frase de Voltaire, sem tripas
 
 - - -
 
-*Bem feito pra mim: poucos dias depois que publiquei esse texto, um leitor do Terra Magazine (infelizmente perdi o nome dele) veio me lembrar que a "frase de Voltaire" citada no final na verdade não é de Voltaire, mas de sua biógrafa inglesa Evelyn Beatrice Hall, no livro "The friends of Voltaire", publicado em 1906 sob o pseudônimo de S. G. Tallentyre. Pior do que acreditar no Google é confiar demais na própria memória.*
+*Bem feito pra mim: poucos dias depois que publiquei esse texto, um leitor do Terra Magazine (infelizmente perdi o nome dele) veio me esclarecer que a "frase de Voltaire" citada no final na verdade não é de Voltaire, mas de sua biógrafa inglesa Evelyn Beatrice Hall, no livro "The friends of Voltaire", publicado em 1906 sob o pseudônimo de S. G. Tallentyre. Pior do que acreditar no Google é confiar demais no que a gente pensa que sabe.*
