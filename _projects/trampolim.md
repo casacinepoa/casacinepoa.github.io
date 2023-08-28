@@ -42,12 +42,8 @@ details:
       <audio src="//casacinepoa.com.br/uploads/Trampolim.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/trampolim.html)
-
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/curtas/trampolim/fotos-de-cena.html)[](/uploads/Trampolim.mp3)
-
+    content: |-
+      * [Roteiro](/uploads/trampolim-rot.pdf)[](/uploads/trampolim-rot.pdf)
       * [Créditos completos](http://www.casacinepoa.com.br/node/484)
 original_path: /os-filmes/produção/curtas/trampolim.html
 ---
