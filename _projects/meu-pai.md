@@ -12,34 +12,19 @@ details:
       **Direção:** Ana Luiza Azevedo 
 
       **Produção Executiva:** Nora Goulart\
-      **Roteiro:** Ana Luiza Azevedo e Marcio Schoenardie
-
-      **Direção de Fotografia:** Alex Sernambi
-
-      **Direção de arte:** Gert Seewald
-
-      **Montagem:** Giba Assis Brasil
-
-      **Desenho de som:** Tiago Bello
-
+      **Roteiro:** Ana Luiza Azevedo e Marcio Schoenardie\
+      **Direção de Fotografia:** Alex Sernambi\
+      **Direção de arte:** Gert Seewald\
+      **Montagem:** Giba Assis Brasil\
+      **Desenho de som:** Tiago Bello\
       **Música:** Maurício Nader
 
-       
-
-      **Uma Produção da Casa de Cinema PoA**
-
+      **Uma Produção da Casa de Cinema PoA**\
       **Coprodução:** Canal Futura
 
-       
-
-      **Elenco**
-
-       
-
-      Felipe de Paula (pai)
-
-      Ursula Collischonn (mãe)
-
+      **Elenco**\
+      Felipe de Paula (pai)\
+      Ursula Collischonn (mãe)\
       Gustavo Castro (Alvaro)\
       Jussara Moraes (avó)\
       Nelson Diniz (Dr. Wagner)\
