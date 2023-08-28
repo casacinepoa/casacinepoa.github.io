@@ -73,10 +73,8 @@ details:
       <audio src="//casacinepoa.com.br/uploads/A_Matadeira.mp3" controls />
     title: Tema muscial
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/matadeira.html)[](/uploads/A_Matadeira.mp3)
-
+    content: |-
+      * [Roteiro](/uploads/a-matadeira-rot.pdf)[](/uploads/A_Matadeira.mp3)
       * [Créditos completos](/filmes/a-matadeira/creditos-completos)
 original_path: /os-filmes/produção/documentários/matadeira.html
 ---
