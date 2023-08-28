@@ -71,12 +71,9 @@ details:
 
       (Luiz César Cozzatti, ZERO HORA, Porto Alegre, 08/05/83)
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/inverno-texto-inicial.html)
-
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/inverno-texto-final.html)
-
+    content: |-
+      * [Roteiro](/uploads/inverno-rot.pdf)
+      * [Texto final](/uploads/inverno-txf.pdf)
       * [Créditos completos](http://www.casacinepoa.com.br/node/572)
 original_path: /os-filmes/distribuição/longas/inverno.html
 ---
