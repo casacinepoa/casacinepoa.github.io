@@ -35,3 +35,7 @@ Seja como for, a frase seguiu seu rumo, às vezes usada para justificar assassin
 Uma das muitas e criativas pixações de maio de 1968 em Paris propunha uma variação interessente para o desejo de Meslier: "E depois de estrangular o último burocrata nas tripas do último sociólogo, ainda teremos problemas?" ("Lorsque nous aurons étranglé le dernier bureaucrate avec les tripes du dernier sociologue, aurons-nous encore des problèmes?")
 
 Quanto aos iluministas, eu prefiro ficar com outra frase de Voltaire, sem tripas, sem enforcamentos, sem mísseis: "Não concordo com uma palavra do que dizes, mas defenderei até a morte o teu direito de dizê-lo." É só estar preparado para ouvir (e ler) muita bobagem.
+
+- - -
+
+*Bem feito pra mim: poucos dias depois que publiquei esse texto, um leitor do Terra Magazine (infelizmente perdi o nome dele) veio me lembrar que a "frase de Voltaire" citada no final na verdade não é de Voltaire, mas de sua biógrafa inglesa Evelyn Beatrice Hall, no livro "The friends of Voltaire", publicado em 1906 sob o pseudônimo de S. G. Tallentyre. Pior do que acreditar no Google é confiar demais na própria memória.*
