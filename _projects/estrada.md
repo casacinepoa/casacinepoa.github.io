@@ -56,10 +56,8 @@ details:
 
       (Revista Veja, 20/09/1995)
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/felicidade-é-estrada.html)
-
+    content: |-
+      * [Roteiro](/uploads/estrada-rot.pdf)
       * [Créditos completos](http://www.casacinepoa.com.br/node/496)
 original_path: /os-filmes/produção/curtas/felicidade-é-estrada.html
 ---
