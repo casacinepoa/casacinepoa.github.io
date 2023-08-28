@@ -59,11 +59,11 @@ details:
 
       ([Alexandre Rodrigues](https://gauchazh.clicrbs.com.br/porto-alegre/noticia/2016/06/alexandre-rodrigues-ilusoes-perdidas-6041154.html), Zero Hora, 18/06/2016)
   - title: Veja mais
-    content: >-
+    content: |-
       * Roteiros:
 
-        * [1º tratamento (longa)](https://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-longa.html)
-        * [6º tratamento (episódio)](https://www.casacinepoa.com.br/os-filmes/roteiros/anchietanos-episódio.html)
+        * [1º tratamento (longa)](/uploads/anchietanos-rot1.pdf)
+        * [5º tratamento (episódio)](/uploads/anchietanos-rot2.pdf)
       * [Créditos completos](creditos-completos)
 original_path: /os-filmes/realização/episódios-de-tv/anchietanos.html
 ---
