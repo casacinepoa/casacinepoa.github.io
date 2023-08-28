@@ -30,9 +30,11 @@ details:
       Nelson Diniz (Dr. Wagner)\
       Arieli G. Mendes (Bruna)
   - title: Veja mais
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/curtas/meu-pai/meu-pa\
-      i-créditos.html)"
+    content: >-
+      * [Créditos
+      completos](https://www.casacinepoa.com.br/os-filmes/curtas/meu-pai/meu-pai-créditos.html)
+
+      * [R﻿oteiro](/uploads/meu-pai-rot.pdf)
 original_path: /os-filmes/distribuição/curtas/meu-pai
 ---
 Álvaro, tem 12 anos, é filho único de pais separados. Está numa fase de muitas dúvidas e inquietações. Quer crescer logo, mas será que o pai dele também demorou para crescer? Como será que o pai fazia com as meninas? É difícil perguntar, o pai de Alvaro tem um jeito estranho de dizer as coisas.
