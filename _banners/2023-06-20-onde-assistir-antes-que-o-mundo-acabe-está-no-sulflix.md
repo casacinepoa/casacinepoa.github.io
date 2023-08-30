@@ -1,5 +1,5 @@
 ---
-date: 2023-06-20 20:04:13
+date: 2023-08-30 17:21:59
 image: /uploads/aqma-trio.jpg
 title: 'ONDE ASSISTIR: "Antes que o mundo acabe" está no Sulflix'
 link: https://sulflix.com.br/app/longas/antes-que-o-mundo-acabe
