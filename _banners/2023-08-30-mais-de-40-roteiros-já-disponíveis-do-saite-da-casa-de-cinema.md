@@ -1,5 +1,5 @@
 ---
-date: 2023-08-30 17:16:56
+date: 2023-08-30 17:24:08
 image: /uploads/jorge-roteiros.jpg
 title: Mais de 40 roteiros já disponíveis do saite da Casa de Cinema
 link: https://www.casacinepoa.com.br/textos/roteiros/
