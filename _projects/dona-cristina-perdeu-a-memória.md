@@ -125,7 +125,7 @@ details:
       "Tema de encerramento", por Gustavo Finkler
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/dona-cristina.mp3" controls />
+      <audio src="https://www.casacinepoa.com.br/uploads/dona-cristina.mp3" controls />
   - title: Veja mais
     content: >-
       * [Roteiro](/uploads/dona-cristina-perdeu-a-memoria-rot.pdf)
