@@ -27,9 +27,9 @@ Para ouvir:
 
 xxx
 
-Sobre Geraldo Flach, no Dicionário Cravo Albin:\
-<http://www.dicionariompb.com.br/geraldo-flach>
+Sobre Geraldo Flach, no Dicionário Cravo Albin\
+<https://dicionariompb.com.br/artista/geraldo-flach/>
 
-xxx
+[](https://dicionariompb.com.br/artista/geraldo-flach/)xxx
 
 (1) O Giba lembra do Sergio Amon ter sugerido o Guarany, acho que foi isso mesmo. O Geraldo compôs outra trilha para o filme, que não foi usada. Alô Giba: que tal botar no nosso site todas as trilhas que o Geraldo fez para os nossos filmes?
