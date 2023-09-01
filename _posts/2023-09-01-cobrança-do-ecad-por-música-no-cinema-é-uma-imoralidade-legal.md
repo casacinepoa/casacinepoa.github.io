@@ -527,10 +527,12 @@ RIO - A fraude no Escritório Central de Arrecadação e Distribuição (Ecad) d
 
 xxx
 
-**[ECAD REPASSOU QUASE R$ 130 MIL PARA FALSÁRIO POR AUTORIA DE TRILHAS SONORASA](http://tinyurl.com/3hx3883)**\
-**ENTRE OS LESADOS ESTÃO SÉRGIO RICARDO E CAETANO VELOSO**\
+**[](http://tinyurl.com/3hx3883)[ECAD REPASSOU QUASE R$ 130 MIL PARA FALSÁRIO POR AUTORIA DE TRILHAS SONORA](http://tinyurl.com/3hx3883)**\
 André Miranda\
-O Globo, 25/04/2011\
+O Globo, 25/04/2011
+
+/ Entre os lesados estão Sérgio Ricardo e Caetano Veloso\
+\
 Ninguém no Brasil ouviu falar em Milton Coitinho dos Santos, mas, de acordo com o sistema de músicas do Escritório Central de Arrecadação de Direitos (Ecad), ele deveria ser um dos mais prolíferos e conhecidos autores de trilhas sonoras para cinema de que se tem notícia. Suas composições viriam de clássicos dos anos 1960 até comédias recentes deste século. Ele teria trabalhado com Glauber Rocha, José Mojica Marins e Anselmo Duarte. E, por essas supostas trilhas, foi recompensado. Em 2009, Coitinho recebeu R$ 33.364,87 de direitos autorais do Ecad. Em 2010, foram R$ 94.453,42. No total, o escritório pagou ao "compositor" R$ 127,8 mil pelas exibições de 24 filmes nos últimos dois anos.
 
 Só que Coitinho, na realidade, foi o autor de outro tipo de obra: ele representa a maior fraude já descoberta dentro do sistema de distribuição de direitos autorais do Ecad.
