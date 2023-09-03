@@ -3,7 +3,7 @@ title: O dia em que Dorival encarou a guarda
 tech_specs:
   - (35 mm, 14 min, cor, 1986)
   - (janela 1.33, som óptico mono)
-category: Curtas-metragens
+category: Origens
 image: /uploads/doriv-imgr.jpg
 image_credits: "Foto por Christian Lesage: João Acaiabe"
 details:
