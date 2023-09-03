@@ -36,7 +36,7 @@ details:
   - title: Veja mais
     content: >-
       *
-      [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/sexo-beethoven-o-reencontro)[](/uploads/Sexo_e_Beethoven-.mp3)
+      [Roteiro](/uploads/sexo-e-beethoven-rot.pdf)[](/uploads/Sexo_e_Beethoven-.mp3)
 
       * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/produção/curtas/sexo-beethoven-o-reencontro-créditos-completos.html)
 original_path: /os-filmes/produção/curtas/sexo-beethoven-o-reencontro.html
