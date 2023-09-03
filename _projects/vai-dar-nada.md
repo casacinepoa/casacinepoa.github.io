@@ -54,7 +54,9 @@ details:
 
       Fernanda Teixeira (Neide)
   - title: Veja mais
-    content: \-﻿ [Roteiro](/uploads/vai-dar-nada-rot.pdf)
+    content: |-
+      \-﻿ [Roteiro](/uploads/vai-dar-nada-rot.pdf)\
+      -﻿ [Créditos completos](/filmes/vai-dar-nada/creditos-completos/)
   - title: Crítica
     content: >-
       "A produção original da Paramount é um acerto ao entregar algo que é
