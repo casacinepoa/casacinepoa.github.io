@@ -204,18 +204,10 @@ details:
       <audio src="//casacinepoa.com.br/uploads/tolerancia.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: >-
+    content: |-
       * [Créditos completos](/filmes/tolerância/creditos-completos)
-
-      * [Material de imprensa](https://www.casacinepoa.com.br/filmes/tolerancia/imprensa.htm)
-
-      * [Diário de filmagem](https://www.casacinepoa.com.br/filmes/tolerancia/diario.htm)
-
-      * [Fotos de cena](https://www.casacinepoa.com.br/os-filmes/produção/longas/tolerância/fotos-de-cena.html)
-
-      * [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/tolerância-texto-inicial.html)
-
-      * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/tolerância-texto-final.html)[](/uploads/tolerancia.mp3)
+      * [Roteiro](/uploads/tolerancia-rot)
+      * Texto final[](/uploads/tolerancia.mp3)
 original_path: /os-filmes/produção/longas/tolerância.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
