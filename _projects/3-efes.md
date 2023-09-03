@@ -92,7 +92,7 @@ details:
   - title: Veja mais
     content: |-
       * [C﻿réditos completos](/filmes/3-efes/creditos-completos)
-      * [R﻿oteiro](/uploads/tres-efes-rot)
+      * [R﻿oteiro](/uploads/tres-efes-rot.pdf)
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
