@@ -206,7 +206,7 @@ details:
   - title: Veja mais
     content: |-
       * [Créditos completos](/filmes/tolerância/creditos-completos)
-      * [Roteiro](/uploads/tolerancia-rot)
+      * [Roteiro](/uploads/tolerancia-rot.pdf)
       * Texto final[](/uploads/tolerancia.mp3)
 original_path: /os-filmes/produção/longas/tolerância.html
 ---
