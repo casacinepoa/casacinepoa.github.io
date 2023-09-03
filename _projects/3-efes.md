@@ -90,7 +90,9 @@ details:
 
       <audio src="//nova.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
   - title: Veja mais
-    content: "* [C﻿réditos completos](/filmes/3-efes/creditos-completos)"
+    content: |-
+      * [C﻿réditos completos](/filmes/3-efes/creditos-completos)
+      * [R﻿oteiro](/uploads/tres-efes-rot)
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
