@@ -90,7 +90,7 @@ details:
       <audio src="/uploads/sal_de_prata.mp3" controls />
   - title: Veja mais
     content: |-
-      * [Roteiro](/uploads/sal-de-prata-rot)
+      * [Roteiro](/uploads/sal-de-prata-rot.pdf)
       * Texto final
       * [Créditos completos](/filmes/sal-de-prata/creditos-completos/)
 original_path: /os-filmes/produção/longas/sal-de-prata.html
