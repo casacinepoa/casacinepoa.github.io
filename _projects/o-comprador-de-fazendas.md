@@ -36,6 +36,8 @@ details:
       sempre, estava ótimo em cena e Júlia Feldens também fez bonito.\
 
       ([Amélia Gonzalez e Elena Corrêa](http://www.tribunadonorte.com.br/anteriores/010512/colunas/controle.html), Tribuna do Norte, Natal, 12/05/2001)
+  - title: Veja mais
+    content: \-﻿ [Roteiro](/uploads/o-comprador-de-fazendas-rot)
 original_path: /os-filmes/realização/episódios-de-tv/o-comprador-de-fazendas.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
