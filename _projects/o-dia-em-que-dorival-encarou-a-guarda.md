@@ -92,10 +92,10 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      * [Texto
-      final](https://www.casacinepoa.com.br/os-filmes/roteiros/o-dia-em-que-dorival-encarou-guarda-texto-final.html)[](/uploads/O_Dia_em_que_Dorival-.mp3)
+      * [Créditos
+      completos](/filmes/o-dia-em-que-dorival-encarou-a-guarda/creditos-completos)
 
-      * [Créditos completos](/filmes/o-dia-em-que-dorival-encarou-a-guarda/creditos-completos)
+      * [R﻿oteiro](/uploads/dorival-rot.pdf)
 original_path: /os-filmes/produção/curtas/o-dia-em-que-dorival-encarou-guarda.html
 ---
 Numa prisão militar, numa noite de muito calor, o negro Dorival tem apenas uma vontade: tomar um banho. Para consegui-lo, vai ter que enfrentar um soldadinho assustado, um cabo com mania de herói, um sargento com saudade da namorada, um tenente cheio de prepotência - e acabar com a tranqüilidade daquela noite no quartel.
