@@ -121,6 +121,10 @@ details:
 
 
       <audio src="//nova.casacinepoa.com.br/uploads/deus-ex-machina.mp3" controls />
+  - title: Veja mais
+    content: |-
+      \-﻿ [Roteiro](/uploads/deus-ex-machina-rot.pdf)\
+      -﻿ Créditos completos
 original_path: /os-filmes/produção/curtas/deus-ex-machina.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
