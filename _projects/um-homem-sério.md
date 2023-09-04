@@ -45,11 +45,9 @@ details:
       <audio src="//casacinepoa.com.br/uploads/Um_Homem_serio.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: >-
-      * [Texto
-      final](https://www.casacinepoa.com.br/os-filmes/roteiros/um-homem-sério-texto-final.html)[](/uploads/Um_Homem_serio.mp3)
-
-      * [Créditos completos](/filmes/um-homem-sério/creditos-completos)
+    content: |-
+      \- [Créditos completos](/filmes/um-homem-sério/creditos-completos)\
+      -﻿ [Roteiro](/uploads/um-homem-serio-rot.pdf)
 original_path: /os-filmes/produção/curtas/um-homem-sério.html
 ---
 Morreu Hilário Pestana, o mais famoso, o mais engraçado e, por ironia, o mais triste dos atores brasileiros. Hilário passou por várias fases do cinema nacional: pelas chanchadas, pelos clássicos da Vera Cruz, pela pornochanchada, pelos experimentais. Era adorado pelo público, tinha a vocação para o riso, mas desejava apenas e tão somente ser um homem sério.
