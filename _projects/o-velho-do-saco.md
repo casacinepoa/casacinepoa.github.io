@@ -40,10 +40,8 @@ details:
 
       (Marcus Mello, revista virtual CONTRACAMPO, janeiro/2003)
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](https://www.casacinepoa.com.br/os-filmes/roteiros/o-velho-do-saco.html)
-
+    content: |-
+      * [Roteiro](/uploads/o-velho-do-saco-rot.pdf)
       * [Créditos completos](/filmes/o-velho-do-saco/creditos-completos)
 original_path: /os-filmes/distribuição/curtas/o-velho-do-saco.html
 ---
