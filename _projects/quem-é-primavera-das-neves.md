@@ -101,8 +101,13 @@ details:
 
       ([Luiza Lusvarghi](http://revistaogrito.com/femmefatale/primavera-eulalie-e-furtado-cronica-de-afetos-e-literatura/), Blog Femme Fatale, 15/06/2017)
   - title: Veja mais
-    content: "* [Créditos
-      completos](/filmes/quem-é-primavera-das-neves/creditos-completos/)"
+    content: >-
+      * [Créditos
+      completos](/filmes/quem-é-primavera-das-neves/creditos-completos/)
+
+      * [R﻿oteiro](/uploads/primavera-rot.pdf)
+
+      * [T﻿exto final](/uploads/primavera-txf.pdf)
 original_path: /os-filmes/produção/documentários/quem-é-primavera-das-neves.html
 synopsis: O ponto de partida é um nome improvável, Primavera das Neves,
   tradutora de Lewis Carroll, Daniel Defoe e Julio Verne, que na década de 1960
