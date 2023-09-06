@@ -29,10 +29,9 @@ details:
       Raquel Grabauska\
       Vikka Schabbach
   - title: Veja mais
-    content: >-
+    content: |-
       * [Créditos completos](/filmes/o-natal-de-natanael/creditos-completos)
-
-      * [Letras das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/o-natal-de-natanael/letras-das-músicas.html)
+      * [Letras das músicas](/uploads/o-natal-de-natanael-letras.pdf)
 original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/o-natal-de-natanael.html
 ---
 Todo Natal, acontece alguma coisa e o pai de Natanael tem que sair às pressas de casa. O menino então pede ao Papai Noel um único presente: que seu pai passe a noite de Natal com a família. E este é o começo da aventura mais emocionante da vida de Natanael.
