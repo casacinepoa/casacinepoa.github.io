@@ -31,10 +31,9 @@ details:
       Roberto Peres "Magrão" (bateria)\
       Raquel Grabauska (manipulação de bonecos)
   - title: Veja mais
-    content: >-
+    content: |-
       * [Créditos completos](/filmes/a-mulher-gigante/creditos-completos)
-
-      * [Letras das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/mulher-gigante/letras-das-músicas.html)
+      * [Letras das músicas](/uploads/a-mulher-gigante-letras.pdf)
 original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/mulher-gigante.html
 ---
 Um espetáculo musical em que cada canção apresenta novos e divertidos personagens. Como Herculano, o príncipe mais chato do mundo; o Tião Zoreia, que escuta até pensamento; e a Mulher Gigante, que não sabe o que é patins - ela usa um ônibus em cada pé.
