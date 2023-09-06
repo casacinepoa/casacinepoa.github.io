@@ -29,10 +29,9 @@ details:
       Raquel Grabauska\
       Vikka Schabbach
   - title: Veja mais
-    content: >-
+    content: |-
       * [Créditos completos](/filmes/a-família-sujo-creditos-completos)
-
-      * [Letra das músicas](https://www.casacinepoa.com.br/os-filmes/realização/vídeos/cuidado-que-mancha/família-sujo/letras-das-músicas.html)
+      * [Letra das músicas](/uploads/a-familia-sujo-letras.pdf)
 original_path: /os-filmes/realização/vídeos/cuidado-que-mancha/família-sujo.html
 ---
 A história de uma família que não gosta muito de limpeza. Sérgio Sujo, o pai, e Sula Sujo, a mãe, vivem sem maiores problemas, sem banho e sem muitos amigos. Mas a confusão começa quando a filha do casal, Sílvia Sujo, desaparece no meio da sujeira.\
