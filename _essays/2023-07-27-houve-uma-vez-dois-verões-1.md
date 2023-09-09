@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Houve uma vez dois verões - roteiro
+title: Houve uma vez dois verões - texto final
 author: casa
 category: Roteiros
 file: /uploads/houve-uma-vez-dois-veroes-txf.pdf
