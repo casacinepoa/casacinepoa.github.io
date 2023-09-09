@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aos olhos de Ernesto
+title: Aos olhos de Ernesto - roteiro
 author: casa
 category: Roteiros
 file: /uploads/aos-olhos-de-ernesto-rot.pdf
