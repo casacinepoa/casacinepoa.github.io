@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tolerância
+title: Tolerância - roteiro
 author: casa
 category: Roteiros
 file: /uploads/tolerancia-rot.pdf
