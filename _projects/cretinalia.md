@@ -48,9 +48,10 @@ details:
 
       "Na irônica semelhança entre tempos e lugares distantes (Brasil-Inglaterra), descobrimos a repetição do absurdo, da loucura, da torpeza, da vergonha. A crise de sentido histórico e o mal-estar do Brasil bolsonarista são evidentes. '120 mil mortes. Quantas poderiam ter sido evitadas?' Para as perguntas que Furtado faz no curta de 7 minutos, não há respostas. Não há explicação para a política de morte, não há lógica para as imagens impressionantes de centenas de covas abertas, uma ao lado da outra. Há vergonha."
   - title: Veja mais
-    content: |-
-      * C﻿réditos completos
-      * [R﻿oteiro](/uploads/cretinalia-rot.pdf)
+    content: >-
+      * [C﻿réditos completos](/filmes/cretinalia/creditos-completos/)
+
+      * [](/filmes/cretinalia/creditos-completos/)[R﻿oteiro](/uploads/cretinalia-rot.pdf)
 ---
 Isolado durante a pandemia, um cineasta descobre um discurso de Camus nos anos 1950 e um poema de Pope do século XVIII em conexão com Lewis Carroll e Bob Dylan, e a partir daí reflete sobre as relações entre arte e política no Brasil de 2020.
 
