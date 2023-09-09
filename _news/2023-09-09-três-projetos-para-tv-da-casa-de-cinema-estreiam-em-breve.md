@@ -1,0 +1,14 @@
+---
+layout: post
+title: Três projetos para TV da Casa de Cinema estreiam em breve
+date: 2016-11-10 15:03:27
+---
+Séries e documentário para Canal Curta!, SPORTV, Globo News e Canal Brasil serão lançados nos próximos meses
+
+A Casa de Cinema de Porto Alegre assina diversas estreias na TV neste segundo semestre e nos primeiros meses de 2017, com projetos para Canal Curta!, SPORTV, Globo News e Canal Brasil. Vencedora em 2015 do Emmy Internacional de Melhor Comédia pela série "Doce de Mãe", lança no próximo dia 16 de novembro em evento para imprensa e convidados no Rio de Janeiro, a série **Grandes Cenas** para o Canal Curta!
+
+Com estreia agendada para 16 de novembro, o projeto conta com 22 episódios de 15min dirigidos por Ana Luiza Azevedo e Vicente Moreno. A série documental traz a cada episódio, a análise de uma grande cena de filmes brasileiros e latino-americanos. Participam das entrevistas nomes como Fernanda Montenegro (Eles não Usam Black tie e Central do Brasil), Jean-Claude Bernardet (São Paulo S.A.), Hector Babenco (Pixote), Bráulio Mantovani (Cidade de Deus), Juan Jose Campanella (Clube da Lua), entre outros. O programa tem apresentação de Matheus Nachtergaele. Grandes Cenas tem produção executiva de Nora Goulart e foi selecionado pela Chamada Pública BRDE/FSA - PRODAV 02/2013.
+
+Em dezembro, é a vez de **A Olimpíada passou por aqui**. Com estreia confirmada para 19 de dezembro, o projeto é a segunda coprodução com o canal SPORTV. Os cinco episódios de 18 minutos têm direção geral de Ana Luiza Azevedo e Jorge Furtado e contam com filmes dirigidos Cavi Borges, José Joffily e Isabel Joffily, Maria Augusta Ramos,Rafael Figueiredo e Roberto Berliner, realizadores nascidos ou moradores do Rio de Janeiro. São registros únicos da passagem das Olimpíadas no Brasil, cujas abordagens inusitadas e sensíveis buscam ir além da cobertura jornalística focada no imediatismo do factual. Aqui, a ideia é priorizar a diversidade de cenários, assuntos, sotaques e público documentados.
+
+Com previsão de estreia para o primeiro semestre de 2017, o projeto **Cidades Fantasmas** será lançado em dois formatos: um longa-metragem documentário em coprodução com a Globo News e uma série documental de oito episódios de 15min em coprodução com o Canal Brasil. Com roteiros de Carolina Silvestrin e André Bittencourt e direção de Tyrell Spencer, o projeto conta a história de cidades prósperas, que abrigaram populações inteiras e hoje estão abandonadas e consumidas pelo tempo. Catástrofes naturais, motivações econômicas, embates políticos, guerras, são algumas das condições que levaram esses lugares ao total despovoamento. Sepultadas pelo tempo e esquecidas pelos mapas, Cidades Fantasmas refaz os passos das populações de oito dessas cidades. No Brasil: Ararapira (PR), Cococi (CE), Fordlandia (PA), Minas do Camaquã (RS) e Vila do Ventura (BA), Epecuén, na Argentina, Armero, na Colômbia, e Humerstone, no Chile.
