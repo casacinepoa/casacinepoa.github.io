@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cretinália
+title: Cretinália - roteiro
 author: casa
 category: Roteiros
 file: /uploads/cretinalia-rot.pdf
