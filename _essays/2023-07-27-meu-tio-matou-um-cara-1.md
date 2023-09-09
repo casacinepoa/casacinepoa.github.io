@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meu tio matou um cara
+title: Meu tio matou um cara - texto final
 author: casa
 category: Roteiros
 file: /uploads/meu-tio-matou-um-cara-txf.pdf
