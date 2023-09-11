@@ -28,6 +28,10 @@ details:
       **Elenco**:\
       Áurea Baptista (Lorena)\
       Marcos Contreras (Miguel)
+  - title: Veja mais
+    content: |-
+      * [R﻿oteiro](/uploads/objetos-rot.pdf)
+      * [C﻿réditos completos](/filmes/objetos/creditos-completos/)
 original_path: /os-filmes/produção/curtas/objetos.html
 ---
 Em um antigo apartamento, entre palavras e objetos, um casal revisita suas memórias; mas uma parte de Miguel permanece no escuro.
