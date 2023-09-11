@@ -1,5 +1,5 @@
 ---
-title: Objetos
+title: Objetos - créditos
 permalink: /filmes/objetos/creditos-completos/
 layout: page
 ---
