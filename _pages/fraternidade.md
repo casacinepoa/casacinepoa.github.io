@@ -1,5 +1,5 @@
 ---
-title: Fraternidade
+title: Fraternidade - créditos
 permalink: /filmes/fraternidade/creditos-completos/
 layout: page
 ---
