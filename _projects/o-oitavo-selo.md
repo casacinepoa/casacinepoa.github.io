@@ -42,6 +42,10 @@ details:
       * Mostra de Cinema de Tiradentes/2000: Prêmio do Público
 
       * Festival de Cinema e Vídeo de Curitiba/2000: Melhor Roteiro e Melhor Filme
+  - title: Veja mais
+    content: |-
+      * [R﻿oteiro](/uploads/o-oitavo-selo-rot.pdf)
+      * [C﻿réditos completos](/filmes/o-oitavo-selo/creditos-completos/)
 original_path: /os-filmes/distribuição/o-oitavo-selo
 ---
 D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
