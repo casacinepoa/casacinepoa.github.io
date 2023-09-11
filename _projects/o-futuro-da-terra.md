@@ -38,11 +38,9 @@ details:
 
       (Boletim Rede-IBPINET/SP, janeiro/1998)
   - title: Veja mais
-    content: >-
-      *
-      [Roteiro](http://casacinepoa.com.br/os-filmes/roteiros/o-futuro-da-terra)
-
-      * [Créditos completos](https://www.casacinepoa.com.br/os-filmes/curtas/o-futuro-da-terra-créditos.html)
+    content: |-
+      * [Roteiro](/uploads/o-futuro-da-terra-rot.pdf)
+      * [Créditos completos](/filmes/o-futuro-da-terra/creditos-completos/)
 original_path: /os-filmes/realização/vídeos/o-futuro-da-terra.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
