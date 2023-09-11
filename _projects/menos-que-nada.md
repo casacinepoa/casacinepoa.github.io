@@ -171,6 +171,10 @@ details:
 
 
       <audio src="/uploads/menos-que-nada.mp3" controls />
+  - title: Veja mais
+    content: |-
+      * [R﻿oteiro](/uploads/menos-que-nada-rot.pdf)
+      * [C﻿réditos completos](/filmes/menos-que-nada/creditos-completos/)
 original_path: /os-filmes/longas/menos-que-nada
 synopsis: Dante está internado num hospital psiquiátrico com diagnóstico de
   esquizofrenia, sem falar com ninguém, nem receber visitas. Uma jovem
