@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ilha das Flores - roteiro 3
+title: Ilha das Flores - texto final
 author: casa
 category: Roteiros
 file: /uploads/ilha-das-flores-texto-final.pdf
