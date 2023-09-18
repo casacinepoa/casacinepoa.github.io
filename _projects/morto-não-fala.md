@@ -46,6 +46,10 @@ details:
 
       **Produção: Casa de Cinema PoA\
       Coprodução: Globo Filmes & Canal Brasil**
+  - title: Veja mais
+    content: |-
+      * C﻿réditos completos
+      * [R﻿oteiro](/uploads/morto-nao-fala-rot.pdf)
 original_path: /os-filmes/longas/morto-não-fala.html
 synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violenta
   cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom
