@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morto não fala - roteiro
+title: Morto não fala
 author: casa
 category: Roteiros
 file: /uploads/morto-nao-fala-rot.pdf
