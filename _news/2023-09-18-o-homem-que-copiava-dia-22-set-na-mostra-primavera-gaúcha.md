@@ -3,6 +3,8 @@ layout: post
 title: O HOMEM QUE COPIAVA dia 22/set na Mostra Primavera Gaúcha
 date: 2023-09-18 10:31:47
 ---
+![](/uploads/hqc03.jpg)
+
 A mostra abre quinta-feira com "Anahy de las Misiones". O HOMEM QUE COPIAVA passa na sexta, 19h, na sala Eduardo Hirtz, da Casa de Cultura Mario Quintana. Outras produções da Casa de Cinema de Porto Alegre também vão estar presentes na mostra. No texto abaixo, publicado pela Secretaria da Cultura do RS, a programação completa.
 
 - - -
