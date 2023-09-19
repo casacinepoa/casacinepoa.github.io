@@ -4,6 +4,8 @@ title: 50 anos de "Simples"
 author: giba
 date: 2023-09-11 00:29:48
 ---
+![](/uploads/golpe-no-chile.jpg)
+
 Em algum momento no final dos anos 1980, eu sugeri ao Ivan Pinheiro Machado, da editora L&PM, que lançasse uma coletânea só com os textos diretamente políticos do Luis Fernando Verissimo, aqueles que nunca tinham sido publicados em livro porque eram escritos para o jornalismo diário, faziam menção aos acontecimentos do dia e da semana e por isso, supunha-se, teriam ficado "datados". Minha ideia era assumir explicitamente esse risco, pois o livro se chamaria "Crônicas datadas" e incluiria, antes de cada texto, um parágrafo contextualizando o que estava acontecendo naquele dia, ou naqueles dias.
 
 O livro acabou saindo em agosto de 1995, com textos não só políticos mas também sobre cinema, música, etc. Como veio na esteira do grande sucesso do "Comédias da vida privada", ganhou um título de continuação, ou de contraponto: "Comédias da vida pública", e o subtítulo "266 crônicas datadas". A ideia geral de explicar o contexto permaneceu, para boa parte dos artigos. Dois anos depois saiu "A versão dos afogados" ou "Novas comédias da vida pública", repetindo a ideia das agora "347 crônicas datadas", já sem os textos explicativos.
