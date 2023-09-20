@@ -41,9 +41,9 @@ Matéria de Leandro Fortes sobre a TV dos Mendes, em Diamantino.
 
 A emissora, segundo a Agência Nacional de Telecomunicações (Anatel), é uma concessão para fins educativos à União de Ensino Superior de Diamantino (Uned), instituição de ensino superior fundada pelo ministro do STF. (...) Márcio Mendes (está) no comando da TV Diamante desde 2009. Mendes apresenta um programa matutino chamado Comando Geral. (...) A Uned, dona da concessão da tevê, foi fundada em 2000 por Gilmar Mendes. Quem operacionalizou a escola foi Marco Antônio Tozzati, acusado de integrar uma quadrilha de fraudadores que atuavam no Ministério dos Transportes na gestão de Eliseu Padilha. Não há como Márcio Mendes agir sem o conhecimento do ministro do STF.
 
-http://www.cartacapital.com.br/politica/o-prefeito-e-o-coronel/
+<http://www.cartacapital.com.br/politica/o-prefeito-e-o-coronel/>
 
-xxx
+[](http://www.cartacapital.com.br/politica/o-prefeito-e-o-coronel/)xxx
 
 Atualizado em 02.03.12:
 
@@ -51,6 +51,6 @@ Deixa ver se eu entendi: o "mais preparado" candidato à presidência de repúbl
 
 Serra afirmou que Brasil se chama "Estados Unidos do Brasil" e, quando informado pelo seu simpático entrevistador de que não, o Brasil se chama "República Federativa do Brasil", ainda pergunta: "Mudou?". Sim, mudou, em janeiro de 1967.
 
-http://www.youtube.com/watch?feature=player_embedded&v=I7TU0klP9yo
+<http://www.youtube.com/watch?feature=player_embedded&v=I7TU0klP9yo>
 
-José Serra parece acreditar que é bom para os Estados Unidos (incluindo o nosso pré-sal) é bom para o Brasil. Imagine o que os americanos diriam se um candidato deles se referisse ao país como "Republic of America" ou "United States Federation".
+[](http://www.youtube.com/watch?feature=player_embedded&v=I7TU0klP9yo)José Serra parece acreditar que é bom para os Estados Unidos (incluindo o nosso pré-sal) é bom para o Brasil. Imagine o que os americanos diriam se um candidato deles se referisse ao país como "Republic of America" ou "United States Federation".
