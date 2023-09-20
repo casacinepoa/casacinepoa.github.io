@@ -15,7 +15,7 @@ Parece inacreditável?
 
 Então veja:
 
-https://youtu.be/jt5WB7IQl8Q
+<https://youtu.be/jt5WB7IQl8Q>
 
 (aos 2:45) "Eu já estou a ponto de defender aqui que façam uma limpa da cidade desses 'menor'. Sabe o que é limpa? Derrete tudo e faz sabão. Pior que nem para isso vai prestar, viu? (...) Será que vai ter que chegar ao ponto de contratar e juntar os empresários, igual fazem fora aí, né?, criar o sindicato do crime em Diamantino? Sabe o que é sindicato do crime? Lá em Anápolis tem, sindicato do crime. Quando uma pessoa começa a dar problema demais para a sociedade... é isso mesmo que acontece lá. Do nada, desaparece a pessoa. Do nada. Zump! Somem. Começou a dar problema demais. Começa a roubar... Sabe aqueles roubinho que 'enche" o saco? Em casa, 'ni' comércio... Sabe aqueles roubinho? Lá em Anápolis não tem. Começou a roubar, roubar, roubar, o sindicato entra na parada e resolve! Ó! Resolve esse problema. Aqui em Diamantino, será que terá que instituir o sindicato do crime aqui? Até que ponto? Até que ponto vamos tolerar esses menores fazendo o que querem aqui em Diamantino? Eu acho que nós vamos ter que instituir em Diamantino é o sindicato do crime mesmo. Aquele que elimina esses problemas da sociedade".
 
