@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exterminio de criancas
+title: Extermínio de crianças
 author: jorge
 date: 2012-02-28 19:21:12
 ---
