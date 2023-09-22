@@ -11,7 +11,13 @@ O sistema de votação solicitou a cada crítico eleger 10 títulos em ordem dec
 
 A lista de indicados especifica os três títulos mais votados para cada seção, exceto para os prêmios de Melhor Filme Internacional, Melhor Ficção Nacional e Melhor Documentário Nacional, que devido à grande profusão de filmes e equivalentes criterios avaliativos dos críticos, se estendeu a dez e cinco respectivamente.
 
-Os indicados, por categoria:
+![](/uploads/escayola.jpg)
+
+*Carlos Felix Escayola Medina, el padre de Gardel*
+
+- - -
+
+**Os indicados, por categoria:**
 
 Indicados a Melhor Filme\
 El pasado (Asghar Farhadi), Boyhood (Richard Linklater), El lobo de Wall Street (Martin Scorsese), La vida de Adele (Abdellatif Kechiche), Dallas Buyers Club (Jean-Marc Vallé), La gran belleza (Paolo Sorrentino), La cacería (Thomas Vinterberg), Nebraska (Alexander Payne), Ella (Spike Jonze) y Relatos Salvajes (Damián Szifrón).
