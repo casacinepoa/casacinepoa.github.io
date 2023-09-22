@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EL PADRE DE GARDEL indicado a 5 prêmios no Uruguai
-date: 2023-09-22 10:32:44
+date: 2014-12-14 10:32:44
 ---
 EL PADRE DE GARDEL, documentário dirigido por Ricardo Casas, com coprodução da Casa de Cinema de Porto Alegre, recebeu 5 indicações aos prêmios ACCU, da Associación Uruguaya de Críticos Cinematográficos. A cerimônia de entrega dos prêmios acontecerá nesta quinta-feira, 18 de dezembro, no Teatro Solis, em Montevidéu.
 
