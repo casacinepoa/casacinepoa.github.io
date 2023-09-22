@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programação "O Mercado de Notícias" - 28 agosto a 3 setembro
-date: 2023-09-22 10:58:34
+date: 2014-08-28 10:58:34
 ---
 Cidades, cinemas e horários de exibição do documentário O Mercado de Notícias na semana de 28 de agosto a 3 de setembro:
 
