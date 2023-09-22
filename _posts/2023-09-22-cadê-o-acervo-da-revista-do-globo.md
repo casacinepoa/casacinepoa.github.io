@@ -14,7 +14,8 @@ O acervo completo foi digitalizado pela PUC-RS e ficou bastante tempo disponíve
 Enquanto o extraordinário acervo da Revista do Globo segue escondido, felizmente
 alguns se dão ao trabalho de estudá-lo e dividir conhecimento.
 
-É o caso deste blog: http://revistadoglobo.wordpress.com/
+É o caso deste blog:\
+<http://revistadoglobo.wordpress.com/>
 
 xxx
 
