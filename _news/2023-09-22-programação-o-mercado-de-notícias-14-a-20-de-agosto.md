@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Programação "O Mercado de Notícias" - 14 a 20 de agosto
-date: 2023-09-22 11:08:38
+date: 2014-08-13 11:08:38
 ---
 Cidades, cinemas e horários de exibição do documentário O Mercado de Notícias na semana de 14 a 20 de agosto.
 
