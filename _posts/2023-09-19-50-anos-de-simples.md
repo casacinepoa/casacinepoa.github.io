@@ -2,7 +2,7 @@
 layout: post
 title: 50 anos de "Simples"
 author: giba
-date: 2023-09-11 00:29:48
+date: 2023-09-13 00:29:48
 ---
 ![](/uploads/golpe-no-chile.jpg)
 
@@ -11,6 +11,8 @@ Em algum momento no final dos anos 1980, eu sugeri ao Ivan Pinheiro Machado, da 
 O livro acabou saindo em agosto de 1995, com textos não só políticos mas também sobre cinema, música, etc. Como veio na esteira do grande sucesso do "Comédias da vida privada", ganhou um título de continuação, ou de contraponto: "Comédias da vida pública", e o subtítulo "266 crônicas datadas". A ideia geral de explicar o contexto permaneceu, para boa parte dos artigos. Dois anos depois saiu "A versão dos afogados" ou "Novas comédias da vida pública", repetindo a ideia das agora "347 crônicas datadas", já sem os textos explicativos.
 
 Mas eu nunca escondi que a minha motivação para a ideia era poder ter em livro um texto específico: aquele que o Verissimo escreveu logo depois do 11 de setembro - o mais antigo dos onzes de setembro, aquele que agora faz 50 anos, o do golpe no Chile e do tiro na boca de Salvador Allende. Naquela época eu tinha 16 anos, e acredito que até hoje nenhum texto tenha me tocado com tanta intensidade - nem o "Manifesto" de 1848 ou a morte do bebê Rocamadour em "O jogo da amarelinha", nem a "Práxis do cinema" do Noël Burch ou o assassinato da velha em "Crime e castigo", nem a "Metamorfose ambulante" do Raul Seixas ou a "Linguagem da loucura" do David Cooper.
+
+Fácil dizer que é pelo esquerdismo explícito, pelo apelo sentimetal ao tratar de fatos políticos, pela inegociável declaração de solidariedade com os fodidos de sempre. E é também, claro. Mas onde ele me ganha, onde eu até hoje me encanto, e tento inutilmente imitar, é no estilo, na aparente simplicidade que esconde um pensamento complexo, e ainda tira sarro da nossa cara ao fingir que é de simplicidade que ele tá falando. Chamem uma criança de 86 anos.
 
 "Comédias da vida pública", o primeiro, começa com uma acusação feita pelo próprio Verissimo: "Giba Assis Brasil, Ivan Pinheiro Machado, Jó Saldanha e Fernanda Verissimo devem ser os procurados pelo leitor atrás de vingança". Eu, que algum tempo antes tinha apenas dado a ideia, terminei encabeçando essa lista de "culpados", que incluía um dos donos da editora e as duas responsáveis pela seleção dos textos. É uma daquelas culpas que dão um puta orgulho, claro. Mas o mais importante pra mim está nas páginas 38 e 39 do livro: a crônica "Simples", que mesmo depois de 50 anos continua dizendo muito sobre nós. Simples como Verissimo.
 
