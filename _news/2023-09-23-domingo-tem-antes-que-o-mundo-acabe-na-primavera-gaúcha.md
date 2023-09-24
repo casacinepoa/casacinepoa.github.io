@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Domingo tem "Antes que o mundo acabe" na Primavera Gaúcha
+title: Domingo tem ANTES QUE O MUNDO ACABE na Primavera Gaúcha
 date: 2023-09-23 18:37:02
 ---
 ![](/uploads/aqma-mim-daniel.jpg)
