@@ -1,5 +1,5 @@
 ---
-date: 2023-09-25 13:41:04
+date: 2023-10-05 18:10:51
 image: /uploads/jorge-roteiros.jpg
 title: Mais de 70 roteiros disponíveis aqui
 link: https://www.casacinepoa.com.br/textos/roteiros/
