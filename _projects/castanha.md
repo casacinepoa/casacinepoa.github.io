@@ -6,6 +6,9 @@ tech_specs:
 category: Coproduções
 image: /uploads/cast-imgr.jpg
 image_credits: "Foto divulgação: João Carlos Castanha"
+where_to_watch:
+  - title: Sulflix
+    url: https://sulflix.com.br/app/longas/castanha/
 details:
   - title: Créditos
     content: >-
