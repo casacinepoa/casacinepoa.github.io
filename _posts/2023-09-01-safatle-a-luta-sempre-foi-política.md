@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Safatle: a luta sempre foi política"
+title: Safatle e a luta política
 author: giba
 date: 2023-09-01 11:18:57
 ---
