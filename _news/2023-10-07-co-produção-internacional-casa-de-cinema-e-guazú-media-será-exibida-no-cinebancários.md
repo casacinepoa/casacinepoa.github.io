@@ -15,8 +15,7 @@ Confira o [trailer do filme](https://youtu.be/scw8ppPpev8).
 **Exibição do filme El Padre de Gardel:**\
 Onde: CineBancários - Rua General Câmara, 424 - Porto Alegre\
 Quando: 14/10/2013 (segunda-feira)\
-Horário: 19h*\
-*retirada de senhas na bilheteria do cinema, a partir das 18h30\
+Horário: 19hretirada de senhas na bilheteria do cinema, a partir das 18h30\
  \
 ENTRADA FRANCA 
 
@@ -44,4 +43,4 @@ Som direto: Pablo Benedetto\
 Edição de som e mixagem: Kiko Ferraz Studios\
 Finalização de imagem: Letícia Birck
 
-![](/uploads/¨pdg-cartaz-red.jpg)
+![](/uploads/pdg-cartaz-red.jpg)
