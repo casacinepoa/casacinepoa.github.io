@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dica da semana: o documentário "Elena"'
-date: 2015-05-29 23:35:43
+date: 2013-05-29 23:35:43
 ---
 Segue em cartaz nos cinemas de várias capitais brasileiras o documentário "Elena", primeiro longa-metragem da jovem diretora Petra Costa. A história, baseada na vida da atriz Elena Andrade, irmã de Petra, vem emocionando o público e já conquistou prêmios nos Festivais de Brasília e Guadalajara. A produção é da Busca Vida Filmes.
 
