@@ -11,8 +11,8 @@ Elisa Volpatto, a estrela de MULHER DE FASES no papel de Graça, também concorr
 
 MULHER DE FASES foi totalmente rodado em Porto Alegre e arredores, entre janeiro e abril de 2010. Seus 13 episódios foram ao ar pela HBO no horário nobre das noites de domingo, entre 11 de abril e 4 de julho do ano passado. A série teve direção de Ana Luiza Azevedo e Márcio Schoenardie, e produção executiva de Nora Goulart. Os roteiros foram de Cláudia Tajes, Pedro Furtado e Duda Tajes, a partir do livro "Louca por homem", de Cláudia Tajes. No elenco principal, além de Elisa Volpatto (Graça), estiveram Rodrigo Pandolfo (Gilberto), Mira Haar (Hilda), Antoniela do Canto (Selma) e Júlia Assis Brasil (Tereza). Pela HBO, os produtores foram Luís Peraza, Roberto Rios e Maria Angela de Jesus.
 
-Mais informações no sítio oficial do Festival de Monte Carlo, em http://www.tvfestival.com
+Mais informações no sítio oficial do Festival de Monte Carlo, em <http://www.tvfestival.com>
 
 ![](/uploads/ninfa.jpg)
 
-A série MULHER DE FASES e a atriz Elisa Volpatto concorrem ao Troféu "Ninfa de Ouro" em Monte Carlo.
+*A série MULHER DE FASES e a atriz Elisa Volpatto concorrem ao Troféu "Ninfa de Ouro" em Monte Carlo.*
