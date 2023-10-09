@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Saneamento Básico - O Filme" disponível no Netflix'
+title: SANEAMENTO BÁSICO - O FILME está disponível no Netflix
 date: 2016-09-12 15:02:07
 ---
 O longa-metragem "Saneamento Básico - O Filme" está disponível aos assinantes do Netflix.
