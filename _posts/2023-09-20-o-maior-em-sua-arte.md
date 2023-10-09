@@ -25,7 +25,7 @@ Ator, comediante e brilhante acrobata, Chaplin estreou no teatro com 11 anos, nu
 
 A espera não foi em vão. Em 1915, quando a "febre Chaplin" tomou o mundo, ele fazia mais de um filme por mês e se tornou o maior salário da história, com um rendimento anual só comparável ao de reis e rainhas. Em 1917, vários gerentes de salas de cinema relataram que, após a exibição dos seus filmes, era necessário apertar os parafusos das cadeiras, afrouxados pelas risadas do público. As festas à fantasia estavam na moda, mas os editores das colunas sociais reclamavam que elas eram arruinadas porque "nove entre dez homens aparecem vestidos de Chaplin".
 
-Ben Hetch, futuro dramaturgo e roteirista, então com 23 anos, escreveu sobre ele:
+Ben Hecht, futuro dramaturgo e roteirista, então com 23 anos, escreveu sobre ele:
 
 "Ele anda cuidadosamente, manso, com uma infinita filosofia. Charles Chaplin, com a graça de um bufão vulgar e a alma de um artista do mundo. Ele anda, ele tropeça, ele dança, ele cai. Suas viradas inimitáveis liberam torrentes de alegria, inocentes como a água de uma nascente. Por traz de suas crueldades, suas obscenidades, as contrações ultrajantes e sem arte, sua "divindade" brilha. Ele é o Deus das multidões. Ele é uma criança e um palhaço. Ele é um moleque de rua e um artista. Ele é a encarnação do gênio infantil, latente e imperfeito, que jaz soterrado sob a carne sem fibra de seus adoradores. Eles o criaram a sua imagem. Ele é a multidão em duas pernas. Eles o amam e riem. Frutas a Om. Glória a Zeus. Misericórdia, Jesus. Louvado seja Alá. Tiremos o chapéu a Charlie Chaplin.".
 
