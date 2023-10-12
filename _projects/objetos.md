@@ -37,4 +37,4 @@ details:
       * [C﻿réditos completos](/filmes/objetos/creditos-completos/)
 original_path: /os-filmes/produção/curtas/objetos.html
 ---
-Em um antigo apartamento, entre palavras e objetos, um casal revisita suas memórias; mas uma parte de Miguel permanece no escuro.
+Entre os objetos de um antigo apartamento, um casal observa suas memórias. Enquanto Miguel tenta iniciar uma conversa importante, Lorena faz um colar de contas.
