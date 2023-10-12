@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/obj-imgr.jpg
 image_credits: Foto por Bruno Polidoro
+where_to_watch:
+  - title: Sulflix
+    url: https://sulflix.com.br/app/curtas/objetos
 details:
   - title: Créditos
     content: |-
