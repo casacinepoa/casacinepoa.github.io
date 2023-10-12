@@ -1,6 +1,6 @@
 ---
 date: 2023-10-05 18:10:51
-image: /uploads/jorge-roteiros.jpg
+image: /uploads/pilha-roteiros.jpg
 title: Mais de 70 roteiros disponíveis aqui
 link: https://www.casacinepoa.com.br/textos/roteiros/
 ---
