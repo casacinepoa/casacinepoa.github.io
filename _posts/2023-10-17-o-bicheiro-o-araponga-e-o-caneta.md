@@ -2,10 +2,10 @@
 layout: post
 title: O Bicheiro, o Araponga e o Caneta
 author: jorge
-date: 2012-05-06 16:42:40
+date: 2012-05-07 16:42:40
 ---
 *por Jorge Furtado*\
-*em 06 de maio de 2012*
+*em 07 de maio de 2012*
 
 Na conversa telefônica gravada, com autorização judicial, entre o Bicheiro e o Araponga (hoje os dois estão presos), o Araponga transmite recados do jornalista, muitas vezes referido como o Caneta, editor da revista em Brasília.
 
@@ -140,7 +140,7 @@ Levantamento de todas as atividades de Demóstenes junto ao setor público, visa
 
 xxx
 
-[**DELEGADO PAULO LACERDA ESPERA PEDIDO DE DESCULPAS DE GILMAR MENDES E DEMÓSTENES**](http://terramagazine.terra.com.br/bobfernandes/blog/2012/05/07/delegado-paulo-lacerda-espera-pedido-de-desculpas-de-gilmar-mendes-e-demostenes/)\
+**[DELEGADO PAULO LACERDA ESPERA PEDIDO DE DESCULPAS DE GILMAR MENDES E DEMÓSTENES](http://terramagazine.terra.com.br/bobfernandes/blog/2012/05/07/delegado-paulo-lacerda-espera-pedido-de-desculpas-de-gilmar-mendes-e-demostenes/)**\
 por Bob Fernandes, no Terra Magazine
 
 O delegado Paulo Lacerda, que por seis anos e meio dirigiu a Polícia Federal e a Abin durante os governos Lula, aguarda um pedido de desculpas. Ele espera (talvez sentado) que Gilmar Mendes, ministro do Supremo Tribunal Federal (STF) e o senador Demóstenes Torres reconheçam as respectivas responsabilidades nos seus dois anos e meio de exílio.
