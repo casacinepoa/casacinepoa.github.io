@@ -74,7 +74,7 @@ exceção, xis, cê, cedilha.
 
 **número 23**
 
-É uma odisseia,um castigo,\
+É uma odisseia, um castigo,\
 eu me esforço, luto, tento,\
 mas quase nunca consigo\
 ter ideias sem acento.
