@@ -10,3 +10,5 @@ Produção da Casa de Cinema de Porto Alegre com direção de Ana Luiza Azevedo,
 Formada em Artes Plásticas pela UFRGS, Ana Luiza Azevedo é integrante da Casa de Cinema de Porto Alegre. Em 2007, dirigiu seu primeiro longa-metragem, Antes que o Mundo Acabe, que foi apresentado e premiado em alguns festivais, antes mesmo de seu lançamento comercial.
 
 O Museu Julio de Castilhos é uma das instituições vinculadas à Secretaria de Estado da Cultura. Localiza-se na Rua Duque de Caxias, 1.205 - Centro - Porto Alegre - CEP.: 90.010-283. A instituição fica aberta ao público de terças a sábados, das 10h às 18h. Outras informações podem ser obtidas pelo telefone (51) 3221.3959 ou no site [www.museujuliodecastilhos.rs.gov.br](www.museujuliodecastilhos.rs.gov.br)
+
+![](/uploads/vlivre-imgr.jpg)
