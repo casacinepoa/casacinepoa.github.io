@@ -13,4 +13,6 @@ A mostra é assim apresentada no blog do Cineclube O3:
 
 Depois de um ótimo ciclo de cinema sul-coreano, saímos do oriente e vamos ao encontro ao nosso cinema. Com o ciclo "A Juventude no Cinema Brasileiro Contemporâneo" buscamos mais que exibir filmes da safra recente do cinema nacional, queremos trazer um pouco do retrato que estamos criando da juventude brasileira e também do nosso cinema. O primeiro filme é Antes que o Mundo Acabe, da cineasta gaúcha Ana Luiza Azevedo (da Casa de Cinema de Porto Alegre) e ainda essa semana divulgaremos o cartaz e restante da programação do ciclo, além de algumas surpresas relativas a seleção. No total serão cinco filmes, incluindo um documentário.
 
-Detalhe do cartaz da mostra
+![](/uploads/ufpel.jpg)
+
+*Detalhe do cartaz da mostra*
