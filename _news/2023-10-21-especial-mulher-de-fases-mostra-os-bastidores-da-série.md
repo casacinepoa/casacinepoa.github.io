@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Especial MULHER DE FASES mostra os bastidores da série
-date: 2023-10-21 12:55:52
+date: 2011-03-20 12:55:52
 ---
 MULHER DE FASES, a série de comédia produzida pela Casa de Cinema de Porto Alegre para a HBO, com direção de Ana Luiza Azevedo e Marcio Schoenardie e produção executiva de Nora Goulart, estreia dia 11 de abril, segunda-feira, às 20h30.
 
