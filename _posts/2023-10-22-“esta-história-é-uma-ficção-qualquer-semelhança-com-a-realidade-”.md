@@ -6,6 +6,10 @@ date: 2023-10-22 11:30:18
 ---
 
 
+
+
+![](/uploads/captura-de-tela-2023-10-22-às-11.36.34.png)
+
 Você já viu este tipo de anúncio escrito, no início de filmes e livros, de milhares de formas diferentes, desde as mais óbvias (“Este filme é baseado em fatos reais”) até as dezenas de versões supostamente engraçadas, paródias de todos os tipos. (“Este baseado é fato em filmes reais”.) O sentido prático do aviso é dramatúrgico, moral e também jurídico.
 
 Dramatúrgico, porque ao imaginar que aquilo que é narrado aconteceu de fato, o leitor estabelece com a história uma relação diferente da que experimenta ao ler o que sabe ser uma fantasia, produto da imaginação de alguém. Lê-se o jornal com um espírito, com outro, um poema.
