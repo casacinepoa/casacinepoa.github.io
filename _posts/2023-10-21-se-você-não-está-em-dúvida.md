@@ -9,7 +9,7 @@ date: 2013-02-23 17:38:40
 
 > > \[JORGE FURTADO 21/02/2013 17:55] Oi Giba. Muitas vezes eu já citei a frase "Se você não está em dúvida é porque foi mal informado" como se fosse do Pasquim. Nunca descobri o autor, imaginei que fosse do Millor ou do Ivan Lessa, agora os dois morreram. Acho que li no Pasquim, mas não sei se não foi uma daquelas minhas citações inventadas, uma frase boa que se atribui a outro para dar peso. Fui pesquisar na internet e só achei a frase sem fonte ou a fonte sou eu. Sabe de onde veio isso? abraço Jorge <<
 
-Procurando pela frase no Google, uma fonte que se repete é o teu texto ["Poder e política"](http://www.casacinepoa.com.br/o-blog/jorge-furtado/poder-e-pol%C3%ADtica), publicada aqui mesmo no blog da Casa em 22/08/2010. Na décima das tuas "onze regras de boas-maneiras para debater política (seriamente) na blogosfera (ou em qualquer outro lugar)", está fixada a citação:
+Procurando pela frase no Google, uma fonte que se repete é o teu texto ["Poder e política"](https://www.casacinepoa.com.br/blog/2010-08-21-poder-e-pol%C3%ADtica/), publicada aqui mesmo no blog da Casa em 22/08/2010. Na décima das tuas "onze regras de boas-maneiras para debater política (seriamente) na blogosfera (ou em qualquer outro lugar)", está fixada a citação:
 
 "Se você não está em dúvida é porque foi mal informado" (do jornal "O Pasquim").
 
