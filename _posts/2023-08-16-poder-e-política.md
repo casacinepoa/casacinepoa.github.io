@@ -2,7 +2,7 @@
 layout: post
 title: Poder e Política
 author: jorge
-date: 2010-08-22 00:14:46
+date: 2010-08-21 00:14:46
 ---
 *por Jorge Furtado*\
 *em 22 de agosto de 2010*
