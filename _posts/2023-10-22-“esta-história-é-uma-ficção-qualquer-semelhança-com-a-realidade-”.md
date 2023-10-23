@@ -24,7 +24,7 @@ Luciano deixou mais de 80 obras (dele ou a ele atribuídas) e a mais importante 
 
 No começo de sua narrativa, Luciano avisa:
 
-“Voltei-me para a mentira, em muito mais honesta de as dos demais, pois ao menos nisso direi a verdade: ao afirmar que minto. (...) Escrevo sobre assuntos que não vi nem sofri, nem ouvi relatos de outros, que não existem, nem são possíveis de ter um começo. Que ninguém, portanto, em qualquer caso, dê qualquer crédito a eles.”
+“Voltei-me para a mentira, em muito mais honesta que as dos demais, pois ao menos nisso direi a verdade: ao afirmar que minto. (...) Escrevo sobre assuntos que não vi nem sofri, nem ouvi relatos de outros, que não existem, nem são possíveis de ter um começo. Que ninguém, portanto, em qualquer caso, dê qualquer crédito a eles.”
 
 Dado o aviso, Luciano passa a contar suas aventuras inventadas, mas, a certa altura, ao descrever os olhos removíveis dos habitantes da lua, diz que hesita em falar “temendo que alguém julgue que eu minto, por causa do que há de incrível na história”.
 
