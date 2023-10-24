@@ -32,14 +32,11 @@ Ao afirmar que mente, ao afirmar que diz a verdade ao dizer que mente e, ainda a
 
 X
 
-Para saber mais:
+Para saber mais:\
+<https://tvtropes.org/pmwiki/pmwiki.php/Literature/TrueHistory>
 
-https://tvtropes.org/pmwiki/pmwiki.php/Literature/TrueHistory
+Lucia Sano. Das Narrativas Verdadeiras, de Luciano de Samósata: Tradução, Notas e Estudo\
+<https://teses.usp.br/teses/disponiveis/8/8143/tde-19012009-160813/publico/LUCIA_SANO.pdf>
 
-Lucia Sano. Das Narrativas Verdadeiras, de Luciano de Samósata: Tradução, Notas e Estudo
-
-https://teses.usp.br/teses/disponiveis/8/8143/tde-19012009-160813/publico/LUCIA_SANO.pdf
-
-Luciano de Samósata, The true Story:
-
+Luciano de Samósata, The true Story:\
 <https://www.gutenberg.org/files/45858/45858-h/45858-h.htm>
