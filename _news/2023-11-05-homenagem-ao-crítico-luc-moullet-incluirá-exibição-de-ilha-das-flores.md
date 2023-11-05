@@ -11,6 +11,13 @@ Este ano, de 20 a 26 de novembro, a 38ª edição do Entrevues Belfort Film Fest
 
 Moullet (1937), um dos mais importantes críticos franceses, começou a escrever nos Cahiers du Cinéma aos 18 anos e esteve ligado ao surgimento da Nouvelle Vague. Os filmes realizados por ele são conhecidos por seu humor, antiautoritarismo e estética rigorosamente primitiva, influenciada pelo "Filme B" norte-americano. O festival vai incluir uma retrospectiva com as principais realizações de Moullet, como "Les Sièges de l'Alcazar", "Anatomie d'un rapport" e "Le Prestige de la mort". E ainda três curtas-metragens de outros realizadores, escolhidos a dedo pelo crítico Luc Moullet, que vai comentá-los: "Quebra-gelo" (dir. Jean Rouche e Raoul Ruiz, 1988), "O poder da palavra" (dir. Jean-Luc Godard, 1988) e "Ilha das flores" (dir. Jorge Furtado, 1989). A sessão comentada dos três curtas, dentro da retrospectiva em homenagem a Luc Moullet, acontecerá no sábado, 25/nov, às 17h no Cinéma Kinepolis de Belfort.
 
+Abaixo, matéria da revista virtual CultActu sobre o festival de Belfort.
+
+Aqui, o [saite oficial do festival](https://www.festival-entrevues.com/)\
+\
+Aqui, o [catálogo com a programação completa](https://www.festival-entrevues.com/fr/38e-edition-telechargez-la-brochure)
+
+
 ![](/uploads/belfort.jpg)
 
 **[SOPHIE LETOURNEUR ET LUC MOULLET À L'HONNEUR AUX ENTREVUES DE BELFORT](https://www.cultactu.fr/sophie-letourneur-et-luc-moullet-a-lhonneur-aux-entrevues-de-belfort)**\
