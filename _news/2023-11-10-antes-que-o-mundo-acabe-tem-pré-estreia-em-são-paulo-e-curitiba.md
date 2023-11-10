@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Antes Que O Mundo Acabe tem pré-estreia em São Paulo e Curitiba
+title: ANTES QUE O MUNDO ACABE tem pré-estreia em São Paulo e Curitiba
 date: 2010-08-06 23:00:05
 ---
 Paulistanos e curitibanos têm um bom motivo para ir ao cinema neste final de semana. O premiado Antes Que o Mundo Acabe, de Ana Luiza Azevedo, acaba de ganhar sessões de pré-estreia nas cidades de São Paulo e Curitiba a partir desta sexta, 06 de agosto. Em seguida, o longa-metragem entra definitivamente em cartaz no dia 20 de agosto.
