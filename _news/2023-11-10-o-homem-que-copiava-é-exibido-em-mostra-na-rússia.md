@@ -31,6 +31,6 @@ Lista dos filmes – III Mostra de Cinema Brasileiro em Moscou
 * Romance – Guel Arraes – Natasha Filmes
 * Titãs – A Vida até Parece uma Festa – Branco Mello e Oscar Rodrigues – Academia de Filmes
 
-Mais informações na matéria do Estado de São Paulo, ou no sítio oficial da Embaixada do Brasil na Rússia ou ainda no sítio da Associação de Arte Cool Connections.
+Mais informações na [matéria do Estado de São Paulo](http://estadao.br.msn.com/cultura/artigo.aspx?cp-documentid=26701477), ou no sítio oficial da [Embaixada do Brasil na Rússia](http://www.brasemb.ru/pt/news/index.php?id=133) ou ainda no sítio da [Associação de Arte Cool Connections](http://www.coolconnections.ru/ru/projects/project/13-brazil).
 
 ![](/uploads/moscou.jpg)
