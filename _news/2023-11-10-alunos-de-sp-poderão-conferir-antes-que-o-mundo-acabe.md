@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alunos de SP poderão conferir Antes Que o Mundo Acabe
+title: Alunos de SP poderão conferir ANTES QUE O MUNDO ACABE
 date: 2010-08-20 22:58:47
 ---
 Após a experiência de extremo sucesso não só nos cinemas do sul do país mas principalmente na repercussão que Antes Que o Mundo Acabe causou entre alunos e professores das escolas de Porto Alegre, agora, é a vez dos alunos de São Paulo também terem acesso ao filme através do projeto Escola no Cinema, que atua com as escolas paulistas desde 1993.
