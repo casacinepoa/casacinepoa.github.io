@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 prêmios internacionais para ANTES QUE O MUNDO ACABE
-date: 2023-11-09 22:30:16
+date: 2010-09-26 22:30:16
 ---
 Terminou neste sábado, 25 de setembro, na cidade de Mondevideo, o 19º Divwercine, Festival Internacional de Cinema para Crianças e Jovens. ANTES QUE O MUNDO ACABE, produção da Casa de Cinema de Porto Alegre, com direção de Ana Luiza Azevedo, ganhou quatro prêmios no Festival:
 
@@ -30,6 +30,8 @@ Para quem ainda não teve a oportunidade de assistir, aí vai a lista de cidades
 * Cinespaco - Novo Hamburgo - RS (14:00)
 * Esp Unibanco - São Paulo - SP (14:00 e 18:00)
 
-\[FIG]
+
+
+![](/uploads/aqma-itamaraty.jpg)
 
 Caroline Guedes (Maria Clara) e Murilo Grossi (Antônio) em ANTES QUE O MUNDO ACABE.
