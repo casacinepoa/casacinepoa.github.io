@@ -28,7 +28,7 @@ Desde então, os premiados da APCA na categoria de melhor filme foram:
 * 2009: "A Festa da menina morta", de Matheus Nachtergaele
 
 A cerimônia de premiação acontecerá no início de 2011, em data e local ainda a serem definidos. A premiação do ano passado ocorreu no último dia 6 de abril, no Teatro Sesc Pinheiros, em São Paulo.
-Para conhecer os premiados nas demais categorias da APCA (Arquitetura, Artes visuais, Dança, Literatura, Música popular, Rádio, Teatro, Teatro infantil e Televisão), veja a matéria na Folha Online.
+Para conhecer os premiados nas demais categorias da APCA (Arquitetura, Artes visuais, Dança, Literatura, Música popular, Rádio, Teatro, Teatro infantil e Televisão), veja a [matéria na Folha Online](http://www1.folha.uol.com.br/ilustrada/845584-irene-ravache-e-escolhida-a-melhor-atriz-do-ano-pela-apca-veja-vencedores.shtml).
 
 O Troféu APCA é a reprodução de uma escultura criada especialmente por Francisco Brennand.
 
