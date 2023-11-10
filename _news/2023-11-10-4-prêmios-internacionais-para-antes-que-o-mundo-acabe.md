@@ -30,8 +30,6 @@ Para quem ainda não teve a oportunidade de assistir, aí vai a lista de cidades
 * Cinespaco - Novo Hamburgo - RS (14:00)
 * Esp Unibanco - São Paulo - SP (14:00 e 18:00)
 
-
-
-![](/uploads/aqma-itamaraty.jpg)
+![](/uploads/aqma-carol-ant.jpg)
 
 *Caroline Guedes (Maria Clara) e Murilo Grossi (Antônio) em ANTES QUE O MUNDO ACABE.*
