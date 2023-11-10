@@ -3,7 +3,7 @@ title: Temporal
 tech_specs:
   - (35 mm, 11 min, cor, 1984)
   - (janela 1.33, som óptico mono)
-category: Curtas-metragens
+category: Origens
 image: /uploads/temp-imgr.jpg
 image_credits: "Foto por Christian Lesage: Biratã Vieira"
 details:
