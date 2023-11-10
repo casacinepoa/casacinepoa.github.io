@@ -34,3 +34,5 @@ PROJETO GRÁFICO: "O Nervo da noite", de João Gilberto Noll, designer Marisa In
 CAPA: "Silêncio em Siena", de Flávio Wild, Capista Flávio Wild, Editora 7Letras.
 
 DESTAQUES DO ANO: Editora Libretos (Clô Barcellos e Rafael Guimaraens) e Gauchão de Literatura (Lú Thomé e Rodrigo Rosp).
+
+![](/uploads/pedro-mala.jpg)
