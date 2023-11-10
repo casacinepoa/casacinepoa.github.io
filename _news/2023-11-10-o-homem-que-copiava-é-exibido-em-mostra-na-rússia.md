@@ -32,3 +32,5 @@ Lista dos filmes – III Mostra de Cinema Brasileiro em Moscou
 * Titãs – A Vida até Parece uma Festa – Branco Mello e Oscar Rodrigues – Academia de Filmes
 
 Mais informações na matéria do Estado de São Paulo, ou no sítio oficial da Embaixada do Brasil na Rússia ou ainda no sítio da Associação de Arte Cool Connections.
+
+![](/uploads/moscou.jpg)
