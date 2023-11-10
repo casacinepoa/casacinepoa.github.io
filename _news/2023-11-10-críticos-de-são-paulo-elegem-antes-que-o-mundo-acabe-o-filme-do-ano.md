@@ -31,3 +31,5 @@ A cerimônia de premiação acontecerá no início de 2011, em data e local aind
 Para conhecer os premiados nas demais categorias da APCA (Arquitetura, Artes visuais, Dança, Literatura, Música popular, Rádio, Teatro, Teatro infantil e Televisão), veja a matéria na Folha Online.
 
 O Troféu APCA é a reprodução de uma escultura criada especialmente por Francisco Brennand.
+
+![](/uploads/apca.jpg)
