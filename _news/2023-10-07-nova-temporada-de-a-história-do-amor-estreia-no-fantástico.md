@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nova temporada de "A História do Amor" estreia no Fantástico
+title: Nova temporada de A HISTÓRIA DO AMOR estreia no Fantástico
 date: 2013-05-31 23:32:36
 ---
 A partir do próximo domingo, 02/06, vai ao ar no programa Fantástico, da TV Globo, a terceira temporada da série "A História do Amor", produzida pela Casa de Cinema de Porto Alegre.
