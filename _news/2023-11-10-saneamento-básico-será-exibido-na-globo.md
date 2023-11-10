@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saneamento Básico será exibido na Globo
+title: SANEAMENTO BÁSICO, O FILME será exibido na Globo
 date: 2010-06-18 23:40:37
 ---
 Dentro da programação do "Festival Nacional" transmitido às quartas-feiras pela Rede Globo, Saneamento Básico, o Filme, será exibido no próximo dia 23, às 22h10.
