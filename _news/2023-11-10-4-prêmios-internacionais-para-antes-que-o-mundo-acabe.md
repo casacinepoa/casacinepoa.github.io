@@ -34,4 +34,4 @@ Para quem ainda não teve a oportunidade de assistir, aí vai a lista de cidades
 
 ![](/uploads/aqma-itamaraty.jpg)
 
-Caroline Guedes (Maria Clara) e Murilo Grossi (Antônio) em ANTES QUE O MUNDO ACABE.
+*Caroline Guedes (Maria Clara) e Murilo Grossi (Antônio) em ANTES QUE O MUNDO ACABE.*
