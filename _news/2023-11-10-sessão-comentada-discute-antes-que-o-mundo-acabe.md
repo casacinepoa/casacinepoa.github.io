@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sessão Comentada discute Antes que o Mundo Acabe
+title: Sessão Comentada discute ANTES QUE O MUNDO ACABE
 date: 2010-05-26 23:44:47
 ---
 Hoje, às 19h, no Cine Santander, o Secretário da Cultura, Sérgius Gonzaga, discute o filme Antes que o Mundo Acabe com a equipe da Casa de Cinema. Estarão presentes a diretora Ana Luiza Azevedo, os roteiristas Jorge Furtado e Giba Assis Brasil, além da produtora Nora Goulart.
