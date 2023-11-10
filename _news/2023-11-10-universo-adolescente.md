@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANTES QUE O MUNDO ACABE E O universo adolescente
+title: ANTES QUE O MUNDO ACABE e o universo adolescente
 date: 2010-07-19 23:26:54
 ---
 Antes Que o Mundo Acabe entra na décima semana em cartaz em Porto Alegre.\
