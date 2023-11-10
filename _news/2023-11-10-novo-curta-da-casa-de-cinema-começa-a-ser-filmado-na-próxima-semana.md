@@ -29,3 +29,5 @@ Montagem: Lucas Gonzaga
 
 Elenco\
 Osmar Prado, Nadine de Oliveira, Pilly Calvin, Nelson Diniz, Sirmar Antunes, Carlos Azevedo, Cristiano Pereira e Alexandre Scapini
+
+![](/uploads/amores-pass.jpg)
