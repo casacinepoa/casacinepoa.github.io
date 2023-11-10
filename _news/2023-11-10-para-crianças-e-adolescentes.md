@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Para crianças e adolescentes
-date: 2023-11-09 23:32:41
+date: 2010-07-07 23:32:41
 ---
 De 12 a 18 de julho, o filme Antes Que o Mundo Acabe participa do 19º Festival Internacional de Cine para Niños y Jóvenes del Uruguay, DIVERCINE 2010 realizado em Montevideo. O evento apresenta os melhores filmes do mundo para o público infantil e adolescente.
 
