@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Especial de fim de ano da Globo, "Doce de Mãe", vai ao ar dia 27/12
+title: Especial de fim de ano da Globo, DOCE DE MÃE vai ao ar dia 27/12
 date: 2012-12-03 12:24:24
 ---
 A comédia "Doce de Mãe", escrita por Jorge Furtado, Miguel da Costa Franco, e Ana Luiza Azevedo, é um dos destaques da programação de final de ano da TV Globo. Totalmente filmado e produzido em Porto Alegre, o telefilme é mais uma co-produção Casa de Cinema de Porto Alegre e TV Globo. A direção é de Jorge Furtado e Ana Luiza.
