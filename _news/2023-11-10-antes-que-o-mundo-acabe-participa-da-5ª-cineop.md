@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Antes que o Mundo Acabe participa da 5ª CineOP
+title: ANTES QUE O MUNDO ACABE participa da 5ª CineOP
 date: 2010-06-16 23:42:46
 ---
 Durante a [5ª Mostra de Cinema de Ouro Preto](http://www.cineop.com.br/), que acontece de 17 a 22 de junho, em Ouro Preto, São Paulo, o filme Antes que o Mundo Acabe, da diretora Ana Luiza Azevedo, participa do programa A Escola Vai Ao Cinema, com sessões exclusivas para alunos das redes de ensino municipal, estadual e privada do município e região. Outros três filmes também participarão: Boleiros: era uma vez o futebol, de Ugo Giorgetti, Morrinho: Deus sabe de tudo, mas num é X9, de Fábio Galvão e Garoto Cósmico, de Alê Abreu.
