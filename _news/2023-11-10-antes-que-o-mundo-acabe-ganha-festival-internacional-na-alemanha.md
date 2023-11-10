@@ -54,6 +54,8 @@ Mais informações no sítio oficial do festival:
 
 http://www.ff-schlingel.de/home.html
 
-\[FIG]
+
+
+![](/uploads/chemnitz.jpg)
 
 Fachada do CineStar Luxor-Filmpalast, em Chemnitz (Alemanha), onde ocorre o Schlingel Festival
