@@ -50,11 +50,8 @@ OUTROS PRÊMIOS
 * Prêmio do público visitante: "Skellig", de Annabel Jankel (Inglaterra)
 * Prêmio dos alunos do Ginásio Zwönitzer: "Closer Than Blood", de Oliver Kienle (Alemanha)
 
-Mais informações no sítio oficial do festival:
-
-http://www.ff-schlingel.de/home.html
-
-
+Mais informações no sítio oficial do festival:\
+<http://www.ff-schlingel.de/home.html>
 
 ![](/uploads/chemnitz.jpg)
 
