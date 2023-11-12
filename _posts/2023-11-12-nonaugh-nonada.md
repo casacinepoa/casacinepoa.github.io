@@ -4,9 +4,9 @@ title: Nonaugh (Nonada)
 author: jorge
 date: 2023-11-12 13:01:10
 ---
-![](/uploads/onis-e-rosa-1966.png)
+![](/uploads/capagsv.png)
 
-(﻿na foto, Harriet de Onis e J. G. Rosa, 1966
+
 
 “Grande Sertão: Veredas”, de João Guimarães Rosa é - para mim e para muita gente que entende disso bem mais do que eu -, o maior romance da língua portuguesa, mas ele é pouco conhecido no mundo. É muito menos conhecido que os romances de Machado de Assis, Eça de Queiroz, Jorge Amado, José Saramago, Clarice Lispector, Mia Couto ou Paulo Coelho, e o motivo parece evidente: GSV é muito mais difícil de traduzir.
 
