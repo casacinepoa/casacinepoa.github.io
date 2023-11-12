@@ -16,7 +16,7 @@ Onís, uma americana que falava bem espanhol e pouco português, traduziu um ter
 
 Todas as etapas deste fracasso estão registradas em cartas entre Knopf e Onís, algumas bem educadas, outras nem tanto: "Olhe para a história recente de nossos negócios juntos. Você se apaixonou completamente, com entusiasmo, pelo romance de Guimarães Rosa e violamos praticamente a primeira regra de julgamento editorial ao comprar o livro apenas baseado na sua palavra. Mesmo assim, isso foi uma medida da nossa confiança em você. Depois, você se comprometeu a fazer a tradução, apenas para descobrir que tinha se comprometido com mais do que podia realizar. Em seguida, você nos recomendou o Professor Taylor, com resultados ainda mais desastrosos”.
 
-Mesmo assim, “The Devil to pay in the backyards” foi lançado em 1963, e destroçado pelas críticas.  O próprio Rosa colecionou 27 resenhas publicadas: “Uma traição admirável”, “pobre”, “falha”, “um dos melhores estudos de caso de expectativas não cumpridas”. Quem não detonou o livro, o ignorou completamente, e assim terminou a história de “The Devil to pay in the backyards”.
+Mesmo assim, “The Devil to pay in the backlands” foi lançado em 1963, e destroçado pelas críticas.  O próprio Rosa colecionou 27 resenhas publicadas: “Uma traição admirável”, “pobre”, “falha”, “um dos melhores estudos de caso de expectativas não cumpridas”. Quem não detonou o livro, o ignorou completamente, e assim terminou a história de Grande Sertão Veredas" em inglês.
 
 Por enquanto. Está a caminho a tradução da australiana Alison Entrekin, e pelos trechos já publicados - “Passarinho que se debruça o vôo já está pronto” - parece que o mundo vai ter uma segunda chance de conhecer Riobaldo.
 
