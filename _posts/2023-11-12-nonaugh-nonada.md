@@ -6,9 +6,7 @@ date: 2023-11-12 13:01:10
 ---
 ![](/uploads/capagsv.png)
 
-
-
-“Grande Sertão: Veredas”, de João Guimarães Rosa é - para mim e para muita gente que entende disso bem mais do que eu -, o maior romance da língua portuguesa, mas ele é pouco conhecido no mundo. É muito menos conhecido que os romances de Machado de Assis, Eça de Queiroz, Jorge Amado, José Saramago, Clarice Lispector, Mia Couto ou Paulo Coelho, e o motivo parece evidente: GSV é muito mais difícil de traduzir.
+“Grande Sertão: Veredas”, de João Guimarães Rosa, é - para mim e para muita gente que entende disso bem mais do que eu - o maior romance da língua portuguesa, mas ele é pouco conhecido no mundo. É muito menos conhecido que os romances de Machado de Assis, Eça de Queiroz, Jorge Amado, José Saramago, Clarice Lispector, Mia Couto ou Paulo Coelho, e o motivo parece evidente: GSV é muito mais difícil de traduzir.
 
 Difícil, mas não impossível. O próprio Rosa elogiou muito a tradução para o alemão (feita por Curt Meyer-Clason) e parece que a holandesa também é boa, mas a única tradução que existe para o inglês é, sejamos gentis, horrível de ruim. A começar pelo título, 'The Devil to Pay in the Backlands', que parece um western de terceira categoria. E é preciso entender muito pouco da história e de seu narrador para botar o nome do Cujo, “o que Diga”, na capa. “Não tem diabo nenhum, não existe, não pode.”
 
