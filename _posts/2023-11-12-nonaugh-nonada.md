@@ -64,9 +64,7 @@ Perfil de Melissa Mann
 
 linkedin.com/in/melissamann
 
-arbor-tr.com (Corporativo)
 
-eepurl.com/betQ1r (Blog)
 
 x﻿
 
