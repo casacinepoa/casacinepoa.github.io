@@ -20,7 +20,7 @@ Mesmo assim, “The Devil to pay in the backlands” foi lançado em 1963, e des
 
 Por enquanto. Está a caminho a tradução da australiana Alison Entrekin, e pelos trechos já publicados - “Passarinho que se debruça o vôo já está pronto” - parece que o mundo vai ter uma segunda chance de conhecer Riobaldo.
 
-Eu e o Guel Arraes adaptamos “Grande Sertão: Veredas” para o cinema. O filme, que ele dirigiu, estreou anteontem em um festival na Estônia. Desde o começo, nossa determinação era usar o máximo que fosse possível as palavras originais do romance, cumprimos a tarefa auto-imposta à risca. Só quando o filme estava ficando pronto uma dúvida em forma de gota gelada me correu pela espinha, liguei para o Guel: “Quem vai fazer as legendas em inglês?”. Não tínhamos pensado nisso. Corri para a tradução existente, o que não ajudou em nada e nos alertou ainda mais para a dificuldade da empreitada.
+Eu e o Guel Arraes adaptamos “Grande Sertão: Veredas” para o cinema. O filme, que ele dirigiu, estreou anteontem em um festival na Estônia. Desde o começo, nossa determinação era usar o máximo que fosse possível as palavras originais do romance. Cumprimos a tarefa auto-imposta à risca. Só quando o filme estava ficando pronto uma dúvida em forma de gota gelada me correu pela espinha, liguei para o Guel: “Quem vai fazer as legendas em inglês?”. Não tínhamos pensado nisso. Corri para a tradução existente, o que não ajudou em nada e nos alertou ainda mais para a dificuldade da empreitada. 
 
 Procuramos Alison Entrekin, que foi gentil e compreensiva a respeito do nosso problema e riu dos nossos prazos. Ela anda pelo meio da tradução, deve levar mais dois anos, no mínimo. Fomos salvos por uma indicação da própria Alison, Melissa Mann, uma de suas melhores alunas que, ao saber que o volume de texto não era comparável ao do livro – as legendas do filme têm 51 mil, caracteres, o romance tem 707 mil – aceitou a tarefa, que realizou brilhantemente. Pelas primeiras reações ao filme na Europa, parece que a tradução funcionou.
 
@@ -30,7 +30,7 @@ A seguir, alguns exemplos do original e da tradução de Melissa Mann para as le
 
 X
 
-Sertão é o penal, criminal. Sertão é onde o homem tem de ter a dura nuca e a mão quadrada. Sertão é onde não tem limite de nada. É onde manda quem é forte, com as astúcias. Sertão, – se diz –, você querendo procurar, aí é que nunca vai encontrar. Mas sem ajuda de nada nem ninguém, de repente, por si, o Sertão vem.  O Sertão está em todo lugar. Porque é dentro da gente que ele está. Tudo aqui é perdido, tudo é achado. Deus mesmo, quando vier, que venha armado. . Sertão, quando você se informa. Sertão é onde o pensamento se forma, mais forte que o poder do lugar.
+Sertão é o penal, criminal. Sertão é onde o homem tem de ter a dura nuca e a mão quadrada. Sertão é onde não tem limite de nada. É onde manda quem é forte, com as astúcias. Sertão, – se diz –, você querendo procurar, aí é que nunca vai encontrar. Mas sem ajuda de nada nem ninguém, de repente, por si, o Sertão vem.  O Sertão está em todo lugar. Porque é dentro da gente que ele está. Tudo aqui é perdido, tudo é achado. Deus mesmo, quando vier, que venha armado.  Sertão, quando você se informa. Sertão é onde o pensamento se forma, mais forte que o poder do lugar.
 
 (trechos de GSV, João Guimarães Rosa.)
 
@@ -78,7 +78,7 @@ x
 
 Fontes:
 
-Lenita Maria Rimolo Pisetta. O lado menos conhecido da história da primeira tradução de grande sertão: veredas para o inglês.
+Lenita Maria Rimolo Pisetta. O lado menos conhecido da história da primeira tradução de Grande Sertão: Veredas para o inglês.
 
 <https://www.scielo.br/j/tla/a/CnDYmTMYfmDTrfBDLdCLkqS/abstract/?lang=pt>
 
