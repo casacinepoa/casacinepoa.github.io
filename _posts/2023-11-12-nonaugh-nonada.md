@@ -30,13 +30,13 @@ A seguir, alguns exemplos do original e da tradução de Melissa Mann para as le
 
 X
 
-Sertão é o penal, criminal. Sertão é onde o homem tem de ter a dura nuca e a mão quadrada. Sertão é onde não tem limite de nada. É onde manda quem é forte, com as astúcias. Sertão, – se diz –, você querendo procurar, aí é que nunca vai encontrar. Mas sem ajuda de nada nem ninguém, de repente, por si, o Sertão vem.  O Sertão está em todo lugar. Porque é dentro da gente que ele está. Tudo aqui é perdido, tudo é achado. Deus mesmo, quando vier, que venha armado. Sertão é onde o pensamento se forma, mais forte que o poder do lugar.
+Sertão é o penal, criminal. Sertão é onde o homem tem de ter a dura nuca e a mão quadrada. Sertão é onde não tem limite de nada. É onde manda quem é forte, com as astúcias. Sertão, – se diz –, você querendo procurar, aí é que nunca vai encontrar. Mas sem ajuda de nada nem ninguém, de repente, por si, o Sertão vem.  O Sertão está em todo lugar. Porque é dentro da gente que ele está. Tudo aqui é perdido, tudo é achado. Deus mesmo, quando vier, que venha armado. . Sertão, quando você se informa. Sertão é onde o pensamento se forma, mais forte que o poder do lugar.
 
 (trechos de GSV, João Guimarães Rosa.)
 
 The Sertão’s got its own penal code, criminal road. It’s where a man’s gotta keep a stiff neck and clenched fists. Nothing’s off limits. The strong, the cunning – they call the shots. “The Sertão,” they say, “you’ll never find it if you look. Until, suddenly, out of nowhere, no help from anyone or anything, the Sertão appears.” The Sertão is everywhere. Because it’s inside us it is. Everything here is lost, everything is found. God Himself, when He comes, would that He come armed. Sertão when you get informed. Sertão, where thoughts are formed, stronger than the power of the place itself.
 
-(tradução de Melissa Mann)
+(tradução de Melissa Mann, revisão de Ellen Heyward)
 
 x
 
@@ -44,9 +44,9 @@ Você mesmo, você pode imaginar de se ver um corpo claro, morto à mão, balead
 
 (GSV, João Guimarães Rosa.)
 
-You, you yourself, can you imagine seeing a pure being shot to death, dyed red from their own blood, their lips drained white, their glassy eyes half open, half closed? Can you imagine­ someone in the dawn of love dying but for one? Can you imagine them – the one you had liked, the one who had been your destiny, your blind hope in life?! Just give me a moment's silence, and I’ll tell you.
+You, you yourself, can you imagine seeing a pure being shot to death, dyed red from their own blood, their lips drained white, their glassy eyes half open, half closed? Can you imagine­ - someone in the dawn of love dying but for one? Can you imagine them – the one you had liked, the one who had been your destiny, your blind hope in life?! Just give me a moment's silence, and I’ll tell you. 
 
-(tradução de Melissa Mann)
+(tradução de Melissa Mann, revisão de Ellen Heyward)
 
 Xx
 
@@ -56,7 +56,7 @@ Amável você me ouviu, a minha história registrou. Agora peço que me declare,
 
 You’ve listened to me kindly, taken in my story. Now I ask you tell me in all sincerity: Does the devil exist? Do you believe in such a being? Do you think I made a pact with my soul? Do you believe, do you find any inkling of truth in this talk of contracting with the devil? You don't, do you? In false fears, they repress mention of his name. They merely say: Whatch-a-Ma-Call, Nonaught. Nonsense. Imagined-Imagination. There is no Devil. He reigns within – man is either blighted, or evil. There’s no such thing as the devil, just the humanness of man.
 
-(tradução de Melissa Mann)
+(tradução de Melissa Mann, revisão de Ellen Heyward)
 
 X
 
