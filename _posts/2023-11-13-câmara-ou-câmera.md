@@ -2,10 +2,10 @@
 layout: post
 title: Câmara ou câmera?
 author: giba
-date: 2018-03-24 20:34:28
+date: 2018-03-25 20:34:28
 ---
 *por Giba Assis Brasil*\
-*em 24 de março de 2018*
+*em 25 de março de 2018*
 
 *(enviado para a Lista Cinema Brasil em 25/03/1998)*
 
