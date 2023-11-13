@@ -54,7 +54,7 @@ Amável você me ouviu, a minha história registrou. Agora peço que me declare,
 
 (GSV, João Guimarães Rosa.)
 
-You’ve listened to me kindly, taken in my story. Now I ask you tell me in all sincerity: Does the devil exist? Do you believe in such a being? Do you think I made a pact with my soul? Do you believe, do you find any inkling of truth in this talk of contracting with the devil? You don't, do you? In false fears, they repress mention of his name. They merely say: Whatch-a-Ma-Call, Nonaught. Nonsense. Imagined-Imagination. There is no Devil. He reigns within – man is either blighted, or evil. There’s no such thing as the devil, just the humanness of man.
+You’ve listened to me kindly, taken in my story. Now I ask you tell me in all sincerity: Does the devil exist? Do you believe in such a being? Do you think I made a pact with my soul? Do you believe, do you find any inkling of truth in this talk of contracting with the devil? You don't, do you? In false fears, they repress mention of his name. They merely say: Whatch-a-Ma-Call. Nonaught. Nonsense. Imagined-Imagination. There is no Devil. He reigns within – man is either blighted, or evil. There’s no such thing as the devil, just the humanness of man.
 
 (tradução de Melissa Mann, revisão de Ellen Heyward)
 
