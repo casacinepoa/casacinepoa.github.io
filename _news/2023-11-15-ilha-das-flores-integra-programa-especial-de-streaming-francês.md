@@ -11,7 +11,7 @@ A proposta de LaCinetek inclui um catálogo fixo de filmes selecionados pela "Ci
 
 O tema de novembro de 2023 (disponível para os assinantes até 10 de dezembro) é "Le vrai du faux", ou "a verdade do falso". São dez longas-metragens e um curta bônus que questionam conceitos de falso e verdadeiro, para mostrar que "mentir em sons e imagens não é uma invenção do nosso século", e que "muita verdade surge a partir de mentiras cinematográficas", sejam elas de Orson Welles, Martin Scorsese ou Luigi Comencini.
 
-Entre os longas selecionados, 7 produções europeias, 2 norte-americanas e um filme iraniano (de Asghar Farhadi). O curta bônus é o único filme latino-americano da seleção: "Ilha das flores", dirigido por Jorge Furtado, produção da Casa de Cinema de Porto Alegre.
+Entre os longas selecionados, 4 produções francesas, 3 de outros países europeus, 2 norte-americanas e um filme iraniano (de Asghar Farhadi). O curta bônus é o único filme latino-americano da seleção: "Ilha das flores", dirigido por Jorge Furtado, produção da Casa de Cinema de Porto Alegre.
 
 Abaixo a seleção completa, conforme apresentação de LaCinetek:
 
@@ -31,7 +31,7 @@ Abaixo a seleção completa, conforme apresentação de LaCinetek:
 
 - - -
 
-**[](https://www.critique-film.fr/cycle-le-vrai-du-faux-sur-lacinetek-en-novembre-2023/)[CYCLE "LE VRAI DU FAUX" SUR LACINETEK EN NOVEMBRE 2023](https://www.critique-film.fr/cycle-le-vrai-du-faux-sur-lacinetek-en-novembre-2023/)**\
+[](https://www.critique-film.fr/cycle-le-vrai-du-faux-sur-lacinetek-en-novembre-2023/)**[CYCLE "LE VRAI DU FAUX" SUR LACINETEK EN NOVEMBRE 2023](https://www.critique-film.fr/cycle-le-vrai-du-faux-sur-lacinetek-en-novembre-2023/)**\
 Par Tobias Dunschen\
 Critique-Film, 11/11/2023
 
