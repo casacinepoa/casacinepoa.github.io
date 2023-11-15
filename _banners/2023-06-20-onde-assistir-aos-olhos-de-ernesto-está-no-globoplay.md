@@ -1,5 +1,5 @@
 ---
-date: 2023-09-04 20:57:46
+date: 2023-11-15 19:49:05
 image: /uploads/aode-ramiro.jpg
 title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no Globoplay'
 link: https://globoplay.globo.com/aos-olhos-de-ernesto/t/LLp2hckhFK/
