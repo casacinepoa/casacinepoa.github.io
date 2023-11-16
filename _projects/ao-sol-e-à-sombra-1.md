@@ -2,7 +2,7 @@
 title: Ao sol e à sombra
 tech_specs:
   - Curta-metragem, documentário
-  - EM PRODUÇÃO
+  - EM FINALIZAÇÃO
 category: Projetos
 image: /uploads/sol-sombra.jpg
 ---
