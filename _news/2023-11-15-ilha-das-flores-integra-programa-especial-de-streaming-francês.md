@@ -24,9 +24,9 @@ Abaixo a seleção completa, conforme apresentação de LaCinetek:
 * Os Infiltrados (Estados Unidos/2006) de Martin Scorsese, com Leonardo DiCaprio e Matt Damon - Oscar de Melhor Filme e Melhor Diretor em 2007
 * Tandem (França/1987) de Patrice Leconte, com Gérard Jugnot e Jean Rochefort
 * A separação (Irã/2011) de Asghar Farhadi, com Payman Maadi e Leila Hatami - Urso de Ouro no Festival de Berlim em 2011 / Oscar e César de Melhor Filme Estrangeiro em 2012
-* Verdades e Mentiras (Estados Unidos/1973) de Orson Welles, com Orson Welles e Oja Kodar
-* Filme bônus: A Ilha das Flores (Brasil/1989) de Jorge Furtado, com Ciça Reckziegel e Douglas Trainini - Urso de Prata de Melhor Curta-Metragem no Festival de Berlim em 1990
-  ​
+* Verdades e Mentiras (Estados Unidos/1973) de Orson Welles, com Orson Welles e Oja KodarFilme bônus: 
+* Filme bônus: Ilha das Flores (Brasil/1989) de Jorge Furtado, com Ciça Reckziegel e Douglas Trainini - Urso de Prata de Melhor Curta-Metragem no Festival de Berlim em 1990.
+
   Abaixo, matéria (em francês) da revista virtual "Critique-Film", publicada em 11/nov.
 
 - - -
