@@ -5,7 +5,7 @@ author: giba
 date: 2017-09-18 20:00:42
 ---
 *por Giba Assis Brasil*\
-*}em 18 de setembro de 2017*
+*em 18 de setembro de 2017*
 
 **10 PALÍNDROMOS COM PREFÁCIO**
 
@@ -83,7 +83,7 @@ O problema de reler é ter menos surpresas.
 
 ![](/uploads/artgram2.png)
 
-Se você acha que palíndromo não é arte, clique no ícone acima. Quando chegar a 10 mil descurtidas, esta página vai ser retirada do ar, a Polícia Militar vai jogar bombas de efeito moral na minha casa e eu nunca mais vou poder receber verba da Lei Rouanet. Tudo democraticamente, claro.
+Se você acha que palíndromo não é arte, [clique no ícone acima](https://www.gutzitiert.de/zitat_autor_martin_niemoeller_thema_gemeinschaft_zitat_9331.html). Quando chegar a 10 mil descurtidas, esta página vai ser retirada do ar, a Polícia Militar vai jogar bombas de efeito moral na minha casa e eu nunca mais vou poder receber verba da Lei Rouanet. Tudo democraticamente, claro.
 
 - - -
 
