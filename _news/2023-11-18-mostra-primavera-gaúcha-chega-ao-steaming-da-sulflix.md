@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mostra "Primavera gaúcha" chega ao steaming da Sulflix
+title: Mostra "Primavera gaúcha" chega ao streaming da Sulflix
 date: 2023-11-18 16:27:20
 ---
 ![](/uploads/primavera.jpg)
