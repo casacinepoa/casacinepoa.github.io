@@ -2,7 +2,7 @@
 title: Virgínia e Adelaide
 tech_specs:
   - Longa-metragem, ficção/documentário
-  - EM PRÉ-PRODUÇÃO
+  - EM FILMAGEM (21/nov a 02/dez)
 category: Projetos
 image: /uploads/virginia.jpg
 ---
