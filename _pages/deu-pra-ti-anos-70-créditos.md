@@ -51,9 +51,9 @@ layout: page
 | Xala Felippi                | (Virgínia)            | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/xala.jpg)     |
 | Zezé do Canto               | (voz de Cláudia)      |                                                                                          |
 
-
-
+\
 **PARTICIPAÇÕES**\
+\
 Antônio Pires Jr.\
 Celso Scaletsky\
 César Haussen\
@@ -82,6 +82,7 @@ Vana Bergamo\
 Zé Weis
 
 **COLABORAÇÕES**\
+\
 Adeun Scholl\
 Agostinho Bastos\
 Dea e Nelson Nadotti\
@@ -132,6 +133,7 @@ Tony Everling (bateria)\
 Teresa Ferlauto (vocal)
 
 **MÚSICAS**\
+\
 "Delírio 32"\
 "Do lado do avesso"\
 "Nessa cidade"\
@@ -145,6 +147,7 @@ Teresa Ferlauto (vocal)
 **ARQUIVO**
 
 **MÚSICAS ADICIONAIS**\
+\
 "Papai é o maior"\
 (Portinho e sua orquestra)\
 "Never marry a railroad man"\
@@ -194,6 +197,7 @@ Filmado em Porto Alegre, com cenas em Garopaba/SC e Capão da Canoa/RS, de abril
 Estreou no Festival de Super-8 de Gramado, dia 24 de março de 1981.
 
 **VERSÃO EM VÍDEO**\
+\
 Som remasterizado, a partir das dublagens originais,\
 / em outubro-novembro de 2001.\
 Edição de diálogos: Milton do Prado\
