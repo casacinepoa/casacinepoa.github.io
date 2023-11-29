@@ -48,7 +48,7 @@ details:
       Coprodução: Globo Filmes & Canal Brasil**
   - title: Veja mais
     content: |-
-      * C﻿réditos completos
+      * [C﻿réditos completos](/filmes/morto-nao-fala/creditos-completos/)
       * [R﻿oteiro](/uploads/morto-nao-fala-rot.pdf)
   - title: Prêmios
     content: >-
