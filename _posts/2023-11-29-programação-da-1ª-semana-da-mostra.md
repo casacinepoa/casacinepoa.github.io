@@ -53,7 +53,7 @@ Trinta e oito anos depois da Copa do Mundo de 1950, um homem volta no tempo a fi
 * Elenco Principal: Antônio Fagundes (o viajante), Pedro Santos (o cúmplice), Zé Vitor Castiel (o porteiro), Ariel Nehring (o menino), Abel Borba (o pai)
   Disponível com legendas em inglês, espanhol, francês e português.
 
-Créditos completos
+[Créditos completos](/filmes/barbosa/creditos-completos/)
 
 - - -
 
