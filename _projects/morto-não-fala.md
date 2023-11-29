@@ -1,7 +1,7 @@
 ---
 title: Morto Não Fala
 tech_specs:
-  - (HD,  110min, cor,  2019)
+  - (HD,  110 min, cor,  2019)
   - (janela 2.39, som Dolby 5.1)
 category: Longas-metragens
 image: /uploads/mnf-imgr.jpeg
@@ -40,8 +40,8 @@ details:
       Daniel de Oliveira - Stênio\
       Fabíula Nascimento - Odete\
       Bianca Comparato - Lara\
-      Marco Ricca – Jaime\
-      Cauã Martins – Edson\
+      Marco Ricca - Jaime\
+      Cauã Martins - Edson\
       Annalara Prates - Ciça
 
       **Produção: Casa de Cinema PoA\
@@ -50,6 +50,13 @@ details:
     content: |-
       * C﻿réditos completos
       * [R﻿oteiro](/uploads/morto-nao-fala-rot.pdf)
+  - title: Prêmios
+    content: >-
+      * 1º Grande Prêmio FANTLATAM 2021: melhor ator (Daniel de Oliveira)
+
+      * 19º Grande Prêmio do Cinema Brasileiro, 2019: finalista em Primeira direção de longa-metragem, Melhor ator (Daniel de Oliveira), Efeitos visuais (Hugo Gurgel, Guilherme Ramalho, Eduardo Schaal) e Melhor maquilagem (Britney Federline)
+
+      * 25º Prêmio Guarani de Cinema Brasileiro, 2019]: Melhor maquiagem, Melhores efeitos visuais (também finalista em Roteiro adaptado e Melhor ator (Daniel de Oliveira)
 original_path: /os-filmes/longas/morto-não-fala.html
 synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violenta
   cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom
@@ -57,4 +64,4 @@ synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violen
   além revelam segredos de sua própria vida, Stênio desencadeia uma maldição que
   traz perigo e morte para perto de si e de sua família”.'
 ---
-"Stênio é plantonista noturno no necrotério de uma grande e violenta cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom paranormal de comunicação com os mortos. Quando as confidências que ouve do além revelam segredos de sua própria vida, Stênio desencadeia uma maldição que traz perigo e morte para perto de si e de sua família”.
+Stênio é plantonista noturno no necrotério de uma grande e violenta cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom paranormal de comunicação com os mortos. Quando as confidências que ouve do além revelam segredos de sua própria vida, Stênio desencadeia uma maldição que traz perigo e morte para perto de si e de sua família.
