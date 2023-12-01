@@ -27,7 +27,7 @@ details:
       Goethe Institut
   - title: Veja mais
     content: |-
-      * Créditos completos
+      * [Créditos completos](/filmes/e-se-cale/creditos-completos/)
       * Poema
 ---
 "E se cada morte em vão fosse uma poesia?" A jovem poeta Cristal Rocha, vencedora do circuito Slam Brasil 2017, reflete sobre o que significa CENSURA para a população negra periférica brasileira.
