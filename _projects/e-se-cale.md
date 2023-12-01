@@ -10,7 +10,26 @@ where_to_watch:
     url: https://www.goethe.de/ins/br/pt/kul/fok/cut.html
   - title: Vimeo
     url: https://vimeo.com/manage/videos/289153820
+details:
+  - title: Créditos
+    content: |-
+      **C﻿om:** Cristal Rocha
+
+      **Direção e produção**: Ana Luiza Azevedo\
+      **Argumento**: Ana Luiza Azevedo e Sérgio Furtado\
+      **Poema**: Cristal Rocha\
+      **Direção de fotografia**: Bruno Polidoro\
+      **Montagem**: Giba Assis Brasil\
+      **Música**: Maurício Nader
+
+      **Uma produção**\
+      Casa de Cinema de Porto Alegre\
+      Goethe Institut
+  - title: Veja mais
+    content: |-
+      * Créditos completos
+      * Poema
 ---
 "E se cada morte em vão fosse uma poesia?" A jovem poeta Cristal Rocha, vencedora do circuito Slam Brasil 2017, reflete sobre o que significa CENSURA para a população negra periférica brasileira.
 
-Vídeo integrante da série "Cut it out", produzida pelo Instituto Goethe: diretores de cinema de 20 países realizam filmes contra a censura.
+I﻿ntegrante da série "Cut it out", produzida pelo Instituto Goethe, na qual Ana Luiza Azevedo e outros 19 cineastas de diferentes países foram convidados a realizar filmes de 1 minuto contra a censura.
