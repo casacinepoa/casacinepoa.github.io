@@ -1,5 +1,5 @@
 ---
-title: E se cale - creditos
+title: E se cale - créditos
 permalink: /filmes/e-se-cale/creditos-completos/
 layout: page
 ---
