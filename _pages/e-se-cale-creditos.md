@@ -26,7 +26,7 @@ Fotografia e câmera: Bruno Polidoro
 / Henrique Lahude\
 Montagem: Giba Assis Brasil\
 Música: Maurício Nader\
-Finalização: Daniel Done\
+Finalização: Daniel Dode\
 / Post Frontier\
 Técnico de som e mixagem: Rafael Rodrigues\
 Ass. montagem e finalização: Jonatas Rubert\
