@@ -28,7 +28,7 @@ details:
   - title: Veja mais
     content: |-
       * [Créditos completos](/filmes/e-se-cale/creditos-completos/)
-      * [Poema](/uploads/esta-nao-eh-a-sua-vida-txf.pdf)
+      * [Poema](/uploads/e-se-cale-rot.pdf)
 ---
 "E se cada morte em vão fosse uma poesia?" A jovem poeta Cristal Rocha, vencedora do circuito Slam Brasil 2017, reflete sobre o que significa CENSURA para a população negra periférica brasileira.
 
