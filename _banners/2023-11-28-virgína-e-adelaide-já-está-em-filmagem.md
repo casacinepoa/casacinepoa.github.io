@@ -1,5 +1,5 @@
 ---
-date: 2023-11-28 12:53:02
+date: 2023-12-02 01:11:26
 image: /uploads/vea-quarteto.jpg
 title: VIRGÍNA E ADELAIDE já está em filmagem
 link: https://oglobo.globo.com/play/noticia/2023/11/28/sophie-charlotte-e-gabriela-correa-vao-estrelar-filme-sobre-psicanalistas.ghtml
