@@ -53,4 +53,6 @@ Goethe Institut
 
 HISTÓRICO\
 \
-Filmado em Porto Alegre, 29 de junho de 2018. Filmagem adicional em 7 de agosto. Montado de 8 de julho e 17 de agosto. Finalizado em 12 de setembro. Disponibilizado no saite do Instituto Goethe em 16 de outubro de 2018.
+Filmado em Porto Alegre, 29 de junho de 2018. Filmagem adicional em 7 de agosto.\
+Montado de 8 de julho a 17 de agosto. Finalizado em 12 de setembro.\
+Disponibilizado no saite do Instituto Goethe em 16 de outubro de 2018.
