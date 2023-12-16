@@ -5,9 +5,9 @@ date: 2023-12-15 16:58:46
 ---
 ![](/uploads/textor.jpg)
 
-Antônio Carlos Textor, um dos pioneiros do cinema urbano gaúcho, morreu ontem em Porto Alegre, aos 91 anos.
+Antônio Carlos Textor, um dos pioneiros do cinema urbano gaúcho, morreu em Porto Alegre nessa terça-feira, 12 de dezembro, aos 91 anos.
 
-No Youtube, há uma entrevista com Textor gravada em 1997 para o projeto "Persona grata" da Coordenação de Cinema da Prefeitura de Porto Alegre.
+No Youtube, há uma entrevista com Textor gravada em 1997 para o projeto "Persona grata" da Coordenação de Cinema da Prefeitura de Porto Alegre..
 
 <https://youtu.be/okFCnbp_8OU>
 
