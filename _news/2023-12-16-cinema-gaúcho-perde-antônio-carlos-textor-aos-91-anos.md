@@ -11,7 +11,7 @@ O﻿ saite da Cinemateca Paulo Amorim publicou uma filmografia completa de Texto
 
 <https://cinematecapauloamorim.com.br/noticias/1919/antonio-carlos-textor-1932-2023>
 
-No Youtube, há uma lentrevista com Textor gravada em 1997 para o projeto "Persona grata" da Coordenação de Cinema da Prefeitura de Porto Alegre..onga 
+No Youtube, há uma longa entrevista com Textor gravada em 1997 para o projeto "Persona grata" da Coordenação de Cinema da Prefeitura de Porto Alegre.
 
 <https://youtu.be/okFCnbp_8OU>
 
