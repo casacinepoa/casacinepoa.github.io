@@ -41,3 +41,8 @@ Disponível de 20 a 26/nov\
 Legendas em inglês, espanhol, francês e português.
 
 [MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/o-dia-em-que-dorival-encarou-a-guarda/)
+
+\*\*\*\*\*\*\*\*\*\*
+
+MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES\
+1987 / [O dia em que Dorival encarou a guarda](https://vimeo.com/240817481) (disponível até 26/nov)
