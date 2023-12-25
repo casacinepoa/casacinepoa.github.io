@@ -23,10 +23,10 @@ Rodado em Porto Alegre, de 07 a 16 de abril, "Ilha das Flores" estreou em 15 de 
 **1989 / ILHA DAS FLORES** (12 min)\
 **Direção**: Jorge Furtado
 
-Um tomate é plantado, colhido, transportado e vendido num supermercado, mas apodrece e acaba no lixo. Acaba? Não. ILHA DAS FLORES segue-o até seu verdadeiro final, entre animais, lixo, mulheres e crianças. E então fica clara a diferença que existe entre tomates, porcos e seres humanos. 
-
 ![](/uploads/ilhafl-im.jpg)
 
+Um tomate é plantado, colhido, transportado e vendido num supermercado, mas apodrece e acaba no lixo. Acaba? Não. ILHA DAS FLORES segue-o até seu verdadeiro final, entre animais, lixo, mulheres e crianças. E então fica clara a diferença que existe entre tomates, porcos e seres humanos.\
+\
 **Produção Executiva**: Monica Schmiedt, Giba Assis Brasil e Nora Goulart\
 **Roteiro**: Jorge Furtado\
 **Direção de Fotografia**: Roberto Henkin e Sérgio Amon\
@@ -41,4 +41,4 @@ Um tomate é plantado, colhido, transportado e vendido num supermercado, mas apo
 Disponível de 22 a 28/nov\
 Legendas em inglês, espanhol, francês, português, italiano, alemão e russo.
 
-[MAIS INFORMAÇÕES](http://www.casacinepoa.com.br/os-filmes/produ%C3%A7%C3%A3o/curtas/ilha-das-flores)
+[MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/ilha-das-flores/)
