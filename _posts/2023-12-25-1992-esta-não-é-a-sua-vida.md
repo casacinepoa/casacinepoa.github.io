@@ -50,5 +50,3 @@ MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES\
 1991b / [Dona Sílvia não gostava de música](https://vimeo.com/239623690) (disponível até 30/nov)\
 1991c / [Tempo](https://vimeo.com/239625928) (disponível até 30/nov)\
 1992 / [Esta não é a sua vida](https://vimeo.com/238459313) (disponível até 01/dez)
-
-<!--EndFragment-->
