@@ -19,7 +19,7 @@ Nada melhor pra resumir esse período inicial, e pra começar essa Mostra de 30 
 \*\*\*\**
 
 **1986-87 / O DIA EM QUE DORIVAL ENCAROU A GUARDA** (14 min)\
-Direção: Jorge Furtado e José Pedro Goulart
+**Direção**: Jorge Furtado e José Pedro Goulart
 
 ![](/uploads/doriv-im.jpg)
 
