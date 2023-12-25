@@ -42,3 +42,10 @@ Disponível de 22 a 28/nov\
 Legendas em inglês, espanhol, francês, português, italiano, alemão e russo.
 
 [MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/ilha-das-flores/)
+
+\*\*\*\*\*\*\*\*\*\*
+
+MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES\
+1987 / [O dia em que Dorival encarou a guarda](https://vimeo.com/240817481) (disponível até 26/nov)\
+1988 / [Barbosa](https://vimeo.com/238074665) (disponível até 27/nov)\
+1989 / [Ilha das flores](https://vimeo.com/238439307) (disponível até 28/nov)
