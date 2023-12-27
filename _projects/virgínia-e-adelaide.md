@@ -2,7 +2,7 @@
 title: VIRGÍNIA E ADELAIDE
 tech_specs:
   - Longa-metragem, ficção/documentário
-  - EM FILMAGEM (21/nov a 02/dez)
+  - EM MONTAGEM (filmado de 21/nov a 02/dez)
 category: Projetos
 image: /uploads/virginia.jpg
 ---
