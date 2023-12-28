@@ -34,14 +34,15 @@ Documentário sobre a vida de Noeli Joner Cavalheiro. Noeli mora num subúrbio d
 \
 **Elenco Principal**: Noeli Cavalheiro (depoimento), José Mayer (narração)
 
+[MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/esta-n%C3%A3o-%C3%A9-a-sua-vida/)
+
+[A﻿SSISTIR AO FILME](https://vimeo.com/238459313)\
 Disponível de 25/nov a 01/dez\
 Legendas em inglês, espanhol, francês e português.
 
-[MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/esta-n%C3%A3o-%C3%A9-a-sua-vida/)
-
 \*\*\*\*\*\*\*\*\*\*
 
-MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES\
+**MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES**\
 1987 / [O dia em que Dorival encarou a guarda](https://vimeo.com/240817481) (disponível até 26/nov)\
 1988 / [Barbosa](https://vimeo.com/238074665) (disponível até 27/nov)\
 1989 / [Ilha das flores](https://vimeo.com/238439307) (disponível até 28/nov)\
