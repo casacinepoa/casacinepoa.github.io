@@ -33,18 +33,18 @@ Falso documentário sobre o falso cineasta Volker Freunden e seu falso e pioneir
 
 **Elenco principal**: Antônio Carlos Falcão, Flávia Moraes, Zé Vitor Castiel, Zé Adão Barbosa, André Boll. Apresentadora: Ilana Kaplan.
 
-Disponível de 24 a 30/nov\
-Sem legendas (no subtitles)
-
 [MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/o-vampiro-de-novo-hamburgo/)
 
-O vampiro de Novo Hamburgo (4 min)\
-Dona Sílvia não gostava de música (5 min)\
-Tempo (3 min)
+A﻿SSISTIR AOS FILMES\
+[O vampiro de Novo Hamburgo](https://vimeo.com/239624871) (4 min)\
+[Dona Sílvia não gostava de música](https://vimeo.com/239623690) (5 min)\
+[Tempo](https://vimeo.com/239625928) (3 min)\
+Disponíveis de 24 a 30/nov\
+Sem legendas (no subtitles)
 
 \*\*\*\*\*\*\*\*\*\*
 
-MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES\
+**MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES**\
 1987 / [O dia em que Dorival encarou a guarda](https://vimeo.com/240817481) (disponível até 26/nov)\
 1988 / [Barbosa](https://vimeo.com/238074665) (disponível até 27/nov)\
 1989 / [Ilha das flores](https://vimeo.com/238439307) (disponível até 28/nov)\
