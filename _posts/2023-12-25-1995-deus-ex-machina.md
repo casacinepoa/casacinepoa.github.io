@@ -36,21 +36,22 @@ Dolores, mulher bonita, rica e paralítica, contrata o detetive Otávio para seg
 \
 **Elenco Principal**: Luciene Adami, Leverdógil de Freitas, Werner Schünemann, Daniela Schmitz
 
-[MAIS INFORMAÇÕES](http://www.casacinepoa.com.br/os-filmes/produ%C3%A7%C3%A3o/curtas/deus-ex-machina)[M﻿AIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/deus-ex-machina/)
+[M﻿AIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/deus-ex-machina/)
 
+[A﻿SSISTIR AO FILME](https://vimeo.com/240061218)\
 Disponível de 28/nov a 04/dez\
 Legendas em inglês, espanhol, francês e português
 
 \*\*\*\*\*\*\*\*\*\*\
 \
 **MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES**\
-1987 / [O dia em que Dorival encarou a guarda](https://www.casacinepoa.com.br/filmes/o-dia-em-que-dorival-encarou-a-guarda/)\
-1988 / [Barbosa](https://www.casacinepoa.com.br/filmes/barbosa/)\
+1987 / [O dia em que Dorival encarou a guarda](https://www.casacinepoa.com.br/blog/2017-11-20-1986-87-o-dia-em-que-dorival-encarou-a-guarda/)\
+1988 / [Barbosa](https://www.casacinepoa.com.br/blog/2017-11-21-1988-barbosa/)\
 1989 / [Ilha das flores](https://vimeo.com/238439307) (disponível até 28/nov)\
 1990 / [Memória](https://vimeo.com/239457350) (disponível até 29/nov)\
-1991a / [O vampiro de Novo Hamburgo](https://vimeo.com/239624871) (disponível até 30/nov)\
-1991b / [Dona Sílvia não gostava de música](https://vimeo.com/239623690) (disponível até 30/nov)\
-1991c / [Tempo](https://vimeo.com/239625928) (disponível até 30/nov)\
+1991a / [O vampiro de Novo Hamburgo](https://vimeo.com/239624871?share=copy) (disponível até 30/nov)\
+1991b / [Dona Sílvia não gostava de música](https://vimeo.com/239623690?share=copy) (disponível até 30/nov)\
+1991c / [Tempo](https://vimeo.com/239625928?share=copy) (disponível até 30/nov)\
 1992 / [Esta não é a sua vida](https://vimeo.com/238459313) (disponível até 01/dez)\
 1993 / [Ventre livre](http://vimeo.com/239530546) (disponível até 02/dez)\
 1994 / [A matadeira](https://vimeo.com/238568218) (disponível até 03/dez)\
