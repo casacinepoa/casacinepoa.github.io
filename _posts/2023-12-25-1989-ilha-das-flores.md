@@ -38,14 +38,15 @@ Um tomate é plantado, colhido, transportado e vendido num supermercado, mas apo
 
 **Elenco Principal**: Paulo José (Narração), Ciça Reckziegel (Dona Anete)
 
-Disponível de 22 a 28/nov\
-Legendas em inglês, espanhol, francês, português, italiano, alemão e russo.
-
 [MAIS INFORMAÇÕES](https://www.casacinepoa.com.br/filmes/ilha-das-flores/)
 
+[A﻿SSISTIR AO FILME](https://vimeo.com/238439307)\
+Disponível de 22 a 28/nov\
+Legendas em inglês, espanhol, francês, português, italiano, alemão e russo\
+\
 \*\*\*\*\*\*\*\*\*\*
 
-MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES\
+**MOSTRA CASA DE CINEMA: 30 ANOS, 30 FILMES**\
 1987 / [O dia em que Dorival encarou a guarda](https://vimeo.com/240817481) (disponível até 26/nov)\
 1988 / [Barbosa](https://vimeo.com/238074665) (disponível até 27/nov)\
 1989 / [Ilha das flores](https://vimeo.com/238439307) (disponível até 28/nov)
