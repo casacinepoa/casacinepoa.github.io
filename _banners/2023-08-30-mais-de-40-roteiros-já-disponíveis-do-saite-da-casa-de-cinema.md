@@ -1,5 +1,5 @@
 ---
-date: 2023-11-15 19:51:05
+date: 2023-12-28 19:30:31
 image: /uploads/roteiros-frapa2.jpg
 title: Mais de 70 roteiros da Casa de Cinema disponíveis aqui em formato PDF
 link: https://www.casacinepoa.com.br/textos/roteiros/
