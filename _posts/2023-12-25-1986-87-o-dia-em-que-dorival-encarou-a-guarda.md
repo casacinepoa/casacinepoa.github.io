@@ -10,7 +10,7 @@ date: 2017-11-20 10:11:23
 
 ![](/uploads/cine-rs-endereco.jpg)
 
-*F﻿olheto distribuído em dezemro de 1987, convidando para a inauguração da Casa de Cinema.*
+*F﻿olheto distribuído em dezembro de 1987, convidando para a inauguração da Casa de Cinema.*
 
 A [Casa de Cinema de Porto Alegre](https://www.casacinepoa.com.br/sobre/) começou a funcionar em outubro de 1987, e foi inaugurada oficialmente dia 22 de dezembro. Mas ela foi o resultado da articulação de um grupo de (então) jovens cineastas, que já vinham trabalhando juntos há algum tempo, agrupados nas produtoras Invideo, Luz Produções, Roda Filmes e Um Produções: por ordem alfabética, Ana Luiza Azevedo, [Angel Palomero](http://www.unirio.br/cla/escoladeteatro/docentes/angel-palomero), [Carlos Gerbase](https://pt.wikipedia.org/wiki/Carlos_Gerbase), [Christian Lesage](https://vimeo.com/christianlesage), Giba Assis Brasil, [Heron Heinz](https://pt.wikipedia.org/wiki/Os_Replicantes), Jorge Furtado, [José Pedro Goulart](https://pt.wikipedia.org/wiki/Jos%C3%A9_Pedro_Goulart), [Luciana Tomasi](http://www.pranafilmes.com.br/prana-filmes/luciana-tomasi/), [Monica Schmiedt](http://mschmiedt.com.br/quem-somos/monica-schmiedt/), [Roberto Henkin](https://www.historiadocinemabrasileiro.com.br/roberto-henkin/), [Sérgio Amon](http://www.historiadocinemabrasileiro.com.br/sergio-amon/) e [Werner Schünemann](https://pt.wikipedia.org/wiki/Werner_Sch%C3%BCnemann).
 
