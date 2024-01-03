@@ -57,7 +57,7 @@ details:
       "Gnossienne #5", de Erik Satie, por Glauco Sagebin
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/obscenidades.mp3" controls />
+      <audio src="https://www.casacinepoa.com.br/uploads/obscenidades.mp3" controls />
   - title: Veja mais
     content: "* [Créditos
       completos](https://www.casacinepoa.com.br/os-filmes/distribuição/obscenid\
