@@ -85,10 +85,11 @@ details:
 
       (Hélio Nascimento, JORNAL DO COMÉRCIO, Porto Alegre, 14/12/2007)
   - title: Tema musical
-    content: |-
+    content: >-
       "Tecno andina", por Laura L e Músicas Intermináveis para Viagem
 
-      <audio src="//nova.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
+
+      <audio src="https://www.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
   - title: Veja mais
     content: |-
       * [C﻿réditos completos](/filmes/3-efes/creditos-completos)
