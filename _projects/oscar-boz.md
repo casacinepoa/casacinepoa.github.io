@@ -35,7 +35,7 @@ details:
       ponte di Bassano"
 
 
-      <audio src="//casacinepoa.com.br/uploads/oscar-boz.mp3" controls />
+      <audio src="https://www.casacinepoa.com.br/uploads/oscar-boz.mp3" controls />
   - title: Veja mais
     content: "* [Créditos completos](/filmes/oscar-boz/creditos-completos)"
 original_path: /os-filmes/realização/vídeos/oscar-boz.html
