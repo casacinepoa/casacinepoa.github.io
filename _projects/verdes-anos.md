@@ -108,10 +108,11 @@ details:
 
       (Luiz Fernando Emediato, A GAZETA, Rio de Janeiro, 15/09/86)
   - title: Tema musical
-    content: |-
+    content: >-
       "Rock'n'roll bye bye", por Nei Lisboa
 
-      <audio src="//nova.casacinepoa.com.br/uploads/verdes-anos.mp3" controls />
+
+      <audio src="https://www.casacinepoa.com.br/uploads/verdes-anos.mp3" controls />
   - title: Veja mais
     content: |-
       * [Créditos completos](/filmes/verdes-anos/creditos-completos)
