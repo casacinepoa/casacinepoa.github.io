@@ -73,10 +73,11 @@ details:
 
       ([Guilherme Peres](http://apaixonadosporseries.com.br/series/primeiras-impressoes-decamerao-a-comedia-do-sexo/), 01/08/2009, blog "Apaixonados por séries")
   - title: Tema musical
-    content: |-
+    content: >-
       "Folia da esmilinguida", de Roberto Correa
 
-      <audio src="//nova.casacinepoa.com.br/uploads/decamerao.mp3" controls />
+
+      <audio src="https://www.casacinepoa.com.br/uploads/decamerao.mp3" controls />
 original_path: /os-filmes/realização/séries-de-tv/decamerão-comédia-do-sexo.html
 ---
 Livremente inspirada nos contos de Giovanni Bocaccio, escritos no século XIV. Masetto, um esperto camponês, chega a uma aldeia disfarçado de padre. Em seguida, é chamado para dar a extrema unção ao velho Spinelocchio, e termina celebrando o casamento, por interesse de herança, de seu filho Toffano com a enfermeira Monna. Apaixonado por Monna, e por ela correspondido, Masetto acaba por abalar toda a vida da aldeia, envolvendo-se também com o comerciante Filipinho e sua esposa Isabel, além dos criados Calandrino e Tessa.
