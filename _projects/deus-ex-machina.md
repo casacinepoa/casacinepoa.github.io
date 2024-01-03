@@ -120,7 +120,7 @@ details:
       "Tema de abertura", por Ricardo Severo
 
 
-      <audio src="//nova.casacinepoa.com.br/uploads/deus-ex-machina.mp3" controls />
+      <audio src="https://www.casacinepoa.com.br/uploads/deus-ex-machina.mp3" controls />
   - title: Veja mais
     content: |-
       \-﻿ [Roteiro](/uploads/deus-ex-machina-rot.pdf)\
