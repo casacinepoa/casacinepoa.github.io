@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DECAMERÃO, A COMÉDIA DO SEXO em DVD
-date: 2024-01-06 20:30:19
+date: 2009-10-24 20:30:19
 ---
 Os 5 episódios de DECAMERÃO, A COMÉDIA DO SEXO, série produzida pela Casa de Cinema de Porto Alegre e pela TV Globo, já estão nas melhores casas do ramo. Além dos 5 episódios, o DVD tem um extra com ensaios e erros de gravação.
 
