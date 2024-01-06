@@ -17,7 +17,7 @@ A ênfase do festival em temas relacionados à natureza e ao meio ambiente, alé
 
 O 6º Amazonas Film Festival - Aventura, Natureza e Meio Ambiente é uma realização do Governo do Estado do Amazonas, através da Secretaria de Cultura, produção executiva internacional de Le Public Système e nacional da PG Music, com patrocínio máster da Coca-Cola, apoio da Lacoste, Banco Daycoval, TV 5 Monde, Ford Monttana, Link Digital, Kodak, Cinemais, Sherwin Williams e Governo Federal, através do Ministério da Cultura (Lei de Incentivo à Cultura), apoio institucional da Embaixada da França no Brasil, Cinefrance, Universo Amazônico, Instituto Nacional de Pesquisas da Amazônia (INPA), Empresa Brasileira de Pesquisa Agropecuária (Embrapa), Centro Técnico Audiovisual (CTAV), Fórum dos Festivais e parceria do Cinebrasil e Manaus Plaza Shopping.
 
-Mais informações no sítio oficial do Festival.
+Mais informações no [sítio oficial do Festival](https://www.amazonasfilmfestival.com.br/).
 
 ![](/uploads/teatro-amaz.jpg)
 
