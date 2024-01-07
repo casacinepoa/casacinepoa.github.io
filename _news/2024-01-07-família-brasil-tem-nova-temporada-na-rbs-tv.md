@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FAMÍLIA BRASIL tem nova temporada na RBS TV
-date: 2024-01-06 21:15:06
+date: 2009-08-30 21:15:06
 ---
 Estreia no próximo sábado, 5 de setembro, na RBS TV, a nova temporada de "Aventuras da Família Brasil".
 
@@ -20,5 +20,7 @@ Uma das novidades é a chegada de um novo integrante na Família Brasil. A Filha
 Com produção da Casa de Cinema de Porto Alegre, Aventuras da Família Brasil tem no elenco os atores Beto Mônaco (Pai), Nadya Mendes (Mãe), Felipe de Paula (Boca), Miriã Possani (Filha), Samuel Reginatto (Filho) e Arthur Quadros (Neto). Giba Assis Brasil coordena a equipe de roteiristas formada por Daniel Laimer, Luis Mario Fontoura, Márcia Paveck e Moisés Westphalen.
 
 Além da exibição aos sábados na RBS TV, logo após o Jornal do Almoço, Aventuras da Família Brasil tem reprises na TVCOM e no Canal Brasil - a série pode ser assistida também no no site da RBS TV.
+
+![](/uploads/fambr02.jpg)
 
 *A Família: Miriã Possani (Filha), Nadya Mendes (Mãe), Arthur Quadros (Neto), Beto Mônaco (Pai) e Samuel Reginatto (Filho). Cadê o Boca?*
