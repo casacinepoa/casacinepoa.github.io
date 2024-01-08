@@ -13,4 +13,6 @@ FANTASIAS DE UMA DONA DE CASA tem no elenco Mirna Spritzer (Carmem), Careca da S
 
 Com direção de Ana Luiza Azevedo, a série tem roteiros de Pedro Furtado e Marcio Schoenardie. Fotografia de Juliano Lopes, arte de Rita Faustini e música original de Jean Presser, com direção de produção de Glauco Urbim. A série é mais uma realização da Casa de Cinema de Porto Alegre para o Núcleo de Especiais da RBS, que tem direção geral de Gilberto Perin.
 
-Carmem (Mirna Spritzer), Edgar (Careca da Silva) e o recasamento.
+![](/uploads/fantas09.jpg)
+
+*Carmem (Mirna Spritzer), Edgar (Careca da Silva) e o recasamento.*
