@@ -11,4 +11,6 @@ Em SAINDO DA SECA, que vai ao ar hoje, às 12h20min, na RBS TV, as amigas acabam
 
 FANTASIAS DE UMA DONA DE CASA ainda conta com Eliane Steinmetz (Soraya) e Lisa Becker (Susana) no elenco. Ana Luiza Azevedo é a diretora da série, que tem roteiros de Pedro Furtado e Marcio Schoenardie. Fotografia de Juliano Lopes, arte de Rita Faustini e música original de Jean Presser, com direção de produção de Glauco Urbim. A produção da série é da Casa de Cinema de Porto Alegre, para o Núcleo de Especiais da RBS TV, que tem direção geral de Gilberto Perin.
 
-Irene Brietzke e Mirna Spritzer em FANTASIAS DE UMA DONA DE CASA.
+![](/uploads/fantas07.jpg)
+
+*Irene Brietzke e Mirna Spritzer em FANTASIAS DE UMA DONA DE CASA.*
