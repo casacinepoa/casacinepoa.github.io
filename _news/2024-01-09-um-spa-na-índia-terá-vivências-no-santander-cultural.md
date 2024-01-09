@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Um Spa na Índia" terá vivências no Santander Cultural'
+title: '"Um Spa na Índia" terá vivência no Santander Cultural'
 date: 2009-05-11 23:05:12
 ---
 "Um Spa na Índia - Vivência" é um projeto que envolve uma série de atividades que remetem às vivências nos ashrams indianos e também à cultura, à paisagem, à comida e ao modo de viver da Índia. O nome do projeto é homônimo ao livro de autoria da jornalista Luciana Tomasi, que conta sua experiência em uma visita ao país.
