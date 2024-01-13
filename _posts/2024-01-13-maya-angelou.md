@@ -8,32 +8,23 @@ date: 2024-01-13 11:43:06
 
 Longos e tortuosos são os caminhos dos ignorantes autodidatas, eu só fui conhecer Maya Angelou por conta da Billie Holiday, veja só. Billie Holiday (1915-1959), isso quase todo mundo sabe, foi a maior cantora da história, melhor que o silêncio, só Billie Holiday. O encontro das duas é descrito no delicioso livro “Primeiros encontros”, escrito por Nancy Sorel e ilustrado por Edward Sorel. \[Ed. Alfred A Knopf, Nova York, 1994].
 
-
 Em junho de 1958, Maya Angelous era uma jovem atriz, bailarina e cantora, tinha acabado de voltar e uma excursão pela Europa, foi a protagonista feminina no musical “Porgy e Bess”. Ela tinha 30 anos, um filho adolescente para criar e um emprego como cantora numa boate em Laurel Canyon, Hollywood. Um dia, o seu preparador vocal apareceu na porta e disse que Billie Holiday, Lady Day, a maior cantora do planeta, estava na cidade e queria conhecê-la, perguntou se ela saberia lidar com isso. "O que há para lidar? Ela é uma mulher. Eu sou uma mulher."
-
 
 “Lady Day era uma mulher complicada. No início, Angelou achou sua convidada hostil, sua conversa uma mistura de sarcasmo e obscenidades. Mas depois do almoço - frango frito, arroz, molho do Arkansas - Holiday se suavizou. Maya era uma boa moça e também uma boa cozinheira, disse ela”.
 Parece que Lady Day fez de tudo para levar Maya para cama, pelo menos a princípio, sem sucesso. (“Você é muito careta, menina!”) Ninguém sabe ao certo o que aconteceu. Nancy Sorel é discreta, Maya nunca tocou no assunto, Holiday morreu um ano depois. Billie Holiday passou cinco dias com Angelou, e só no final voltou a sua irritação habitual. Na última noite, durante uma apresentação de Maya na boate, Billie bebeu demais, gritou com ela fora do palco. Um vexame. No outro dia, Billie foi embora com uma profecia: "Você vai ser famosa, mas não será por cantar."
 
-
 Me interessei em saber quem era esta mulher capaz de merecer tamanha atenção de uma artista tão grande e em pouco tempo descobri o quanto Lady Day estava certa. Maya Angelou foi uma mulher absolutamente extraordinária. Ela fez tantas coisas – bailarina, cantora, poeta, ativista, romancista, roteirista, diretora de cinema – que é melhor você ir direto na wikipedia. (link nos comentários) Li alguns dos seus livros, relatos autobiográficos, poemas, artigos, todos são muito bons. “Eu sei porque os pássaros cantam na gaiola” é uma obra-prima.
 
-
 Maya nasceu e cresceu na época e no lugar mais racista dos Estados Unidos, sofreu abuso do namorado da mãe aos 8 anos, acabou denunciando o abusador, que foi morto pelos seus tios. Sentindo-se culpada por suas palavras terem provocado a morte de um homem, Maya ficou quase em completo silêncio por cinco anos. Neste período, mergulhou na leitura, leu todos os clássicos, todo Shakespeare, que ela descreve como “Meu primeiro amor branco”. Ela e seu irmão Bailey decoravam longos trechos de Shakespeare, mas a sua avó não podia saber de jeito nenhum que se tratava de um autor branco. Uma mente brilhante, Maya destacou-se na escola, ganhou uma bolsa, foi para a universidade.
-
 
 A profecia de Billie Holiday se cumpriu à risca. Maya Angelou se tornou poeta, escritora e ativista dos direitos civis, amiga de Martin Luther King e Malcon X. Seu livro “Eu sei porque os pássaros cantam na gaiola” é um clássico da literatura americana, romance de formação de uma menina negra que, segundo seus próprios relatos, mudou a vida de mulheres com Ophra Winfrey, Michele Obama e muitas outras. Na posse de Bill Clinton, Maya foi convidada a escrever e recitar um poema. “"On the Pulse of Morning" tornou-se um clássico imediato, presente em qualquer antologia de poemas americanos. 
 Maya morreu em 2014, aos 86 anos. Entre seus muitos feitos e glórias, Maya Angelou foi, que eu saiba, a primeira mulher negra a virar uma moeda de seu país. Sua imagem ilustra uma edição comemorativa do quarto de dólar, 25 cents que eu carrego no bolso, só para me lembrar, de vez em quando, porque os pássaros cantam na gaiola.
 
-
 X
-
 
 “Eu sei porque os pássaros cantam na gaiola”, de Maya Angelou.
 
-
 Capítulo 19:
-
 
 “O último espacinho foi preenchido, mas as pessoas continuavam a se espremer junto às paredes do Mercado. Tio Willie tinha sintonizado o rádio no volume mais alto, para que os jovens na varanda não perdessem uma palavra. Havia mulheres sentadas em cadeiras de cozinha, em cadeiras de sala de jantar, em bancos e em caixas de madeira viradas. Havia crianças pequenas e bebês em todos os colos disponíveis, e os homens estavam apoiados nas prateleiras ou uns nos outros.
 O humor apreensivo era quebrado com gracejos, assim como um céu negro é cortado por relâmpagos.
@@ -65,15 +56,11 @@ E a voz, rouca e familiar, soou ao nosso redor: “O vencedor e ainda campeão m
 Campeão mundial. Um garoto Negro. O filho de uma mãe Negra. Ele era o homem mais forte do mundo. As pessoas beberam Coca-Cola como se fosse ambrosia e comeram chocolate como se fosse Natal. Alguns dos homens foram para trás do Mercado e botaram bebida alcoólica nas garrafas de refrigerante, e alguns dos garotos maiores foram atrás. Os que não foram expulsos voltaram soprando o hálito como se fossem fumantes orgulhosos.
 Demoraria uma hora ou mais para as pessoas saírem do Mercado e voltarem para casa. Os que moravam longe demais fizeram arranjos para ficarem na cidade. Não seria bom um homem Negro e sua família serem pegos em uma estrada solitária na noite em que Joe Louis provou que éramos o povo mais forte do mundo.
 
-
 Trecho de Maya Angelou: “Eu sei por que o pássaro canta na gaiola”. Tradução e Regiane Winasky. Astral Cultural, 2018. 
-
 
 X
 
-
 Ainda assim eu me levanto
-
 
 Ainda assim eu me levanto
 Você pode me marcar na história
@@ -120,9 +107,7 @@ Eu me levanto
 Eu me levanto
 Eu me levanto.
 
-
 Maya Angelou 
-
 
 Poesia Completa. Tradução de Lubi Prates. Editora Astral Cultural.
 Maya Angelou e Billie Holiday, desenho de Edward Sorel
