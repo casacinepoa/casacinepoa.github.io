@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DECAMERÃO estréia hoje na Globo
-date: 2009-01-01 00:00:00
+date: 2009-01-02 00:00:00
 ---
 DECAMERÃO, A COMÉDIA DO SEXO, especial produzido pela Casa de Cinema de Porto Alegre, com direção geral de Jorge Furtado, estréia em todo o país nesta sexta-feira, 2 de janeiro, pela TV Globo, às 22h55, logo após o Globo Repórter.
 
