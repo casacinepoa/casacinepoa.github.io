@@ -18,21 +18,17 @@ Me interessei em saber quem era esta mulher capaz de merecer tamanha atenção d
 Maya nasceu e cresceu na época e no lugar mais racista dos Estados Unidos, sofreu abuso do namorado da mãe aos 8 anos, acabou denunciando o abusador, que foi morto pelos seus tios. Sentindo-se culpada por suas palavras terem provocado a morte de um homem, Maya ficou quase em completo silêncio por cinco anos. Neste período, mergulhou na leitura, leu todos os clássicos, todo Shakespeare, que ela descreve como “Meu primeiro amor branco”. Ela e seu irmão Bailey decoravam longos trechos de Shakespeare, mas a sua avó não podia saber de jeito nenhum que se tratava de um autor branco. Uma mente brilhante, Maya destacou-se na escola, ganhou uma bolsa, foi para a universidade.
 
 A profecia de Billie Holiday se cumpriu à risca. Maya Angelou se tornou poeta, escritora e ativista dos direitos civis, amiga de Martin Luther King e Malcon X. Seu livro “Eu sei por que os pássaros cantam na gaiola” é um clássico da literatura americana, romance de formação de uma menina negra que, segundo seus próprios relatos, mudou a vida de mulheres com Ophra Winfrey, Michele Obama e muitas outras. Na posse de Bill Clinton, Maya foi convidada a escrever e recitar um poema. “"On the Pulse of Morning" tornou-se um clássico imediato, presente em qualquer antologia de poemas americanos. 
-Maya morreu em 2014, aos 86 anos. Entre seus muitos feitos e glórias, Maya Angelou foi, que eu saiba, a primeira mulher negra a virar uma moeda de seu país. Sua imagem ilustra uma edição comemorativa do quarto de dólar, 25 cents que eu carrego no bolso, só para me lembrar, de vez em quando, porque os pássaros cantam na gaiola.
+Maya morreu em 2014, aos 86 anos. Entre seus muitos feitos e glórias, Maya Angelou foi, que eu saiba, a primeira mulher negra a virar uma moeda de seu país. Sua imagem ilustra uma edição comemorativa do quarto de dólar, 25 cents que eu carrego no bolso, só para me lembrar, de vez em quando, por que os pássaros cantam na gaiola.
 
 x﻿
 
 Acréscimo:
 
-
 Não li “The heart of a woman”, mas uma matéria da New Yorker transcreve um trecho em que Maya conta um pouco mais sobre seu encontro com Billie Holiday. 
-
 
 “Na noite anterior à sua partida para Nova York, ela disse a Guy \[o preparador vocal, amigo comum] que cantaria “Strange Fruit” como sua última música. Billie falou e cantou em tom rouco e seco a conhecida canção de protesto. Sua voz rouca e seu fraseado literalmente me encantaram. Eu vi os corpos negros pendurados nas árvores do sul. Vi o sangue das vítimas do linchamento escorrer das folhas pelos troncos e chegar às raízes... Guy interrompeu a música. “O que é uma cena pastoral, senhorita Holiday?” Billie ergueu os olhos lentamente e estudou Guy por um segundo. Seu rosto tornou-se cruel e quando ela falou sua voz era desdenhosa. “Significa quando os crackers estão matando os negros. Significa quando eles pegam um neguinho como você, arrancam as bolas dele e enfiam na garganta dele. É isso que significa.”
 
-
 Descrevendo a primeira visita de Holiday à sua casa, ela diz:
-
 
 A realidade de Lady Day vindo à minha casa me atingiu e fez meu corpo tremer. Era bem sabido que ela usava drogas pesadas e eu quase não fumava mais maconha. Como eu poderia dizer a ela que ela não poderia injetar ou cheirar na minha casa? Também houve rumores de que ela teve casos lésbicos. Se ela me fizesse uma proposta, como eu poderia rejeitá-la sem fazê-la pensar que eu a estava rejeitando?  Eu a vi pela porta de tela e meu nervosismo rapidamente se transformou em choque. O rosto inchado continha apenas uma sombra de sua beleza familiar. Quando ela entrou em casa, seus olhos eram de um preto fosco e sua mão estava na minha como um brinquedo de borracha de criança.”
 
