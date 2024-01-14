@@ -85,4 +85,4 @@ synopsis: João é um fotógrafo à procura candidatas a modelo em cidades do
   ela seja modelo. João se apaixona por Anita e agora quer levar embora mãe e
   filha.
 ---
-João é um fotógrafo à procura candidatas a modelo em cidades do interior gaúcho. João conhece uma jovem de rara beleza, Maria, e acaba se envolvendo com a mãe dela, Anita. O pai da menina, Pedro, não quer deixar que ela seja modelo. João se apaixona por Anita e agora quer levar embora mãe e filha.
+João é um fotógrafo à procura de candidatas a modelo em cidades do interior gaúcho. João conhece uma jovem de rara beleza, Maria, e acaba se envolvendo com a mãe dela, Anita. O pai da menina, Pedro, não quer deixar que ela seja modelo. João se apaixona por Anita e agora quer levar embora mãe e filha.
