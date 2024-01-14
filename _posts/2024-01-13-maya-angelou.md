@@ -87,97 +87,60 @@ Trecho de Maya Angelou: “Eu sei por que o pássaro canta na gaiola”. Traduç
 
 X
 
-Ainda assim eu me levanto
+**Ainda assim eu me levanto**
 
-Ainda assim eu me levanto
-
-Você pode me marcar na história
-
-Com suas mentiras amargas e distorcidas
-
-Você pode me esmagar na própria terra
-
-Mas ainda assim, como a poeira, eu vou me levantar.
-
-Meu atrevimento te perturba?
-
-O que é que te entristece?
-
-É que eu ando como se tivesse poços de petróleo
-
+Você pode me marcar na história\
+Com suas mentiras amargas e distorcidas\
+Você pode me esmagar na própria terra\
+Mas ainda assim, como a poeira, eu vou me levantar.\
+\
+Meu atrevimento te perturba?\
+O que é que te entristece?\
+É que eu ando como se tivesse poços de petróleo\
 Bombeando na minha sala de estar.
 
-Assim como as luas e como os sóis,
-
-Com a certeza das marés,
-
-Assim como a esperança brotando,
-
+Assim como as luas e como os sóis,\
+Com a certeza das marés,\
+Assim como a esperança brotando,\
 Ainda assim, eu vou me levantar.
 
-Você queria me ver destroçada?
-
-Com a cabeça curvada e os olhos baixos?
-
-Ombros caindo como lágrimas,
-
+Você queria me ver destroçada?\
+Com a cabeça curvada e os olhos baixos?\
+Ombros caindo como lágrimas,\
 Enfraquecidos pelos meus gritos de comoção?
 
-Minha altivez te ofende?
-
-Não leve tão a sério
-
-Só porque rio como se tivesse minas de ouro
-
+Minha altivez te ofende?\
+Não leve tão a sério\
+Só porque rio como se tivesse minas de ouro\
 Cavadas no meu quintal.
 
-Você pode me fuzilar com suas palavras,
-
-Você pode me cortar com seus olhos,
-
-Você pode me matar com seu ódio,
-
+Você pode me fuzilar com suas palavras,\
+Você pode me cortar com seus olhos,\
+Você pode me matar com seu ódio,\
 Mas ainda, como o ar, eu vou me levantar.
 
-Minha sensualidade te perturba?
-
-Te surpreende
-
-Que eu dance como se tivesse diamantes
-
+Minha sensualidade te perturba?\
+Te surpreende\
+Que eu dance como se tivesse diamantes\
 Entre as minhas coxas?
 
-Saindo das cabanas da vergonha da história
-
-Eu me levanto
-
-De um passado enraizado na dor
-
-Eu me levanto
-
-Sou um oceano negro, vasto e pulsante,
-
+Saindo das cabanas da vergonha da história\
+Eu me levanto\
+De um passado enraizado na dor\
+Eu me levanto\
+Sou um oceano negro, vasto e pulsante,\
 Crescendo e jorrando eu carrego a maré.
 
-Abandonando as noites de terror e medo
-
-Eu me levanto
-
-Para um amanhecer maravilhosamente claro
-
-Eu me levanto
-
-Trazendo as dádivas que meus ancestrais me deram,
-
-Eu sou o sonho e a esperança dos escravos.
-
-Eu me levanto
-
-Eu me levanto
-
+Abandonando as noites de terror e medo\
+Eu me levanto\
+Para um amanhecer maravilhosamente claro\
+Eu me levanto\
+Trazendo as dádivas que meus ancestrais me deram,\
+Eu sou o sonho e a esperança dos escravos.\
+Eu me levanto\
+Eu me levanto\
 Eu me levanto.
 
-Maya Angelou 
-
-Poesia Completa. Tradução de Lubi Prates. Editora Astral Cultural.
-Maya Angelou e Billie Holiday, desenho de Edward Sorel
+*Maya Angelou* \
+*Poesia Completa. Tradução de Lubi Prates. Editora Astral Cultural.
+Maya Angelou e Billie Holiday, desenho de Edward Sorel*
