@@ -19,7 +19,6 @@ Maya nasceu e cresceu na época e no lugar mais racista dos Estados Unidos, sofr
 
 A profecia de Billie Holiday se cumpriu à risca. Maya Angelou se tornou poeta, escritora e ativista dos direitos civis, amiga de Martin Luther King e Malcon X. Seu livro “Eu sei por que os pássaros cantam na gaiola” é um clássico da literatura americana, romance de formação de uma menina negra que, segundo seus próprios relatos, mudou a vida de mulheres com Ophra Winfrey, Michele Obama e muitas outras. Na posse de Bill Clinton, Maya foi convidada a escrever e recitar um poema. “"On the Pulse of Morning" tornou-se um clássico imediato, presente em qualquer antologia de poemas americanos. 
 
-
 Maya morreu em 2014, aos 86 anos. Entre seus muitos feitos e glórias, Maya Angelou foi, que eu saiba, a primeira mulher negra a virar uma moeda de seu país. Sua imagem ilustra uma edição comemorativa do quarto de dólar, 25 cents que eu carrego no bolso, só para me lembrar, de vez em quando, por que os pássaros cantam na gaiola.
 
 x﻿
@@ -44,17 +43,13 @@ Capítulo 19:
 
 O humor apreensivo era quebrado com gracejos, assim como um céu negro é cortado por relâmpagos.
 
-
 “Não estou preocupado com essa luta. Joe vai acabar com aquele sujeito como se ele fosse de papel.”
-
 
 “Vai bater nele até o garoto branco o chamar de mamãe.”
 
 Finalmente a falação acabou, a música da propaganda das lâminas de barbear acabou e a luta começou.
 
-
 “Um soco rápido na cabeça.” No Mercado, as pessoas grunhiram. “Uma esquerda na cabeça e uma direita e outra esquerda.” Um dos ouvintes cacarejou como uma galinha e foi silenciado.
-
 
 “Eles estão agarrados, Louis tentando se soltar.”
 
@@ -67,14 +62,11 @@ Uma série de murmúrios de aprovação escapou pelas portas até o pátio.
 
 Enquanto entrava no Mercado, pensei se o narrador tinha refletido que estava chamando de “senhoras e senhores” todos os Negros do mundo que estavam suando e orando, grudados na “voz do mestre”.
 
-
 Só houve alguns poucos pedidos de R . C . Colas, Dr Peppers e Hire’s root beer. As verdadeiras comemorações começariam depois da luta. Aí até as senhoras cristãs, que ensinavam os filhos e se obrigavam a dar a outra face, comprariam refrigerantes. E, se a vitória do Bombardeiro Marrom fosse particularmente sangrenta, elas comprariam pés de moleque e também chocolate Baby Ruth.
-
 
 Bailey e eu colocamos as moedas em cima da caixa registradora. Tio Willie não nos deixava receber pagamentos durante uma luta. A caixa registradora era muito barulhenta e podia abalar o clima. Quando o gongo soou no final do round seguinte, passamos pelo silêncio quase sagrado até onde estava a horda de crianças lá fora.
 
 Ele encurralou Louis nas cordas e agora foi um de esquerda no corpo e um de direita nas costelas. Outro de direita no corpo; parece que ele bateu baixo... Sim, senhoras e senhores, o árbitro está sinalizando, mas o oponente continua golpeando Louis. Outro no corpo, e parece que Louis está caindo.
-
 
 Minha raça gemeu. Era nosso povo caindo. Era outro linchamento, mais um Negro enforcado em uma árvore. Mais uma mulher emboscada e estuprada. Um garoto Negro chicoteado e ferido. Eram cachorros na trilha de um homem correndo por pântanos gosmentos. Era uma mulher branca estapeando a empregada por ser esquecida.
 
@@ -82,13 +74,11 @@ Os homens no Mercado se afastaram das paredes, alertas. As mulheres apertavam os
 
 Nós não respiramos. Nós não tivemos mais esperança. Nós apenas esperamos.
 
-
 Ele se afastou das cordas, senhoras e senhores. Está indo na direção do centro do ringue.” Não houve tempo de sentir alívio. O pior ainda podia acontecer.
 
 E agora parece que Joe está com muita raiva. Ele acertou Carnera com um gancho de esquerda na cabeça e um de direita na cabeça. Um soco de esquerda no corpo e outro de esquerda na cabeça. Um cruzado de esquerda e um de direita na cabeça. O olho direito do oponente está sangrando, e ele não consegue manter o bloqueio. Louis está penetrando em todas as defesas. O árbitro está se aproximando, mas Louis enfia um soco de esquerda no corpo e um uppercut no queixo, e o oponente está caindo. Ele está na lona, senhoras e senhores.
 
 Bebês foram para o chão quando as mulheres se levantaram e os homens se inclinaram para o rádio.
-
 
 “Aqui está o árbitro. Ele está contando. Um, dois, três,
 quatro, cinco, seis, sete... O oponente está tentando se levantar novamente?”
@@ -103,7 +93,7 @@ Campeão mundial. Um garoto Negro. O filho de uma mãe Negra. Ele era o homem ma
 
 Demoraria uma hora ou mais para as pessoas saírem do Mercado e voltarem para casa. Os que moravam longe demais fizeram arranjos para ficarem na cidade. Não seria bom um homem Negro e sua família serem pegos em uma estrada solitária na noite em que Joe Louis provou que éramos o povo mais forte do mundo.
 
-Trecho de Maya Angelou: “Eu sei por que os pássaros cantam na gaiola”. Tradução e Regiane Winasky. Astral Cultural, 2018. 
+Trecho de Maya Angelou: “Eu sei por que os pássaros cantam na gaiola”. Tradução de Regiane Winasky. Astral Cultural, 2018. 
 
 X
 
@@ -163,6 +153,5 @@ Eu me levanto.
 
 Maya Angelou \
 Poesia Completa. Tradução de Lubi Prates. Editora Astral Cultural.
-
 
 *Maya Angelou e Billie Holiday, desenho de Edward Sorel*
