@@ -13,11 +13,13 @@ Em junho de 1958, Maya Angelous era uma jovem atriz, bailarina e cantora, tinha 
 “Lady Day era uma mulher complicada. No início, Angelou achou sua convidada hostil, sua conversa uma mistura de sarcasmo e obscenidades. Mas depois do almoço - frango frito, arroz, molho do Arkansas - Holiday se suavizou. Maya era uma boa moça e também uma boa cozinheira, disse ela”.
 Parece que Lady Day fez de tudo para levar Maya para cama, pelo menos a princípio, sem sucesso. (“Você é muito careta, menina!”) Ninguém sabe ao certo o que aconteceu. Nancy Sorel é discreta, Maya nunca tocou no assunto, Holiday morreu um ano depois. Billie Holiday passou cinco dias com Angelou, e só no final voltou a sua irritação habitual. Na última noite, durante uma apresentação de Maya na boate, Billie bebeu demais, gritou com ela fora do palco. Um vexame. No outro dia, Billie foi embora com uma profecia: "Você vai ser famosa, mas não será por cantar."
 
-Me interessei em saber quem era esta mulher capaz de merecer tamanha atenção de uma artista tão grande e em pouco tempo descobri o quanto Lady Day estava certa. Maya Angelou foi uma mulher absolutamente extraordinária. Ela fez tantas coisas – bailarina, cantora, poeta, ativista, romancista, roteirista, diretora de cinema – que é melhor você ir direto na wikipedia. (link nos comentários) Li alguns dos seus livros, relatos autobiográficos, poemas, artigos, todos são muito bons. “Eu sei por que os pássaros cantam na gaiola” é uma obra-prima.
+Me interessei em saber quem era esta mulher capaz de merecer tamanha atenção de uma artista tão grande e em pouco tempo descobri o quanto Lady Day estava certa. Maya Angelou foi uma mulher absolutamente extraordinária. Ela fez tantas coisas – bailarina, cantora, poeta, ativista, romancista, roteirista, diretora de cinema – que é melhor você ir direto na wikipedia. Li alguns dos seus livros, relatos autobiográficos, poemas, artigos, todos são muito bons. “Eu sei por que os pássaros cantam na gaiola” é uma obra-prima.
 
-Maya nasceu e cresceu na época e no lugar mais racista dos Estados Unidos, sofreu abuso do namorado da mãe aos 8 anos, acabou denunciando o abusador, que foi morto pelos seus tios. Sentindo-se culpada por suas palavras terem provocado a morte de um homem, Maya ficou quase em completo silêncio por cinco anos. Neste período, mergulhou na leitura, leu todos os clássicos, todo Shakespeare, que ela descreve como “Meu primeiro amor branco”. (Quando, com 8 anos, leu pela primeira vez o soneto 29, Maya concluiu: "Shakespeare deve ser uma garota negra.") Ela e seu irmão Bailey decoravam longos trechos de Shakespeare, mas a sua avó não podia saber de jeito nenhum que se tratava de um autor branco. Uma mente brilhante, Maya destacou-se na escola, ganhou uma bolsa, foi para a universidade. 
+Maya nasceu e cresceu na época e no lugar mais racista dos Estados Unidos, sofreu abuso do namorado da mãe aos 7 anos, acabou denunciando o abusador, que foi morto pelos seus tios. Sentindo-se culpada por suas palavras terem provocado a morte de um homem, Maya ficou quase em completo silêncio por cinco anos. Neste período, mergulhou na leitura, leu todos os clássicos, todo Shakespeare, que ela descreve como “Meu primeiro amor branco”. (Quando, com 8 anos, leu pela primeira vez o soneto 29, Maya concluiu: "Shakespeare deve ser uma garota negra.") Ela e seu irmão Bailey decoravam longos trechos de Shakespeare, mas a sua avó não podia saber de jeito nenhum que se tratava de um autor branco. Uma mente brilhante, Maya destacou-se na escola, ganhou uma bolsa, foi para a universidade.
 
 A profecia de Billie Holiday se cumpriu à risca. Maya Angelou se tornou poeta, escritora e ativista dos direitos civis, amiga de Martin Luther King e Malcon X. Seu livro “Eu sei por que os pássaros cantam na gaiola” é um clássico da literatura americana, romance de formação de uma menina negra que, segundo seus próprios relatos, mudou a vida de mulheres com Ophra Winfrey, Michele Obama e muitas outras. Na posse de Bill Clinton, Maya foi convidada a escrever e recitar um poema. “"On the Pulse of Morning" tornou-se um clássico imediato, presente em qualquer antologia de poemas americanos. 
+
+
 Maya morreu em 2014, aos 86 anos. Entre seus muitos feitos e glórias, Maya Angelou foi, que eu saiba, a primeira mulher negra a virar uma moeda de seu país. Sua imagem ilustra uma edição comemorativa do quarto de dólar, 25 cents que eu carrego no bolso, só para me lembrar, de vez em quando, por que os pássaros cantam na gaiola.
 
 x﻿
@@ -41,11 +43,19 @@ Capítulo 19:
 “O último espacinho foi preenchido, mas as pessoas continuavam a se espremer junto às paredes do Mercado. Tio Willie tinha sintonizado o rádio no volume mais alto, para que os jovens na varanda não perdessem uma palavra. Havia mulheres sentadas em cadeiras de cozinha, em cadeiras de sala de jantar, em bancos e em caixas de madeira viradas. Havia crianças pequenas e bebês em todos os colos disponíveis, e os homens estavam apoiados nas prateleiras ou uns nos outros.
 
 O humor apreensivo era quebrado com gracejos, assim como um céu negro é cortado por relâmpagos.
+
+
 “Não estou preocupado com essa luta. Joe vai acabar com aquele sujeito como se ele fosse de papel.”
+
+
 “Vai bater nele até o garoto branco o chamar de mamãe.”
 
 Finalmente a falação acabou, a música da propaganda das lâminas de barbear acabou e a luta começou.
+
+
 “Um soco rápido na cabeça.” No Mercado, as pessoas grunhiram. “Uma esquerda na cabeça e uma direita e outra esquerda.” Um dos ouvintes cacarejou como uma galinha e foi silenciado.
+
+
 “Eles estão agarrados, Louis tentando se soltar.”
 
 Algum comediante amargo na varanda disse: “Aquele branco não se importa de abraçar o preto agora, aposto”.
@@ -56,20 +66,30 @@ Uma série de murmúrios de aprovação escapou pelas portas até o pátio.
 “Outro de esquerda e outro de esquerda. Louis está poupando a poderosa direita...” O murmúrio no Mercado tinha virado uma mini gritaria interrompida pelo soar de um sino e a voz do narrador: “É o sino do terceiro round, senhoras e senhores”.
 
 Enquanto entrava no Mercado, pensei se o narrador tinha refletido que estava chamando de “senhoras e senhores” todos os Negros do mundo que estavam suando e orando, grudados na “voz do mestre”.
+
+
 Só houve alguns poucos pedidos de R . C . Colas, Dr Peppers e Hire’s root beer. As verdadeiras comemorações começariam depois da luta. Aí até as senhoras cristãs, que ensinavam os filhos e se obrigavam a dar a outra face, comprariam refrigerantes. E, se a vitória do Bombardeiro Marrom fosse particularmente sangrenta, elas comprariam pés de moleque e também chocolate Baby Ruth.
+
+
 Bailey e eu colocamos as moedas em cima da caixa registradora. Tio Willie não nos deixava receber pagamentos durante uma luta. A caixa registradora era muito barulhenta e podia abalar o clima. Quando o gongo soou no final do round seguinte, passamos pelo silêncio quase sagrado até onde estava a horda de crianças lá fora.
 
 Ele encurralou Louis nas cordas e agora foi um de esquerda no corpo e um de direita nas costelas. Outro de direita no corpo; parece que ele bateu baixo... Sim, senhoras e senhores, o árbitro está sinalizando, mas o oponente continua golpeando Louis. Outro no corpo, e parece que Louis está caindo.
+
+
 Minha raça gemeu. Era nosso povo caindo. Era outro linchamento, mais um Negro enforcado em uma árvore. Mais uma mulher emboscada e estuprada. Um garoto Negro chicoteado e ferido. Eram cachorros na trilha de um homem correndo por pântanos gosmentos. Era uma mulher branca estapeando a empregada por ser esquecida.
 
 Os homens no Mercado se afastaram das paredes, alertas. As mulheres apertavam os bebês no colo enquanto, na varanda, as cartas embaralhadas e os sorrisos, os flertes e beliscos de alguns minutos antes tinham parado. Podia ser o fim do mundo. Se Joe perdesse, estaríamos de volta à escravidão, sem chance de ajuda. Seria tudo verdade, as acusações de que éramos do tipo mais baixo de ser humano. Só um pouco acima dos macacos. Seria verdade que éramos burros e feios e preguiçosos e sujos e sem sorte e, pior de tudo, que o Próprio Deus nos odiava e nos mandava ser carregadores de madeira e coletores de água para sempre, sem nunca ter fim.
 
 Nós não respiramos. Nós não tivemos mais esperança. Nós apenas esperamos.
+
+
 Ele se afastou das cordas, senhoras e senhores. Está indo na direção do centro do ringue.” Não houve tempo de sentir alívio. O pior ainda podia acontecer.
 
 E agora parece que Joe está com muita raiva. Ele acertou Carnera com um gancho de esquerda na cabeça e um de direita na cabeça. Um soco de esquerda no corpo e outro de esquerda na cabeça. Um cruzado de esquerda e um de direita na cabeça. O olho direito do oponente está sangrando, e ele não consegue manter o bloqueio. Louis está penetrando em todas as defesas. O árbitro está se aproximando, mas Louis enfia um soco de esquerda no corpo e um uppercut no queixo, e o oponente está caindo. Ele está na lona, senhoras e senhores.
 
 Bebês foram para o chão quando as mulheres se levantaram e os homens se inclinaram para o rádio.
+
+
 “Aqui está o árbitro. Ele está contando. Um, dois, três,
 quatro, cinco, seis, sete... O oponente está tentando se levantar novamente?”
 Todos os homens gritaram: “NÃO”.
@@ -83,7 +103,7 @@ Campeão mundial. Um garoto Negro. O filho de uma mãe Negra. Ele era o homem ma
 
 Demoraria uma hora ou mais para as pessoas saírem do Mercado e voltarem para casa. Os que moravam longe demais fizeram arranjos para ficarem na cidade. Não seria bom um homem Negro e sua família serem pegos em uma estrada solitária na noite em que Joe Louis provou que éramos o povo mais forte do mundo.
 
-Trecho de Maya Angelou: “Eu sei por que o pássaro canta na gaiola”. Tradução e Regiane Winasky. Astral Cultural, 2018. 
+Trecho de Maya Angelou: “Eu sei por que os pássaros cantam na gaiola”. Tradução e Regiane Winasky. Astral Cultural, 2018. 
 
 X
 
@@ -141,6 +161,8 @@ Eu me levanto\
 Eu me levanto\
 Eu me levanto.
 
-*Maya Angelou* \
-*Poesia Completa. Tradução de Lubi Prates. Editora Astral Cultural.
-Maya Angelou e Billie Holiday, desenho de Edward Sorel*
+Maya Angelou \
+Poesia Completa. Tradução de Lubi Prates. Editora Astral Cultural.
+
+
+*Maya Angelou e Billie Holiday, desenho de Edward Sorel*
