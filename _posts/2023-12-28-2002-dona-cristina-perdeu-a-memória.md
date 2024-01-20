@@ -10,7 +10,7 @@ Muita gente se preocupou antecipadamente com o que poderia ocorrer às [20:02 d
 
 Em junho, Brasil e Alemanha, os maiores vencedores do futebol no século anterior, se enfrentam pela primeira vez numa Copa do Mundo, e justamente na final da primeira Copa do novo século: daquela vez, deu [Brasil, 2x0](https://youtu.be/6RFu-SYt-L8). Em janeiro, o [Euro](https://en.wikipedia.org/wiki/History_of_the_euro) se torna a moeda oficial da maioria dos países da União Europeia. Em outubro, com mais de 53 milhões de votos, [Lula](http://lula.com.br/) é o primeiro [operário](http://content.time.com/time/specials/packages/article/0,28804,1984685_1984864_1984866,00.html) a se tornar [presidente do Brasil](https://www.youtube.com/watch?v=vLM7_OmiMB8).
 
-![](/uploads/lula3.jpg)
+![](/uploads/lula1.jpg)
 
 A mania dos reality shows se alastra: além do fenômeno [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(franchise)), surge o [American Idol](https://en.wikipedia.org/wiki/American_Idol), primeiro de muitos no formato de descoberta de cantores. Dirigido por [Fernando Meirelles](https://pt.wikipedia.org/wiki/Fernando_Meirelles), "[Cidade de Deus](https://www.youtube.com/watch?v=pUt-yPxOZqk)" se torna um sucesso de público e crítica, com mais de 3 milhões de espectadores. A música se despede de [John Entwistle](https://www.youtube.com/watch?v=2jPW0XWuo6g), [Ray Conniff](https://pt.wikipedia.org/wiki/Ray_Conniff) e [Joe Strummer](https://youtu.be/48-geUgSF8g), e o cinema perde o grande [Billy Wilder](https://youtu.be/bpC-XrpL39w).
 
