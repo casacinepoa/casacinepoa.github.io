@@ -8,7 +8,7 @@ date: 2017-11-25 16:57:31
 
 O ano é 1992. O primeiro serviço de SMS comercial é disponibilizado pela [Vodafone](https://www.edn.com/electronics-blogs/edn-moments/4402146/1st-text-message-is-sent--December-3--1992) na Inglaterra, o [Apartheid chega ao fim](https://www.nytimes.com/2017/10/24/business/south-africa-economy-apartheid.html) na África do Sul e Collor deixa a presidência do Brasil após o processo de [impeachment](https://pt.wikipedia.org/wiki/Processo_de_impeachment_de_Fernando_Collor).
 
-![](/uploads/fora1.jpg)
+[![](/uploads/fora1.jpg)](https://www.casacinepoa.com.br/uploads/fora2.jpg)
 
 Dia 7 de fevereiro é assinado o distrato da Casa de Cinema original. Em abril, em novo endereço (da rua Lajeado para a Miguel Tostes), começa a funcionar a produtora Casa de Cinema de Porto Alegre, com os seis sócios remanescentes: Ana Luiza Azevedo, Carlos Gerbase, Giba Assis Brasil, Jorge Furtado, Luciana Tomasi e Nora Goulart. Esta formação se manterá por quase 20 anos. 
 
