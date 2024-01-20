@@ -8,7 +8,7 @@ date: 2017-12-13 17:39:19
 
 O ano começa com a inauguração do [Burj Khalifa](https://www.youtube.com/watch?v=cn7AFhVEI5o), maior edifício do mundo, com 828 metros de altura, nos [Emirados Árabes Unidos](https://pt.wikipedia.org/wiki/Emirados_%C3%81rabes_Unidos), mesmo lugar onde, em dezembro, o Internacional, depois de conquistar o [bicampeonato da Libertadores](https://www.youtube.com/watch?v=4H8TBNKG_i8), perde a semifinal do Mundial para o Mazembe. Em março, o ex-guerrilheiro tupamaro [José Mujica](https://pt.wikipedia.org/wiki/Jos%C3%A9_Mujica), eleito em 2009, assume a presidência do Uruguai, sucedendo [Tabaré Vázquez](https://pt.wikipedia.org/wiki/Tabar%C3%A9_V%C3%A1zquez). Falando em guerreiros, no Brasil, elegemos a primeira presidenta, [Dilma Rousseff](http://dilma.com.br/), com 56% dos votos. O IBGE divulga os primeiros dados definitivos do censo 2010, apontando a população brasileira em 190.732.694 habitantes.
 
-![](/uploads/dilma1_0.jpg)
+[![](/uploads/dilma1_0.jpg)](https://www.casacinepoa.com.br/uploads/dilma2_0.jpg)
 
 [Steve Jobs](https://pt.wikipedia.org/wiki/Steve_Jobs) e a Apple apresentam o [iPad](https://youtu.be/6Fk1V5NqoD4), um computador portátil com 2010 utilidades. A primeira Copa do Mundo em [território africano](https://www.youtube.com/watch?v=Clg_U3UhsIA) foi conquistada pela primeira vez pela seleção da [Espanha](https://www.youtube.com/watch?v=EVMGxBjHXnA). Um drama com final feliz no Chile: [33 mineiros](https://www.youtube.com/watch?v=7g_qzFlB28o) que ficaram soterrados na Mina San José são resgatados com vida e comovem o mundo. A Argentina torna-se o primeiro país da América Latina a aprovar o [casamento homossexual](http://g1.globo.com/mundo/noticia/2010/07/senado-da-argentina-aprova-o-casamento-gay.html).
 
