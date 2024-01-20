@@ -8,7 +8,7 @@ date: 2017-11-20 10:11:23
 
 1986 foi o ano do [cometa](https://pt.wikipedia.org/wiki/Cometa_Halley) que ninguém viu, da [Constituinte](https://pt.wikipedia.org/wiki/Assembleia_Nacional_Constituinte_de_1987) que era pra ser exclusiva e não foi, da [Copa](https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_1986) que nós perdemos nos pênaltis e o Maradona ganhou com a mão, mas também com os pés.
 
-![](/uploads/convite-00a.jpg)
+[![](/uploads/convite-00a.jpg)](https://www.casacinepoa.com.br/uploads/convite-0000.jpg)
 
 *F﻿olheto distribuído em dezembro de 1987, convidando para a inauguração da Casa de Cinema.*
 
