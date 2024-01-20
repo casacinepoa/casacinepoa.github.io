@@ -8,7 +8,7 @@ date: 2017-12-06 17:26:04
 
 Lula [toma posse](https://en.wikipedia.org/wiki/First_inauguration_of_Luiz_In%C3%A1cio_Lula_da_Silva) em janeiro, os EUA [invadem o Iraque](https://en.wikipedia.org/wiki/2003_invasion_of_Iraq) em março e [Saddam Hussein](https://en.wikipedia.org/wiki/Saddam_Hussein) é capturado pelos norte-americanos em setembro. A ovelha [Dolly](https://en.wikipedia.org/wiki/Dolly_(sheep)), primeiro clone de um mamífero adulto, é sacrificada aos seis anos, e a conclusão do Projeto [Genoma Humano](https://pt.wikipedia.org/wiki/Genoma_humano) é anunciada. O primeiro programa de transmissão de voz e imagem pela internet, o [Skype](https://www.youtube.com/watch?v=UneEMkani5g), é lançado.
 
-![](/uploads/daiane.jpg)
+![](/uploads/daiane1.jpg)
 
 [Daiane dos Santos](https://youtu.be/_elohkkjDAY) inventa o duplo twist carpado e é a primeira brasileira a vencer um mundial de ginástica solo. [Amy Winehouse](https://www.youtube.com/watch?v=bOzVprikzKA) lança seu primeiro disco, "Frank", e os [Bee Gees](https://www.youtube.com/watch?v=thkh7wNdgoo) anunciam o fim do grupo após a morte de Maurice Gibb, pouco antes de completarem 45 anos de carreira.
 
