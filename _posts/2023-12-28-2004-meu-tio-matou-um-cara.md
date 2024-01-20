@@ -10,7 +10,7 @@ A sociedade globalizada começa a funcionar em rede: o [Orkut](https://tecnoblo
 
 Treze anos depois, o [Grêmio](https://www.youtube.com/watch?v=T5QPOk_CH-I) volta a cair para a série B. Em dezembro, um [tsunami](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami) mata quase 400 mil pessoas no sudoeste asiático, tornando-se o maior acidente natural da história. Damos adeus a [Leonel Brizola](https://youtu.be/q8-vawm_apM), [Marlon Brando](https://youtu.be/m7VbfYI1leQ), [Yasser Arafat](https://pt.wikipedia.org/wiki/Yasser_Arafat), [Rogério Sganzerla](http://www.historiadocinemabrasileiro.com.br/rogerio-sganzerla/), [Susan Sontag](https://en.wikipedia.org/wiki/Susan_Sontag), [Ray Charles](https://www.youtube.com/watch?v=qIp9TwSEgFg), [Henri Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson), [Hilda Hilst](https://pt.wikipedia.org/wiki/Hilda_Hilst) e [Fernando Sabino](https://pt.wikipedia.org/wiki/Fernando_Sabino).
 
-![](/uploads/brizola1.jpg)
+[![](/uploads/brizola1.jpg)](https://www.casacinepoa.com.br/uploads/brizola.jpg)
 
 Por aqui, a Casa de Cinema consegue apoio do [Fumproarte](https://prefeitura.poa.br/smc/projetos/fumproarte) para finalizar "[O gato](https://www.casacinepoa.com.br/uploads/gato-imgr.jpg)", de Saturnino Rocha, que havia sido rodado 20 anos antes. E lançamos nosso quarto longa, "[Meu Tio Matou um Cara](https://www.casacinepoa.com.br/uploads/mtm1c-imgr.jpeg)". Será que em tempos pós-Orkut ia ser mais fácil para Duca inocentar o tio Éder?
 
