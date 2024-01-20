@@ -8,7 +8,7 @@ date: 2017-12-08 18:20:07
 
 Depois de NY e Madrid, a onda de terror chega a [Londres](https://www.theguardian.com/uk/2005/jul/08/terrorism.july74): um dia após a cidade ser anunciada como [sede das Olimpíadas](https://www.youtube.com/watch?v=nM0012jVK0w) de 2012, uma série de explosões no sistema de metrô [mata 52 pessoas](http://www.bbc.com/news/uk-33253598). Quinze dias depois, no mesmo metrô, o eletricista brasileiro [Jean Charles de Menezes](https://www.youtube.com/watch?v=RgmGqNeNywk) é confundido com um terrorista e morto por policiais.
 
-![](/uploads/evo.jpg)
+![](/uploads/evo1.jpg)
 
 Em fevereiro, a religiosa [Dorothy Stang](https://pt.wikipedia.org/wiki/Dorothy_Stang) é [assassinada](https://youtu.be/bg7HJa3NE8g) no Pará, por defender os direitos dos povos nativos da Amazônia. Em dezembro, o [aymara](https://pt.wikipedia.org/wiki/Aimar%C3%A1s) [Evo Morales](https://pt.wikipedia.org/wiki/Evo_Morales) é eleito o primeiro presidente indígena da história da Bolívia. [João Paulo II ](https://www.youtube.com/watch?v=BsKgohal1ck)morre em abril e o alemão [Joseph Ratzinger](https://pt.wikipedia.org/wiki/Papa_Bento_XVI) assume como 265º Papa da igreja católica, com o nome de Bento XVI. [Angela Merkel](https://pt.wikipedia.org/wiki/Angela_Merkel) é a primeira mulher presidenta da Alemanha e a USP tem pela primeira vez uma reitora, [Suely Vilela](https://pt.wikipedia.org/wiki/Suely_Vilela).
 
