@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Além das Redes de Colaboração" tem lançamento em Belém'
-date: 2008-10-01 10:08:39
+date: 2008-10-10 10:08:39
 ---
 Depois de São Paulo, Natal e Porto Alegre, o livro "Além das Redes de Colaboração", registro do seminário de mesmo nome realizado ano passado, será lançado em Belém, no próximo dia 17 de outubro. O lançamento acontecerá no "Computer Hall" de Belém, dentro do VI Seminário Paraense de Software Livre, cujo lema é "um outro software é possível".
 
