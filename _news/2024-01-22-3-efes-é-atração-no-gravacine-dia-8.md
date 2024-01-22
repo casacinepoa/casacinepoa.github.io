@@ -7,7 +7,7 @@ Gravacine é a mostra de cinema brasileiro que acontece nos próximos dias 8 e 9
 
 Serão exibidos 12 curtas brasileiros e os 2 longas mais recentes da produção gaúcha: 3 EFES, produção da Casa de cinema de Porto Alegre com direção de Carlos Gerbase, e "Valsa para Bruno Stein", de Paulo Nascimento. No domingo, dia 9, às 16 horas, haverá ainda um debate sobre "o futuro do cinema em Gravataí", com mediação da radialista Mary Mezzari.
 
-3 EFES é atração na mostra de longas-metragens do Gravacine, fechanda a programação do sábado, dia 8. No sítio oficial da mostra, o filme é apresentado com a seguinte sinopse:
+3 EFES é atração na mostra de longas-metragens do Gravacine, fechanda a programação do sábado, dia 8. No [sítio oficial da mostra](http://www.gravacine.com.br/), o filme é apresentado com a seguinte sinopse:
 
 "Sissi (Cristina Kessler) é uma jovem universitária que sustenta, a duras penas, o pai viúvo e o irmão pequeno. Nessa situação de dificuldade, Sissi recorre aos conselhos de sua tia, Martina (Carla Cassapo), dona de casa entediada que, em meio a uma crise no seu casamento com o publicitário Rogério (Leonardo Machado), fica irresistivelmente atraída por William, simmples catador de papel."
 
