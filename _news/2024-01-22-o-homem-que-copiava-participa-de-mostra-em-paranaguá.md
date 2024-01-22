@@ -3,9 +3,10 @@ layout: post
 title: O HOMEM QUE COPIAVA participa de mostra em Paranaguá
 date: 2024-01-15 10:22:07
 ---
+![](/uploads/hqc-20anos.jpg)
+
 **TELÕES DE CINEMA TOMAM CONTA DO LITORAL DO PARANÁ COM EXIBIÇÕES GRATUITAS DE FILMES CLÁSSICOS**\
 [Bem Paraná](https://www.bemparana.com.br/cultura/teloes-de-cinema-tomam-conta-do-litoral-do-parana-com-exibicoes-gratuitas-de-filmes-classicos/), 15/01/2024 | 17:01
-
 
 De 1º a 10 de março, Cinenaguá contará com telões na Estação Ferroviária, no Teatro Rachel Costa e em Brasília, na Ilha do Mel, para a exibição gratuita de longas-metragens
 
