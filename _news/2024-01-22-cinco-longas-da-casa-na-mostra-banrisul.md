@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cinco longas da Casa na Mostra Banrisul
-date: 2024-01-22 09:47:34
+date: 2008-11-24 09:47:34
 ---
 Como já ocorreu no início deste ano, a Casa de Cultura Mário Quintana e o Banrisul voltam a apresentar uma mostra de filmes de longa-metragem recentemente produzidos no Rio Grande do Sul. A mostra Banrisul 2008 acontece de 25 a 30 de novembro nas salas Paulo Amorim e Norberto Lubisco, e reúne 14 títulos, sendo 5 produções da Casa de Cinema de Porto Alegre: TOLERÂNCIA (2000), HOUVE UMA VEZ DOIS VERÕES (2002), O HOMEM QUE COPIAVA (2003), SAL DE PRATA (2005) e SANEAMENTO BÁSICO, O FILME (2007).
 
