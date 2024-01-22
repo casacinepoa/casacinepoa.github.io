@@ -7,7 +7,7 @@ A cinemateca Pacific Film Archive, da Universidade de Berkeley, na Califórnia, 
 
 Na sessão do dia 27 de janeiro, serão exibidos filmes-ensaio de Fernando Birri, David Griffith, Luis Buñuel e Jorge Furtado. O longa-metragem da noite será "Tire Die" (1958), do argentino Birri, em parceria com seus alunos do Instituto de Cinematografia da Universidad Nacional del Litoral. Abre a sessão ILHA DAS FLORES (1989), curta-metragem produzido pela Casa de Cinema de Porto Alegre, com direção de Jorge Furtado. Complementando o programa, serão exibidos ainda "Tierra sin pan", de Buñuel, e "A Corner in wheat", de Griffith.
 
-A primeira parte da mostra, que vai até o dia 24 de fevereiro, terá ainda ensaios fílmicos de Chris Marker, Dziga Vertov, Jean-Luc Godard e Jean Rouch, entre outros. A programação completa desta série pode ser conferida no sítio do PFA.
+A primeira parte da mostra, que vai até o dia 24 de fevereiro, terá ainda ensaios fílmicos de Chris Marker, Dziga Vertov, Jean-Luc Godard e Jean Rouch, entre outros. A programação completa desta série pode ser conferida no [sítio do PFA](http://www.bampfa.berkeley.edu/filmseries/gorin_essay).
 
 A mostra "The Essay in Cinema" foi originalmente organizada pelo Austrian Film Museum, para ser apresentada no Festival Internacional de viena em outubro de 2007. No PFA, a produção da mostra é de Kathy Geritz. A sala de cinema do Pacific Film Archive fica no número 2575 da Bancroft Way, em Berkeley, entre College e Telegraph, junto ao Berkeley Art Museum.
 
