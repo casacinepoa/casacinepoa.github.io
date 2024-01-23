@@ -1,5 +1,5 @@
 ---
-date: 2024-01-22 10:28:29
+date: 2024-01-23 09:38:37
 image: /uploads/vea_atrizes2.jpg
 title: VIRGÍNIA E ADELAIDE em fase de montagem
 link: https://gauchazh.clicrbs.com.br/cultura-e-lazer/cinema/noticia/2023/11/casa-da-rua-coronel-bordini-vira-cenario-para-novo-filme-de-jorge-furtado-e-yasmin-thayna-clplbxixa001m013l418b1gev.html
