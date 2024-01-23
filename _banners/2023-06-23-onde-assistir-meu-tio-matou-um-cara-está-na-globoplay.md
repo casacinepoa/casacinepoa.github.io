@@ -1,5 +1,5 @@
 ---
-date: 2023-06-23 11:19:46
+date: 2024-01-23 09:37:48
 image: /uploads/meutio-jornal.jpg
 title: 'ONDE ASSISTIR: "Meu tio matou um cara" está na Globoplay'
 link: https://globoplay.globo.com/meu-tio-matou-um-cara/t/hdjqC8N1Ls/
