@@ -18,7 +18,7 @@ No Festival Kinofórum, RUMMIKUB faz parte da Mostra Brasil 2, e terá quatro ex
 -- dia 24/08 às 18 h no Centro Cultural São Paulo\
 -- dia 26/08 às 22 h no CineSESC
 
-Mais sobre a mostra no sítio oficial do Festival Kinofórum.
+Mais sobre a mostra no [sítio oficial do Festival Kinofórum](http://www.kinoforum.org.br/curtas/2008/).
 
 ![](/uploads/rummikub2.jpg)
 
