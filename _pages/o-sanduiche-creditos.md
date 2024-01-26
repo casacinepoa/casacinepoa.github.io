@@ -1,5 +1,6 @@
 ---
 title: O sanduiche - creditos
+permalink: /filmes/o-sanduiche/creditos-completos/
 layout: page
 ---
 ELENCO\
