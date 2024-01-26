@@ -1,5 +1,5 @@
 ---
-title: O sanduiche - creditos
+title: O sanduíche - créditos
 permalink: /filmes/o-sanduiche/creditos-completos/
 layout: page
 ---
