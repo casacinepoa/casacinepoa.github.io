@@ -5,7 +5,7 @@ date: 2023-06-28 01:20:30
 ---
 ![](/uploads/um-curta.jpg)
 
-MOSTRA UM CURTA POR DIA - VERTENES DO CINEMA\
+MOSTRA UM CURTA POR DIA - VERTENTES DO CINEMA\
 [Vertentes do Cinema](https://vertentesdocinema.com/tudo-sobre-a-mostra-online-um-curta-por-dia/), 25/06/2023
 
 / O primeiro mês exibe 31 curtas-metragens de diferentes gêneros e temáticas de 29 de junho a 29 de julho
