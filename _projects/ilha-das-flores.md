@@ -6,6 +6,11 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/ilhafl-imgr.jpg
 image_credits: Foto por Carlos Gerbase
+where_to_watch:
+  - title: VImeo
+    url: https://vimeo.com/238439307
+  - title: SUlflix
+    url: https://sulflix.com.br/app/curtas/ilha-das-flores
 details:
   - title: Créditos
     content: |-
