@@ -4,8 +4,6 @@ title: Temporal, 40 anos
 author: jorge
 date: 2024-02-05 15:28:34
 ---
-
-
 ![](/uploads/temporal-claq.jpg)
 
 *Marcelo Lopes (1952-1991) na claquete, Christian Lesage ao fundo, Jorge Furtado quase saindo de quadro, no 6º dia de filmagem de TEMPORAL*\
@@ -23,7 +21,9 @@ Fotografia, produção, elenco, o curta tem muitas qualidades, mas eu acho que n
 \
 Nestes quarenta anos, muitos dos amigos que estão nos créditos já se foram, outros continuam por aqui, fazendo filmes, teatro, televisão. Seguem os créditos completos e link para ver "Temporal". Como diz um dos personagens do filme, "respeito é a puta que te pariu!"
 
-**TEMPORAL**\
+**TEMPORAL**
+
+**[A﻿SSISTIR NO VIMEO](https://vimeo.com/401193280)**\
 \
 ELENCO\
 Biratã Vieira (Francisco Arcanjo)\
@@ -72,16 +72,4 @@ Assistentes de Produção: Betty Perrenoud\
 / Cláudia Cabreira
 
 Filmado em Porto Alegre, de 5 a 12 de fevereiro de 1984.\
-Estreou no Festival de Gramado, 12 de abril de 1984. 12/04/1984\
-Temporal
-
-\
-[VIMEO.COM](<>)\
-Temporal\
-This is "Temporal" by Casa de Cinema de Porto Alegr
-
-
-
-
-
-<!--EndFragment-->
+Estreou no Festival de Gramado, 12 de abril de 1984. 12/04/1984
