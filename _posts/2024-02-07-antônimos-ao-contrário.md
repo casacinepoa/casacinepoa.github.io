@@ -14,7 +14,7 @@ Liga Ágil, pra quem não sabe, é a associação brasileira de palindromistas, 
 
 Aqui cabem dois esclarecimentos, pra quem não tem a manha palindrômica. Primeiro: ler ou escrever ao contrário (oirátnoc oa revercse) não é fazer palíndromos, embora essa habilidade possa ser útil pra quem se dispõe a construí-los. Segundo: uma palavra que lida ao contrário dá outra palavra também não é um palíndromo, embora esse par de palavras possa ser usado para construir um palíndromo. Exemplo clássico: 'Roma' é 'amor' ao contrário, e o parzinho pode formar o que o Ministério do Turismo da Itália definiria como um palíndromo fofo: ROMA ME TEM AMOR.
 
-Fábio Aristimunho Vargas, atual presidente da Liga Ágil, em seu seminal livro "Arara rara, ensaio sobre a palindromia" (ed. Unila, 2021) estabelece a denominação de BIFRONTES a este par de palavras ou expressões em que um é o inverso do outro. Dois bifrontes colocados lado a lado formam um palíndromo; Raul e luar são bifrontes, luar é bifronte de Raul, RAUL E LUAR é um palíndromo.
+Fábio Aristimunho Vargas, atual presidente da Liga Ágil, em seu seminal livro "Arara rara, ensaio sobre a palindromia" (ed. Unila, 2021) estabelece a denominação de BIFRONTES a este par de palavras ou expressões em que um é o inverso do outro. Dois bifrontes colocados lado a lado formam um palíndromo; 'Raul' e 'luar' são bifrontes, 'luar' é bifronte de 'Raul', RAUL E LUAR é um palíndromo.
 
 Então, voltando à questão que apareceu lá por setembro do ano passado entre os palindromistas da rede: existe em português algum par de palavras que sejam ao mesmo tempo bifrontes e antônimos?
 
