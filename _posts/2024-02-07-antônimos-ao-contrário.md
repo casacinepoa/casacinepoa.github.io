@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANTÔNIMOS AO CONTRÁRIO
+title: Antônimos ao contrário
 author: giba
 date: 2024-02-07 11:02:08
 ---
