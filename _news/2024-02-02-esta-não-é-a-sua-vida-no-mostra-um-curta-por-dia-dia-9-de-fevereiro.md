@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESTA NÃO É A SUA VIDA no mostra "Um curta por dia" dia 9 de fevereiro
+title: ESTA NÃO É A SUA VIDA na mostra "Um curta por dia" dia 9 de fevereiro
 date: 2024-02-02 19:49:33
 ---
 ![](/uploads/eneasv-pb.jpg)
