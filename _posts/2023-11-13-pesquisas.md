@@ -4,10 +4,7 @@ title: Pesquisas
 author: giba
 date: 2018-09-15 20:46:52
 ---
-*por Giba Assis Brasil*\
-*em 15 de setembro de 2018*
-
-*(enviado para a Lista PT em 15/09/1998)*
+*(enviado para a Lista PT em 15/09/1998, vinte anos atrás)*
 
 Quando estourou o escândalo Watergate, uma das muitas tramóias de Richard Nixon que foram divulgadas foi o esquema que ele tinha com o Gallup, então maior instituto de pesquisa e opinião do mundo.
 
