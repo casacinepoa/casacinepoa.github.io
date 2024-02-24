@@ -4,10 +4,7 @@ title: Comício da Candelária
 author: giba
 date: 2018-04-05 20:36:58
 ---
-*por Giba Assis Brasil*\
-*em 05 de abril de 2018*
-
-*(mensagem para a Lista PT em 05/04/1998)*
+*(mensagem para a Lista PT em 05/04/1998, vinte anos atrás)*
 
 Em novembro de 1989, deu-se o acaso de eu estar no Rio de Janeiro quando Lula ia fazer seu último comício no primeiro turno, na Candelária. Adiei minha volta a Porto Alegre pra assistir. E, até hoje, não lembro de ter participado de um comício tão emocionante.
 
