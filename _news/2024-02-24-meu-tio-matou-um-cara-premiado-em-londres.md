@@ -12,4 +12,4 @@ Mais informações sobre o festival em:
 
 ![](/uploads/festiv-uk.jpg "UK Brasilian Film Festival")
 
-UK Brasilian Film Festival
+*UK Brasilian Film Festival*
