@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Canal Brasil anuncia a grade de exibição de 3 EFES
-date: 2024-02-24 00:39:37
+date: 2007-11-21 00:39:37
 ---
 O Canal Brasil, em seu site, já está anunciando as exibições do making-of de 3 EFES e do próprio filme. "Colocando os pingos nos efes" estréia dia 27/11, de madrugada, mas depois passa em horários mais civilizados. O filme estréia dia 7, ao mesmo tempo na TV (Canal Brasil e TV-COM), nas salas de cinema (Porto Alegre, São Paulo, Rio de Janeiro, Curitiba, Salvador e Brasília), em DVD e na Internet (<http://www.terra.com.br>). Cada um assiste como quiser, na hora que quiser.
 
