@@ -5,7 +5,7 @@ date: 2007-09-25 00:49:42
 ---
 Estão abertas as inscrições para o Seminário "Além das Redes de Colaboração" do Programa Cultura e Pensamento. O evento é uma realização conjunta da Casa de Cinema de Porto Alegre e da Associação Software Livre.
 
-Através do blog do seminário você garante sua participação nos debates, presenciais ou via WebTV.
+Através do [blog do seminário](http://www.rn.softwarelivre.org/alemdasredes) você garante sua participação nos debates, presenciais ou via WebTV.
 
 A escolha dos locais privilegia os dois extremos geográficos do Brasil, "demonstrando o poder desterritorializante e distribuído da cultura digital e das redes de colaboração". Porto Alegre é sede anual do maior evento da comunitário de hackers e ativistas, o Fórum Internacional de Software Livre, que em abril deste ano reuniu mais de 5 mil pessoas. Em Natal, convergirão a contra-cultura e as redes alternativas, demonstrando que o país é bem maior que os seus grandes centros.
 
