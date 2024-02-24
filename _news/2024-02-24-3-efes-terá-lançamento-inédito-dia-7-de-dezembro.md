@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 EFES terá lançamento inédito dia 7 de dezembro
-date: 2024-02-24 00:36:32
+date: 2007-11-20 00:36:32
 ---
 O longa-metragem 3 EFES, de Carlos Gerbase, tem estréia nacional marcada para o dia 7 de dezembro. A novidade para a data é o lançamento simultâneo em quatro mídias diferentes: nos cinemas, pelo circuito digital da Rain; na TV aberta e fechada, pelo Canal Brasil (às 19h30) e pela TV Com, do Rio Grande do Sul; na internet, pelo Portal Terra; e em DVD, com venda em locadoras e na loja virtual da Casa de Cinema de Porto Alegre.
 
