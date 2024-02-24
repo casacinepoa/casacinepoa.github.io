@@ -14,4 +14,6 @@ Dois outros filmes brasileiros participam da mostra: "Zuzu Angel", de Sérgio Re
 
 Mais informações no site http://www.iffi.nic.in
 
-Darlan Cunha (o protagonista Duca), Lázaro Ramos (tio Éder) e Sérgio Lulkin (o advogado Rogério) em cena de MEU TIO MATOU UM CARA
+![](/uploads/mtm1c-elevador.jpg)
+
+*Darlan Cunha (o protagonista Duca), Lázaro Ramos (tio Éder) e Sérgio Lulkin (o advogado Rogério) em cena de MEU TIO MATOU UM CARA*
