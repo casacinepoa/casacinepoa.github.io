@@ -4,10 +4,7 @@ title: I don't believe in Beatles?
 author: giba
 date: 2018-05-02 20:40:43
 ---
-*por Giba Assis Brasil*\
-*em 02 de maio de 2018*
-
-*(mensagem para Caio Amon em 02/05/1998)*
+*(mensagem para Caio Amon em 02/05/1998, vinte anos atrás)*
 
 Acho que o "God", do John Lennon, e principalmente a frase sobre não acreditar mais "nem nos Beatles", precisam ser entendidos como circunstância. Olha só.
 
