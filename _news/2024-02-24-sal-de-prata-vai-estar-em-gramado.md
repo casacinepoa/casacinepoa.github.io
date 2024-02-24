@@ -10,3 +10,7 @@ Outros dois filmes feitos no Rio Grande do Sul concorrem na categoria longa-metr
 Para a categoria curta-metragem em 35 mm, foram selecionados dois filmes gaúchos: "Kactus Kid", de Lancast Mota e "Os Olhos do Pianista", de Frederico Pinto. E ainda: "Balaio", de Luiz Montes (SP); "Cavalhadas de Pirenópolis", de Adolfo Lachtermacher (RJ); "Como se Fosse Ontem", de Gustavo Moraes e Roberto Seba (ES); "Desejo", de Anne Pinheiro Guimarães (RJ); "Desventuras de Um dia ou a Vida não é um Comercial de Margarina", de Adriana Meirelles (SP); "Entre Paredes", de Eric Laurence (PE); "Eu Te Darei o Céu", de Afonso Poyart (SP); "Ímpar Par", de Esmir Filho (SP); "Tempo Real", de Mino Barros Reis e Joana Lima Verde (RJ); "Visita Íntima", de Joana Nin (SC);
 
 Na mostra latina, participam o venezuelano "Punto y raya", de Elia Schneider, o português "Kiss me", de António da Cunha Teles, o argentino "Buenos Aires 100 km", de Pablo José Meza, o mexicano "Un Dia sin mexicanos", de Sergio Arau e o cubano "Roble de olor", de Rigoberto López.
+
+![](/uploads/sdp-fernanda-camila.jpg)
+
+*M﻿aria Fernanda Cândido e Camila Pitanga em SAL DE PRATA.*
