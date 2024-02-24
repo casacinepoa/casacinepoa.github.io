@@ -7,7 +7,7 @@ date: 2016-01-20 21:49:48
 *por Giba Assis Brasil*\
 *em 20 de janeiro de 2016*
 
-*(mensagem para Fernando Alex Graça de Souza 20/01/2006)*
+*(mensagem para Fernando Alex Graça de Souza 20/01/2006, dez anos atrás)*
 
 **\-﻿- Olá, sou fernando. Quero muito escrever roteiros para TV, escrevo livros e amo esse fenômeno. O problema é que tenho somente doze anos. Há alguma coisa para eu estudar nessa idade? Um abraço.** 
 
