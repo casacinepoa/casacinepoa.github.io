@@ -20,3 +20,7 @@ O XANGÔ DE BAKER STREET / 21% / 41%
 
 Fonte dos dados: Agência Estado\
 (*) Share: audiência sobre Tvs ligadas
+
+![](/uploads/hqc-desenho.jpg)
+
+*L﻿ázaro Ramos e Leandra Leal em O HOMEM QUE COPIAVA*
