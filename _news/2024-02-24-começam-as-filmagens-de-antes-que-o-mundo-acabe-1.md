@@ -1,0 +1,12 @@
+---
+layout: post
+title: Começam as filmagens de ANTES QUE O MUNDO ACABE
+date: 2007-10-29 01:06:25
+---
+A Casa de Cinema de Porto Alegre deu início, dia 30 de Outubro, às filmagens de ANTES QUE O MUNDO ACABE, primeiro longa-metragem dirigido por Ana Luiza Azevedo. As filmagens estão sendo realizadas nas cidades de Taquara, Rolante, Santo Antônio da Patrulha e Porto Alegre, e têm previsão de ser finalizadas em 2 de dezembro.
+
+O filme é baseado na novela infanto-juvenil homônima do escritor gaúcho Marcelo Carneiro da Cunha, cujo título já vendeu mais de 50 mil exemplares em todo o Brasil. A história enfoca a vida de Daniel, um menino de 15 anos, mergulhado em seu pequeno mundo. Sua vida tem problemas que parecem insolúveis: uma namorada que não sabe o que quer, um amigo acusado de ladrão e uma vida pacata na pequena cidade que terá de ser deixada pra trás. Tudo começa a mudar quanto ele recebe uma carta de seu pai, a quem ele nunca conheceu. A partir de então, Daniel descobre que o mundo é bem maior do que aquele que até então conhecia.
+
+Antes que o Mundo Acabe tem roteiro Ana Luiza Azevedo, Paulo Halm, Giba Assis Brasil e Jorge Furtado. A produção é de Nora Goulart e Luciana Tomasi. Parte da equipe, de um total de 40 profissionais, já está nas cidades das locações preparando cenários, estrutura de alimentação e camarins. As cidades foram escolhidas para as filmagens por serem extremamente acolhedoras com a equipe, contribuindo de forma fundamental para realização da obra cinematográfica. Elas se tornarão cenários das aventuras de Daniel, Maria Clara, Mim e Lucas, protagonistas desta história.
+
+Ana Luiza Azevedo dirigiu os curtas Dona Cristina Perdeu a Memória (2002); Três Minutos (1999) e Barbosa (1988), além do média-metragem Ventre Livre (1944). Também dirigiu programas de televisão para campanhas eleitorais (1992 a 2000) e vários especiais para televisão, como Dia de Visita (2001) para a Rede Globo e O Bochecha (2002) para a RBS. Foi assistente de direção de diversos filmes, entre eles os curtas Ilha das Flores (1989), a minissérie Luna Caliente (2000) e os longas Tolerância (2000), O Homem que Copiava (2003), Bens Confiscados (2004), Meu Tio Matou um Cara (2005) e Sal de Prata (2005).
