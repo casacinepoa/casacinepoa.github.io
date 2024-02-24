@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dois projetos da Casa premiados pela Petrobrás
-date: 2005-06-25 20:46:17
+date: 2005-06-29 20:46:17
 ---
 O resultado da seleção pública do Programa Petrobrás Cultural 2004/2005 foi divulgado hoje e a Casa de Cinema de Porto Alegre recebeu dois prêmios de apoio à produção de longa-metragem: "Saneamento Básico, o filme", de Jorge Furtado, e "Antes que o Mundo Acabe", de Ana Luiza Azevedo.
 
