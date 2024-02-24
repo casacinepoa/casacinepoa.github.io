@@ -4,10 +4,7 @@ title: Aportuguesamentos
 author: giba
 date: 2018-05-11 20:43:47
 ---
-*por Giba Assis Brasil*\
-*em 11 de maio de 2018*
-
-*(enviado para a Lista Cinema Brasil em 11/05/1998)*
+*(enviado para a Lista Cinema Brasil em 11/05/1998, vinte anos atrás)*
 
 Dez anos atrás, quando eu, a Ana e o Jorge estávamos pesquisando pra um roteiro sobre a Copa do Mundo de 1950, ouvimos a transmissão radiofônica completa da final, em que o Brasil perdeu pro Uruguai por 2x1. O que mais nos chamou a atenção foi a quantidade de termos em inglês usados pelos narradores (ou melhor, "speakers"). Os "players" davam "kick-off" pra começar o "match", o "center-forward" era obrigado a fazer um "rush" pra não ficar "off-side", os "backs" cometiam "fouls", os "wings" batiam os "corners" e assim por diante. Hoje isso parece ridículo, mas na época era a maneira como se falava (e pensava) sobre futebol no Brasil.
 
