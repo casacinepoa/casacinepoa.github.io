@@ -4,6 +4,8 @@ title: Óscar, um caralho! Meu nome é Zé Pequeno!
 author: giba
 date: 2024-02-24 16:02:55
 ---
+![](/uploads/ze-pequeno.jpg)
+
 *(escrito vinte anos atrás, em 01/03/2004, para a revista Dfato, da AD Comunicação, de Carazinho, a pedido da Denise Caetano; não sei se foi publicado)*
 
 "Cidade de Deus" chegou perto mas, de novo, a Academia de Hollywood preferiu ficar com o que ela já conhecia. Enfim, ainda não foi desta vez que um filme brasileiro ganhou o Oscar. E então: isso é bom ou ruim?
