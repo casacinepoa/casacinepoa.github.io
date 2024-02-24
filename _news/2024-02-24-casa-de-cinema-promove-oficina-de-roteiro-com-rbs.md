@@ -3,7 +3,7 @@ layout: post
 title: Casa de Cinema promove oficina de roteiro com RBS
 date: 2006-05-31 12:05:35
 ---
-**Filmes de ficção ganham ao prêmio de R$ 30 mil e serão exibidos na RBS TV de Porto Alegre**\
+**Filmes de ficção ganham prêmio de R$ 30 mil e serão exibidos na RBS TV de Porto Alegre**\
 [Meio & Mensagem, 31/05/2006 | 17:55](http://www.meioemensagem.com.br/mmonline/jsp/Navega.jsp?pIdConteudo80876&OrId3)
 
 A RBS definiu os oito projetos selecionados para o Histórias Curtas 2006. Os projetos de ficção, com até 15 minutos, ganham ao prêmio de R$ 30 mil, além da utilização de equipamento de gravação e edição da RBS para a realização. A exibição dos filmes acontece em outubro e novembro deste ano na RBS TV de Porto Alegre, aos sábados, às 12h20. Os diretores e roteiristas selecionados rticiparão de uma oficina de direção, montagem e edição, com os cineastas Jorge Furtado, Carlos Gerbase e Giba Assis Brasil.
