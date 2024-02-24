@@ -4,10 +4,7 @@ title: Em defesa da Wikipédia
 author: giba
 date: 2017-09-01 20:22:22
 ---
-*por Giba Assis Brasil*\
-*em 01 de setembro de 2017*
-
-*(mensagem para Lordsir Peninha em 01/09/2007)*
+*(mensagem para Lordsir Peninha em 01/09/2007, dez anos atrás)*
 
 Sobre o funcionamento da Wikipédia, existe muita informação equivocada. Na verdade, a Wikipédia é totalmente, completamente aberta - tanto para inclusões quanto para eliminações.
 
