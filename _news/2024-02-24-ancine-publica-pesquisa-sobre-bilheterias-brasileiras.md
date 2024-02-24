@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ANCINE publica pesquisa sobre bilheterias brasileiras
-date: 2024-02-24 01:12:35
+date: 2007-07-29 01:12:35
 ---
 A Ancine publicou esta semana no seu sítio o resultado de uma pesquisa coordenada por João Carlos Rodrigues, da ACO (Superintendência de Acompanhamento de Mercado), tentando responder à seguinte questão: quantos e quais filmes brasileiros fizeram mais de 500 mil espectadores? O universo pesquisado foi os dos filmes lançados desde 1970, já que antes da criação do Concine não há dados confiáveis sobre bilheterias no Brasil; e até 2006, para não incluir filmes que possivlemente ainda estejam em cartaz.
 
