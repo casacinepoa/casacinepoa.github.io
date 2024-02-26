@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Festival de Punta abre hoje com homenagem a Jorge Furtado
-date: 2024-02-24 20:22:11
+date: 2024-02-23 20:22:11
 ---
 ![](/uploads/festiv-punta.jpg)
 
