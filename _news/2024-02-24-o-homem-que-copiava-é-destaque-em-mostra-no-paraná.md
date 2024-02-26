@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O HOMEM QUE COPIAVA é destaque em mostra no Paraná
-date: 2024-02-24 19:44:05
+date: 2024-02-22 19:44:05
 ---
 ![](/uploads/hqc-trio.jpg)
 
