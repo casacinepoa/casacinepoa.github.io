@@ -10,7 +10,7 @@ date: 2005-01-02 09:08:44
 
 *(originalmente escrito como mensagem para Jorge Furtado, depois enviado a outras pessoas e divulgado em alguns fóruns do meio cinematográfico brasileiro)*
 
-Finalmente consegui ler o tal texto do Jabor que encerra o ano de investidas contra o projeto da Ancinav. Tu disseste que "concorda com algumas coisas e discorda de outras". Pois eu encontrei muitas coisas pra discordar e ainda estou procurando alguma pra concordar. O artigo é pouco mais que uma lista de adjetivos e metáforas, com quase nada de argumentação.
+Finalmente consegui ler o tal texto do Arnaldo Jabor que encerra o ano de investidas contra o projeto da Ancinav. Tu disseste que "concorda com algumas coisas e discorda de outras". Pois eu encontrei muitas coisas pra discordar e ainda estou procurando alguma pra concordar. O artigo é pouco mais que uma lista de adjetivos e metáforas, com quase nada de argumentação.
 
 O projeto da Ancinav, segundo Jabor, é um "aborto ideológico", uma "babaquice", uma "demência", resultado de um "tumor inoperável" ou de um "raciocínio tosco", além de estar cheio de "medidas sorrateiras". Seus responsáveis, que ele nunca nomeia, mas que de alguma forma se aproveitaram da "ingenuidade ou desatenção do Gilberto Gil", são uma "tróika de rancorosos", de "velhos esquerdistas", "bolchevistas de carteirinha" ou "leninistas que tomaram o poder" e usam uma "tática maoísta" como decorrência de uma "atitude baixamente gramsciana", além de "vulgar e tardia". (Pelo menos a palavra "stalinismo" não apareceu dessa vez.)
 
