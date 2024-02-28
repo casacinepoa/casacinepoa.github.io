@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MEU TIO MATOU UM CARA terá pré-estréias em dezembro
-date: 2004-11-29 20:51:24
+date: 2004-12-06 20:51:24
 ---
 Após o lançamento do CD com a trilha sonora, o filme MEU TIO MATOU UM CARA, dirigido por Jorge Furtado, numa co-produção entre a Casa de Cinema de Porto Alegre e a Natasha Filmes do Rio de Janeiro, terá pré-estréias nas principais cidades brasileiras, antes da estréia comercial nacional em 31 de dezembro.
 
