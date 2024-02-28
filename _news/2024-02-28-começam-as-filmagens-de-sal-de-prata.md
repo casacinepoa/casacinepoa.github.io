@@ -15,6 +15,7 @@ Apesar de ter o velho filme "químico" como suporte na maioria das suas cenas, S
 
 A produção foi viabilizada através de prêmios em concursos federais de projetos cinematográficos - da ANCINE e do BNDES, ambos em 2003 - e do apoio das empresas Brasil Telecom, Dana Albarus, Santander Banespa, Banrisul, Banrisul Corretora e Grupo Habitasul.
 
-Acompanhe o dia-a-dia das filmagens pelo sítio do filme no Terra, em
+Acompanhe o dia-a-dia das filmagens pelo sítio do filme no Terra, em\
+<http://www.terra.com.br/cinema/saldeprata>
 
-http://www.terra.com.br/cinema/saldeprata
+![](/uploads/sdp-elenco.jpg)
