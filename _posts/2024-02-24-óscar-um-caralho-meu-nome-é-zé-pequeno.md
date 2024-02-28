@@ -46,4 +46,5 @@ Hoje, o Brasil já voltou a produzir quase 40 filmes por ano, mas só consegue e
 
 Pra quem não sabe, Zé Pequeno e Buscapé são personagens de "Cidade de Deus". Apesar dos Oscars que não vieram, o filme deve voltar a cartaz, no shopping mais próximo, ou em qualquer videolocadora. Se não é o "teu tipo" de filme, tem muito mais cinema brasileiro por aí, variado, diversificado e com muita coisa pra te dizer - sobre a tua vida, sobre o nosso país. E sobre o que nós podemos fazer para mudá-lo.
 
-Giba Assis Brasil
+*Giba Assis Brasil*\
+*m﻿arço de 2004*
