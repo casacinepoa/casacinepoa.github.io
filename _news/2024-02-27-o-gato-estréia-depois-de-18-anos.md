@@ -44,3 +44,15 @@ Assistente de montagem: Alfredo Barros\
 Dublagem e edição de som: Cristiano Scherer\
 Efeitos digitais: Alfredo Barros\
 Montado em FINAL CUT PRO Casa de Cinema de Porto Alegre /2004
+
+![](/uploads/gato-bira-salimen.jpg)
+
+B﻿iratã Vieira (Pedro) e José Salimen Jr. (Ananias)
+
+![](/uploads/gato-oscar-breno.jpg)
+
+O﻿scar Simch (Carioca) e Breno Ruschel (Nicanor)
+
+![](/uploads/gato-deb-giuseppe.jpg)
+
+D﻿ébora Finocchiaro (Júlia) e Giuseppe Oristânio (O Gato)
