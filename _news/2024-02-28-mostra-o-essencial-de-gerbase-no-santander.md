@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mostra "O Essencial de Gerbase" no Santander
-date: 2024-02-27 22:25:20
+date: 2004-05-24 22:25:20
 ---
 O Cine Santander Cultural reservou para a última semana de maio uma mostra com os mais importantes trabalhos de Carlos Gerbase, um dos diretores da Casa de Cinema de Porto Alegre. Gerbase, no momento, além de coordenar o Curso de Produção Audiovisual da PUC, prepara seu quarto longa-metragem, SAL DE PRATA (ex-"Roteiros encontrados num computador"), que começará a filmar no segundo semestre deste ano. E enquanto este longa não vem, o público terá uma oportunidade de assistir e discutir um conjunto significativo de sua obra audiovisual.
 
