@@ -1,0 +1,10 @@
+---
+layout: post
+title: HOUVE UMA VEZ DOIS VERÕES em Nova York
+date: 2003-05-14 13:41:47
+---
+Graças a uma ação conjunta que reúne o Festival do Rio, o Festival de Cinema Brasileiro de Miami e o MoMA (Museu de Arte Moderna do Nova York), um programa de filmes brasileiros será exibido anualmente na Big Apple, começando já no próximo mês de julho. "A idéia é fazer a mostra sempre durante o verão. Nos próximos dois anos, enquanto o MoMA estiver fora de sua sede na rua 53 (em obras), a mostra vai ocupar o cinema Grammercy. Também estão previstas projeções ao ar livre no Brooklyn e no Central Park", conta Ilda Santiago, diretora do Festival do Rio, uma das pessoas à frente do projeto.
+
+O Brasil será o segundo país a ganhar um foco anual do departamento de cinema do MoMA (o único outro é a Alemanha). "Pretendemos levar filmes que tiveram pouca ou nenhuma exibição nos Estados Unidos, usando a experiência e os contatos do festival para atrair pessoas do mercado de maneira que elas possam ver esses filmes com público", diz Ilda. A mostra aprofunda os laços do festival com o MoMA, que já organizou retrospectivas de clássicos restaurados do cinema americano no Brasil, em conjunto com o festival.
+
+A primeira mostra está marcada para acontecer entre 23 e 28/7, com a exibição de "Janela da alma", "Durval discos", "Edifício Master", "Separações", "Dois perdidos numa noite suja", "Desmundo" e HOUVE UMA VEZ DOIS VERÕES. O MoMA vai bancar as cópias legendadas, o transporte e a infra-estrutura do evento na cidade. Cabe ao Festival do Rio buscar novos apoios para levar cineastas e representantes dos filmes, o que facilitaria a divulgação do evento junto à imprensa. A proposta, segundo Ilda, é expandir o festival quando o MoMA retornar à sua sede, dentro de dois anos, sempre mantendo o cinema como foco, mas levando também exposições e shows de música.
