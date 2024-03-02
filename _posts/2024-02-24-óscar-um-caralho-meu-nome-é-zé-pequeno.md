@@ -2,7 +2,7 @@
 layout: post
 title: Óscar, um caralho! Meu nome é Zé Pequeno!
 author: giba
-date: 2024-02-24 16:02:55
+date: 2024-02-29 16:02:55
 ---
 ![](/uploads/ze-pequeno.jpg)
 
