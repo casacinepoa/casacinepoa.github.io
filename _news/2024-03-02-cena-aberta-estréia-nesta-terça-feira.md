@@ -14,3 +14,5 @@ Dia 25/11: NEGRO BONIFÁCIO, baseado no conto de Simões Lopes Neto, com Carolin
 Dia 2/12: FOLHETIM, baseado no romance Ópera de Sabão, de Marcos Rey, com Márcio Garcia.
 
 Dia 9/12: AS TRÊS PALAVRAS DIVINAS, baseado no conto de Leon Tolstoi, com Luis Carlos Vasconcelos.
+
+![](/uploads/hora-estrela-1.jpg)
