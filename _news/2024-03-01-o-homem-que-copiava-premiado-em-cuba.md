@@ -1,7 +1,7 @@
 ---
 layout: post
 title: O HOMEM QUE COPIAVA premiado em Cuba
-date: 2024-03-01 01:15:20
+date: 2003-12-11 01:15:20
 ---
 Lázaro Ramos, protagonista de O HOMEM QUE COPIAVA (produção da Casa de Cinema de Porto Alegre) foi considerado o melhor ator do 25º Festival Internacional del Nuevo Cine Latinoamericano, realizado em Havana, Cuba, de 2 a 12 de dezembro. É a terceira vez consecutiva que o Prêmio Coral de Melhor Ator fica com brasileiros, já que Selton Mello ganhou em 2001 por "Lavoura arcaica" e, no ano passado, o prêmio foi dividido entre o elenco masculino de "Cidade de Deus".
 
