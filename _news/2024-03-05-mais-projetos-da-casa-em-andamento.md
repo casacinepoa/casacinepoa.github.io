@@ -1,0 +1,6 @@
+---
+layout: post
+title: Mais projetos da Casa em andamento
+date: 2001-04-21 22:49:45
+---
+Encerram-se esta semana as filmagens do HOUVE UMA VEZ DOIS VERÕES, primeiro longa-metragem do Jorge Furtado e do episódio O COMPRADOR DE FAZENDAS, dirigido por Carlos Gerbase para o Programa Brava Gente, da Rede Globo. As filmagens de ambos os projetos movimentaram a cidade. Na fazenda do Arado, em Belém Novo, estiveram os atores Marco Nanini, Lúcia Alves, Júlia Feldens, Paulo Betti, Rejane Arruda, Bruno Garcia, Zé Victor Castiel e Nelson Diniz. Equipes do Vídeo Show, do Multishow, o programa Patrola, Jornal do Almoço, jornais e sites de Porto Alegre estiveram por lá fazendo a cobertura. O próximo episódio do Brava Gente produzido pela Casa de Cinema é DIA DE VISITA, com direção de Ana Azevedo e roterio de Jorge Furtado e Giba Assis Brasil. As filmagens estão previstas para maio. As locações do HOUVE UMA VEZ DOIS VERÕES também estiveram concorridas. A Tortaria, na Fernando Gomes com a Padre Chagas esteve movimentada durante todo o dia 21.
