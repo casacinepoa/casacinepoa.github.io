@@ -1,0 +1,6 @@
+---
+layout: post
+title: Entra no ar o primeiro episódio dos CONTOS DE INVERNO
+date: 2001-06-28 22:33:40
+---
+Dia 30 de junho, às 12h20min, entra na programação da RBS TV o primeiro episódio da série CONTOS DE INVERNO, um projeto pioneiro de teledramaturgia no Rio Grande do Sul. São quatro histórias dirigidas por cineastas gaúchos e produzidas pela Casa de Cinema de Porto Alegre e pela RBS TV. A primeira história é A IMPORTÂNCIA DO CURRÍCULO NA CARREIRA ARTÍSTICA, dirigida por Ana Azevedo. O roteiro foi escrito a seis mãos por Glênio Póvoas, Giba Assis Brasil e a própria Ana, baseado em conto homônimo de Carlos Gerbase. No elenco estão Renata de Lélis, Júlio Andrade, Marcelo Aquino, Ana Paula Serpa e Tiago Conte. Participações especiais de Nelson Diniz, Lisa Becker, Suzana Saldanha e Arthur Pinto. A montagem é de Milton do Prado, a música de Léo Henkin e a Direção de Arte de Élcio Rossini. Os Contos de Inverno abriram um novo campo de trabalho para atores, técnicos e profissionais especializados em TV e cinema no Estado. Roteiristas e diretores gaúchos foram convidados a criar histórias que tivesses vínculo com a cultura local. Os programas tem 23 minutos cada e irão ao ar sempre depois do Jornal do Almoço, na RBS TV.
