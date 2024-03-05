@@ -1,0 +1,6 @@
+---
+layout: post
+title: Prêmio Samburá de Cinema para O SANDUÍCHE
+date: 2001-07-02 22:32:46
+---
+O Prêmio Samburá de Cinema, ofertado pela Fundação Demócrito Rocha desde 1985, concedeu ontem dois troféus no encerramento do XI Cine Ceará-Festival Nacional de Cinema e Vídeo. O primeiro, de melhor curta-metragem, entregue para O SANDUÍCHE, de Jorge Furtado, do Rio Grande do Sul, e o segundo de melhor longa-metragem, para "Latitude Zero", de Toni Venturi, de São Paulo. O júri que escolheu os premiados com os troféus Samburá foi constituído pelo jornalista e cineasta Amaury Cândido; o crítico cinematográfico Wilson Baltazar; e o jornalista e crítico de cinema Frederico Fontenele Farias. Para a escolha de O SANDUÍCHE, a comissão julgadora reconheceu primeiro o mérito de ter sido produzido num Estado onde existe união de cineastas, exemplo para o restante do Brasil. E também por ser filme cuja proposta principal é tentar acabar com o distanciamento entre película e platéia. O SANDUÍCHE ganhou também o prêmio de Melhor Roteiro do Festival.
