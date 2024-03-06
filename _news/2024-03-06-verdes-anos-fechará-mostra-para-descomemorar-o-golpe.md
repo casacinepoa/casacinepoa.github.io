@@ -11,8 +11,6 @@ Chico Izidro\
 
 [](https://www.correiodopovo.com.br/blogs/cinecp/mostra-de-cinema-para-descomemorar-o-golpe-1.1471886)/ A partir de 1º de abril, uma segunda-feira, a Sala Redenção apresentará filmes sobre a Ditadura Militar no Brasil
 
-Verdes Anos é uma produção de 1984 da Casa de Cinema de Porto Alegre, com direção de Carlos Gerbase e Giba Assis Brasil, baseado em conto de Luiz Fernando Emediato | Foto: Casa de Cinema / Divulgação / CP
-
 A partir de 1º de abril, uma segunda-feira, a Sala Redenção, na Rua Engenheiro Luiz Englert, s/n - UFRGS, em Porto Alegre, começa a exibir a mostra "Para descomemorar o Golpe - Mostra de Cinema Sessenta Anos do Golpe Civil-Militar (1964-2024), tão longe tão perto!", com filmes sobre a Ditadura Militar no Brasil, que completa na data exatos 60 anos.
 
 O objetivo da empreitada é apresentar filmes que se passam durante aqueles anos de chumbo, onde o governo militar praticou torturas, assassinatos, e outros crimes. As obras querem promover um resgate histórico e político de nosso país.
