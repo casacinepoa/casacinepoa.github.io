@@ -3,7 +3,7 @@ layout: post
 title: O HOMEM QUE COPIAVA é destaque em mostra no Paraná
 date: 2024-02-22 19:44:05
 ---
-![](/uploads/hqc-trio.jpg)
+![](/uploads/hqc-paranagua.jpg)
 
 **FESTIVAL DE CLÁSSICOS DO CINEMA DESPERTA MAGIA E EMOÇÃO**\
 [Em Tempo Notícias (Paranaguá), 23/02/2024 14:02
