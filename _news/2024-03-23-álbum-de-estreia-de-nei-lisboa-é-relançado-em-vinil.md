@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Álbum de estreia de Nei Lisboa é relançado em vinil
+title: Álbum de estreia de Nei Lisboa é relançado em vinil transparente
 date: 2024-03-23 17:29:48
 ---
+![](/uploads/nei-lisboa-pvnc.jpg)
+
 **VIAJANDO NO COSMOS**[\
 Correio do Povo](https://www.correiodopovo.com.br/cadernodesabado/viajando-no-cosmos-1.1477279), 23/03/2024 | 6:00
-
 
 Um dos álbuns mais icônicos da nossa música celebrou há poucos meses quatro décadas de existência, reafirmando seu papel como um marco de sua geração, em um retrato da juventude urbana porto-alegrense dos anos 1980. "Pra Viajar no Cosmos não Precisa Gasolina" é fruto das vivências de um Bom Fim efervescente e pujante, construído pela "fauna ensandecida do Ocidente" e retratado pelo olhar de cronista do jovem Nei Lisboa. Não é por acaso que a faixa título foi batizada no 10º andar de um prédio na avenida Cauduro, à mesa da cozinha da família Lisboa, a poucos metros da João Telles e do coração da boemia da época na Osvaldo Aranha: Nei e Augusto Licks trabalhavam em uma canção para concorrer ao Musipuc de 1980, festival que lançou grandes nomes da música local. De acordo com as lembranças da dupla, Nei sugeriu "Pra viajar no Cosmos" e Augusto completou. No festival, enquanto cantava o trecho "o povo passa fome, o povo quer comer", o músico jogava pedaços de pão para a plateia, o que lhe rendeu o prêmio de melhor intérprete da edição daquele ano.
 
