@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AOS OLHOS DE ERNESTO encerra mostra de cinema em Punta del Diablo
-date: 2024-03-23 18:09:43
+date: 2024-03-24 18:09:43
 ---
 ![](/uploads/festiv-tridente.jpg)
 
