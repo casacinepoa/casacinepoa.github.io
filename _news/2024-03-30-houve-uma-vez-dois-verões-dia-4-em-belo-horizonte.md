@@ -3,12 +3,11 @@ layout: post
 title: HOUVE UMA VEZ DOIS VERÕES dia 4 em Belo Horizonte
 date: 2024-03-30 17:49:35
 ---
-![](/uploads/houve-fliper.jpg)
+![](/uploads/houve-banco.jpg)
 
 **'TODAS AS MULHERES DO MUNDO' ABRE MOSTRA GRATUITA SOBRE AMOR NO CINEMA NACIONAL**\
 Bossuet Alvim\
 [SouBH, 29/03 | 14:29](https://soubh.uai.com.br/noticias/cultura/todas-as-mulheres-do-mundo-abre-mostra-gratuita-sobre-amor-e-cinema-brasileiro)
-
 
 / Clássico de Domingos Oliveira estreia a série 'Quereres' no Cine Santa Tereza
 
