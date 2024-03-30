@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jorge Furtado debate "Cinema negro na escola"
+title: Jorge Furtado debate "Cinema negro na escola" dia 4
 date: 2024-03-28 11:20:28
 ---
 ![](/uploads/cinema-negro.jpg)
