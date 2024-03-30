@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cinema de Porto Alegre em documentário
-date: 2024-03-30 18:05:34
+date: 2024-03-29 18:05:34
 ---
 ![](/uploads/cinema-poa.jpg)
 
