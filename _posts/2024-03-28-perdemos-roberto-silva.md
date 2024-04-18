@@ -6,7 +6,7 @@ date: 2024-03-27 10:10:46
 ---
 ![](/uploads/rob-silva.jpg)
 
-Procuro Roberto Silva no Google e encontro milhares: o sambista Napoleão, o baterista Robertinho, um financista em Campinas, um desemargador em Ponta Grossa, um contabilista em Natal...
+Procuro Roberto Silva no Google e encontro milhares: o sambista Napoleão, o baterista Robertinho, um financista em Campinas, um desembargador em Ponta Grossa, um contabilista em Natal...
 
 Mas busco é pelo amigo Roberto Silva, fotógrafo e designer, que concebeu e bateu a foto do cartaz do DEU PRA TI ANOS 70 (aqueles tênis eram dele, antes e depois da foto), que fez comigo o super-8 "Expedicion Loch Nessi" pro Grupo Cem Modos e colocou na tela o Professor Franz Stumpf Bonder do Ferré, do Pedrão e do Betinho, que criou e ilustrou centenas de capas de livros (inclusive a do "Analista de Bagé" pro Luis Fernando Verissimo, com o Fraga encarnando o personagem) e discos (como o primeiro do Nei Lisboa, "Pra viajar no cosmos não precisa gasolina"), que tinha um humor muito especial e único, e que eu nunca mais encontrei pessoalmente desde que se mudou pra João Pessoa, algumas décadas atrás. É que acabei de receber a triste notícia de que não vou mais encontrar com ele. Não como eu queria. Roberto Silva se foi nessa segunda-feira, dia 25, poucos dias depois de completar 74 anos. Vai fazer falta. Já faz.
 
