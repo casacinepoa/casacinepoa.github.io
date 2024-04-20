@@ -1,5 +1,5 @@
 ---
-title: Ao sol e à sombra
+title: AO SOL E À SOMBRA
 tech_specs:
   - Curta-metragem, documentário
   - EM FINALIZAÇÃO
