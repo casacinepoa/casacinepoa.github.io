@@ -1,8 +1,8 @@
 ---
-title: Grandes cenas - 3ª temporada
+title: GRANDES CENAS - 3ª TEMPORADA
 tech_specs:
   - Série documental, 15 x 20 min
-  - EM PRÉ-PRODUÇÃO
+  - EM FILMAGEM - 22 a 22/abr
 category: Projetos
 image: /uploads/gr-cenas.jpg
 ---
