@@ -2,7 +2,7 @@
 title: VIRGÍNIA E ADELAIDE
 tech_specs:
   - Longa-metragem, ficção/documentário
-  - EM MONTAGEM
+  - EM CORTE FINAL
 category: Projetos
 image: /uploads/virginia.jpg
 ---
