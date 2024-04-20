@@ -1,5 +1,5 @@
 ---
-title: Questão de pele
+title: QUESTÃO DE PELE
 tech_specs:
   - Longa-metragem, ficção
   - EM CAPTAÇÃO
