@@ -1,5 +1,5 @@
 ---
-title: Os diários secretos da Rádio Ipanema FM
+title: OS DIÁRIOS SECRETOS DA RÁDIO IPANEMA FM
 tech_specs:
   - Documentário, longa-metragem
   - EM CAPTAÇÃO
