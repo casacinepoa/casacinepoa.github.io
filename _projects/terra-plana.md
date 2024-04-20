@@ -1,5 +1,5 @@
 ---
-title: Terra plana
+title: TERRA PLANA
 tech_specs:
   - Longa-metragem, ficção
   - EM DESENVOLVIMENTO
