@@ -1,5 +1,5 @@
 ---
-title: Maria do Socorro
+title: MARIA DO SOCORRO
 tech_specs:
   - Longa-metragem, ficção
   - EM CAPTAÇÃO
