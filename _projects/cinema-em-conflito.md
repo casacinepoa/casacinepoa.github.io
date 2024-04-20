@@ -1,5 +1,5 @@
 ---
-title: Cinema em conflito
+title: CINEMA EM CONFLITO
 tech_specs:
   - Série documental, 13x26 min
   - PILOTO FINALIZADO; PROJETO EM CAPTAÇÃO
