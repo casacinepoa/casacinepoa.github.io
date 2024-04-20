@@ -1,5 +1,5 @@
 ---
-title: Motel Pérola
+title: MOTEL PÉROLA
 tech_specs:
   - Longa-metragem, ficção
   - EM CAPTAÇÃO
