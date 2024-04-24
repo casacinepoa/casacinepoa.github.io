@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GRANDES CENAS: vem aí a terceira temporada"
-date: 2024-04-22 11:32:26
+date: 2024-04-24 11:32:26
 ---
 ![](/uploads/grcenas3-a.jpg)
 
@@ -11,7 +11,7 @@ Nas temporadas anteriores, já foram 35 episódios, sempre entrevistando diretor
 
 As gravações desta semana foram no estúdio da Cubo Filmes, em Porto Alegre, com sete entrevistados:
 
-* Renata Martins, diretora de "Sem esas"
+* Renata Martins, diretora de "Sem asas"
 * Gustavo Fernández, roteirista de "Anahy de las Misiones"
 * Sandra Kogut, diretora de "Mutum"
 * Flávia Castro, diretora de "Deslembro"
