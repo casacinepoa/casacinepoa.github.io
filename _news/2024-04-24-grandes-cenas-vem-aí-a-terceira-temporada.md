@@ -19,7 +19,7 @@ As gravações desta semana foram no estúdio da Cubo Filmes, em Porto Alegre, c
 * Sérgio de Carvalho, diretor de "Noites alienígenas"
 * Gabriel Martins, diretor de "Marte um"
 
-A produção prossegue em junho, com mais três episódios que serão gravados no Rio de Janeiro.
+A produção prossegue em junho, com a gravação das entrevistas de mais três episódios.
 
 A terceira temporada de GRANDES CENAS, assim como as anteriores, será exibida no Canal Curta!
 
