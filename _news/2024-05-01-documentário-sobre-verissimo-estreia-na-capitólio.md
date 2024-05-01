@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Documentário sobre Verissimo estreia na Capitólio
-date: 2024-04-30 21:12:26
+date: 2024-04-30 21:14:18
 ---
 ![](/uploads/verissimo.jpg)
 
