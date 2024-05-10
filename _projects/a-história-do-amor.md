@@ -26,28 +26,28 @@ details:
     content: |-
       **1ª TEMPORADA**
 
-      1. O começo - 30/10/2011
-      2. A sedução - 06/11/2011
-      3. O namoro - 13/11/2011
-      4. O casamento - 20/11/2011
-      5. O ciúme - 27/11/2011
-      6. O fim - 04/12/2011
+      1. **O começo** - 30/10/2011
+      2. **A sedução** - 06/11/2011
+      3. **O namoro** - 13/11/2011
+      4. **O casamento** - 20/11/2011
+      5. **O ciúme** - 27/11/2011
+      6. **O fim** - 04/12/2011
 
       **2ª TEMPORADA**
 
-      1. Amor e dinheiro - 12/08/2012
-      2. Amor e ciência - 19/08/2012
-      3. Amor e lei - 26/08/2012
-      4. Amor e sexo - 02/09/2012
-      5. Amor e família - 09/09/2012
-      6. Amor e fé - 16/09/2012
+      1. **Amor e dinheiro** - 12/08/2012
+      2. **Amor e ciência** - 19/08/2012
+      3. **Amor e lei** - 26/08/2012
+      4. **Amor e sexo** - 02/09/2012
+      5. **Amor e família** - 09/09/2012
+      6. **Amor e fé** - 16/09/2012
 
       **3ª TEMPORADA**
 
-      1. O que é o amor - 02/06/2013
-      2. As fases do amor - 09/06/2013
-      3. Os amantes - 16/06/2013
-      4. O amor não é tudo - 23/06/2013
+      1. **O que é o amor** - 02/06/2013
+      2. **As fases do amor** - 09/06/2013
+      3. **Os amantes** - 16/06/2013
+      4. **O amor não é tudo** - 23/06/2013
   - title: Crítica
     content: >-
       "A escolha dos atores não poderia ter sido mais acertada. Ambos
