@@ -96,46 +96,46 @@ details:
     content: |-
       ##### Primeira temporada
 
-      **A importância do currículo na carreira artística**
+      **A importância do currículo na carreira artística**\
       Direção: Ana Luiza Azevedo\
       Exibido em 30/06/2001
       	
-      **Jogos do amor e do acaso**
-      Direção: Gilberto Perin
+      **Jogos do amor e do acaso**\
+      Direção: Gilberto Perin\
       Exibido em 07/07/2001
       	
-      **Tudo num dia só**
-      Direção: Fabiano de Souza
+      **Tudo num dia só**\
+      Direção: Fabiano de Souza\
       Exibido em 14/07/2001
       	
-      **O amante amador**
-      Direção: Carlos Gerbase
+      **O amante amador**\
+      Direção: Carlos Gerbase\
       Exibido em 21/07/2001
 
       ##### Segunda temporada
 
-      **Aeroplanos**
-      Direção: Alex Sernambi
+      **Aeroplanos**\
+      Direção: Alex Sernambi\
       Exibido em 06/07/20202
       	
-      **A fome e a vontade de comer**
-      Direção: Cristiano Trein e Drégus de Oliveira
+      **A fome e a vontade de comer**\
+      Direção: Cristiano Trein e Drégus de Oliveira\
       Exibido em 13/07/2002
       	
-      **Faustina**
-      Direção: Carlos Gerbase
+      **Faustina**\
+      Direção: Carlos Gerbase\
       Exibido em 20/07/2002
       	
-      **A coisa certa**
-      Direção: Gilberto Perin
+      **A coisa certa**\
+      Direção: Gilberto Perin\
       Exibido em 27/07/2002
       	
-      **O Bochecha**
-      Direção: Ana Luiza Azevedo
+      **O Bochecha**\
+      Direção: Ana Luiza Azevedo\
       Exibido em 03/08/2002
       	
-      **O último desejo do Doutor Genarinho**
-      Direção: Fabiano de Souza
+      **O último desejo do Doutor Genarinho**\
+      Direção: Fabiano de Souza\
       Exibido em 10/08/2002
 original_path: /os-filmes/realização/séries-de-tv/contos-de-inverno.html
 ---
