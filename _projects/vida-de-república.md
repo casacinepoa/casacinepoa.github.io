@@ -12,7 +12,7 @@ details:
       **Direção**: Janaína Fischer, Márcio Schoenardie e Mirela Kruel Bilhar
 
 
-      Diretor de Produção: Bel Merel\
+      **Diretor de Produção**: Bel Merel\
 
       **Roteiro e coordenação de texto**: Janaína Fischer, Márcio Schoenardie e Vicente Moreno\
 
