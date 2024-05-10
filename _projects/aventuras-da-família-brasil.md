@@ -44,28 +44,28 @@ details:
       Felipe de Paula (Boca)
   - title: Episódios
     content: |-
-      01 - Problema Doméstico\
+      01 - **Problema doméstico**\
       (23/05/2009)
 
-      02 - Vovô e a Disney\
+      02 - **Vovô e a Disney**\
       (30/05/2009)
 
-      03 - Ensaiando no escuro\
+      03 - **Ensaiando no escuro**\
       (06/06/2009)
 
-      04 - O Cheiro do Bafo\
+      04 - **O cheiro do Bafo**\
       (13/06/2009)
 
-      05 - A Gravidez da Situação\
+      05 - **A gravidez da situação**\
       (05/09/2009)
 
-      06 - Família a gente não escolhe\
+      06 - **Família a gente não escolhe**\
       (12/09/2009)
 
-      07 - O Teatro Mágico de Mongo\
+      07 - **O teatro mágico de Mongo**\
       (19/09/2009)
 
-      08 - De onde viemos e para onde vamos\
+      08 - **De onde viemos e para onde vamos**\
       (26/09/2009)
   - title: Veja mais
     content: |-
