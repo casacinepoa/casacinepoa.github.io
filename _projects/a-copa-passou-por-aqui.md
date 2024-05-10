@@ -26,37 +26,37 @@ details:
       **Uma coprodução entre Sport Tv/Globosat e Casa de Cinema de Porto Alegre.**
   - title: Episódios
     content: |-
-      01. **COPA DE BOTÃO**\
+      01. **Copa de botão**\
       Direção: Esmir Filho
 
-      02. **MEU NOME É MANINHO**\
+      02. **Meu nome é Maninho**\
       Direção: Adirley Queirós
 
-      03. **COMO SE VIVE, COMO SE TORCE**\
+      03. **Como se vive, como se torce**\
       Direção: Davi Pretto
 
-      04. **GUERRA DE GIGANTES**\
+      04. **Guerra de gigantes**\
       Direção: Beto Magalhães e Anna Flávia Salles
 
-      05. **AQUELE ABRAÇO**\
+      05. **Aquele abraço**\
       Direção: Leandra Leal, Rita Toledo e Carolina Benjamin
 
-      06. **PEDRA QUE DORME, PEDRA QUE CANTA**\
+      06. **Pedra que dorme, pedra que canta**\
       Direção: Tata Amaral
 
-      07. **RITOS**\
+      07. **Ritos**\
       Direção: Maria Augusta Ramos
 
-      08. **O TIME DA CROA**\
+      08. **O time da croa**\
       Direção: Jorane Castro
 
-      09. **DEPOIS DA AVENIDA**\
+      09. **Depois da avenida**\
       Direção: Vicente Moreno
 
-      10. **A COPA DO MUNDO NO RECIFE**\
+      10. **A Copa do Mundo no Recife**\
       Direção: Kleber Mendonça Filho
 
-      11. **TUDO OU NADA EM SOTERÓPOLIS**\
+      11. **Tudo ou nada em Soterópolis**\
       Direção: Lázaro Ramos
 original_path: /os-filmes/realização/séries-de-tv/copa-passou-por-aqui-0
 ---
