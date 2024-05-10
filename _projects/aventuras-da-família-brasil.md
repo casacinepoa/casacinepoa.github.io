@@ -42,7 +42,7 @@ details:
       Arthur Quadros (Neto)\
 
       Felipe de Paula (Boca)
-  - title: Lista de episódios
+  - title: Episódios
     content: |-
       01 - Problema Doméstico\
       02 - Vovô e a Disney\
