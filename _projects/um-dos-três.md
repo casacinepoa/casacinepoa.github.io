@@ -16,7 +16,7 @@ details:
       **Produção executiva**: Luciana Tomasi e Nora Goulart
   - title: Episódios
     content: |-
-      EPISÓDIOS EXIBIDOS EM 2005\
+      EPISÓDIOS EXIBIDOS EM 2005/2006\
       06/11 - Primeiro encontro\
       13/11 - Bichos\
       20/11 - Uuh\
