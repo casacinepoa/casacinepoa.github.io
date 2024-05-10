@@ -43,49 +43,30 @@ details:
 
       Felipe de Paula (Boca)
   - title: Episódios
-    content: "01 - Problema Doméstico\r
+    content: |-
+      01 - Problema Doméstico\
+      (23/05/2009)
 
-      (23/05/2009)\r
+      02 - Vovô e a Disney\
+      (30/05/2009)
 
-      \r02 - Vovô e a Disney\r
+      03 - Ensaiando no escuro\
+      (06/06/2009)
 
-      (30/05/2009)\r
+      04 - O Cheiro do Bafo\
+      (13/06/2009)
 
-      \r03 - Ensaiando no escuro\r
+      05 - A Gravidez da Situação\
+      (05/09/2009)
 
-      (06/06/2009)\r
+      06 - Família a gente não escolhe\
+      (12/09/2009)
 
-      \r
+      07 - O Teatro Mágico de Mongo\
+      (19/09/2009)
 
-      04 - O Cheiro do Bafo\r
-
-      (13/06/2009)\r
-
-      \r
-
-      05 - A Gravidez da Situação\r
-
-      (05/09/2009)\r
-
-      \r
-
-      06 - Família a gente não escolhe\r
-
-      (12/09/2009)\r
-
-      \r
-
-      07 - O Teatro Mágico de Mongo\r
-
-      (19/09/2009)\r
-
-      \r
-
-      08 - De onde viemos e para onde vamos\r
-
-      (26/09/2009)\r
-
-      \r\n"
+      08 - De onde viemos e para onde vamos\
+      (26/09/2009)
   - title: Veja mais
     content: |-
       * [Sinopse dos episódios](http://www.casacinepoa.com.br/node/2007)
