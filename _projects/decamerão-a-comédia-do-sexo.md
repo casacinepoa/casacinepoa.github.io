@@ -36,20 +36,20 @@ details:
       direção de núcleo: Guel Arraes**
   - title: Episódios
     content: |-
-      **Episódio 1 (piloto): "Comer, amar e morrer"**
-      exibido em 02/jan/2009 - 39 min
+      1 (piloto): **Comer, amar e morrer**\
+      (02/01/2009)
 
-      **Episódio 2: "O espelho"**
-      exibido em 31/jul/2009 - 32 min
+      2: **O espelho**\
+      (31/07/2009)
 
-      **Episódio 3: "O vestido"**
-      exibido em 07/ago/2009 - 29 min
+      3: **O vestido**\
+      (07/08/2009)
 
-      **Episódio 4: "O abade"**
-      exibido em 14/ago/2009 - 32 min
+      4: **O abade**\
+      (14/08/2009)
 
-      **Episódio 5: "O ciúme"**
-      exibido em 21/ago/2009 - 35 min
+      5: **O ciúme**\
+      (21/08/2009)
   - title: Crítica
     content: >-
       "Nota 10 para DECAMERÃO. Adaptação do texto impecável, direção inspirada e
