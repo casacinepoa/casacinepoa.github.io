@@ -96,20 +96,20 @@ details:
     content: |-
       ##### Primeira temporada
 
-      **A importância do currículo na carreira artística**\
+      **A importância do currículo na carreira artística**
       Direção: Ana Luiza Azevedo\
       Exibido em 30/06/2001
       	
-      **Jogos do amor e do acaso**\
-      Direção: Gilberto Perin\
+      **Jogos do amor e do acaso**
+      Direção: Gilberto Perin
       Exibido em 07/07/2001
       	
-      **Tudo num dia só**\
-      Direção: Fabiano de Souza\
+      **Tudo num dia só**
+      Direção: Fabiano de Souza
       Exibido em 14/07/2001
       	
-      **O amante amador**\
-      Direção: Carlos Gerbase\
+      **O amante amador**
+      Direção: Carlos Gerbase
       Exibido em 21/07/2001
 
       ##### Segunda temporada
