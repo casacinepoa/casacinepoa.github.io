@@ -42,16 +42,50 @@ details:
       Arthur Quadros (Neto)\
 
       Felipe de Paula (Boca)
-  - title: Lista de episódios
-    content: |-
-      01 - Problema Doméstico\
-      02 - Vovô e a Disney\
-      03 - Ensaiando no escuro\
-      04 - O Cheiro do Bafo\
-      05 - A Gravidez da Situação\
-      06 - Família a gente não escolhe\
-      07 - O Teatro Mágico de Mongo\
-      08 - De onde viemos e para onde vamos
+  - title: Episódios
+    content: "01 - Problema Doméstico\r
+
+      (23/05/2009)\r
+
+      \r02 - Vovô e a Disney\r
+
+      (30/05/2009)\r
+
+      \r03 - Ensaiando no escuro\r
+
+      (06/06/2009)\r
+
+      \r
+
+      04 - O Cheiro do Bafo\r
+
+      (13/06/2009)\r
+
+      \r
+
+      05 - A Gravidez da Situação\r
+
+      (05/09/2009)\r
+
+      \r
+
+      06 - Família a gente não escolhe\r
+
+      (12/09/2009)\r
+
+      \r
+
+      07 - O Teatro Mágico de Mongo\r
+
+      (19/09/2009)\r
+
+      \r
+
+      08 - De onde viemos e para onde vamos\r
+
+      (26/09/2009)\r
+
+      \r\n"
   - title: Veja mais
     content: |-
       * [Sinopse dos episódios](http://www.casacinepoa.com.br/node/2007)
