@@ -110,33 +110,33 @@ details:
       <audio src="https://www.casacinepoa.com.br/uploads/doce-de-mae-serie.mp3" controls />
   - title: Episódios
     content: |-
-      1. Vamos chamar o vento\
+      1. **Vamos chamar o vento**\
          (30/01/2014)
-      2. Oração ao tempo\
+      2. **Oração ao tempo**\
          (06/02/2014)
-      3. Velhas S.A.\
+      3. **Velhas S.A.**\
          (13/02/2014)
-      4. Picucha online\
+      4. **Picucha online**\
          (20/02/2014)
-      5. Laranja madura\
+      5. **Laranja madura**\
          (27/02/2014)
-      6. Tango da mãe\
+      6. **Tango da mãe**\
          (06/03/2014)
-      7. Porta-retrato\
+      7. **Porta-retrato**\
          (13/03/2014)
-      8. Ossos do ofício\
+      8. **Ossos do ofício**\
          (20/03/2014)
-      9. Nosso amor é fogo\
+      9. **Nosso amor é fogo**\
          (27/03/2014)
-      10. A árvore da vida\
+      10. **A árvore da vida**\
           (10/04/2014)
-      11. Bullying\
+      11. **Bullying**\
           (17/04/2014)
-      12. A química da felicidade\
+      12. **A química da felicidade**\
           (24/04/2014)
-      13. De volta pra casa\
+      13. **De volta pra casa**\
           (01/05/2014)
-      14. O fim da história\
+      14. **O fim da história**\
           (08/05/2014)
 original_path: /os-filmes/realização/séries-de-tv/doce-de-mãe
 ---
