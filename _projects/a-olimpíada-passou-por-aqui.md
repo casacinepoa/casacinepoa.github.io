@@ -16,15 +16,15 @@ details:
       **Uma coprodução entre Sport Tv/Globosat e Casa de Cinema de Porto Alegre.**
   - title: Episódios
     content: |-
-      1. COMO SER HERÓI\
+      1. **Como ser herói**\
          Direção: Rafael Figueiredo
-      2. VIDIGAL OLIMPO\
+      2. **Vidigal Olimpo**\
          Direção: Isabel Joffily e José Joffily
-      3. REFUGIADOS\
+      3. **Refugiados**\
          Direção: Cavi Borges
-      4. ALVO\
+      4. **Alvo**\
          Direção: Maria Augusta Ramos
-      5. ENQUANTO ISSO\
+      5. **Enquanto isso**\
          Direção: Christiana Alcazar e Roberto Berliner
 original_path: /os-filmes/realização/séries-de-tv/olimpíada-passou-por-aqui.html
 ---
