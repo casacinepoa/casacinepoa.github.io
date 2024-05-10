@@ -72,30 +72,30 @@ details:
       (Helio Ponciano, revista BRAVO, janeiro/2004)
   - title: Episódios
     content: >-
-      **A hora da estrela**
+      **A hora da estrela**\
 
-      baseado na novela homônima de Clarice Lispector
+      baseado na novela homônima de Clarice Lispector\
 
       no ar em 18/11/2003
 
 
-      **Negro Bonifácio**
+      **Negro Bonifácio**\
 
-      baseado no conto homônimo de Simões Lopes Neto
+      baseado no conto homônimo de Simões Lopes Neto\
 
       no ar em 25/11/2003
 
 
-      **Folhetim (*)**
+      **Folhetim (*)**\
 
-      baseado no romance "Ópera de Sabão", de Marcos Rey
+      baseado no romance "Ópera de Sabão", de Marcos Rey\
 
       no ar em 02/12/2003
 
 
-      **As três palavras divinas**
+      **As três palavras divinas**\
 
-      baseado no conto homônimo de Leon Tolstoi
+      baseado no conto homônimo de Leon Tolstoi\
 
       no ar em 09/12/2003
 
