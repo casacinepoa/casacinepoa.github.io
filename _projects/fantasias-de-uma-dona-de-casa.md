@@ -43,36 +43,30 @@ details:
 
       [Elizabeth Bastos Duarte](http://www.intercom.org.br/papers/nacionais/2009/resumos/R4-2177-1.pdf), UFSM, 2009
   - title: Episódios
-    content: >-
-      **01 / INICIALIZANDO**
+    content: |-
+      **1ª TEMPORADA**
 
-      *(exibido em 07/06/2008)*
+      1. **Inicializando**\
+         (07/06/2008)
+      2. **São tantas emoções**\
+         (14/06/2008)
+      3. **Que viagem!**\
+         (21/06/2008)
+      4. **Quem não dança, dança**\
+         (28/06/2008)
 
-      Carmem começa a se corresponder pelo computador com a amiga Suzana, que mora na Dinamarca. Seu marido Edgar viajou a trabalho e Carmem decide rever um antigo pretendente encontrado na internet. Mas a inesperada visita da tia Ivone poderá atrapalhar seus planos.
+      **2ª TEMPORADA**
 
-
-      **02 / SÃO TANTAS EMOÇÕES**
-
-      *(exibido em 14/06/2008)*
-
-      Ao perceber que Carmem tem o mesmo visual desde os anos 1970. sua amiga Suzana lhe manda de presente, da Europa, uma nova tinta para os cabelos. Ao mesmo tempo, a tia Ivone é sorteada para um show com o ídolo de Carmem, recebendo o direito a entrar no camarim.
-
-
-      **03 / QUE VIAGEM!**
-
-      *(exibido em 21/06/2008)*
-
-      Carmem quer viajar para Monteviéu, mas Edgar só pensa em economizar. Suzana, a amiga que mora na Dinamarca, está cheia de novidades de sua mais recente visita a Paris. E, num bate-papo via computador, convence Carmem a passar um final de semana sozinha no Uruguai.
-
-
-      **04 / QUEM NÃO DANÇA, DANÇA**
-
-      *(exibido em 28/06/2008)*
-
-      Ao passar com as compras do supermercado por uma academia de dança, Carmem resolve aprender dança de salão com o marido. Mas Edgar não está interessado no assunto, e insiste que nunca soube dançar.
-
-
-      A série foi desenvolvida a partir dos personagens criados para o episódio "O Bochecha", da série "Contos de inverno 2002".
+      5. **50 anos de praia**\
+         (20/06/2009)
+      6. **30 segundos de fama**\
+         (27/06/2009)
+      7. **Saindo da seca**\
+         (04/07/2009)
+      8. **Recasamento**\
+         (11/07/2009)
 original_path: /os-filmes/realização/séries-de-tv/fantasias-de-uma-dona-de-casa
 ---
 Carmem, dona de casa e professora de violino, é casada há mais de 20 anos com Edgar, dono de uma floricultura. De vez em quando, Carmem tem as suas fantasias: um desejo de dar um tapa no marido e ser beijada em seguida, uma vontade de aprender dança de salão, ou de pintar o cabelo de roxo.
+
+A série foi desenvolvida a partir dos personagens criados para o episódio "O Bochecha", da série "Contos de inverno 2002".
