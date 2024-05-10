@@ -78,87 +78,45 @@ details:
       Marcelo Forlani](https://omelete.uol.com.br/series-tv/noticia/mulher-de-fases-preview/), Omelete, 12/04/2011
   - title: Episódios
     content: >-
-      01/ UM FUMANTE E UM MÍSTICO\
-
-      no ar em 11/04/2011\
-
-      Graça é uma mulher complicada que absorve a personalidade dos homens com quem sai. Separada, ela se envolve com um fumante e um místico.
-       
-      02/ UM RICO MESMO E UM ATLETA\
-
-      no ar em 18/04/2011\
-
-      Graça se envolve com um ricaço e um personal trainer. Ela precisa ter estômago para os caprichos de um e fôlego para os exercícios do outro.
-       
-      03/ UM EMO E UM MENTSH\
-
-      no ar em 25/04/2011\
-
-      Graça conhece um jovem emo e vira uma mulher triste. Envolve-se com um judeu ortodoxo e aprende os fundamentos do judaísmo.
-       
-      04/ UM MAJOR E UM MENOR\
-
-      no ar em 02/05/2011\
-
-      Graça sai com um rapaz que vai fazer 18 anos e vira adolescente. Envolve-se com um rígido major aposentado e adquire trejeitos militares.
-       
-      05/ UM SENHOR E UM FAZ-TUDO\
-
-      no ar em 09/05/2011\
-
-      Ao conhecer um maníaco por limpeza e um vereador de carroceiros, Graça fica dividida entre o mundo asséptico e o cheiro de povo.
-       
-      06/ UM MANÍACO E UM POLÍTICO\
-
-      no ar em 16/05/2011\
-
-      Graça conhece um senhor solitário e um mecânico faz-tudo. Entre instalar tomadas e aprender tango, Graça com certeza aprontará mais uma.
-       
-      07/ UM TEMPERAMENTAL E UM GATINHO\
-
-      no ar em 23/05/2011\
-
-      Graça conhece Bruno, um homem temperamental, e o imita, preocupando sua amiga Selma. Depois conhece um homem muito feio e trata de mudar o visual.
-       
-      08/ UM FALCATRUA E UMA PESSOA\
-
-      no ar em 30/05/2011\
-
-      Graça arrisca uma relação diferente com uma dermatologista e Gilberto tenta esquecer a ex, saindo com uma garota mais jovem.
-       
-      09/ UM CORRETO E UM BOÊMIO\
-
-      no ar em 06/06/2011\
-
-      Graça se envolve com um vendedor consciente e um boêmio, dividindo-se entre passeatas ecológicas e noitadas com muita bebida e karaokê.
-
-
-      10/ UM PERDIDO E UM QUE SE ACHA\
-
-      no ar em 13/06/2011\
-
-      Graça conhece um bonitão nada inteligente e um homem erudito e pedante. Entra em crise e começa a questionar sua busca pelo homem perfeito.
-
-
-      11/ UM ARGENTINO E UM INFELIZ\
-
-      no ar em 20/06/2011\
-
-      Graça tem uma relação perigosa com um homem de ideias suicidas e preocupa a todos. Também conhece um argentino e passa a falar o portunhol.
-
-
-      12/ UM AÇOUGUEIRO E UM DEVOTO\
-
-      no ar em 27/06/2011\
-
-      Graça conhece um açougueiro e um diácono. Vira especialista em carnes e caridade. Mas estranha o comportamento do ex-marido, que a ignora.
-
-
-      13/ UM PSIQUIATRA E UM SURFISTA\
-
-      no ar em 04/07/2011\
-
-      Um surfista, um psiquiatra... O homem perfeito pode estar mais próximo do que Graça imagina.
+      1. **Um fumante e um místico**\
+         no ar em 11/04/2011\
+         Graça é uma mulher complicada que absorve a personalidade dos homens com quem sai. Separada, ela se envolve com um fumante e um místico.
+      2. **Um rico mesmo e um atleta**\
+         no ar em 18/04/2011\
+         Graça se envolve com um ricaço e um personal trainer. Ela precisa ter estômago para os caprichos de um e fôlego para os exercícios do outro.
+      3. **Um emo e um mentsh**\
+         no ar em 25/04/2011\
+         Graça conhece um jovem emo e vira uma mulher triste. Envolve-se com um judeu ortodoxo e aprende os fundamentos do judaísmo.
+      4. **Um major e um menor**\
+         no ar em 02/05/2011\
+         Graça sai com um rapaz que vai fazer 18 anos e vira adolescente. Envolve-se com um rígido major aposentado e adquire trejeitos militares.
+      5. **Um senhor e um faz-tudo**\
+         no ar em 09/05/2011\
+         Graça conhece um senhor solitário e um mecânico faz-tudo. Entre instalar tomadas e aprender tango, Graça com certeza aprontará mais uma.
+      6. **Um maníaco e um político**\
+         no ar em 16/05/2011\
+         Ao conhecer um maníaco por limpeza e um vereador de carroceiros, Graça fica dividida entre o mundo asséptico e o cheiro de povo.
+      7. **Um temperamental e um gatinho**\
+         no ar em 23/05/2011\
+         Graça conhece Bruno, um homem temperamental, e o imita, preocupando sua amiga Selma. Depois conhece um homem muito feio e trata de mudar o visual.
+      8. **Um falcatrua e uma pessoa**\
+         no ar em 30/05/2011\
+         Graça arrisca uma relação diferente com uma dermatologista e Gilberto tenta esquecer a ex, saindo com uma garota mais jovem.
+      9. **Um correto e um boêmio**\
+         no ar em 06/06/2011\
+         Graça se envolve com um vendedor consciente e um boêmio, dividindo-se entre passeatas ecológicas e noitadas com muita bebida e karaokê.
+      10. **Um perdido e um que se acha**\
+          no ar em 13/06/2011\
+          Graça conhece um bonitão nada inteligente e um homem erudito e pedante. Entra em crise e começa a questionar sua busca pelo homem perfeito.
+      11. **Um argentino e um infeliz**\
+          no ar em 20/06/2011\
+          Graça tem uma relação perigosa com um homem de ideias suicidas e preocupa a todos. Também conhece um argentino e passa a falar o portunhol.
+      12. **Um açougueiro e um devoto**\
+          no ar em 27/06/2011\
+          Graça conhece um açougueiro e um diácono. Vira especialista em carnes e caridade. Mas estranha o comportamento do ex-marido, que a ignora.
+      13. **Um psiquiatra e um surfista**\
+          no ar em 04/07/2011\
+          Um surfista, um psiquiatra... O homem perfeito pode estar mais próximo do que Graça imagina.
   - title: Tema musical
     content: >-
       "Mulher de fases", de Rodolfo e Digão (Raimundos), arranjo de Leo Henkin
