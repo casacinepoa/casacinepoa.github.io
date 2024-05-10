@@ -22,14 +22,22 @@ details:
       **Locução**: Áurea Baptista
   - title: Episódios
     content: |-
-      01 - Cococi (Ceará, Brasil)\
-      02 - Epecuén (Argentina)\
-      03 - Vila do Ventura (Bahia, Brasil)\
-      04 - Armero (Colômbia)\
-      05 - Ararapira (Paraná, Brasil)\
-      06 - Minas do Camaquã (Rio Grande do Sul, Brasil)\
-      07 - Fordlândia (Pará, Brasil)\
-      08 - Humberstone (Chile)
+      1. **Cococi** (Ceará, Brasil)\
+         08/05/2018
+      2. **Epecuén** (Argentina)\
+         15/05/2018
+      3. **Vila do Ventura** (Bahia, Brasil)\
+         22/05/2018
+      4. **Armero** (Colômbia)\
+         29/05/2018
+      5. **Ararapira** (Paraná, Brasil)\
+         05/06/2018
+      6. **Minas do Camaquã** (Rio Grande do Sul, Brasil)\
+         12/06/2018
+      7. **Fordlândia** (Pará, Brasil)\
+         19/06/2018
+      8. **Humberstone** (Chile)\
+         26/06/2018
   - title: Veja mais
     content: |-
       * [Sinopses dos episódios](http://www.casacinepoa.com.br/node/2040)
