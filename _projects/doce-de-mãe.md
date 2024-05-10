@@ -108,6 +108,36 @@ details:
 
 
       <audio src="https://www.casacinepoa.com.br/uploads/doce-de-mae-serie.mp3" controls />
+  - title: Episódios
+    content: |-
+      1. Vamos chamar o vento\
+         (30/01/2014)
+      2. Oração ao tempo\
+         (06/02/2014)
+      3. Velhas S.A.\
+         (13/02/2014)
+      4. Picucha online\
+         (20/02/2014)
+      5. Laranja madura\
+         (27/02/2014)
+      6. Tango da mãe\
+         (06/03/2014)
+      7. Porta-retrato\
+         (13/03/2014)
+      8. Ossos do ofício\
+         (20/03/2014)
+      9. Nosso amor é fogo\
+         (27/03/2014)
+      10. A árvore da vida\
+          (10/04/2014)
+      11. Bullying\
+          (17/04/2014)
+      12. A química da felicidade\
+          (24/04/2014)
+      13. De volta pra casa\
+          (01/05/2014)
+      14. O fim da história\
+          (08/05/2014)
 original_path: /os-filmes/realização/séries-de-tv/doce-de-mãe
 ---
 Muita coisa aconteceu na vida de dona Picucha (Fernanda Montenegro) desde que sua empregada Zaida (Mirna Spritzer) decidiu se casar. A viúva de 85 anos ganhou mais uma neta, a fofa Isaurinha (Letícia Sampaio), e resolveu se mudar para um asilo, após surgirem desconfianças de que seu falecido marido teve uma filha fora do casamento. Rosa (Drica Moraes) é filha de uma atinga empregada de Picucha e teve as mensalidades de faculdade bancadas por Fortunato. Coincidência? Sem levantar suspeitas, a matriarca começa a investigar essa possibilidade e acaba afetando a vida de Silvio (Marco Ricca), o primogênito. A mudança para o novo lar movimenta a rotina dos moradores do local. Os hábitos animados de dona Picucha revolucionam o dia a dia da casa de repouso e mudam completamente a rotina do (até então) sossegado lugar.
