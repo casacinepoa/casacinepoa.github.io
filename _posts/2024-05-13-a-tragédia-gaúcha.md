@@ -15,3 +15,20 @@ Junto com a tragédia impensável surgiu uma rede comovente de solidariedade e a
 Há muitos pedidos de ajuda, de doações, todos são importantes, urgentes, e este é mais um. O #342Artes mobilizou sua rede de artistas, comunicadores, amigos, para arrecadar dinheiro para os trabalhadores da cultura, a tribo do cinema, do teatro, da música, artistas e técnicos que perderam tudo, ou quase tudo. Muitos não têm para onde voltar e não têm ideia de quando terão trabalho outra vez. Toda esta gente, "que empresta aos sonhos habitação terrestre e um nome", precisa sobreviver e reconstruir suas vidas. Ajude como puder.
 
 Jorge Furtado, Porto Alegre, 13 de maio de 2024, 7:58 (chove)
+
+- - -
+
+\#342Artes Vakinha para os trabalhadores da cultura no Rio Grande do Sul:
+
+<https://www.vakinha.com.br/4791331>
+
+- - -
+
+Quem quiser contribuir diretamente com os trabalhadores do audiovisual:
+
+Futuro Audiovisual RS
+
+Chave PIX:
+futuroaudiovisualrs@akamani.com.br
+
+Compartilhe!
