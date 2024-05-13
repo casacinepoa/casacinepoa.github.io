@@ -3,7 +3,7 @@ layout: post
 title: Mostra de filmes de Jorge Furtado tem lançamento de livro
 date: 2024-04-26 20:54:44
 ---
-![](/uploads/mostra-jf-pde.jpg)
+![](/uploads/livro-jorge-wilq.jpg)
 
 "Tudo isso aconteceu, mais ou menos", citação de Kurt Vonnegut Jr em "Matadouro 5", é o nome da mostra que o CinUSP e a Cinemateca Brasileira apresentam esta semana e na próxima com o essencial dos curtas e longas de Jorge Furtado, e também o título do livro que será lançado na tarde de sábado, dia 27 de abril, reunindo artigos sobre a obra do cineasta da Casa de Cinema de Porto Alegre.
 
