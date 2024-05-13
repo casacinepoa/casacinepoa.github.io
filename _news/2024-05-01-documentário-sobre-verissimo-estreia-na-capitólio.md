@@ -4,6 +4,10 @@ date: 2024-04-30 21:14:18
 ---
 ![](/uploads/verissimo.jpg)
 
+*N﻿ota: o debate previsto para o dia 2 de maio não aconteceu, devido às enchentes no Rio Grande do Sul.*
+
+**\*﻿\*\*\****
+
 **'VERISSIMO': DOCUMENTÁRIO SOBRE O ESCRITOR ESTREIA EM 2 DE MAIO COM SESSÃO COMENTADA**\
 [Sul 21, 29/04/2024 | 17:59](https://sul21.com.br/noticias/cultura/2024/04/verissimo-documentario-sobre-o-escritor-estreia-em-2-de-maio-com-sessao-comentada/)
 
