@@ -1,5 +1,5 @@
 ---
-title: Menos que nada - creditos
+title: Menos que nada - créditos
 permalink: /filmes/menos-que-nada/creditos-completos/
 layout: page
 ---
