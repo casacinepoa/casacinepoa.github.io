@@ -150,8 +150,10 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/aos-olhos-de-ernesto.mp3" controls />
   - title: Veja mais
-    content: |-
-      \-﻿ Créditos completos\
+    content: >-
+      \-﻿ [Créditos
+      completos](/filmes/aos-olhos-de-ernesto/creditos-completos/)\
+
       -﻿ [Roteiro](/uploads/aos-olhos-de-ernesto-rot.pdf)
 original_path: /os-projetos/aos-olhos-de-ernesto-1.html
 synopsis: >-
