@@ -431,4 +431,9 @@ Produção / CASA DE CINEMA DE PORTO ALEGRE\
 \
 **HISTÓRICO**\
 \
-Filmado de 3 a 30 de outubro de 2018 em Porto Alegre, 1 de novembro em Montevidéu. Montado em Avid, de 8 de outubro de 2018 a 26 de março de 2019. Mixagem final na JLS Studios, São Paulo, 6 e 7 de junho de 2019. Master final de imagem em 26 de julho. Primeira sessão pública no Festival Internacional de Cinema de Busan, Coreia do Sul, 3 de outubro de 2019. Estreia no Brasil na Mostra Internacional de Cinema de São Paulo, 26 de outubro de 2019.
+Filmado de 3 a 30 de outubro de 2018 em Porto Alegre, 1 de novembro em Montevidéu.\
+Montado em Avid, de 8 de outubro de 2018 a 26 de março de 2019.\
+Mixagem final na JLS Studios, São Paulo, 6 e 7 de junho de 2019.\
+Master final de imagem em 26 de julho.\
+Primeira sessão pública no Festival Internacional de Cinema de Busan, Coreia do Sul, 3 de outubro de 2019.\
+Estreia no Brasil na Mostra Internacional de Cinema de São Paulo, 26 de outubro de 2019.
