@@ -1,5 +1,5 @@
 ---
-title: Aos olhos de Ernesto - creditos
+title: Aos olhos de Ernesto - créditos
 permalink: /filmes/aos-olhos-de-ernesto/creditos-completos/
 layout: page
 ---
