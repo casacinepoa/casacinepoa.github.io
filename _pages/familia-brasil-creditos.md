@@ -1,5 +1,5 @@
 ---
-title: As aventuras da Família Brasil - créditos
+title: Aventuras da Família Brasil - créditos
 permalink: /filmes/familia-brasil/creditos-completos/
 layout: page
 ---
