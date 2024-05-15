@@ -1,5 +1,5 @@
 ---
-title: Verlust - creditos
+title: Verlust - créditos
 permalink: /filmes/verlust/creditos-completos/
 layout: page
 ---
