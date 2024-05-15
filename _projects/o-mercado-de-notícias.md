@@ -1,7 +1,7 @@
 ---
 title: O mercado de notícias
 tech_specs:
-  - (HD, 94 min, cor, 2013)
+  - (HD, 94 min, cor, 2014)
   - (janela 1.77, som digital Dolby)
 category: Longas-metragens
 image: /uploads/mdn-imgr.jpeg
@@ -40,7 +40,7 @@ details:
     content: >-
       * [Site do filme](http://www.omercadodenoticias.com.br/)
 
-      * [Créditos completos](http://www.casacinepoa.com.br/os-filmes/longas/o-mercado-de-notícias-créditos)
+      * [Créditos completos](/filmes/o-mercado-de-noticias/creditos-completos/)
 
       * [Pré-roteiro versão 09/08/2012](/uploads/o-mercado-de-noticias-pre-rot.pdf)
 
