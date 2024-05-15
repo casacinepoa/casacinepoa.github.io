@@ -84,7 +84,7 @@ details:
     content: >-
       * [Roteiro](/uploads/angelo-anda-sumido-rot.pdf)
 
-      * [Créditos completos](http://www.casacinepoa.com.br/node/490)[](/uploads/Angelo_anda_sumido.mp3)
+      * [Créditos completos](/filmes/angelo-anda-sumido/creditos-completos/)[](/uploads/Angelo_anda_sumido.mp3)
 original_path: /os-filmes/produção/curtas/angelo-anda-sumido.html
 ---
 Dois velhos amigos se reencontram e combinam de jantar juntos, mas em seguida voltam a se perder no labirinto de grades, cercas e muros de uma grande cidade.
