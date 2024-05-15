@@ -69,7 +69,7 @@ details:
       (26/09/2009)
   - title: Veja mais
     content: |-
-      * [Sinopse dos episódios](http://www.casacinepoa.com.br/node/2007)
+      * [Sinopse dos episódios](/filmes/familia-brasil/episodios/)
       * [Créditos completos](/filmes/familia-brasil/creditos-completos/)
 original_path: /os-filmes/realizacao/series-de-tv/aventuras-da-familia-brasil.html
 ---
