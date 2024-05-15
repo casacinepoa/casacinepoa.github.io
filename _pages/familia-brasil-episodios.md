@@ -1,5 +1,5 @@
 ---
-title: Familia Brasil - episodios
+title: Aventuras da família Brasil - episódios
 permalink: /filmes/familia-brasil/episodios/
 layout: page
 ---
