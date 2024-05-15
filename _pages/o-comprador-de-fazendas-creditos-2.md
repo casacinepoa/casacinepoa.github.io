@@ -1,5 +1,5 @@
 ---
-title: O comprador de fazendas - creditos
+title: O comprador de fazendas - créditos
 permalink: /filmes/o-comprador-de-fazendas/creditos-completos/
 layout: page
 ---
