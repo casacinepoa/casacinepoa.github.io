@@ -3,7 +3,7 @@ title: O comprador de fazendas - créditos
 permalink: /filmes/o-comprador-de-fazendas/creditos-completos/
 layout: page
 ---
-ELENCO\
+**ELENCO**\
 \
 Marco Nanini (Davi)\
 Bruno Garcia (Pedro Trancoso)\
@@ -17,7 +17,7 @@ Participação especial:\
 Paulo Betti (Ricardo André)\
 Rejane Arruda (Patrícia Mascarenhas)\
 \
-EQUIPE\
+**EQUIPE**\
 \
 Roteiro: Carlos Gerbase\
  / Jorge Furtado\
@@ -58,7 +58,7 @@ Motoristas: Dirley\
  / Marco Castro\
  / Marco Gregol\
 \
-HISTÓRICO\
+**HISTÓRICO**\
 \
 Filmado em Porto Alegre, de 18 a 24 de abril/2001.\
 Exibido pela TV Globo em 09 de maio/2001.
