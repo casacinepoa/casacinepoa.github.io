@@ -1,5 +1,5 @@
 ---
-title: O mercado de noticias - creditos
+title: O mercado de notícias - créditos
 permalink: /filmes/o-mercado-de-noticias/creditos-completos/
 layout: page
 ---
