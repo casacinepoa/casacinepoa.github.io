@@ -1,5 +1,5 @@
 ---
-title: El padre de Gardel - creditos
+title: El padre de Gardel - créditos
 permalink: /filmes/el-padre-de-gardel/creditos-completos/
 layout: page
 ---
