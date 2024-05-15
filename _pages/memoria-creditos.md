@@ -1,5 +1,5 @@
 ---
-title: Memoria - creditos
+title: Memória - créditos
 permalink: /filmes/memoria/creditos-completos/
 layout: page
 ---
