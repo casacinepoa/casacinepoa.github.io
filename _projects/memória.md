@@ -92,10 +92,8 @@ details:
 
       ([Luiz Santiago](http://www.cinerevista.com.br/nacional/Memoria.htm), Blog Cinerevista, 01/08/2017)
   - title: Veja mais
-    content: >-
-      * [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/produção/curtas/memória-créditos-completos)
-
+    content: |-
+      * [Créditos completos](/filmes/memoria/creditos-completos/)
       * [R﻿oteiro](/uploads/memoria-rot.pdf)
 original_path: /os-filmes/produção/curtas/memória.html
 ---
