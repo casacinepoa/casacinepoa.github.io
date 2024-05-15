@@ -5,6 +5,7 @@ date: 2011-12-06 17:37:17
 ---
 **TNT ESTRENA FRONTERAS CON JUAN JOSÉ CAMPANELLA**\
 [Latinspots, 06/12/2011](http://www.latinspots.com/site/sp/nota/detalle/25585/TNT-estrena-Fronteras-con-Juan-Jos-Campanella)\
+\
 Hoy comienza una nueva producción original de TNT: Fronteras, una serie de nueve programas de media hora de duración en los que la audiencia podrá recorrer distintos lugares del mundo a través de las miradas de los más reconocidos directores latinoamericanos, trabajando todos bajo la misma consigna. El director argentino, ganador del Oscar y conferencistas en El Ojo 2007, Juan José Campanella será el anfitrión de este ciclo que va más allá de los cortometrajes y que indagará no sólo sobre lo que representan las fronteras para cada director, sino sobre todo lo que gira alrededor de la realización cinematográfica.
 
 El punto de partida y eje nodal de este original y ambicioso proyecto, que sin dudas le brindará un sabor local a la pantalla del canal, serán "las fronteras", una temática que presenta diversas aristas y que incentiva el abordaje particular de cada realizador, sin limitaciones en cuanto a tratamientos o géneros, yendo desde el fantástico al drama, pasando por el suspenso, la comedia y la ciencia ficción.
