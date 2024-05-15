@@ -1,5 +1,5 @@
 ---
-title: Verlust
+title: "Verlust "
 tech_specs:
   - (2020, duração 111 min, prop. tela 2.35)
 category: Longas-metragens
