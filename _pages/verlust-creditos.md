@@ -294,16 +294,16 @@ Distribuição: Elo Company (São Paulo)\
 \
 **MECANISMOS DE FINANCIAMENTO**\
 \
-- Fundo Setorial do Audiovisual - ANCINE - administrado pelo BRDE\
-- Banco do Brasil BB DTVM\
-- Programa Ibermedia\
-- Apoio (Uruguai): ICAU - Dirección del Cine y Audiovisual Nacional;\
-- Apoio (França): Moulin d'Andé - Céci\
-- Participação: 3º Laboratório Novas Histórias 2013\
+Fundo Setorial do Audiovisual - ANCINE - administrado pelo BRDE\
+Banco do Brasil BB DTVM\
+Programa Ibermedia\
+Apoio (Uruguai): ICAU - Dirección del Cine y Audiovisual Nacional;\
+Apoio (França): Moulin d'Andé - Céci\
+Participação: 3º Laboratório Novas Histórias 2013\
 / Programa Sesc SP e Senac São Paulo\
 / de Desenvolvimento de Roteiros\
 \
 **HISTÓRICO**\
 \
-- Filmado no balneário de José Ignacio (Uruguai), agosto de 2017.\
-- Estréia na Mostra Internacional de Cinema de São Paulo, 22/10/2020.
+Filmado no balneário de José Ignacio (Uruguai), agosto de 2017.\
+Estreia na Mostra Internacional de Cinema de São Paulo, 22/10/2020.
