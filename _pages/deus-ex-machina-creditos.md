@@ -1,5 +1,5 @@
 ---
-title: Deus ex-machina - creditos
+title: Deus ex-machina - créditos
 image_caption: /filmes/deus-ex-machina/creditos-completos/
 layout: page
 ---
