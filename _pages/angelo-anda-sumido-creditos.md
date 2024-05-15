@@ -1,5 +1,5 @@
 ---
-title: Angelo anda sumido - creditos
+title: Angelo anda sumido - créditos
 permalink: /filmes/angelo-anda-sumido/creditos-completos/
 layout: page
 ---
