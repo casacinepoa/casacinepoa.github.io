@@ -39,7 +39,7 @@ Produção de elenco: Silvana Patzinger\
 / Mario Lorenzoni\
 Assistentes de produção: Dainara Soares\
 / Gerson Machado\
-Secretárias de produção: Nina Ribeiro,\
+Secretárias de produção: Nina Ribeiro\
 / Maria Luiza Wolff\
 / Vera Costa\
 Estagiários de produção: Márcia Baldissera\
