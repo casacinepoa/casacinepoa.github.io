@@ -1,5 +1,5 @@
 ---
-title: Trampolim - creditos
+title: Trampolim - créditos
 permalink: /filmes/trampolim/creditos-completos/
 layout: page
 ---
