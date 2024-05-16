@@ -1,5 +1,5 @@
 ---
-title: Tres minutos - creditos
+title: Três minutos - créditos
 permalink: /filmes/tres-minutos/creditos-completos/
 layout: page
 ---
