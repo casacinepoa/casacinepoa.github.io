@@ -1,5 +1,5 @@
 ---
-title: Sexo e Beethoven - creditos
+title: Sexo & Beethoven - créditos
 permalink: /filmes/sexo-e-beethoven/creditos-completos/
 layout: page
 ---
