@@ -1,5 +1,5 @@
 ---
-title: O corpo de Flavia - creditos
+title: O corpo de Flávia - créditos
 permalink: /filmes/o-corpo-de-flavia/creditos-completos/
 layout: page
 ---
