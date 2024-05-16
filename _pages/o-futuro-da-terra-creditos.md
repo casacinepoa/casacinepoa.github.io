@@ -1,5 +1,5 @@
 ---
-title: O futuro da terra - creditos
+title: O futuro da terra - créditos
 permalink: /filmes/o-futuro-da-terra/creditos-completos/
 layout: page
 ---
