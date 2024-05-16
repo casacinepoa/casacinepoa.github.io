@@ -1,8 +1,8 @@
 ---
 title: O futuro da terra
 tech_specs:
-  - (Betacam, 14 min, cor, 1997)
-  - (janela 1.33, som magnético mono)
+  - (Betacam, 14 min, 1997)
+  - (prop. tela 1.33, som magnético mono)
 category: Curtas-metragens
 image: /uploads/futerr-imgr.jpg
 image_credits: Foto de Alex Sernambi
