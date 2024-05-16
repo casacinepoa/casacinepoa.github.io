@@ -58,7 +58,7 @@ details:
   - title: Veja mais
     content: |-
       * [Roteiro](/uploads/estrada-rot.pdf)
-      * [Créditos completos](http://www.casacinepoa.com.br/node/496)
+      * [Créditos completos](/filmes/estrada/creditos-completos/)
 original_path: /os-filmes/produção/curtas/felicidade-é-estrada.html
 ---
 Dois casais amigos, vivendo um raro momento de felicidade, tomam a estrada em direção à serra para passar o que promete ser o feriadão ideal. Um caminhoneiro, vivendo seu inferno astral, tem que entregar uma encomenda numa cidade distante, com seu caminhão velho e sem freios, e voltar correndo para um insuportável compromisso doméstico. Num breve futuro, estes dois caminhos vão terminar se cruzando. Mas quem acredita em Destino?
