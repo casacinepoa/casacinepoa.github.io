@@ -1,5 +1,5 @@
 ---
-title: Estrada - creditos
+title: Estrada - créditos
 permalink: /filmes/estrada/creditos-completos/
 layout: page
 ---
