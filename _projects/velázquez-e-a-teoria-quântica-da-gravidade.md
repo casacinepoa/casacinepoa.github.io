@@ -44,7 +44,7 @@ details:
     content: >-
       * [Créditos completos](/filmes/velazquez/creditos-completos/)
 
-      * Roteiro
+      * [Roteiro](/uploads/velazquez-rot.pdf)
 
       * [IMDb](https://www.imdb.com/title/tt8271170)
 
