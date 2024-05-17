@@ -13,18 +13,18 @@ where_to_watch:
 details:
   - title: Créditos
     content: |-
-      **Roteiro e direção**: Jorge Furtado
-      **Produção**: Nora Goulart e Bel Merel
-      **Fotografia**: Juliano Lopes
-      **Som direto**: Rafael Rodrigues
-      **Produção de Arte**: William Valduga
+      **Roteiro e direção**: Jorge Furtado\
+      **Produção**: Nora Goulart e Bel Merel\
+      **Fotografia**: Juliano Lopes\
+      **Som direto**: Rafael Rodrigues\
+      **Produção de Arte**: William Valduga\
       **Figurino**: Cacá Velasco
 
-      **Elenco**:
-      Felipe de Paula (cientista)
+      **Elenco**:\
+      Felipe de Paula (cientista)\
       Renata de Lélis (Silvana)
 
-      produzido para o 1º Festival Celucine, 2011
+      produzido para o 1º Festival Celucine, 2011\
       **um filme da Casa de Cinema de Porto Alegre**
   - title: Festivais
     content: |-
