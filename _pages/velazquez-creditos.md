@@ -1,5 +1,5 @@
 ---
-title: Velazquez - creditos
+title: Velázquez e a teoria quântica da gravidade - créditos
 permalink: /filmes/velazquez/creditos-completos/
 layout: page
 ---
