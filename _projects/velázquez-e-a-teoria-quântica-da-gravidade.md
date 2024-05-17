@@ -1,38 +1,35 @@
 ---
 title: Velázquez e a teoria quântica da gravidade
 tech_specs:
-  - (HD, 3 min, cor, 2011)
-  - (janela 1.77,som estereo)
+  - (HD, tela 1.77, 3 min, 2011)
 category: Curtas-metragens
 image: /uploads/velazq-imgr.jpg
 image_credits: "Foto por Juliano Lopes: Felipe de Paula e Renata de Lélis"
+where_to_watch:
+  - title: Youtube - Celucine
+    url: https://youtu.be/ayeRGtkVqks
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/348891112
 details:
   - title: Créditos
     content: |-
-      **Roteiro e Direção**: Jorge Furtado
+      **Roteiro e direção**: Jorge Furtado
+      **Produção**: Nora Goulart e Bel Merel
+      **Fotografia**: Juliano Lopes
+      **Som direto**: Rafael Rodrigues
+      **Produção de Arte**: William Valduga
+      **Figurino**: Cacá Velasco
 
-      **Produção**: Nora Goulart e Bel Merel\
-      **Direção de fotografia**: Juliano Lopes\
-      **Som direto**: Rafael Rodrigues\
-      **Produção de arte**: William Valduga\
-      **Figurino**: Cacá Velasco\
-      **Maquilagem**: Britney\
-      **Montagem**: Germano de Oliveira\
-      **Foquista**: Eduardo Lopes\
-      **Produção de set**: Cristian Sony\
-      **Desenho de som e mixagem**: equipe Kiko Ferraz Studios\
-      **Animação**: Estúdio Makako\
-      **Trilha**: Alex Sernambi\
-       \
-      **Produção: Anjo Produções\
-      Casa de Cinema de Porto Alegre**
-
-      **ELENCO**
-
-      Felipe de Paula (cientista)\
+      **Elenco**:
+      Felipe de Paula (cientista)
       Renata de Lélis (Silvana)
+
+      produzido para o 1º Festival Celucine, 2011
+      **um filme da Casa de Cinema de Porto Alegre**
   - title: Festivais
-    content: Exibido no Festival Cineport, em João Pessoa, 23/09/2011.
+    content: |-
+      1﻿º Celucine (Youtube), 30/06/2011\
+      3º Festival Cineport, em João Pessoa, 23/09/2011
   - title: Crítica
     content: >-
       "Com apenas dois atores e três minutos de duração, o diretor traz um pouco
@@ -43,7 +40,17 @@ details:
       Meninas, de Diego Velázquez."\
 
       ([Luiz Santiago](http://www.planocritico.com/critica-velazquez-e-a-teoria-quantica-da-gravidade/), Blog Plano crítico, 09/11/2011)
+  - title: Veja mais
+    content: >-
+      * [Créditos completos](/filmes/velazquez/creditos-completos/)
+
+      * Roteiro
+
+      * [IMDb](https://www.imdb.com/title/tt8271170)
+
+      * [Filmow](https://filmow.com/velazquez-e-a-teoria-quantica-da-gravidade-t42783/)
 original_path: /os-filmes/curtas/velázquez-e-teoria-quântica-da-gravidade.html
 ---
 Jovem cientista pensa ter encontrado a teoria quântica da gravidade a partir do quadro "As meninas" de Velázquez.\
+\
 Produzido a convite do 4º Cel.u.cine, Festival de Cinema para Mídias Digitais, em julho de 2011. Além de Jorge Furtado, o evento encomendou filmes curtíssimos também para Beto Brant, Lázaro Ramos, Hector Babenco, o português David Rebordão e o angolano Mario Bastos.
