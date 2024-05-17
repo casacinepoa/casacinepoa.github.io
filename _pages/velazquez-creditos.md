@@ -1,5 +1,6 @@
 ---
 title: Velazquez - creditos
+permalink: /filmes/velazquez/creditos-completos/
 layout: page
 ---
 **ELENCO**\
