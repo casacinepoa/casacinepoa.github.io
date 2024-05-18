@@ -1,8 +1,7 @@
 ---
 title: Morto Não Fala
 tech_specs:
-  - (HD,  110 min, cor,  2019)
-  - (janela 2.39, som Dolby 5.1)
+  - (HD, 110 min, tela 2.35,  2019)
 category: Longas-metragens
 image: /uploads/mnf-imgr.jpeg
 image_credits: "Foto por André Faccioli: Daniel de Oliveira e Fabíula Nascimento"
@@ -46,10 +45,6 @@ details:
 
       **Produção: Casa de Cinema PoA\
       Coprodução: Globo Filmes & Canal Brasil**
-  - title: Veja mais
-    content: |-
-      * [C﻿réditos completos](/filmes/morto-nao-fala/creditos-completos/)
-      * [R﻿oteiro](/uploads/morto-nao-fala-rot.pdf)
   - title: Prêmios
     content: >-
       * 1º Grande Prêmio FANTLATAM 2021: melhor ator (Daniel de Oliveira)
@@ -57,6 +52,10 @@ details:
       * 19º Grande Prêmio do Cinema Brasileiro, 2019: finalista em Primeira direção de longa-metragem, Melhor ator (Daniel de Oliveira), Efeitos visuais (Hugo Gurgel, Guilherme Ramalho, Eduardo Schaal) e Melhor maquilagem (Britney Federline)
 
       * 25º Prêmio Guarani de Cinema Brasileiro, 2019]: Melhor maquiagem, Melhores efeitos visuais (também finalista em Roteiro adaptado e Melhor ator (Daniel de Oliveira)
+  - title: Veja mais
+    content: |-
+      * [C﻿réditos completos](/filmes/morto-nao-fala/creditos-completos/)
+      * [R﻿oteiro](/uploads/morto-nao-fala-rot.pdf)
 original_path: /os-filmes/longas/morto-não-fala.html
 synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violenta
   cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom
