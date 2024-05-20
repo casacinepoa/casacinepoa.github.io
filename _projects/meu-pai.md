@@ -1,8 +1,7 @@
 ---
 title: Meu pai
 tech_specs:
-  - (HD, 21 min, cor, 2014)
-  - (janela 1.77, som 2.0)
+  - (HD, tela 1.77, 21 min, 2014)
 category: Curtas-metragens
 image: /uploads/meupai-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Felipe de Paula e Gustavo Castro"
@@ -29,11 +28,16 @@ details:
       Jussara Moraes (avó)\
       Nelson Diniz (Dr. Wagner)\
       Arieli G. Mendes (Bruna)
-  - title: Veja mais
+  - title: Prêmios
     content: >-
-      * [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/curtas/meu-pai/meu-pai-créditos.html)
+      
 
+      \* 7º Festival comKids – Prix Jeunesse Iberoamericano 2015: 3º lugar na categoria ficção - 7 a 11 anos\
+
+      \*\** 2º Telas: Festival Internacional de Televisão de São Paulo, 2015: Melhor direção, Melhor produção, Melhor realização artística
+  - title: Veja mais
+    content: |-
+      * [Créditos completos](/filmes/meu-pai/creditos-completos/)
       * [R﻿oteiro](/uploads/meu-pai-rot.pdf)
 original_path: /os-filmes/distribuição/curtas/meu-pai
 ---
