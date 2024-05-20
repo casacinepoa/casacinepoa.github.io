@@ -3,7 +3,7 @@ layout: post
 title: MEU PAI é premiado em festival internacional
 date: 2015-11-13 20:03:32
 ---
-"Meu pai", uma coprodução da Casa de Cinema de Porto Alegre com o Canal Futura, recebeu três prêmios no [Telas - Festival Internacional de Televisão de São Paulo](http://festivaldetv.com.br/), na categoria Programa Infantil:
+"Meu pai", uma coprodução da Casa de Cinema de Porto Alegre com o Canal Futura, recebeu três prêmios no [Telas - Festival Internacional de Televisão de São Paulo](https://telaviva.com.br/27/10/2015/festival-telas-anuncia-programas-selecionados/), na categoria Programa Infantil:
 
 Melhor Direção (Ana Luiza Azevedo e Laura Mansur - assistente de direção)
 
