@@ -3,6 +3,8 @@ layout: post
 title: MEU PAI é premiado em festival de filmes infantis
 date: 2015-08-26 00:15:00
 ---
+![](/uploads/meu-pai-felipe.jpg)
+
 **FESTIVAL 2015: VENCEDORES AUDIOVISUAIS**\
 [ComKids, 26/08/2015](https://www.comkids.com.br/festival-2015-vencedores-audiovisuais/)\
 \
