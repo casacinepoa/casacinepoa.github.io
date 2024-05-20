@@ -1,5 +1,5 @@
 ---
-title: Domesticas - creditos
+title: Domésticas - créditos
 permalink: /filmes/domesticas/creditos-completos/
 layout: page
 ---
