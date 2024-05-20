@@ -1,0 +1,21 @@
+---
+layout: post
+title: Ana Luiza Azevedo é destaque em matéria do Bem Estar no G1
+date: 2020-10-25 00:11:54
+---
+![](/uploads/aode-ana-bolani.jpg)
+
+**A CINEASTA QUE TRANSFORMA A VELHICE EM ARTE**\
+Por Mariza Tavares *\
+[Bem Estar (G1), 25/10/2020 | 06:00](https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/10/25/a-cineasta-que-transforma-a-velhice-em-arte.ghtml)
+
+
+A pandemia criou uma trajetória singular para "Aos olhos de Ernesto", o mais recente filme da cineasta gaúcha Ana Luiza Azevedo. Premiado pela crítica na 43ª Mostra Internacional de Cinema de São Paulo e pelo público no 23º Festival Internacional de Cine de Punta del Este, a obra ficou sem salas de cinema para ser exibida, mas entrou nas plataformas de streaming e o boca a boca lhe deu visibilidade. No exterior, está em cartaz no Japão desde julho, e em breve participará de outros dois festivais na América do Sul: Viña del Mar, de 2 a 11 de novembro, e o de Montevidéu, de 21/11 a 5 de dezembro. Protagonizado pelo ator uruguaio Jorge Bolani, conta a história de um homem de 78 anos que está perdendo a visão, mas não o amor à vida. Seu encontro com a jovem e carente Bia, interpretada por Gabriela Poester, será um marco para ambos.
+
+Não é a primeira vez que Ana Luiza trata da velhice. Em 2002, seu curta "Dona Cristina perdeu a memória" ganhou diversos prêmios. Em 2015, a série "Doce de mãe", que escreveu com Jorge Furtado e dirigiu, ganhou um Emmy. Quero saber por que o tema é tão recorrente em sua filmografia: "talvez pelo fato de ter convivido muito com idosos. Tive avós longevos, minha mãe tem 89 anos, meu pai, 94. Meus filhos conviveram com seus bisavós. E os filmes acabam tendo relação com o que estou vivendo", analisa, a um mês de completar 61 anos. Depois do primeiro, foram muitos os convites para debater o assunto com plateias maduras - e as histórias chegavam de todos os cantos.
+
+O próprio Ernesto foi inspirado no fotógrafo italiano Luigi Del Re, que vivia em Porto Alegre e já não conseguia se corresponder com a irmã, que morava na França. O filho dele trabalhou com Ana Luiza no seu primeiro longa, "Antes que o mundo acabe", e contou o drama que o pai enfrentava. Esse foi o ponto de partida para o roteiro feito a quatro mãos com Jorge Furtado. Além de Ernesto fazer questão de ser protagonista da sua história e manter a autonomia, o filme trata da riqueza do convívio entre gerações. "Bia leva Ernesto para uma roda de slam (uma espécie de competição na qual poetas leem ou recitam seus trabalhos) na rua, uma experiência que tive com meu filho, há uns três anos. As pessoas não deveriam se isolar, é importante ter contato com gente de todas as idades. Podemos comparar as taxas de glicose ou colesterol com quem está na nossa faixa etária, mas também abrir espaço para conviver com aqueles que nem pensam no assunto", brinca Ana Luiza, referindo-se a uma cena na qual Ernesto e seu vizinho travam uma animada discussão sobre seus exames médicos.
+
+Sobre o próprio envelhecimento, diz que não gosta de eufemismos, como a expressão "melhor idade", e muito menos de abordagens que infantilizem os idosos. "Temos que encarar os benefícios e as limitações da idade. As pessoas ignoram que se possa viver intensamente na velhice. A atriz italiana Anna Magnani dizia: 'não queiram retocar ou tirar minhas rugas, levei muito tempo para consegui-las'. Segundo meu pai, o segredo é rir", ensina. Reconhece que ser uma mulher cineasta mais velha é desafiador: "também no cinema há uma hipervalorização da juventude", e cita Alice Guy Blaché, uma pioneira no cinema francês no século 19, cuja trajetória foi praticamente apagada pelos homens. No entanto, Ana Luiza, que integra a Casa de Cinema de Porto Alegre, segue à toda e se dedica a um novo projeto de série. Formada em artes plásticas, conta que gostava de desenhar, mas descobriu que não seguiria carreira nessa área porque não sabe trabalhar sozinha. "Preciso trocar com o outro e o cinema tem essa característica maravilhosa. Minhas limitações são superadas pelo talento dos demais".
+
+* Jornalista, autora dos livros "Longevidade no cotidiano: a arte de envelhecer bem" e "Menopausa: o momento de fazer as escolhas certas para o resto da sua vida"
