@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vídeo coletivo divulga campanha por trabalhadores vítimas das enchentes
+title: Vídeo divulga campanha por vítimas das enchentes
 date: 2024-05-19 21:11:12
 ---
 ![](/uploads/video-342.jpg)
