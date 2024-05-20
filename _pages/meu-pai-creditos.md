@@ -1,5 +1,5 @@
 ---
-title: Meu pai - creditos
+title: Meu pai - créditos
 permalink: /filmes/meu-pai/creditos-completos/
 layout: page
 ---
