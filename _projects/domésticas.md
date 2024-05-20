@@ -1,8 +1,7 @@
 ---
 title: Domésticas
 tech_specs:
-  - (HD, 15 min, cor, 2016)
-  - (janela 2.35, som estereo)
+  - (HD, tela 2.35, 15 min, 2016)
 category: Curtas-metragens
 image: /uploads/domest-imgr.jpg
 image_credits: "Foto por Bruno Polidoro: Djanira Correa"
@@ -42,9 +41,7 @@ details:
 
       Djanira Correa
   - title: Veja mais
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/curtas/domésticas-créd\
-      itos)"
+    content: "* [Créditos completos](/filmes/domesticas/creditos-completos/)"
 original_path: /os-filmes/curtas/domésticas.html
 ---
 Marilisa acorda muito cedo, arruma o café, deixa os filhos ainda dormindo e sai para trabalhar. Djanira, há 54 anos, arruma, limpa, lava e cozinha numa casa que não é a dela. Creusa, desde criança, trabalha para sustentar a casa. Sentindo a injustiça do tratamento dado às empregadas domésticas, passa a lutar por seus direitos. Três histórias particulares e ao mesmo tempo tão comuns ao cotidiano de 8 milhões de trabalhadoras domésticas do Brasil.
