@@ -1,8 +1,7 @@
 ---
 title: Fuinha & Caçapava
 tech_specs:
-  - (HD, 16 min, cor, 2015)
-  - (janela 1.77, som estereo)
+  - (HD, tela 1.77, 16 min, 2016)
 category: Curtas-metragens
 image: /uploads/fec-imgr.jpg
 image_credits: "Foto por Pablo Chasseraux: Sérgio Lulkin"
@@ -28,13 +27,12 @@ details:
       Anaís Grala Wegner (Margarida)\
       Henrique Sangiovani (Joaquim)
   - title: Prêmios
-    content: |-
-      * Festival Internacional do Audiovisual, São Paulo, 2016:\
-        Melhor piloto de série de ficção
+    content: "* 11º Festival Internacional do Audiovisual, Rio de Janeiro, 2016:
+      melhor piloto de série de ficção"
   - title: Veja mais
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/curtas/fuinha-caçapava\
-      -créditos)"
+    content: |-
+      * [Créditos completos](/filmes/fuinha-e-cacapava/creditos-completos/)
+      * R﻿oteiro
 original_path: /os-filmes/curtas/fuinha-caçapava.html
 ---
 Joaquim e Margarida passam o dia no antiquário de seu avô, o esquecido Fuinha, e seu sócio, o rabujento Caçapava. Uma velha mala, cheia de estranhos frascos, é o portal para um mundo mágico onde aventuras extraordinárias são vividas e memórias perdidas são revisitadas.
