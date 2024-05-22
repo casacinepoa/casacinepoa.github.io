@@ -9,6 +9,8 @@ image_credits: "Foto por Alex Sernambi: Lázaro Ramos"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/meu-tio-matou-um-cara/t/hdjqC8N1Ls/
+  - title: Claro TV+
+    url: https://www.clarotvmais.com.br/filme/meu-tio-matou-um-cara/2953903
 details:
   - title: Créditos
     content: |-
