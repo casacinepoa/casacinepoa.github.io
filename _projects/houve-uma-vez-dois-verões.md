@@ -11,6 +11,8 @@ where_to_watch:
     url: https://globoplay.globo.com/houve-uma-vez-dois-veroes/t/HC1X28ZGdj/
   - title: Sulflix
     url: https://sulflix.com.br/app/longas/houve-uma-vez-dois-veroes
+  - title: Claro TV+
+    url: https://www.clarotvmais.com.br/filme/houve-uma-vez-dois-veroes/2954063
 details:
   - title: Créditos
     content: |-
