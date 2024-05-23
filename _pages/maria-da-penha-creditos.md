@@ -1,5 +1,5 @@
 ---
-title: Maria da Penha - creditos
+title: Maria da Penha - créditos
 permalink: /filmes/maria-da-penha/creditos-completos/
 layout: page
 ---
