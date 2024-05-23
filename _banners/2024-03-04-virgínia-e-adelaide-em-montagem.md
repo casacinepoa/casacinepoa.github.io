@@ -1,6 +1,6 @@
 ---
-date: 2024-04-24 14:26:37
-image: /uploads/vea-revistas2.jpg
+date: 2024-05-22 21:00:38
+image: /uploads/vea_atrizes2.jpg
 title: VIRGÍNIA E ADELAIDE em corte final
 link: https://gauchazh.clicrbs.com.br/cultura-e-lazer/cinema/noticia/2023/11/casa-da-rua-coronel-bordini-vira-cenario-para-novo-filme-de-jorge-furtado-e-yasmin-thayna-clplbxixa001m013l418b1gev.html
 ---
