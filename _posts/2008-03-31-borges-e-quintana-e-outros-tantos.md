@@ -32,4 +32,4 @@ Macedonio Fernández foi um escritor argentino, pouco conhecido até ser redesco
 
 **Enviado por Giba Assis Brasil em 01 de abril de 2008.**
 
-*Lizi, obrigado pela indicação da música. Ajudou. Tem também o Auden, mas, depois do "Três casamentos e um funeral", o "Funeral blues" ficou pop demais pro meu gosto.*
+*Lizi, obrigado pela indicação da música. Ajudou. Tem também o Auden, mas, depois do "Quatro casamentos e um funeral", o "Funeral blues" ficou pop demais pro meu gosto.*
