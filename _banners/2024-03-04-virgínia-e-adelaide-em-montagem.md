@@ -1,6 +1,6 @@
 ---
 date: 2024-06-15 16:51:28
-image: /uploads/vea-diretores.jpg
+image: /uploads/vea-revistas2.jpg
 title: VIRGÍNIA E ADELAIDE terá pré-estreia em Gramado
 link: https://gauchazh.clicrbs.com.br/pioneiro/colunistas/marcelo-mugnol/noticia/2024/06/virginia-e-adelaide-filme-de-jorge-furtado-e-yasmin-thayna-tera-sessao-especial-no-festival-de-gramado-clxaon3je00ls01444daco1d3.html
 ---
