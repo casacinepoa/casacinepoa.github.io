@@ -13,6 +13,7 @@ date: 2024-07-05 17:28:21
 Por Anna Luiza Santiago\
 [O Globo, 02/07/2024 05h30](https://oglobo.globo.com/play/series/noticia/2024/07/02/serie-do-globoplay-sobre-o-universo-dos-e-sports-ganha-data-de-estreia-conheca-os-protagonistas.ghtml)
 \
+\
 Caio Cabral, Cauã Martins, Erik Vesh, Fernanda Marques, Luigi Montez, Thiago Prade e Laura Luz serão os protagonistas da série "Dr4g0n", que chegará ao Globoplay no próximo dia 18. A trama acompanha Daniel (Cauã), um jovem introvertido que adora jogar on-line usando o codinome Dr4g0n. A irmã mais velha, Ana Paula (Fernanda), logo percebe que vale investir na carreira dele.
 
 Já os pais do jovem não entendem como funciona o mundo dos games e criticam o fato de o filho passar tanto tempo na frente do computador. Até que o empreendimento deles falirá, e a família passará por dificuldades financeiras. Ana, então, montará um time para vencer torneios e quitar as dívidas. A série abordará temas como competição, abismo geracional e amizade.
