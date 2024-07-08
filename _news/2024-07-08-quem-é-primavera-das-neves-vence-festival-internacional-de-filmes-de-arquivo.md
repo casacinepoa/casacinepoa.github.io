@@ -6,8 +6,6 @@ date: 2019-11-11 15:29:16
 **ARQUIVO EM CARTAZ: TERCEIRO DIA E PREMIAÇÕES**\
 [Arquivo Nacional, 11/11/2019 18:00](https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/arquivo-em-cartaz-terceiro-dia-e-premiacoes)
 
-
-
 O terceiro dia do Festival Arquivo em Cartaz contou com a Oficina de Conservação de Películas Cinematográficas, conduzida por Fátima Taranto, homenageada deste ano do Arquivo em Cartaz, e Mauro Domingues, ambos servidores do Arquivo Nacional. Fátima apresentou noções gerais sobre o acervo filmográfico custodiado pela instituição e das técnicas empregadas para a preservação. Já Mauro Domingues destacou a importância do sistema de controle de temperatura e umidade nas galerias para a adequada preservação deste acervo, dentre outras orientações técnicas. O Arquivo em Cartaz 2019, que está em sua quinta edição, tem como propósito não só a difusão do acervo filmográfico bem como visa informar e compartilhar conhecimentos sobre as técnicas de preservação de filmes empregadas no Arquivo Nacional.
 
 Dentro da programação de filmes, os espectadores puderam conferir produções das mostras Arquivos do Amanhã, com filmes realizados por jovens de 10 a 24 anos; Lanterna Mágica, que exibiu curtas metragens produzidos em oficina homônima e que contaram com imagens do acervo do Arquivo Nacional e Competitiva, com filmes que estavam concorrendo à premiação principal. A exibição de filmes do Festival Arquivo em Cartaz no Cine Arte UFF segue até o dia 13 de novembro. As atividades do festival no Arquivo Nacional, no entanto, foram encerradas na sexta-feira, 8 de novembro, com a cerimônia de premiação aos vencedores, seguida de uma roda de samba.
@@ -39,3 +37,7 @@ Melhor Média: "There are no lions in Tel Aviv", de Duki Dror
 Melhor Longa: **"Quem é Primavera das Neves"**, de Ana Luiza Azevedo e Jorge Furtado
 
 Melhor Filme pelo Júri Popular: "O Barato de Iacanga", de Thiago Mattar
+
+![](/uploads/batoque.jpg)
+
+*O﻿s Troféus Batoque em frente ao Arquivo Nacional, no Rio de Janeiro*
