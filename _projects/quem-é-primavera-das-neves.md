@@ -1,8 +1,7 @@
 ---
 title: Quem é Primavera das Neves
 tech_specs:
-  - (HD,  75min, cor,  2017)
-  - (janela 1.77, som Dolby 5.1)
+  - (2017, HD, 75 min, prop. 1.77)
 category: Longas-metragens
 image: /uploads/qepdn-imgr.jpeg
 image_credits: "Foto de arquivo: Primavera das Neves"
@@ -108,6 +107,18 @@ details:
       * [R﻿oteiro](/uploads/primavera-rot.pdf)
 
       * [T﻿exto final](/uploads/primavera-txf.pdf)
+
+      * [I﻿MDb](https://www.imdb.com/title/tt6881452)
+
+      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1109/)
+
+      * [L﻿etterboxd](https://letterboxd.com/film/quem-e-primavera-das-neves/)
+  - title: Prêmios
+    content: >-
+      \- 17º Grande Prêmio Cinema Brasil 2018: finalista em Melhor montagem de
+      documentário\
+
+      \*\* 5º Arquivo em Cartaz, Festival Internacional de Cinema de Arquivo, Rio de Janeiro, 2019: Melhor longa-metragem, Melhor pesquisa..
 original_path: /os-filmes/produção/documentários/quem-é-primavera-das-neves.html
 synopsis: O ponto de partida é um nome improvável, Primavera das Neves,
   tradutora de Lewis Carroll, Daniel Defoe e Julio Verne, que na década de 1960
