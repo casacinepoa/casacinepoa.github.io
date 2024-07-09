@@ -16,4 +16,9 @@ O valor do ingresso é R$ 16,00.
 
 Sinopse
 
-Um documentário observa Luis Fernando Verissimo enquanto Luis Fernando Verissimo observa o mundo ao seu redor se ouriçar com a chegada dos seus 80 anos.
+Um documentário observa Luis Fernando Verissimo enquanto Luis Fernando Verissimo observa o mundo ao seu redor se ouriçar com a chegada dos seus 80 anos.\
+\
+\*﻿\*\*\**\
+Informe da Cinemateca Capitólio, 09/jul/2024 16:36
+
+A CINEMATECA CAPITÓLIO INFORMA QUE O DEBATE DO FILME VERISSIMO, COM A PARTICIPAÇÃO DO DIRETOR ANGELO DEFANTI, DE JORGE FURTADO E DE FERNANDA VERISSIMO, PROGRAMADO PARA OCORRER HOJE, 9 DE JULHO, NÃO IRÁ MAIS OCORRER. TEREMOS APENAS A EXIBIÇÃO DO FILME, ÀS 19H30.
