@@ -113,7 +113,7 @@ details:
 
       * [I﻿MDb](https://www.imdb.com/title/tt6881452)
 
-      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1109/)
+      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1109/quem-e-primavera-das-neves)
 
       * [L﻿etterboxd](https://letterboxd.com/film/quem-e-primavera-das-neves/)
   - title: Prêmios
