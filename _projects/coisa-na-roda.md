@@ -1,8 +1,7 @@
 ---
 title: Coisa na roda
 tech_specs:
-  - (Super-8 mm, 105 min, cor, 1982)
-  - (janela 1.33, som magnético mono)
+  - (1982, Super-8, 105 min, 1.33:1)
 category: Origens
 image: /uploads/croda-imgr.jpg
 image_credits: "Foto por Giba Assis Brasil: Pedro Santos, Rudi Lagemann, Nilo
