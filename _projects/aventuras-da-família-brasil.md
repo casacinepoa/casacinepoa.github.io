@@ -2,7 +2,7 @@
 title: Aventuras da Família Brasil
 tech_specs:
   - "(2009, HDV, 8x15 min, 1.77:1) "
-  - Série para a RBS TV.
+  - Série em 8 episódios para a RBS TV.
 category: Séries
 image: /uploads/avfbr-imgr.jpg
 details:
