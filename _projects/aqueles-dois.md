@@ -2,7 +2,6 @@
 title: Aqueles dois
 tech_specs:
   - (1985, 35 mm, 75 min, 1.33:1)
-  - (janela 1.33, som óptico mono)
 category: Origens
 image: /uploads/aq2-imgr.jpg
 image_credits: "Foto por Cesar Charlone: Beto Ruas e Pedro Wayne"
