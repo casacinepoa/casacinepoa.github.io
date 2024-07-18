@@ -1,7 +1,7 @@
 ---
 title: Cidades fantasmas - série
 tech_specs:
-  - (HD, 8 x 15 min, cor, 2018)
+  - (2018, HD, 8x15 min, 2.35:1)
   - (janela 2.35, som Dolby 5.1)
   - Série de 8 episódios para o Canal Brasil
 category: Séries
