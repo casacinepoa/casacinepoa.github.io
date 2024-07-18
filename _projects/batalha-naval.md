@@ -1,8 +1,7 @@
 ---
 title: Batalha naval
 tech_specs:
-  - (16 mm, 10 min, cor, 1992)
-  - (janela 1.33, som óptico mono)
+  - (1992, 16 mm, 10 min, 1.33:1)
 category: Distribuição
 image: /uploads/btnv-imgr.jpg
 image_credits: "FOTO por Roberto Henkin: Leverdógil de Freitas e Irani Zucatto"
