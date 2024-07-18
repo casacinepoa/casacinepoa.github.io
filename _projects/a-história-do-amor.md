@@ -1,8 +1,7 @@
 ---
 title: A história do amor
 tech_specs:
-  - (HD, 16x8min, cor, 2011-2013)
-  - (janela 1.77, som digital estereo)
+  - (2011-2013, HD, 16x8 min, 1.77:1)
   - Série produzida pela Casa de Cinema para a TV Globo, em 3 temporadas, com um
     total de 16 episódios
 category: Séries
