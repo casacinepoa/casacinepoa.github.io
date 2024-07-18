@@ -1,8 +1,7 @@
 ---
 title: A Copa passou por aqui
 tech_specs:
-  - (HD, 11 x 13min, cor, 2014)
-  - (janela 1.77, som digital estereo)
+  - (2014, HD, 11x13 min, 1.77:1)
 category: Séries
 image: /uploads/cppa-imgr.jpg
 details:
