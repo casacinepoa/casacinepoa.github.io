@@ -1,7 +1,7 @@
 ---
 title: Aos Olhos de Ernesto
 tech_specs:
-  - (2019, duração 122 min, prop. tela 2.35)
+  - (2019, HD, 122 min, 2.35:1)
 category: Longas-metragens
 image: /uploads/aode-imgr_0.jpg
 image_credits: "Foto por Fábio Rebelo: Jorge Bolani e Gabriela Poester"
