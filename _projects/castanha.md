@@ -1,8 +1,7 @@
 ---
 title: Castanha
 tech_specs:
-  - (HD, 95 min, cor, 2014)
-  - (janela 1.77, som Dolby 5.1)
+  - (2014, HD, 95 min, 1.77:1)
 category: Coproduções
 image: /uploads/cast-imgr.jpg
 image_credits: "Foto divulgação: João Carlos Castanha"
