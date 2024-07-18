@@ -1,8 +1,7 @@
 ---
 title: Até a vista
 tech_specs:
-  - (HD, 18 min, cor, 2011)
-  - (janela 1.77, som 2.0)
+  - (2011, HD, 18 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/ateav-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Salo Pasik e Felipe de Paula"
