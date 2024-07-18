@@ -1,8 +1,7 @@
 ---
 title: A mulher gigante
 tech_specs:
-  - (DV, 40 min, cor, 2006)
-  - (janela 1.33, som digital stereo)
+  - (2006, SD, 40 min, 1.33:1)
 category: Médias-metragens
 image: /uploads/mulhg-imgr.jpg
 image_credits: "Foto de Juliano Lopes: a Mulher Gigante e Gustavo Finkler"
