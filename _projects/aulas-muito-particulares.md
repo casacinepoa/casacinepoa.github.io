@@ -2,7 +2,6 @@
 title: Aulas muito particulares
 tech_specs:
   - (1988, 35 mm, 10 min, 1.33:1)
-  - (janela 1.33, som óptico mono)
 category: Distribuição
 image: /uploads/amp-imgr.jpg
 image_credits: "FOTO por Alex Sernambi: Luciana Tomasi, Edu K e Nora Prado"
