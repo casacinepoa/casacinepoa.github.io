@@ -1,7 +1,7 @@
 ---
 title: Antes que o mundo acabe
 tech_specs:
-  - (2009, duração 100 min, prop.tela 1.85)
+  - (2009, 35mm, 100 min, 1.85:1)
 category: Longas-metragens
 image: /uploads/aqma-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
