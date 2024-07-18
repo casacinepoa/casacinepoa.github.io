@@ -1,8 +1,7 @@
 ---
 title: Três efes
 tech_specs:
-  - (DV, 100 min, cor, 2007)
-  - (janela 1.33, som stereo)
+  - (2007, SD, 100 min, 1.33:1)
 category: Longas-metragens
 image: /uploads/3efes-imgr.jpg
 image_credits: "Foto por João Divino: Alexandre Vargas e Cris Kessler"
