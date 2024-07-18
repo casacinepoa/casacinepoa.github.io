@@ -1,8 +1,7 @@
 ---
 title: A família Sujo
 tech_specs:
-  - (DV, 31 min, cor, 2006)
-  - (janela 1.33, som digital stereo)
+  - (2006, SD, 31 min, 1.33:1)
 category: Médias-metragens
 image: /uploads/famsuj-imgr.jpg
 image_credits: "Foto de Juliano Lopes: Vika Schabbach, Raquel Grabauska e Gustavo Finkler"
