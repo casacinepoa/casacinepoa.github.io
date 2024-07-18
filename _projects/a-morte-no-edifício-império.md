@@ -1,8 +1,7 @@
 ---
 title: A morte no Edifício Império
 tech_specs:
-  - (35 mm, 11 min, p&b, 1993)
-  - (janela 1.33, som óptico mono)
+  - (1993, 35 mm, 11 min, 1.33:1)
 category: Distribuição
 image: /uploads/medimp-imgr.jpg
 image_credits: "Foto por Ana Pompermayer: Flávia Moraes"
