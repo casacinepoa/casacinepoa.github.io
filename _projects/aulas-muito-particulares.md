@@ -1,7 +1,7 @@
 ---
 title: Aulas muito particulares
 tech_specs:
-  - (35 mm, 10 min, cor, 1988)
+  - (1988, 35 mm, 10 min, 1.33:1)
   - (janela 1.33, som óptico mono)
 category: Distribuição
 image: /uploads/amp-imgr.jpg
