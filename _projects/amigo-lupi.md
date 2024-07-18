@@ -1,8 +1,7 @@
 ---
 title: Amigo Lupi
 tech_specs:
-  - (16 mm, 17 min, cor, 1992)
-  - (janela 1.33, som óptico mono)
+  - (1992, 16 mm, 17 min, 1.33:1)
 category: Distribuição
 image: /uploads/alup-imgr.jpg
 image_credits: Foto por Norberto Lubisco
