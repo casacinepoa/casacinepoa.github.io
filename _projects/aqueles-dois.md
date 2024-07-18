@@ -1,7 +1,7 @@
 ---
 title: Aqueles dois
 tech_specs:
-  - (35 mm, 75 min, color, 1985)
+  - (1985, 35 mm, 75 min, 1.33:1)
   - (janela 1.33, som óptico mono)
 category: Origens
 image: /uploads/aq2-imgr.jpg
