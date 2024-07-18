@@ -3,7 +3,7 @@ title: "Verlust "
 tech_specs:
   - (2020, duração 111 min, prop. tela 2.35)
 category: Longas-metragens
-trailer: https://vimeo.com/457926844/be0dece1d1
+trailer: ""
 image: /uploads/verlust-1.jpg
 image_credits: "Foto de Tuane Eggers: Ismael Caneppele, Marina Lima e Andrea Beltrão"
 details:
