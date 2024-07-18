@@ -1,8 +1,7 @@
 ---
 title: Cidades fantasmas
 tech_specs:
-  - (HD, 70 min, cor, 2017)
-  - (som Dolby 5.1)
+  - (2017, HD, 70 min, cor, 2.35:1)
 category: Longas-metragens
 image: /uploads/cidfant-imgr.jpeg
 image_credits: "Foto por Glauco Firpo: Epecuén"
