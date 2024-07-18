@@ -1,8 +1,7 @@
 ---
 title: A coisa mais importante da vida
 tech_specs:
-  - (35 mm, 12 min, cor, 1990)
-  - (janela 1.33, som óptico mono)
+  - (1990, 35 mm, 12 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/cmiv-imgr.jpg
 image_credits: "Foto por Roberto Henkin: Oscar Simch"
