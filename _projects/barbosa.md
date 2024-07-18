@@ -1,8 +1,7 @@
 ---
 title: Barbosa
 tech_specs:
-  - (35 mm, 13 min, cor, 1988)
-  - (janela 1.33, som óptico mono)
+  - (1988, 35 mm, 13 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/barb-imgr.jpg
 image_credits: "Foto por Sérgio Amon: Antônio Fagundes"
