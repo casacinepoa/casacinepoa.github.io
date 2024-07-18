@@ -4,7 +4,7 @@ tech_specs:
   - (2024, HD, 8x30min, 1.77:1)
 category: Séries
 trailer: https://globoplay.globo.com/v/12750474/
-image: /uploads/dragon-entrada.jpg
+image: /uploads/dragon05.jpg
 where_to_watch:
   - title: Globo Play
     url: https://globoplay.globo.com/dr4g0n/t/JxHzWzbH9n/
@@ -37,7 +37,7 @@ details:
 
       **Original** Globoplay\
       **Produção** Casa de Cinema de Porto Alegre
-  - title: Eppisódios
+  - title: Episódios
     content: >-
       1. Frozen
          Os pais de Ana Paula faliram, e a família precisa de um negócio novo. Por sorte, ela acaba de descobrir que seu irmão mais novo Daniel é um gênio no jogo Full Force.
