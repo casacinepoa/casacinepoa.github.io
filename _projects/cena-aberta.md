@@ -1,8 +1,7 @@
 ---
 title: Cena aberta
 tech_specs:
-  - (Beta digital, 4 x 30 min, cor, 2003)
-  - (janela 1.33, som digital estéreo)
+  - (2003, SD, 4x30 min, 1.33:1)
 category: Séries
 image: /uploads/cenaab-imgr.jpg
 details:
