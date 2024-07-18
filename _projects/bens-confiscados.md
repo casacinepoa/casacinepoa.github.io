@@ -1,8 +1,7 @@
 ---
 title: Bens confiscados
 tech_specs:
-  - (35 mm, 108 min, cor, 2005)
-  - (janela 1.66, som óptico Dolby SR, som digital Dolby)
+  - (2005, 35 mm, 108 min, 1.66:1)
 category: Coproduções
 trailer: ""
 image: /uploads/bens-imgr.jpeg
