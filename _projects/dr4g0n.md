@@ -4,7 +4,7 @@ tech_specs:
   - (2024, HD, 8x30min, 1.77:1)
 category: Séries
 trailer: ""
-image: /uploads/dragon05.jpg
+image: /uploads/dragon-entrada.jpg
 where_to_watch:
   - title: Globo Play
     url: https://globoplay.globo.com/dr4g0n/t/JxHzWzbH9n/
