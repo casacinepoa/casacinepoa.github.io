@@ -1,8 +1,7 @@
 ---
 title: A Olimpíada passou por aqui
 tech_specs:
-  - (HD, 5 x 18min, cor , 2016)
-  - (janela 1.77, som digital estereo)
+  - (2016, HD, 5x18 min, 1.77:1)
   - Série em 5 episódios para SporTV
 category: Séries
 image: /uploads/oppa-im.jpg
