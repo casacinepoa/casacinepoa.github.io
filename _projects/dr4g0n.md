@@ -3,7 +3,7 @@ title: Dr4g0n
 tech_specs:
   - (2024, HD, 8x30min, 1.77:1)
 category: Séries
-trailer: https://globoplay.globo.com/v/12750474/
+trailer: ""
 image: /uploads/dragon05.jpg
 where_to_watch:
   - title: Globo Play
