@@ -2,7 +2,7 @@
 date: 2024-07-02 17:35:52
 image: /uploads/dragon03.jpg
 title: Dr4g0n no Globo Play hoje
-link: https://globoplay.globo.com/v/12750474/
+link: https://globoplay.globo.com/dr4g0n/t/JxHzWzbH9n/temporadas/1/
 ---
 D﻿r4g0n estreia hoje, 18 de julho. Já disponível no Globo Play.
 
