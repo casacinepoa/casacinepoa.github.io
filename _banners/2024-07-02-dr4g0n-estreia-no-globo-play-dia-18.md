@@ -2,7 +2,7 @@
 date: 2024-07-02 17:35:52
 image: /uploads/dragon03.jpg
 title: Dr4g0n no Globo Play hoje
-link: https://telaviva.com.br/05/07/2024/globoplay-apresenta-dr4g0n-primeira-serie-de-ficcao-da-plataforma-com-a-tematica-de-e-sports/
+link: https://globoplay.globo.com/v/12750474/
 ---
 D﻿r4g0n estreia hoje, 18 de julho. Já disponível no Globo Play.
 
