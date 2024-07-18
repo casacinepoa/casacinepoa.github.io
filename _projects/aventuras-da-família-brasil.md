@@ -1,8 +1,7 @@
 ---
 title: Aventuras da Família Brasil
 tech_specs:
-  - "(HDV, 8 x 15 min, cor, 2009) "
-  - (janela 1.77, som digital estéreo)
+  - "(2009, HDV, 8x15 min, 1.77:1) "
   - Série para a RBS TV.
 category: Séries
 image: /uploads/avfbr-imgr.jpg
