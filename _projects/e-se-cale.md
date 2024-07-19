@@ -1,7 +1,7 @@
 ---
 title: E se cale
 tech_specs:
-  - (2018, duração 1 min, prop tela 1.77)
+  - (2018, HD, 1 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/e-se-cale-img.jpg
 image_credits: "Foto de Bruno Polidoro: Cristal Rocha"
