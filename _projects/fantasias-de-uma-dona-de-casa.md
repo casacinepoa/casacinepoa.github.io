@@ -1,8 +1,7 @@
 ---
 title: Fantasias de uma dona de casa
 tech_specs:
-  - (HDV, 8 x 15 min, cor, 2008-2009)
-  - (janela 1.77, som digital estéreo)
+  - (2008-09, HDV, 8x15 min, 1.77:1)
   - Série em duas temporadas para RBS-TV, num total de 8 episódios
 category: Séries
 image: /uploads/fddc-imgr.jpg
