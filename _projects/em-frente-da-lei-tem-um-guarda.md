@@ -2,7 +2,6 @@
 title: Em frente da lei tem um guarda
 tech_specs:
   - (2000, SD, 20 min, 1.33:1)
-  - (janela 1.33, som digital estéreo)
 category: Médias-metragens
 image: /uploads/efdltug-imgr.jpg
 image_credits: Foto por Júlio Spier
