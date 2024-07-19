@@ -1,7 +1,7 @@
 ---
 title: Cretinália
 tech_specs:
-  - (2020, duração 7 min, prop. tela 1.77)
+  - (2020, HD, 7 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/cretinalia01.jpg
 image_credits: Colagem de Alex Sernambi
