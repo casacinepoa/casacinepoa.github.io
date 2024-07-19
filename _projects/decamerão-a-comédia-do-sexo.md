@@ -1,8 +1,7 @@
 ---
 title: Decamerão, a comédia do sexo
 tech_specs:
-  - (16mm/HDCAM, 5 x 30 min, cor, 2009)
-  - (janela 1.77, som digital estéreo
+  - (2009, 16 mm/SD, 5x30 min, 1.77:1)
   - Série de 5 episódios produzida pela Casa de Cinema de Porto Alegre para a TV
     Globo.
 category: Séries
