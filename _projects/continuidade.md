@@ -1,8 +1,7 @@
 ---
 title: Continuidade
 tech_specs:
-  - (16 mm, 4 min, cor, 1997)
-  - (janela 1.33, som óptico mono)
+  - (1997, 16 mm, 4 min, 1.33:1)
 category: Distribuição
 image: /uploads/cont-imgr.jpg
 image_credits: "Foto por Joel Sagardia: Zé Adão Barbosa"
