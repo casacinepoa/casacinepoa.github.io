@@ -1,8 +1,7 @@
 ---
 title: Deus ex-machina
 tech_specs:
-  - "(35 mm, 25 min, cor, 1995) "
-  - (janela 1.85, som óptico mono)
+  - "(1995, 35 mm, 25 min, 1.85:1) "
 category: Médias-metragens
 image: /uploads/dexmp-imgr.jpg
 image_credits: "FOTO por Alex Sernambi: Luciene Adami"
