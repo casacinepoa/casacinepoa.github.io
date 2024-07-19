@@ -1,8 +1,7 @@
 ---
 title: El padre de Gardel
 tech_specs:
-  - (HDV, 75min , cor, 2013)
-  - (janela 1.77, som 2.0)
+  - (2013, HDV, 75min, 1.77:1)
 category: Coproduções
 image: /uploads/pdg-imgr.jpg
 image_credits: "Foto de arquivo: Carlos Escayola"
