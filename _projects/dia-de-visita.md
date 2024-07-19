@@ -1,8 +1,7 @@
 ---
 title: Dia de visita
 tech_specs:
-  - (16 mm/Beta Digital, 27 min, cor, 2001)
-  - (janela 1.33, som digital estéreo)
+  - (2001, 16 mm/SD, 27 min, 1.33:1)
   - Episódio da série "Brava gente" da TV Globo.
 category: Médias-metragens
 image: /uploads/diavis-imgr.jpg
