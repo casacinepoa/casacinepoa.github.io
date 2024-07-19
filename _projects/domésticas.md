@@ -1,7 +1,7 @@
 ---
 title: Domésticas
 tech_specs:
-  - (HD, tela 2.35, 15 min, 2016)
+  - (2016, HD, 15 min, 2.35:1)
 category: Curtas-metragens
 image: /uploads/domest-imgr.jpg
 image_credits: "Foto por Bruno Polidoro: Djanira Correa"
