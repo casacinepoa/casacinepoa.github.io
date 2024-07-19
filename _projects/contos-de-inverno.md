@@ -1,7 +1,7 @@
 ---
 title: Contos de inverno
 tech_specs:
-  - (2001-2002, SD, 10x23 min, 1.33:1)
+  - (2001-02, SD, 10x23 min, 1.33:1)
   - Série em duas temporadas para RBS-TV, num total de 10 episódios
 category: Séries
 image: /uploads/continv-imgr_0.jpg
