@@ -1,8 +1,7 @@
 ---
 title: Esta não é a sua vida
 tech_specs:
-  - (35 mm, 16 min, cor, 1991)
-  - (janela 1.33, som óptico mono)
+  - (1991, 35 mm, 16 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/eneasv-imgr.jpg
 image_credits: "Foto por Carlos Gerbase: Noeli Cavalheiro"
