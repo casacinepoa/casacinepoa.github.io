@@ -1,8 +1,7 @@
 ---
 title: Doce de mãe
 tech_specs:
-  - (HD, 14 x 26min, cor , 2014)
-  - (janela 1.77, som 2.0)
+  - (2014, HD, 14x26 min, 1.77:1)
   - Série em 14 episódios para TV Globo
 category: Séries
 image: /uploads/ddms-imgr.jpg
