@@ -1,8 +1,7 @@
 ---
 title: Doce de mãe (telefilme)
 tech_specs:
-  - (HD, 70 min, cor, 2012)
-  - (janela 1.77, som 2.0)
+  - (2012, HD, 70 min, 1.77:1)
 category: Longas-metragens
 image: /uploads/ddmp-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Fernanda Montenegro"
