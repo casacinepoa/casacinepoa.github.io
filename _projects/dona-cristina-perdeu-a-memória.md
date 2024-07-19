@@ -1,8 +1,7 @@
 ---
 title: Dona Cristina perdeu a memória
 tech_specs:
-  - (35 mm, 13 min, cor, 2002)
-  - (janela 1.85, som óptico Dolby SR)
+  - (2002, 35 mm, 13 min, 1.85:1)
 category: Curtas-metragens
 image: /uploads/dcris-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Tergolina e Lissy Brock"
