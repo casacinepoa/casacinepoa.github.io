@@ -1,8 +1,7 @@
 ---
 title: Curta na TV
 tech_specs:
-  - (Betacam, 24 x 30 min, cor, 1997-98)
-  - (janela 1.33, som mono)
+  - (1997-98, SD, 24x30 min, 1.33:1)
 category: Séries
 image: /uploads/curtv-imgr.jpg
 details:
