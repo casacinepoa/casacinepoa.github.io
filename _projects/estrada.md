@@ -1,9 +1,8 @@
 ---
 title: Estrada
 tech_specs:
-  - (35 mm, 17 min, cor, 1995)
-  - (janela 1.66, som óptico mono)
-  - (episódio do longa-metragem FELICIDADE É...)
+  - (1995, 35 mm, 17 min, 1.66:1)
+  - Episódio do longa-metragem FELICIDADE É...
 category: Curtas-metragens
 image: /uploads/estr-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Cardoso e Débora Bloch"
