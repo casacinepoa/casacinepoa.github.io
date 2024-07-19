@@ -1,8 +1,7 @@
 ---
 title: Deu pra ti anos 70
 tech_specs:
-  - (Super-8 mm, 108 min, cor, 1981)
-  - (janela 1.33, som magnético mono)
+  - (1981, Super-8, 108 min, 1.33:1)
 category: Origens
 image: /uploads/dpta70-imgr.jpg
 image_credits: "Foto por Nelson Nadotti: Pedro Santos e Ceres Victora"
