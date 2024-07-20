@@ -1,8 +1,7 @@
 ---
 title: Rummikub
 tech_specs:
-  - (HDV/35 mm, 13 min, cor, 2007)
-  - (janela 1.77, som digital Dolby)
+  - (2007, HD/35 mm, 13 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/rummi-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Patsy Cecato, Elisa Volpatto e Nelson Diniz"
