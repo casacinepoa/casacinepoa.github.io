@@ -1,8 +1,7 @@
 ---
 title: O natal de Natanael
 tech_specs:
-  - (DV, 32 min, cor, 2006)
-  - (janela 1.33, som digital stereo)
+  - (2006, SD, 32 min, cor, 1.33:1)
 category: Médias-metragens
 image: /uploads/natal-imgr.jpg
 image_credits: "Foto de Juliano Lopes: Raquel Grabauska, Gustavo Finkler e Vika Schabbach"
