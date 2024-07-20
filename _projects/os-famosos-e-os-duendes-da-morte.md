@@ -1,8 +1,7 @@
 ---
 title: Os famosos e os duendes da morte
 tech_specs:
-  - (35 mm, 101 min, cor, 2010)
-  - (janela 2.35, som Dolby 5.1)
+  - (2010, 35 mm, 101 min, 2.35:1)
 category: Coproduções
 image: /uploads/fddm-imgr.jpg
 image_credits: "Foto divulgação: Tuane Eggers e Henrique Larré"
