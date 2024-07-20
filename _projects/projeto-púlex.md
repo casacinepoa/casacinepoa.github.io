@@ -1,8 +1,7 @@
 ---
 title: Projeto Púlex
 tech_specs:
-  - (16 mm, 10 min, cor, 1991)
-  - (janela 1.33, som óptico mono)
+  - (1991, 16 mm, 10 min, 1.33:1)
 category: Distribuição
 image: /uploads/ppulex-imgr.jpg
 image_credits: Foto por Norton Cardia
