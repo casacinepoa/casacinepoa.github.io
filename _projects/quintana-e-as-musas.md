@@ -1,8 +1,7 @@
 ---
 title: Quintana e as musas
 tech_specs:
-  - (Beta digital, 22 min, cor, 2006)
-  - (janela 1.33, som digital estéreo)
+  - (2006, SD, 22 min, 1.33:1)
   - Episódio da série "Quintana, anjo poeta" da RBS TV
 category: Médias-metragens
 image: /uploads/quintm-imgr.jpg
