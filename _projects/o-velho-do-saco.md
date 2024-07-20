@@ -1,8 +1,7 @@
 ---
 title: O velho do saco
 tech_specs:
-  - (35 mm, 14 min, cor, 1999)
-  - (janela 1.33, som óptico mono)
+  - (1999, 35 mm, 14 min, 1.33:1)
 category: Distribuição
 image: /uploads/velhsac-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Ricardo Pedralli"
