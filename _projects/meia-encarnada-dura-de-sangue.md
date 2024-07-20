@@ -1,7 +1,7 @@
 ---
 title: Meia encarnada dura de sangue
 tech_specs:
-  - (Beta Digital, 23 min, cor, 2000)
+  - (2000, SD, 23 min, 1.33:1)
   - (janela 1.33, som digital estéreo)
   - Episódio da série "Brava gente" da TV Globo.
 category: Médias-metragens
