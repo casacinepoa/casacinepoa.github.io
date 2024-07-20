@@ -1,7 +1,7 @@
 ---
 title: O cárcere e a rua
 tech_specs:
-  - (16mm, 80 min, cor, 2004)
+  - (2004, 16mm, 80 min, 1.33:1)
   - (janela 1.33, som mono)
 category: Distribuição
 image: /uploads/carc-im.jpg
