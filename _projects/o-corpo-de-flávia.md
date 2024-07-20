@@ -1,8 +1,7 @@
 ---
 title: O corpo de Flávia
 tech_specs:
-  - (35 mm, 15 min, cor, 1990)
-  - (janela 1.33, som óptico mono)
+  - (1990, 35 mm, 15 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/corpof-imgr.jpg
 image_credits: "FOTO por Alex Sernambi: Ana Moura"
