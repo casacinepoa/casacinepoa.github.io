@@ -1,8 +1,7 @@
 ---
 title: O pulso
 tech_specs:
-  - (35mm, 21 min, cor, 1997)
-  - (janela 1.66, som estereo)
+  - (1997, 35mm, 21 min, 1.66:1)
 category: Distribuição
 image: /uploads/pulso-imgr.jpg
 image_credits: "Foto por Marcelo Dürst: Werner Schünemann"
