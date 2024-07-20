@@ -1,8 +1,7 @@
 ---
 title: O mentiroso
 tech_specs:
-  - (35 mm, 95 min, cor, 1988)
-  - (janela 1.33, som estereo)
+  - (1988, 35 mm, 95 min, 1.33:1)
 category: Origens
 image: /uploads/ment-imgr.jpg
 image_credits: "Foto de Christian Lesage: Patrícia Travassos e Angel Palomero"
