@@ -1,8 +1,7 @@
 ---
 title: Real beleza
 tech_specs:
-  - (HD, 87 min, cor, 2015)
-  - "(janela 2.35, som Dolby 5.1)  "
+  - (2015, HD, 87 min, 2.35:1)
 category: Longas-metragens
 image: /uploads/realb-imgr.jpeg
 image_credits: "Foto por Fábio Rebello: Vladimir Brichta e Adriana Esteves"
