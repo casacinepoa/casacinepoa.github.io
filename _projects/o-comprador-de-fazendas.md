@@ -1,8 +1,7 @@
 ---
 title: O comprador de fazendas
 tech_specs:
-  - (HDTV/Beta digital, 25 min, cor, 2001)
-  - (janela 1.33, som digital estéreo)
+  - (2001, HD/SD, 25 min, cor, 1.33:1)
 category: Médias-metragens
 image: /uploads/cdfz-imgr.jpg
 image_credits: "Foto de Jaime Lerner: Bruno Garcia e Marco Nanini"
