@@ -1,8 +1,7 @@
 ---
 title: Sal de prata
 tech_specs:
-  - (35 mm, 96 min, cor, 2005)
-  - (janela 1.85, som óptico Dolby SR, som digital Dolby)
+  - (2005, 35 mm, 96 min, 1.85:1)
 category: Longas-metragens
 image: /uploads/saldeprata-2a.jpg
 image_credits: "Foto por Jacob Solitrenick: Maria Fernanda Cândido e Bruno Garcia"
