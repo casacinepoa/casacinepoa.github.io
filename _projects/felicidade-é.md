@@ -2,7 +2,6 @@
 title: Felicidade é...
 tech_specs:
   - (1995, 35 mm, 72 min, 1.66:1)
-  - (janela 1.66, som óptico mono)
 category: Coproduções
 image: /uploads/felic-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Cardoso e Débora Bloch"
