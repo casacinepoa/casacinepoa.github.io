@@ -1,8 +1,7 @@
 ---
 title: Fraternidade
 tech_specs:
-  - (Beta digital, 3 min, cor, 2004)
-  - (janela 1.33, som digital estéreo)
+  - (2004, SD, 3 min, 1.33:1)
   - Episódio da série "Valores do Brasil", para a campanha de natal do Banco do
     Brasil, 2004
 category: Curtas-metragens
