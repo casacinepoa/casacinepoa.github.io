@@ -1,8 +1,7 @@
 ---
 title: Rifle
 tech_specs:
-  - (HD, 88 min, cor, 2016)
-  - (janela 2.35, som Dolby 5.1)
+  - (2016, HD, 88 min, 2.35:1)
 category: Coproduções
 image: /uploads/rifle-imgr.jpg
 image_credits: "Foto de Glauco Firpo: Dione Oliveira"
