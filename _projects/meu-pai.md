@@ -1,7 +1,7 @@
 ---
 title: Meu pai
 tech_specs:
-  - (HD, tela 1.77, 21 min, 2014)
+  - (2014, HD, 21 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/meupai-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Felipe de Paula e Gustavo Castro"
