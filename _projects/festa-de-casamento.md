@@ -1,8 +1,7 @@
 ---
 title: Festa de casamento
 tech_specs:
-  - (35 mm, 11 min, cor, 1990)
-  - (janela 1.33, som óptico mono)
+  - (1990, 35 mm, 11 min, 1.33:1)
 category: Distribuição
 image: /uploads/festa-imgr.jpg
 image_credits: "Foto por Norberto Lubisco: Nora Prado"
