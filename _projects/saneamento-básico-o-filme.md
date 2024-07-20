@@ -1,8 +1,7 @@
 ---
 title: Saneamento básico, o filme
 tech_specs:
-  - (Super-16/35 mm, 112 min, cor, 2007)
-  - (janela 1.85, som óptico Dolby SR, som digital Dolby)
+  - (2007, super-16/35 mm, 112 min, 1.85:1)
 category: Longas-metragens
 image: /uploads/sbof-imgr.jpeg
 image_credits: "Foto de Leopoldo Plentz: Wagner Moura e Fernanda Torres"
