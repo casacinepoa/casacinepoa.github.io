@@ -1,8 +1,7 @@
 ---
 title: O branco
 tech_specs:
-  - (35mm, 22 min, cor, 2000)
-  - (janela 1.66, som estereo)
+  - (2000, 35mm, 22 min, 1.66:1)
 category: Distribuição
 image: /uploads/bran-imgr.jpg
 image_credits: "Foto de Christian Lesage: Francisco Milanez e Lígia Rigo"
