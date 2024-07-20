@@ -1,8 +1,7 @@
 ---
 title: O oitavo selo
 tech_specs:
-  - (35 mm, 15 min, cor, 1999)
-  - (janela 1.33, som estereo)
+  - (1999, 35 mm, 15 min, 1.33:1)
 category: Distribuição
 image: /uploads/oitsel-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Roberto Oliveira e Tiago Real"
