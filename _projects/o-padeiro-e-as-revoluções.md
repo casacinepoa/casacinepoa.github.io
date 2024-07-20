@@ -1,8 +1,7 @@
 ---
 title: O padeiro e as revoluções
 tech_specs:
-  - (Beta digital, 20 min, cor, 2007)
-  - (janela 1.33, som digital estéreo)
+  - (2007, SD, 20 min, 1.33:1)
   - Episódio da série "Escritores Gaúchos" da RBS TV
 category: Médias-metragens
 image: /uploads/padrev-imgr.jpg
