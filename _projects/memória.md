@@ -1,8 +1,7 @@
 ---
 title: Memória
 tech_specs:
-  - "(35 mm, 14 min, cor, 1990) "
-  - (janela 1.33, som óptico mono)
+  - "(1990, 35 mm, 14 min, 1.33:1) "
 category: Curtas-metragens
 image: /uploads/memorp-imgr.jpg
 image_credits: Foto por Christian Lesage
