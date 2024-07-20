@@ -1,8 +1,7 @@
 ---
 title: Obscenidades
 tech_specs:
-  - (35 mm, 10 min, cor, 1986)
-  - (janela 1.33, som óptico mono)
+  - (1986, 35 mm, 10 min, 1.33:1)
 category: Origens
 image: /uploads/obscen-imgr.jpg
 image_credits: "FOTO por Sérgio Amon: Imara Reis"
