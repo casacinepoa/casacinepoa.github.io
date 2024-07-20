@@ -1,8 +1,7 @@
 ---
 title: Homens de bem
 tech_specs:
-  - (HD, 70 min, cor, 2011)
-  - (janela 1.77, som stereo)
+  - (2011, HD, 70 min, 1.77:1)
   - Telefilme realizado para a TV Globo
 category: Longas-metragens
 image: /uploads/hdb-imgr.jpeg
