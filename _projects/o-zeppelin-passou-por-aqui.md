@@ -1,8 +1,7 @@
 ---
 title: O Zeppelin passou por aqui
 tech_specs:
-  - (35 mm, 18 min, cor, 1993)
-  - (janela 1.33, som óptico mono)
+  - (1993, 35 mm, 18 min, 1.33:1)
 category: Distribuição
 trailer: ""
 image: /uploads/zepppa-imgr.jpg
