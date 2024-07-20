@@ -1,7 +1,7 @@
 ---
 title: Quem é Primavera das Neves
 tech_specs:
-  - (2017, HD, 75 min, prop. 1.77)
+  - (2017, HD, 75 min, 1.77:1)
 category: Longas-metragens
 image: /uploads/qepdn-imgr.jpeg
 image_credits: "Foto de arquivo: Primavera das Neves"
