@@ -1,8 +1,7 @@
 ---
 title: Me beija
 tech_specs:
-  - (35 mm, 83 min, cor, 1984)
-  - (janela 1.33, som óptico mono)
+  - (1984, 35 mm, 83 min, 1.33:1)
 category: Origens
 image: /uploads/mbeija-imgr.jpg
 image_credits: "Foto por Alberto Salvá: Rudi Lagemann e Nina de Pádua"
