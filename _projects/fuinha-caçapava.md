@@ -1,7 +1,7 @@
 ---
 title: Fuinha & Caçapava
 tech_specs:
-  - (HD, tela 1.77, 16 min, 2016)
+  - (2016, HD, 16 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/fec-imgr.jpg
 image_credits: "Foto por Pablo Chasseraux: Sérgio Lulkin"
