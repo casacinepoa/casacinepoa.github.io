@@ -1,8 +1,7 @@
 ---
 title: Luna caliente
 tech_specs:
-  - (35 mm/Betacam, 3 x 53 min, cor, 1999)
-  - (janela 1.33, som magnético estéreo)
+  - (1999, 35 mm/SD, 3x53 min, 1.33:1)
 category: Séries
 image: /uploads/lunac-imgr.jpg
 image_credits: "Foto por José Tadeu Ribeiro: Paulo Betti e Ana Paula Tabalipa"
