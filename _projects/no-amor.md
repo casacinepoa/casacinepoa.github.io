@@ -1,8 +1,7 @@
 ---
 title: No amor
 tech_specs:
-  - (35 mm, 11 min, p&b, 1982)
-  - (janela 1.33, som óptico mono)
+  - (1982, 35 mm, 11 min, 1.33:1)
 category: Origens
 image: /uploads/noamor-imgr.jpg
 image_credits: "FOTO por Norberto Lubisco: Pedro Santos, Marta Biavaschi e Oscar Simch"
