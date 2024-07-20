@@ -1,8 +1,7 @@
 ---
 title: O gato
 tech_specs:
-  - (16 mm/Beta digital, 58 min, cor, 2004)
-  - (janela 1.33, som digital estéreo)
+  - (2004, 16 mm/HD, 58 min, 1.33:1)
 category: Distribuição
 image: /uploads/gato-imgr.jpg
 image_credits: "Foto por Jaime Lerner: Giuseppe Oristânio"
