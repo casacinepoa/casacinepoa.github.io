@@ -1,8 +1,7 @@
 ---
 title: Oscar Boz
 tech_specs:
-  - (Beta digital, 12 min, cor, 2003)
-  - (janela 1.33, som digital estéreo)
+  - (2003, SD, 12 min, 1.33:1)
   - Episódio da série "Umas Velhices", do Centro Audiovisual do SESC-SP
 category: Curtas-metragens
 image: /uploads/oscboz-imgr.jpg
