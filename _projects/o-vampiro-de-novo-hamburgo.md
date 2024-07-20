@@ -1,8 +1,8 @@
 ---
 title: O vampiro de Novo Hamburgo
 tech_specs:
-  - (Betacam, 4 min, pb/cor, 1991)
-  - (janela 1.33, som mono)
+  - (1991, SD, 4 min, 1.33:1)
+  - Quadro do programa "Dóris para maiores" para TV Globo.
 category: Curtas-metragens
 image: /uploads/vampnh-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Antônio Carlos Falcão e Flávia Moraes"
@@ -53,4 +53,4 @@ details:
       Em outubro: "Baile só para homens", "Replicantes" e "Senna x Manuel da Conceição"
 original_path: /os-filmes/produção/curtas/o-vampiro-de-novo-hamburgo.html
 ---
-Quadro do programa "Dóris para maiores" para TV Globo. Falso documentário sobre o falso cineasta Volker Freunden e seu falso pioneiro filme de terror, que teria sido rodado na década de 1920 na verdadeira cidade de Novo Hamburgo - mas gravado em Porto Alegre.
+Falso documentário sobre o falso cineasta Volker Freunden e seu falso pioneiro filme de terror, que teria sido rodado na década de 1920 na verdadeira cidade de Novo Hamburgo - mas gravado em Porto Alegre.
