@@ -1,8 +1,7 @@
 ---
 title: O Sete Trouxas
 tech_specs:
-  - (HD, 14 min, cor, 2008)
-  - (janela 1.66, som estereo)
+  - (2008, HD, 14 min, 1.66:1)
 category: Distribuição
 image: /uploads/7troux-imgr.jpg
 image_credits: "Foto de Alberto LaSalvia: Natanielhe Pacheco e Luiz Paulo Vasconcellos"
