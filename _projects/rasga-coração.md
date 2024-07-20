@@ -1,8 +1,7 @@
 ---
 title: Rasga coração
 tech_specs:
-  - (HD, 115 min, cor, 2018)
-  - (janela 2.0, som Dolby 5.1)
+  - (2018, HD, 115 min, 2.00:1)
 category: Longas-metragens
 image: /uploads/rgcor-imgr.jpeg
 image_credits: "Foto por Fábio Rebello: Chay Suede e Marco Ricca"
