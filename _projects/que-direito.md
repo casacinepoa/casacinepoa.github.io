@@ -1,5 +1,8 @@
 ---
 title: Que direito?
+tech_specs:
+  - (2006-2014, HD, 30x8 min, 1.77:1)
+  - 4 séries para o Canal Futura, total de 30 episódios
 category: Séries
 image: /uploads/qdee-im.jpg
 details:
