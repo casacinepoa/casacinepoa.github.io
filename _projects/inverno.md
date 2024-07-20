@@ -1,8 +1,7 @@
 ---
 title: Inverno
 tech_specs:
-  - (Super- 8 mm, 88 min, cor, 1983)
-  - (janela 1.33, som magnético mono)
+  - (1983, Super-8, 88 min, 1.33:1)
 category: Origens
 image: /uploads/inv-imgr_0.jpg
 image_credits: "Foto por Roberto Henkin: Werner Schünemann e Luciene Adami"
