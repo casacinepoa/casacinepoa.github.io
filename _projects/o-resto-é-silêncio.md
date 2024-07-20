@@ -1,8 +1,7 @@
 ---
 title: O resto é silêncio
 tech_specs:
-  - (Beta digital, 28 min, cor, 2005)
-  - (janela 1.33, som digital estéreo)
+  - (2005, SD, 28 min, 1.33:1)
   - Episódio da série "5 Vezes Erico" da RBS TV.
 category: Médias-metragens
 image: /uploads/restsil-imgr.jpg
