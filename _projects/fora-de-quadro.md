@@ -1,8 +1,7 @@
 ---
 title: Fora de quadro
 tech_specs:
-  - (HD, 13 x 25min, cor , 2015)
-  - (janela 1.77, som digital estereo)
+  - (2015, HD, 13x25 min, 1.77:1)
   - Série de 13 episódios para o Canal Brasil
 category: Séries
 image: /uploads/fdq-imgr.jpg
