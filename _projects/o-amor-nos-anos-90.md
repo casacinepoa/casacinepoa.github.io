@@ -1,8 +1,7 @@
 ---
 title: O amor nos anos 90
 tech_specs:
-  - (35 mm, 12 min, cor, 1989)
-  - (janela 1.33, som óptico mono)
+  - (1989, 35 mm, 12 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/aa90-imgr.jpg
 image_credits: "Foto por Sérgio Amon: Tatiana Toffoli"
