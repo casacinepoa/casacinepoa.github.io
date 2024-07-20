@@ -1,8 +1,7 @@
 ---
 title: Meu tio matou um cara
 tech_specs:
-  - (35 mm, 85 min, cor, 2004)
-  - (janela 1.85, som óptico Dolby SR, som digital Dolby)
+  - (2004, 35 mm, 85 min, 1.85:1)
 category: Longas-metragens
 image: /uploads/mtm1c-imgr.jpeg
 image_credits: "Foto por Alex Sernambi: Lázaro Ramos"
