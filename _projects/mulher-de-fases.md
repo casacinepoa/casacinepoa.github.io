@@ -1,8 +1,7 @@
 ---
 title: Mulher de fases
 tech_specs:
-  - (16 mm/HD, 13 x 25 min, cor, 2010)
-  - (janela 1.77, som 5.1 e 2.0)
+  - (2010, 16 mm/HD, 13x25 min, 1.77:1)
   - Série em 13 episódios para HBO
 category: Séries
 image: /uploads/mdf-imgr.jpg
