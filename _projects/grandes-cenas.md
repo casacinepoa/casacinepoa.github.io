@@ -1,9 +1,8 @@
 ---
 title: Grandes cenas
 tech_specs:
-  - (HD, 35 x 20min, 2016-2022)
-  - (janela 1.77, som digital estereo)
-  - "Série em 22 episódios para o Canal Curta\t"
+  - (2016-2022, HD, 35x20min, 1.77:1)
+  - Série para o Canal Curta; 22 episódios na primeira temporada e 13 na segunda
 category: Séries
 image: /uploads/grc-imgr.jpg
 where_to_watch:
