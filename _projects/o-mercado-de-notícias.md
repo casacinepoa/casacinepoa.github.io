@@ -1,8 +1,7 @@
 ---
 title: O mercado de notícias
 tech_specs:
-  - (HD, 94 min, cor, 2014)
-  - (janela 1.77, som digital Dolby)
+  - (2014, HD, 94 min, 1.77:1)
 category: Longas-metragens
 image: /uploads/mdn-imgr.jpeg
 image_credits: "Foto por Fábio Rebelo: Elisa Volpatto"
