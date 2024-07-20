@@ -1,8 +1,7 @@
 ---
 title: O homem que copiava
 tech_specs:
-  - (35 mm, 124 min, cor, 2003)
-  - (janela 1.66, som óptico Dolby SR, som digital Dolby)
+  - (2003, 35 mm, 124 min, 1.66:1)
 category: Longas-metragens
 image: /uploads/hqc-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Lázaro Ramos e Leandra Leal"
