@@ -1,8 +1,7 @@
 ---
 title: O sanduíche
 tech_specs:
-  - (35 mm, 13 min, cor, 2000)
-  - (janela 1.85, som óptico Dolby SR)
+  - (2000, 35 mm, 13 min, 1.85:1)
 category: Curtas-metragens
 image: /uploads/sand-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Felippe Monnaco e Janaína Kremer Motta"
