@@ -1,8 +1,7 @@
 ---
 title: Sonho
 tech_specs:
-  - (35mm, 20 min, cor, 1995)
-  - (janela 1.66, som estereo)
+  - (1995, 35mm, 20 min, 1.66:1)
 category: Distribuição
 image: /uploads/sonho-imgr.jpg
 image_credits: "foto de Joel Lopes: Cassiano Ricardo e Denise Fraga"
