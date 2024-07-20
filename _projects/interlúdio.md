@@ -1,8 +1,7 @@
 ---
 title: Interlúdio
 tech_specs:
-  - (35 mm, 8 min, p&b, 1983)
-  - (janela 1.33, som óptico mono)
+  - (1983, 35 mm, 8 min, 1.33:1)
 category: Origens
 image: /uploads/interl-imgr.jpg
 image_credits: "Foto por Norberto Lubisco: Júlio Conte e Márcia do Canto"
