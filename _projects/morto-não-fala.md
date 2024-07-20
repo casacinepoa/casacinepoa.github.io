@@ -1,7 +1,7 @@
 ---
 title: Morto Não Fala
 tech_specs:
-  - (HD, 110 min, tela 2.35,  2019)
+  - (2019, HD, 110 min, 2.35:1)
 category: Longas-metragens
 image: /uploads/mnf-imgr.jpeg
 image_credits: "Foto por André Faccioli: Daniel de Oliveira e Fabíula Nascimento"
