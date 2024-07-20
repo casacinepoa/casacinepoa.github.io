@@ -1,7 +1,7 @@
 ---
 title: Maria da Penha, um caso de litígio internacional
 tech_specs:
-  - (HD, tela 1.77, 13 min, 2012)
+  - (2012, HD, 13 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/mpenha-imgr.jpg
 image_credits: "Foto por Pablo Escajedo: Maria da Penha"
