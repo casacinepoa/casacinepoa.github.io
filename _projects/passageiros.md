@@ -1,8 +1,7 @@
 ---
 title: Passageiros
 tech_specs:
-  - (35 mm, 9 min, cor, 1987)
-  - (janela 1.33, som óptico mono)
+  - (1987, 35 mm, 9 min, 1.33:1)
 category: Origens
 image: /uploads/pass-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Zé Adão Barbosa e Marcos Carbonell"
