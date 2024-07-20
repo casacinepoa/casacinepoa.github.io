@@ -1,8 +1,7 @@
 ---
 title: Houve uma vez dois verões
 tech_specs:
-  - (DV/35 mm, 75 min, cor, 2002)
-  - (janela 1.66, som óptico Dolby SR, som digital Dolby)
+  - (2002, SD/35 mm, 75 min, 1.66:1)
 category: Longas-metragens
 image: /uploads/h1x2v-imgr.jpeg
 image_credits: "Foto por Alex Sernambi: André Arteche e Ana Maria Mainieri"
