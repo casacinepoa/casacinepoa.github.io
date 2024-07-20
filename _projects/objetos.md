@@ -1,8 +1,7 @@
 ---
 title: Objetos
 tech_specs:
-  - (HD, 16 min, cor, 2014)
-  - (janela 1.77, som Dolby 5.1)
+  - (2014, HD, 16 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/obj-imgr.jpg
 image_credits: Foto por Bruno Polidoro
