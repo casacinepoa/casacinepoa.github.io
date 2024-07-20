@@ -1,8 +1,7 @@
 ---
 title: Menos que nada
 tech_specs:
-  - (HD, 105 min, cor, 2012)
-  - (janela 1.77, som Dolby 5.1)
+  - (2012, HD, 105 min, 1.77:1)
 category: Longas-metragens
 image: /uploads/mqn-imgr.jpeg
 image_credits: "Foto por Marcelo Nunes: Felipe Kannenberg e Rosanne Mulholland"
