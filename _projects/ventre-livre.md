@@ -1,8 +1,7 @@
 ---
 title: Ventre Livre
 tech_specs:
-  - (16 mm, 48 min, cor, 1994)
-  - (janela 1.33, som óptico mono)
+  - (1994, 16 mm, 48 min, 1.33:1)
 category: Médias-metragens
 image: /uploads/vlivre-imgr.jpg
 image_credits: Foto de Carlos Gerbase
