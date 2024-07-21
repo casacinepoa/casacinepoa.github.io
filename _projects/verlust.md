@@ -1,7 +1,7 @@
 ---
 title: "Verlust "
 tech_specs:
-  - (2020, duração 111 min, prop. tela 2.35)
+  - (2020, HD, 111 min, 2.35:1)
 category: Longas-metragens
 trailer: ""
 image: /uploads/verlust-1.jpg
