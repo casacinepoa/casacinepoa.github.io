@@ -1,8 +1,7 @@
 ---
 title: Uma história de verdade
 tech_specs:
-  - (Betacam, 58 min, cor, 1998)
-  - (janela 1.33, som magnético mono)
+  - (1998, SD, 58 min, cor, 1.33:1)
 category: Médias-metragens
 image: /uploads/histver-imgr.jpg
 image_credits: "Foto divulgação: Olívio Dutra"
