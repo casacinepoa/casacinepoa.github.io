@@ -1,8 +1,7 @@
 ---
 title: Vai dar nada
 tech_specs:
-  - (HD, 102 min, cor, 2022)
-  - (janela 1.77, som digital Dolby)
+  - (2022, HD, 102 min, 1.77:1)
 category: Longas-metragens
 image: /uploads/kelson-moto-177.jpg
 image_credits: "Foto de Fábio Rebelo: Cauê Campos"
