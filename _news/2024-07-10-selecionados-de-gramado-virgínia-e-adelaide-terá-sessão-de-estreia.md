@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Selecionados de Gramado: VIRGÍNIA E ADELAIDE terá sessão de estreia"
+title: "Selecionados de Gramado: VIRGÍNIA E ADELAIDE terá estreia"
 date: 2024-07-10 18:46:01
 ---
 ![](/uploads/vea-quarteto.jpg)
