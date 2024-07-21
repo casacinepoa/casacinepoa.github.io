@@ -1,8 +1,7 @@
 ---
 title: Angelo anda sumido
 tech_specs:
-  - (35 mm, 17 min, cor, 1997)
-  - (janela 1.66, som óptico mono)
+  - (1997, 35 mm, 17 min, 1.66:1)
 category: Curtas-metragens
 image: /uploads/ang-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Sérgio Lulkin"
