@@ -1,7 +1,7 @@
 ---
 title: Velázquez e a teoria quântica da gravidade
 tech_specs:
-  - (HD, tela 1.77, 3 min, 2011)
+  - (2011, HD, 3 min, 1.77:1)
 category: Curtas-metragens
 image: /uploads/velazq-imgr.jpg
 image_credits: "Foto por Juliano Lopes: Felipe de Paula e Renata de Lélis"
