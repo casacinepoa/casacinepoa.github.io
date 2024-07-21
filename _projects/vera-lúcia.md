@@ -1,8 +1,7 @@
 ---
 title: Vera Lúcia
 tech_specs:
-  - (35mm, 15min, cor, 2006)
-  - (janela 1.66, som estereo)
+  - (2006, 35mm, 15min, 1.66:1)
 category: Distribuição
 image: /uploads/vlucia-imgr.jpg
 image_credits: "Foto de Alberto La Salvia: Miriã Possani"
