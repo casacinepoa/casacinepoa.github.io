@@ -1,8 +1,7 @@
 ---
 title: Trampolim
 tech_specs:
-  - (35 mm, 12 min, cor, 1998)
-  - (janela 1.66, som óptico mono)
+  - (1998, 35 mm, 12 min, 1.66:1)
 category: Curtas-metragens
 image: /uploads/tramp-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Júlia Barth"
