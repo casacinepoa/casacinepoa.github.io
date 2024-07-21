@@ -1,8 +1,7 @@
 ---
 title: Um homem sério
 tech_specs:
-  - (35 mm, 20 min, cor, 1996)
-  - (janela 1.85, som óptico mono)
+  - (1996, 35 mm, 20 min, 1.85:1)
 category: Curtas-metragens
 image: /uploads/homser-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Ari França"
