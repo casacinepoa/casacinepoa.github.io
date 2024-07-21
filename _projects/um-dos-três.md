@@ -1,8 +1,7 @@
 ---
 title: Um dos três
 tech_specs:
-  - (Beta digital, 20 x 8 min, cor, 2005-2006)
-  - (janela 1.33, som estereo)
+  - (2005-2006, SD, 20x8 min, 1.33:1)
   - Série de quadros para o Fantástico da TV Globo
 category: Séries
 image: /uploads/1dos3-imgr.jpg
