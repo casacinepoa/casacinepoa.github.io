@@ -1,8 +1,7 @@
 ---
 title: Três minutos
 tech_specs:
-  - (35 mm, 6 min, cor, 1999)
-  - (janela 1.33, som óptico mono)
+  - (1999, 35 mm, 6 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/3min-imgr.jpg
 image_credits: "Foto por Carlos Gerbase: Lisa Becker"
