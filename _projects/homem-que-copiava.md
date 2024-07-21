@@ -574,6 +574,12 @@ details:
       * [Texto final](/uploads/o-homem-que-copiava-txf.pdf)[](/uploads/o_homem_que_copiava.mp3)
 
       * [Créditos completos](/filmes/o-homem-que-copiava/creditos-completos)
+
+      * [I﻿MDb](https://www.imdb.com/title/tt0367859/)
+
+      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/270/o-homem-que-copiava)
+
+      * [L﻿etterboxd](https://letterboxd.com/film/the-man-who-copied/)
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
 synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   desesperadamente de trinta e oito reais para impressionar a garota dos seus
