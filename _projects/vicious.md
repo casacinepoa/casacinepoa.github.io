@@ -1,8 +1,7 @@
 ---
 title: Vicious
 tech_specs:
-  - (35 mm, 15 min, p&b, 1988)
-  - (janela 1.33, som óptico mono)
+  - (1988, 35 mm, 15 min, 1.33:1)
 category: Distribuição
 image: /uploads/vicious-imgr.jpg
 image_credits: "Foto por Ivo Czamanski: Márcia do Canto"
