@@ -1,8 +1,7 @@
 ---
 title: Veja bem
 tech_specs:
-  - (16 mm, 9 min, cor, 1994)
-  - (janela 1.33, som óptico mono)
+  - (1994, 16 mm, 9 min, 1.33:1)
 category: Curtas-metragens
 image: /uploads/vejabem-imgr.jpg
 image_credits: Foto por Alex Sernambi
