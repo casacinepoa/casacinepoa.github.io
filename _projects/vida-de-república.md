@@ -1,8 +1,7 @@
 ---
 title: Vida de república
 tech_specs:
-  - (HD, 10x20 min, cor, 2012)
-  - (janela 1.77, som digital estereo)
+  - (2012, HD, 10x20 min, 1.77:1)
   - Série em 10 episódios para o Canal Futura
 category: Séries
 image: /uploads/vidarep-imgr.jpg
