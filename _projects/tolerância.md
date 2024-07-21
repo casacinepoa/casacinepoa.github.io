@@ -1,8 +1,7 @@
 ---
 title: Tolerância
 tech_specs:
-  - (35 mm, 110 min, cor, 2000)
-  - (janela 1.66, som óptico Dolby SR, som digital Dolby)
+  - (2000, 35 mm, 110 min, 1.66:1)
 category: Longas-metragens
 image: /uploads/toler-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Maitê Proença e Roberto Bomtempo"
