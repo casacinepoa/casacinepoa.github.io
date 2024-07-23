@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cauã Martins fala sobre o personagem-título de Dr4gon
+title: Cauã Martins fala sobre o personagem-título de Dr4g0n
 date: 2024-07-20 21:47:18
 ---
 ![](/uploads/dragon05.jpg)
