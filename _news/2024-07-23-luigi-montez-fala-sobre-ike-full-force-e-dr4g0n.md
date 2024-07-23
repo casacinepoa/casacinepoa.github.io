@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luigi Montez fala sobre Ike, Full Force e Dr4g0n
+title: Luigi Montez fala sobre o personagem Ike, Full Force e Dr4g0n
 date: 2024-07-22 23:02:05
 ---
 ![](/uploads/dragon11.jpg)
