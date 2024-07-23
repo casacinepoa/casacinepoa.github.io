@@ -41,7 +41,7 @@ Um dos resultados foi que, de repente, o Brasil passou a praticar futebol americ
 
 E é por isso, na verdade, que os Ronaldos parecem estar tão fora de forma ultimamente.
 
-![](/uploads/wide3.jpg)
+![Foto removida]()
 
 *Aperte na tecla "wide screen" e a tela fica uma maravilha. Mas e a bola? E o peso, a largura dos ombros, o formato do rosto?* 
 
