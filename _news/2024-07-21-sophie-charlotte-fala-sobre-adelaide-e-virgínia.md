@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sophie Charlotte fala sobre personagem de VIRGINIA E ADELAIDE
-date: 2024-07-20 21:40:04
+date: 2024-07-19 21:40:04
 ---
 ![](/uploads/vea-entrev.jpg)
 
