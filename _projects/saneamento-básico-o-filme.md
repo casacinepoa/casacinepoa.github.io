@@ -203,10 +203,16 @@ details:
       <audio src="https://www.casacinepoa.com.br/uploads/saneamento_basico-.mp3" controls />
   - title: Veja mais
     content: >-
-      * [Roteiro - versão
-      01/01/2005](/uploads/saneamento-basico-o-filme-rot.pdf)
+      * [Créditos
+      completos](/filmes/saneamento-b%C3%A1sico-o-filme/creditos-completos)
 
-      * [Créditos completos](https://www.casacinepoa.com.br/filmes/saneamento-b%C3%A1sico-o-filme/creditos-completos)
+      * [Roteiro - versão 01/01/2005](/uploads/saneamento-basico-o-filme-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/492/saneamento-basico-o-filme)
+
+      * [Letterboxd](https://letterboxd.com/film/basic-sanitation-the-movie/)
 original_path: /os-filmes/produção/longas/saneamento-básico-o-filme.html
 synopsis: Na pequena Linha Cristal, a comunidade se mobiliza para construir uma
   fossa no arroio e acabar com o mau cheiro. Marina, a líder do movimento,
