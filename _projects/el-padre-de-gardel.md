@@ -76,9 +76,12 @@ details:
       montagem de filme uruguaio, 2014"
   - title: Veja mais
     content: |-
-      T﻿exto final\
-      [C﻿réditos completos](/filmes/el-padre-de-gardel/creditos-completos/)\
-      [I﻿MDb](https://www.imdb.com/title/tt6449958)
+      * [Créditos completos](/filmes/el-padre-de-gardel/creditos-completos/)
+      * [Tratamento - fev/2010](/uploads/padre-de-gardel-trat.pdf)
+      * [Texto final - 25/01/2013](/uploads/padre-de-gardel-txt.pdf)
+      * [IMDb](https://www.imdb.com/title/tt6449958)
+      * Portal do Cinema RS
+      * [Letterboxd](https://letterboxd.com/film/el-padre-de-gardel)
 original_path: /os-filmes/produção/coproduções/el-padre-de-gardel-0.html
 ---
 Documentário sobre Carlos Escayola, que entre 1860 e 1890 dominou a vida política e cultural de Tacuarembó, no interior do Uruguai, foi fazendeiro e chefe político, construiu um teatro, conquistou muitas mulheres e deixou um grande segredo - um escândalo familiar que até hoje a cidade se recusa a comentar.
