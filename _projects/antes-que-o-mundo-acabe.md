@@ -114,10 +114,15 @@ details:
       <audio src="https://www.casacinepoa.com.br/uploads/antes-que-o-mundo-acabe.mp3" controls />
   - title: Veja mais
     content: >-
-      * [﻿Créditos
-      completos](/filmes/antes-que-o-mundo-acabe/creditos-completos)
+      * [Créditos completos](/filmes/antes-que-o-mundo-acabe/creditos-completos)
 
-      * [Roteiro (12º tratamento - 27/09/2007)](/uploads/antes-que-o-mundo-acabe-rot.pdf)
+      * [Roteiro](/uploads/antes-que-o-mundo-acabe-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt1465474)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/596/antes-que-o-mundo-acabe)
+
+      * [Letterboxd](https://letterboxd.com/film/before-the-world-ends/)
 original_path: /os-filmes/produção/longas/antes-que-o-mundo-acabe.html
 ---
 Daniel é um adolescente crescendo em seu pequeno mundo com problemas que lhe parecem insolúveis: como lidar com uma namorada que não sabe o que quer, como ajudar um amigo que está sendo acusado de roubo e como sair da pequena cidade onde vive. Tudo começa a mudar quando ele recebe uma carta do pai que ele nunca conheceu. Em meio a todas essas questões, ele será chamado a realizar suas  primeiras escolhas adultas e descobrir que o mundo é muito maior do que ele pensa.
