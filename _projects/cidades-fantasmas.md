@@ -41,7 +41,16 @@ details:
 
       **CoProdução:** GloboFilmes
   - title: Veja mais
-    content: "* [C﻿réditos completos](/filmes/cidades-fantasmas/creditos-completos)"
+    content: >-
+      * [Créditos completos](/filmes/cidades-fantasmas/creditos-completos)
+
+      * Roteiro
+
+      * [IMDb](https://www.imdb.com/title/tt7323460)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1110/cidades-fantasmas)
+
+      * [Letterboxd](https://letterboxd.com/film/cidades-fantasmas/)
 original_path: /os-filmes/produção/documentários/cidades-fantasmas.html
 synopsis: Deserto chileno, Amazônia brasileira, Andes colombianos e Pampa
   argentino. Quatro destinos na América Latina, onde as ruínas e o silêncio são
