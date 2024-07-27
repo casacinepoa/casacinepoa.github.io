@@ -153,7 +153,7 @@ details:
     content: >-
       * [Créditos completos](/filmes/aos-olhos-de-ernesto/creditos-completos/)
 
-      * [Roteiro](/uploads/aos-olhos-de-ernesto-rot.pdf)
+      * [Roteiro - versão 27/09/2018](/uploads/aos-olhos-de-ernesto-rot.pdf)
 
       * [IMDb](https://www.imdb.com/title/tt11136510)
 
