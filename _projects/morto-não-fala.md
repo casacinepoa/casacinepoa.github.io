@@ -53,9 +53,16 @@ details:
 
       * 25º Prêmio Guarani de Cinema Brasileiro, 2019]: Melhor maquiagem, Melhores efeitos visuais (também finalista em Roteiro adaptado e Melhor ator (Daniel de Oliveira)
   - title: Veja mais
-    content: |-
-      * [C﻿réditos completos](/filmes/morto-nao-fala/creditos-completos/)
-      * [R﻿oteiro](/uploads/morto-nao-fala-rot.pdf)
+    content: >-
+      * [Créditos completos](/filmes/morto-nao-fala/creditos-completos/)
+
+      * [Roteiro - versão 25/02/2016](/uploads/morto-nao-fala-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt7986672)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1189/morto-nao-fala)
+
+      * [Letterboxd](https://letterboxd.com/film/the-nightshifter/)
 original_path: /os-filmes/longas/morto-não-fala.html
 synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violenta
   cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom
