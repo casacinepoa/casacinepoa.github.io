@@ -37,13 +37,19 @@ details:
       Fernando Rodrigues
   - title: Veja mais
     content: >-
-      * [Site do filme](http://www.omercadodenoticias.com.br/)
+      * [Saite do filme](http://www.omercadodenoticias.com.br/)
 
       * [Créditos completos](/filmes/o-mercado-de-noticias/creditos-completos/)
 
-      * [Pré-roteiro versão 09/08/2012](/uploads/o-mercado-de-noticias-pre-rot.pdf)
+      * [Pré-roteiro - versão 09/08/2011](/uploads/o-mercado-de-noticias-pre-rot.pdf)
 
       * [Texto final - 22/10/2013](/uploads/o-mercado-de-noticias-txf.pdf)
+
+      * [](/uploads/o-mercado-de-noticias-txf.pdf)[IMDb](https://www.imdb.com/title/tt3661594)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/939/o-mercado-de-noticias)
+
+      * [Letterboxd](https://letterboxd.com/film/the-staple-of-news/)
 original_path: /os-filmes/produção/longas/o-mercado-de-noticias
 synopsis: Documentário sobre jornalismo e democracia. O filme traz os
   depoimentos de treze importantes jornalistas brasileiros sobre o sentido e a
