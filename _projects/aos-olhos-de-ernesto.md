@@ -151,10 +151,15 @@ details:
       <audio src="https://www.casacinepoa.com.br/uploads/aos-olhos-de-ernesto.mp3" controls />
   - title: Veja mais
     content: >-
-      \-﻿ [Créditos
-      completos](/filmes/aos-olhos-de-ernesto/creditos-completos/)\
+      * [Créditos completos](/filmes/aos-olhos-de-ernesto/creditos-completos/)
 
-      -﻿ [Roteiro](/uploads/aos-olhos-de-ernesto-rot.pdf)
+      * [Roteiro](/uploads/aos-olhos-de-ernesto-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt11136510)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1247/aos-olhos-de-ernesto)
+
+      * [Letterboxd](https://letterboxd.com/film/through-ernestos-eyes/)
 original_path: /os-projetos/aos-olhos-de-ernesto-1.html
 synopsis: >-
   Ernesto, fotógrafo aposentado e viúvo, enfrentando as limitações da velhice
