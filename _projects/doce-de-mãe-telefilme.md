@@ -78,9 +78,16 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/doce-de-mae-piloto.mp3" controls />
   - title: Veja mais
-    content: |-
-      * [C﻿réditos completos](/filmes/doce-de-mãe/creditos-completos)
-      * [R﻿oteiro - versão 17/09/2012](/uploads/doce-de-mae-rot.pdf)
+    content: >-
+      * [Créditos completos](/filmes/doce-de-m%C3%A3e/creditos-completos)
+
+      * [Roteiro - versão 17/09/2012](/uploads/doce-de-mae-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt2701150)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/847/doce-de-mae)
+
+      * [](https://letterboxd.com/film/sweet-mother-2012/)Letterboxd
 original_path: /os-filmes/produção/longas/doce-de-mãe-tele-filme
 synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   por Zaida (Mirna Spritzer) há 27 anos. Sempre bem-humorada, apaixonada por
