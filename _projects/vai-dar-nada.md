@@ -52,10 +52,6 @@ details:
       Jéssica Barbosa (Rebeca)\
 
       Fernanda Teixeira (Neide)
-  - title: Veja mais
-    content: |-
-      \-﻿ [Roteiro](/uploads/vai-dar-nada-rot.pdf)\
-      -﻿ [Créditos completos](/filmes/vai-dar-nada/creditos-completos/)
   - title: Crítica
     content: >-
       "A produção original da Paramount é um acerto ao entregar algo que é
@@ -116,5 +112,16 @@ details:
       "Divertido e muito bem executado, VAI DAR NADA é uma entrada certeira da Paramount+ no mercado de longas nacionais, investindo em representativade e ótimas críticas sociais."\
 
       (Taranis, [Thunderwave](https://www.thunderwave.com.br/critica-vai-dar-nada/), 12/05/2022)
+  - title: Veja mais
+    content: >-
+      * [Créditos completos](/filmes/vai-dar-nada/creditos-completos/)
+
+      * [Roteiro - versão 12/10/2021](/uploads/vai-dar-nada-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt14926808)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1388/vai-dar-nada)
+
+      * [Letterboxd](https://letterboxd.com/film/vai-dar-nada)
 ---
 Kelson é um jovem trabalhador que usa sua moto para escapar da polícia e conquistar sua amada Neide. Ele compra uma moto nova do vigarista Fernando, sem saber que ela pertenceu a um perigoso traficante, que saiu da prisão e agora a quer de volta.
