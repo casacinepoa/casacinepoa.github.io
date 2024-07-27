@@ -30,6 +30,17 @@ details:
       Antônio Grassi (Paulo Hermes)\
       Márcia de Oliveira (Penha)\
       Eduardo Dusek (Miklos)
+  - title: Veja mais
+    content: >-
+      * Créditos completos
+
+      * Roteiro - versão 07/07/2001
+
+      * [IMDb](https://www.imdb.com/title/tt0456854)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/295/bens-confiscados)
+
+      * [Letterboxd](https://letterboxd.com/film/confiscated-goods/)
 original_path: /os-filmes/produção/coproduções/bens-confiscados.html
 ---
 Um poderoso senador é denunciado pela esposa por corrupção, tráfico de influências e bigamia. Quando sua amante se suicida, ele manda seqüestrar Luís Roberto, o secreto filho bastardo, e o esconde da imprensa e dos inimigos políticos numa cidade balneária no extremo sul do país. Para cuidar dele o senador convence uma antiga amante, a enfermeira Serena.
