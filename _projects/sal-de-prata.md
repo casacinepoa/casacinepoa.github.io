@@ -88,10 +88,16 @@ details:
 
       <audio src="/uploads/sal_de_prata.mp3" controls />
   - title: Veja mais
-    content: |-
-      * [Roteiro](/uploads/sal-de-prata-rot.pdf)
-      * Texto final
+    content: >-
       * [Créditos completos](/filmes/sal-de-prata/creditos-completos/)
+
+      * [Roteiro - versão 13/05/2004](/uploads/sal-de-prata-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt0457123/)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/401/sal-de-prata)
+
+      * [Letterboxd](https://letterboxd.com/film/sal-de-prata/)
 original_path: /os-filmes/produção/longas/sal-de-prata.html
 synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
   seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco,
