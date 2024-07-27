@@ -87,7 +87,7 @@ details:
 
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/847/doce-de-mae)
 
-      * [](https://letterboxd.com/film/sweet-mother-2012/)Letterboxd
+      * [](https://letterboxd.com/film/sweet-mother-2012/)[Letterboxd](https://letterboxd.com/film/sweet-mother-2012/)
 original_path: /os-filmes/produção/longas/doce-de-mãe-tele-filme
 synopsis: "Dona Picucha (Fernanda Montenegro) tem 85 anos, é viúva e auxiliada
   por Zaida (Mirna Spritzer) há 27 anos. Sempre bem-humorada, apaixonada por
