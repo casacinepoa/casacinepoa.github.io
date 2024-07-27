@@ -89,6 +89,13 @@ details:
       [4º Festival Internacional Cine Las Orquídeas, Cuenca - Competencia Opera Prima.](http://festivalcineorquidea.com/festival2014/index.php/2011-12-21-11-51-15/opera-prima-iberoamericana)\
 
       [36º Festival Internacional del Nuevo Cine Latinoamericano de Havana - Competencia Documental.](http://habanafilmfestival.com/filme/index.php?filmCode=25146)
+  - title: Veja mais
+    content: |-
+      * Créditos completos
+      * Roteiro
+      * [IMDb](https://www.imdb.com/title/tt3252164)
+      * Portal do Cinema RS
+      * ﻿[Letterboxd](https://letterboxd.com/film/castanha/)
 original_path: /os-filmes/produção/coproduções/castanha-0.html
 ---
 João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.
