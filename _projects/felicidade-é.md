@@ -55,25 +55,25 @@ details:
       Débora Bloch ("Estrada")
   - title: Sinopses dos episódios
     content: >-
-      1. SONHO"
+      SONHO"
 
 
       Quando todo mundo se volta contra você. Quando tudo parece dar errado e nada do que você faz funciona. Quando você sente que algo está se perdendo e não consegue reagir. É bom que você tenha alguém que lhe ajude.
 
 
-      2. "BOLO"
+      "BOLO"
 
 
       Um casal fazendo bodas de ouro. Ela prepara o bolo, ele molda um pedaço de madeira. Os dois se xingam e se ofendem. Felicidade pode ser apenas você ter alguém a quem humilhar. Felicidade pode ser apenas você não estar sozinho.
 
 
-      3. "CRUZ"
+      "CRUZ"
 
 
       A vida foi boa para Paulo. A sua fé, católica, ajudou-o a sobrepujar as adversidades e permitiu-lhe construir uma linda família, uma posição social respeitável e uma vida confortável. Porém, algo aconteceu na vida de Paulo 50 anos atrás. Hoje é domingo, dia da missa. Antes da hora da missa ele vai se defrontar com este fantasma de 50 anos atrás. Ele vai ter que decidir entre a fé e a razão.
 
 
-      4. "ESTRADA"
+      "ESTRADA"
 
 
       Manhã de domingo. A água morna de uma banheira que lentamente envolve o corpo da mulher amada. Sexo. Velhos amigos. Novos amores. Jogar conversa fora. Café com leite e um pãozinho quente com manteiga. Férias remuneradas. Pequenos prazeres. Uma casa na serra. Pitangas. Uma estrada asfaltada. Sol nos plátanos. Trabalho. E muitos planos. Você acredita no Destino?
