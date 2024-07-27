@@ -203,10 +203,16 @@ details:
       <audio src="//casacinepoa.com.br/uploads/tolerancia.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: |-
-      * [Créditos completos](/filmes/tolerância/creditos-completos)
-      * [Roteiro](/uploads/tolerancia-rot.pdf)
-      * Texto final[](/uploads/tolerancia.mp3)
+    content: >-
+      * [Créditos completos](/filmes/toler%C3%A2ncia/creditos-completos)
+
+      * [Roteiro - versão maio/1999](/uploads/tolerancia-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt0207163)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/253/tolerancia)
+
+      * [Letterboxd](https://letterboxd.com/film/tolerancia/)
 original_path: /os-filmes/produção/longas/tolerância.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
