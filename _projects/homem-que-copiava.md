@@ -569,17 +569,17 @@ details:
       <audio src="//casacinepoa.com.br/uploads/o_homem_que_copiava.mp3" controls />
   - title: Veja mais
     content: >-
-      * [Roteiro](/uploads/o-homem-que-copiava-rot.pdf)
-
-      * [Texto final](/uploads/o-homem-que-copiava-txf.pdf)[](/uploads/o_homem_que_copiava.mp3)
-
       * [Créditos completos](/filmes/o-homem-que-copiava/creditos-completos)
 
-      * [I﻿MDb](https://www.imdb.com/title/tt0367859/)
+      * [Roteiro - versão 07/06/2001](/uploads/o-homem-que-copiava-rot.pdf)
 
-      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/270/o-homem-que-copiava)
+      * [Texto final - 09/03/2003](/uploads/o-homem-que-copiava-txf.pdf)
 
-      * [L﻿etterboxd](https://letterboxd.com/film/the-man-who-copied/)
+      * [IMDb](https://www.imdb.com/title/tt0367859/)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/270/o-homem-que-copiava)
+
+      * [Letterboxd](https://letterboxd.com/film/the-man-who-copied/)
 original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
 synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   desesperadamente de trinta e oito reais para impressionar a garota dos seus
