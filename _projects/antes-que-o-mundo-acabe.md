@@ -116,7 +116,7 @@ details:
     content: >-
       * [Créditos completos](/filmes/antes-que-o-mundo-acabe/creditos-completos)
 
-      * [Roteiro](/uploads/antes-que-o-mundo-acabe-rot.pdf)
+      * [Roteiro - versão 27/09/2007](/uploads/antes-que-o-mundo-acabe-rot.pdf)
 
       * [IMDb](https://www.imdb.com/title/tt1465474)
 
