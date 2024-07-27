@@ -171,9 +171,16 @@ details:
 
       <audio src="/uploads/menos-que-nada.mp3" controls />
   - title: Veja mais
-    content: |-
-      * [R﻿oteiro](/uploads/menos-que-nada-rot.pdf)
-      * [C﻿réditos completos](/filmes/menos-que-nada/creditos-completos/)
+    content: >-
+      * [Créditos completos](/filmes/menos-que-nada/creditos-completos/)
+
+      * [R﻿oteiro - versão 17/11/2010](/uploads/menos-que-nada-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt2156632)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/816/menos-que-nada)
+
+      * [Letterboxd](https://letterboxd.com/film/menos-que-nada/)
 original_path: /os-filmes/longas/menos-que-nada
 synopsis: Dante está internado num hospital psiquiátrico com diagnóstico de
   esquizofrenia, sem falar com ninguém, nem receber visitas. Uma jovem
