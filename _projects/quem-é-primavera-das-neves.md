@@ -102,26 +102,26 @@ details:
       "O documentário de Furtado, painel da vida intelectual no Rio daquele período, que vai se revelando por meio da história singular de Primavera, não teria a mesma emoção sem a delicadeza e a generosidade da amiga Eulalie, que nunca a esqueceu. E sendo assim, o filme de Furtado não nos oferece apenas um perfil de uma mulher que viveu intensamente o seu tempo, sem se esquivar de atitudes e comportamentos considerados avançados para a época, mas também o da importância da amizade entre duas mulheres que possuíam uma enorme afinidade intelectual."\
 
       ([Luiza Lusvarghi](http://revistaogrito.com/femmefatale/primavera-eulalie-e-furtado-cronica-de-afetos-e-literatura/), Blog Femme Fatale, 15/06/2017)
-  - title: Veja mais
-    content: >-
-      * [Créditos
-      completos](/filmes/quem-é-primavera-das-neves/creditos-completos/)
-
-      * [R﻿oteiro](/uploads/primavera-rot.pdf)
-
-      * [T﻿exto final](/uploads/primavera-txf.pdf)
-
-      * [I﻿MDb](https://www.imdb.com/title/tt6881452)
-
-      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1109/quem-e-primavera-das-neves)
-
-      * [L﻿etterboxd](https://letterboxd.com/film/quem-e-primavera-das-neves/)
   - title: Prêmios
     content: >-
       \- 17º Grande Prêmio Cinema Brasil 2018: finalista em Melhor montagem de
       documentário\
 
       \*\* 5º Arquivo em Cartaz, Festival Internacional de Cinema de Arquivo, Rio de Janeiro, 2019: Melhor longa-metragem, Melhor pesquisa..
+  - title: Veja mais
+    content: >-
+      * [Créditos
+      completos](/filmes/quem-é-primavera-das-neves/creditos-completos/)
+
+      * [Roteiro - versão 16/11/2015](/uploads/primavera-rot.pdf)
+
+      * [Texto final - 13/03/2017](/uploads/primavera-txf.pdf)
+
+      * [I﻿MDb](https://www.imdb.com/title/tt6881452)
+
+      * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1109/quem-e-primavera-das-neves)
+
+      * [L﻿etterboxd](https://letterboxd.com/film/quem-e-primavera-das-neves/)
 original_path: /os-filmes/produção/documentários/quem-é-primavera-das-neves.html
 synopsis: O ponto de partida é um nome improvável, Primavera das Neves,
   tradutora de Lewis Carroll, Daniel Defoe e Julio Verne, que na década de 1960
