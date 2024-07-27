@@ -93,7 +93,7 @@ details:
     content: >-
       * [C﻿réditos completos](/filmes/3-efes/creditos-completos)
 
-      * [R﻿oteiro](/uploads/tres-efes-rot.pdf)
+      * [Roteiro - versão 25/10/2006](/uploads/tres-efes-rot.pdf) 
 
       * [I﻿MDb](https://www.imdb.com/title/tt1090295)
 
