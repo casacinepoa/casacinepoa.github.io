@@ -1,5 +1,5 @@
 ---
-title: Bens confiscados - creditos
+title: Bens confiscados - créditos
 permalink: /filmes/bens-confiscados/creditos-completos/
 layout: page
 ---
