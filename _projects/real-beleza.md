@@ -74,9 +74,16 @@ details:
 
       ([Hélio Nascimento](http://jcrs.uol.com.br/site/noticia.php?codn=205054), Jornal do Comércio, 14/08/2015)
   - title: Veja mais
-    content: |-
+    content: >-
       * [Créditos completos](/filmes/real-beleza/creditos-completos/)
-      * [R﻿oteiro - versão 02/12/2013](/uploads/real-beleza-rot.pdf)
+
+      * [Roteiro - versão 02/12/2013](/uploads/real-beleza-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt5151144)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1004/real-beleza)
+
+      * [Letterboxd](https://letterboxd.com/film/real-beleza/)
 original_path: /os-filmes/produção/longas/real-beleza
 synopsis: João é um fotógrafo à procura candidatas a modelo em cidades do
   interior gaúcho. João conhece uma jovem de rara beleza, Maria, e acaba se
