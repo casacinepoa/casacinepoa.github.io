@@ -36,8 +36,15 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/gravida.mp3" controls />
   - title: Veja mais
-    content: |-
-      * [R﻿oteiro](/uploads/verlust-rot.pdf)
-      * [C﻿réditos completos](/filmes/verlust/creditos-completos/)
+    content: >-
+      * [Créditos completos](/filmes/verlust/creditos-completos/)
+
+      * [Roteiro - versão 06/10/2014](/uploads/verlust-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt13334114)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1290/verlust)
+
+      * [Letterboxd](https://letterboxd.com/film/verlust/)
 ---
 Na virada do ano em sua casa de praia, a empresária musical Frederica enfrenta o fim de seu casamento com o fotógrafo Constantin, a crise artística de sua protegida pop-star Lenny, as perguntas embaraçosas do escritor João, o desejo de liberdade de sua filha Tuane e ainda os medos provocados por um enorme animal marinho que encalha à vista de todos.
