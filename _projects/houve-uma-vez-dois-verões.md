@@ -114,11 +114,17 @@ details:
   - title: Veja mais
     content: >-
       * [Créditos
-      completos](/filmes/houve-uma-vez-dois-verões/creditos-completos)
+      completos](/filmes/houve-uma-vez-dois-ver%C3%B5es/creditos-completos)
 
-      * [R﻿oteiro (versão 15/03/2001)](/uploads/houve-uma-vez-dois-veroes-rot.pdf)
+      * [R﻿oteiro - versão 15/03/2001](/uploads/houve-uma-vez-dois-veroes-rot.pdf)
 
-      * [T﻿exto final (05/12/2001)](/uploads/houve-uma-vez-dois-veroes-txf.pdf)
+      * [T﻿exto final - 05/12/2001](/uploads/houve-uma-vez-dois-veroes-txf.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt0322629)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/266/houve-uma-vez-dois-veroes)
+
+      * [Letterboxd](https://letterboxd.com/film/two-summers-2002/)
 original_path: /os-filmes/produção/longas/houve-uma-vez-dois-verões.html
 synopsis: Chico, adolescente em férias na "maior e pior praia do mundo",
   encontra Roza num fliperama e se apaixona. Transam na primeira noite, mas ela
