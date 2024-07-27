@@ -90,9 +90,16 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/tres-efes.mp3" controls />
   - title: Veja mais
-    content: |-
+    content: >-
       * [C﻿réditos completos](/filmes/3-efes/creditos-completos)
+
       * [R﻿oteiro](/uploads/tres-efes-rot.pdf)
+
+      * [I﻿MDb](https://www.imdb.com/title/tt1090295)
+
+      * [P﻿ortal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/512/3-efes)
+
+      * [L﻿etterboxd](https://letterboxd.com/film/3-efes/)
 original_path: /os-filmes/produção/longas/3-efes.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
