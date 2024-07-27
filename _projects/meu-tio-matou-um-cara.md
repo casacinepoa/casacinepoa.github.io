@@ -279,13 +279,19 @@ details:
     title: Tema musical
   - title: Veja mais
     content: >-
-      * [Filmagens](http://www.terra.com.br/blog/meutiomatou1kra/)
-
-      * [Créditos completos](/filmes/meu-tio-matou-um-cara/creditos-completos)[](/uploads/meu_tio_matou_um_cara.mp3)
+      * [Créditos completos](/filmes/meu-tio-matou-um-cara/creditos-completos)
 
       * [Roteiro - versão 08/04/2004](/uploads/meu-tio-matou-um-cara-rot.pdf)
 
       * [Texto final - 13/01/2005](/uploads/meu-tio-matou-um-cara-txf.pdf)
+
+      * [Relato de filmagens](http://www.terra.com.br/blog/meutiomatou1kra/)
+
+      * [IMDb](https://www.imdb.com/title/tt0416979)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/355/meu-tio-matou-um-cara)
+
+      * [Letterboxd](https://letterboxd.com/film/my-uncle-killed-a-guy/)
 original_path: /os-filmes/produção/longas/meu-tio-matou-um-cara.html
 synopsis: Duca, aos 15 anos, descobre que os crimes que ele está acostumado a
   ver em jogos eletrônicos também podem existir na vida real, quando seu tio
