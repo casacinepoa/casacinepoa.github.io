@@ -32,7 +32,7 @@ details:
       Eduardo Dusek (Miklos)
   - title: Veja mais
     content: >-
-      * Créditos completos
+      * [Créditos completos](/filmes/bens-confiscados/creditos-completos/)
 
       * Roteiro - versão 07/07/2001
 
