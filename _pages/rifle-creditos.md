@@ -1,5 +1,5 @@
 ---
-title: Rifle - creditos
+title: Rifle - créditos
 permalink: /filmes/rifle/creditos-completos/
 layout: page
 ---
