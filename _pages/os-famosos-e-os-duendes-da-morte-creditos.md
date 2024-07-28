@@ -1,5 +1,5 @@
 ---
-title: Os famosos e os duendes da morte - creditos
+title: Os famosos e os duendes da morte - créditos
 permalink: /filmes/famosos-e-duendes/creditos-completos/
 layout: page
 ---
