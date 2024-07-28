@@ -6,6 +6,13 @@ category: Longas-metragens
 trailer: ""
 image: /uploads/verlust-1.jpg
 image_credits: "Foto de Tuane Eggers: Ismael Caneppele, Marina Lima e Andrea Beltrão"
+where_to_watch:
+  - title: YouTube
+    url: https://youtu.be/Img41gEP7Ag
+  - title: Google Play
+    url: https://play.google.com/store/movies/details?id=ycwMnourc5A.P
+  - title: Apple TV
+    url: https://tv.apple.com/br/movie/verlust/umc.cmc.17lcrgt17y7nh1ch4kiytd0so
 details:
   - title: Créditos
     content: |-
