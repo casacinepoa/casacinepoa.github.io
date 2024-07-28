@@ -5,6 +5,13 @@ tech_specs:
 category: Coproduções
 image: /uploads/rifle-imgr.jpg
 image_credits: "Foto de Glauco Firpo: Dione Oliveira"
+where_to_watch:
+  - title: YouTube
+    url: https://youtu.be/BxV89fsYUUI
+  - title: Google Play
+    url: https://play.google.com/store/movies/details?id=O6qMkYWIbyM.P
+  - title: Apple TV
+    url: https://tv.apple.com/br/movie/rifle/umc.cmc.h5szo2mkslhzx7hvkbblvoek
 details:
   - title: Créditos
     content: |-
@@ -28,6 +35,20 @@ details:
       **Coprodução**: Autentika Filmes\
       Casa de Cinema de Porto Alegre\
       Gogó Conteúdo Snoro
+  - title: Premiação
+    content: >-
+      * 49º Festival de Brasília, 2016: melhor roteiro, melhor desenho de som,
+      melhor filme de longa-metragem segundo a ABRACCINE.
+
+      * 12º Coisa de Cinema 2016: melhor longa nacional
+
+      * 18º Festival Internacional de Jeonju (Coreia do Sul) 2017: grande prêmio
+
+      * 5º Bosphorus Film Festival (Turquia) 2017: melhor fotografia
+
+      * 11º Prêmio ACCIRS Associação de Críticos de Cinema do Rio Grande do Sul 2017: melhor longa-metragem gaúcho
+
+      * 23º Prêmio Guarani de Cinema Brasileiro, 2017: melhor som
   - title: Principais exibições
     content: >-
       - 49º Festival de Brasília do Cinema Brasileiro - Competição de
