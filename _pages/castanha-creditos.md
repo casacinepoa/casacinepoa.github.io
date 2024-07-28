@@ -1,5 +1,5 @@
 ---
-title: Castanha - creditos
+title: Castanha - créditos
 permalink: /filmes/castanha/creditos-completos/
 layout: page
 ---
