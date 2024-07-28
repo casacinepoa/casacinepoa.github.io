@@ -5,6 +5,13 @@ tech_specs:
 category: Coproduções
 image: /uploads/fddm-imgr.jpg
 image_credits: "Foto divulgação: Tuane Eggers e Henrique Larré"
+where_to_watch:
+  - title: Vimeo - Saliva Shots
+    url: https://vimeo.com/90777434
+  - title: Apple TV
+    url: https://tv.apple.com/br/movie/os-famosos-e-os-duendes-da-morte/umc.cmc.1ipmak3g7r4bro4dwei13xxs4
+  - title: Prime Video
+    url: https://www.primevideo.com/-/pt/detail/Os-Famosos-e-os-Duendes-da-Morte/0LLCE7S1XI3LHBTKHDNYBH3H9D
 details:
   - title: Créditos
     content: >-
@@ -60,7 +67,7 @@ details:
       * Festival Internacional de Cinema Independete de Buenos Ares / BAFICI (Argentina) – Melhor Fotografia
   - title: Veja mais
     content: >-
-      * Créditos completos
+      * [Créditos completos](/filmes/famosos-e-duendes/creditos-completos/)
 
       * Roteiro
 
