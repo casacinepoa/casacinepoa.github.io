@@ -54,7 +54,7 @@ details:
       pela sintonia com os autores contemporâneos que estão conduzindo a
       linguagem por caminhos até então não experimentados."\
 
-      (Daniel Feix, [Zero Hora](https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2014/11/Critica-filme-Castanha-e-um-marco-do-cinema-gaucho-4645948.html), 20/11/2014)
+      (Daniel Feix, [Zero Hora](https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2014/11/Critica-filme-Castanha-e-um-marco-do-cinema-gaucho-4645948.html), 20/11/2014)\
 
       \
 
@@ -66,8 +66,9 @@ details:
 
       "Having premiered at Berlinale's Forum earlier this year, this journey into the nocturnal demi-monde of Porto Alegre has been steadily picking up festival-bookings (...) and will continue to pop up, especially at LGBT-themed events, over the coming months. It's a quietly ambitious debut for 26-year-old writer/director Davi Pretto, whose chosen subject-matter and approach sometimes recalls that of Portuguese master Pedro Costa."\
 
-      (Neil Young, [The Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/castanha-copenhagen-review-697919/), 21/04/2014)
+      (Neil Young, [The Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/castanha-copenhagen-review-697919/), 21/04/2014)\
 
+      \
 
       "A importância de se saber o quanto há de realidade e o quanto há de encenação em 'Castanha', do estreante em longas Davi Pretto, é minúscula diante da belíssima sensibilidade do filme, que independe de rótulos. (...) De muito pouco, Davi Pretto extrai quase tudo. Os enquadramentos são preciosos, a luz é de uma poética entristecida que faz parecer que até as cenas diurnas são noturnas, como que sublinhando o anoitecer da alma. E as interpretações, de tão naturalistas, talvez nem devam ser chamadas com este nome: interpretações. (...) Exibido em vários festivais pelo Brasil e pelo mundo (inclusive Berlim), onde vem colecionando prêmios, 'Castanha' é uma preciosidade."\
 
