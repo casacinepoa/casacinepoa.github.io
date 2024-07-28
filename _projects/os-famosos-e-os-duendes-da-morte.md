@@ -58,6 +58,17 @@ details:
       * XIII Festival Internacional de Cinema de Punta Del Este (Uruguai) – Melhor Filme
 
       * Festival Internacional de Cinema Independete de Buenos Ares / BAFICI (Argentina) – Melhor Fotografia
+  - title: Veja mais
+    content: >-
+      * Créditos completos
+
+      * Roteiro
+
+      * [IMDb](https://www.imdb.com/title/tt1483795)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/605/os-famosos-e-os-duendes-da-morte)
+
+      * [Letterboxd](https://letterboxd.com/film/play-a-song-for-me/)
 original_path: /os-filmes/produção/coproduções/os-famosos-e-os-duendes-da-morte.html
 ---
 Um garoto de dezesseis anos, fã de Bob Dylan, acessa o mundo através da internet, enquanto vê seus dias passarem em uma pequena cidade alemã no interior do Rio Grande do Sul. A chegada de figuras misteriosas na cidade traz lembranças do passado e o leva para um mundo além da realidade.
