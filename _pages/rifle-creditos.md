@@ -179,10 +179,13 @@ Pré-produção: Prêmio Santander Cultural 2011 / Prefeitura de Porto Alegre / 
 \
 **MÚSICAS**\
 \
-- "Cerca" (Davi Pretto, Marcos Lopes, Tiago Bello) por Davi Pretto, Marcos Lopes, Tiago Bello\
-- "Hoje eu tô terrível" (Luiz Henrique Bicalho) por Alvaro Luthi (voz solo) e Rita Zart (vocais); arranjo: Felipe Puperi // Editora: Terrível - MM Music\
-- "Agora é pra valer" (Marília Mendonça) por João Lucas e Marcelo // Editora: Work Show. Fonograma gentilmente cedido por Som Livre/RGE\
-- "A cada copo de cerveja" (Rafael Augusto de Moura, Murilo Huff) por Banda Mercosul // Gentilmente cedida por Banda Mercosul\
+-- "Cerca" (Davi Pretto, Marcos Lopes, Tiago Bello) por Davi Pretto, Marcos Lopes, Tiago Bello
+
+\-- "Hoje eu tô terrível" (Luiz Henrique Bicalho) por Alvaro Luthi (voz solo) e Rita Zart (vocais); arranjo: Felipe Puperi // Editora: Terrível - MM Music
+
+\--  "Agora é pra valer" (Marília Mendonça) por João Lucas e Marcelo // Editora: Work Show. Fonograma gentilmente cedido por Som Livre/RGE
+
+\-- "A cada copo de cerveja" (Rafael Augusto de Moura, Murilo Huff) por Banda Mercosul // Gentilmente cedida por Banda Mercosul\
 \
 **DEDICATÓRIA**\
 \
