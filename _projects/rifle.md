@@ -84,7 +84,7 @@ details:
       - 39º Cairo International Film Festival - Panorama Internacional, 2017.
   - title: Veja mais
     content: >-
-      * Créditos completos
+      * [Créditos completos](/filmes/rifle/creditos-completos/)
 
       * Roteiro
 
