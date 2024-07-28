@@ -44,6 +44,46 @@ details:
       João Carlos Castanha\
 
       Celina Castanha
+  - title: Crítica
+    content: >-
+      "É o mais importante longa-metragem gaúcho desde 'Deu pra ti anos 70'
+      (1981): assim como o histórico título dirigido por Giba Assis Brasil e
+      Nelson Nadotti, assinala uma ruptura tanto estética quanto de modelo de
+      produção, arrastando (tardiamente) a cinematografia local para o século
+      21. (...) É o símbolo mais notável de um movimento amplo, caracterizado
+      pela sintonia com os autores contemporâneos que estão conduzindo a
+      linguagem por caminhos até então não experimentados."\
+
+      (Daniel Feix, [Zero Hora](https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2014/11/Critica-filme-Castanha-e-um-marco-do-cinema-gaucho-4645948.html), 20/11/2014)
+
+      \
+
+      "Castanha é um filme que compartilha mais dúvidas do que perguntas bem formuladas; mais inquietações do que teses; mais incômodos do que sensações pontuais. Estamos diante de uma dramaturgia centrífuga, que desmorona como uma brisa (porque assim, corajosamente, quer), e são esses vetores de desmanche que mais chamam a atenção no longa de estréia de Davi Pretto."\
+
+      (Pablo Gonçalo, [Revista Cinética](http://revistacinetica.com.br/home/castanha-de-davi-pretto-brasil-2014/), 16/03/2014)
+
+      \
+
+      "Having premiered at Berlinale's Forum earlier this year, this journey into the nocturnal demi-monde of Porto Alegre has been steadily picking up festival-bookings (...) and will continue to pop up, especially at LGBT-themed events, over the coming months. It's a quietly ambitious debut for 26-year-old writer/director Davi Pretto, whose chosen subject-matter and approach sometimes recalls that of Portuguese master Pedro Costa."\
+
+      (Neil Young, [The Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/castanha-copenhagen-review-697919/), 21/04/2014)
+
+
+      "A importância de se saber o quanto há de realidade e o quanto há de encenação em 'Castanha', do estreante em longas Davi Pretto, é minúscula diante da belíssima sensibilidade do filme, que independe de rótulos. (...) De muito pouco, Davi Pretto extrai quase tudo. Os enquadramentos são preciosos, a luz é de uma poética entristecida que faz parecer que até as cenas diurnas são noturnas, como que sublinhando o anoitecer da alma. E as interpretações, de tão naturalistas, talvez nem devam ser chamadas com este nome: interpretações. (...) Exibido em vários festivais pelo Brasil e pelo mundo (inclusive Berlim), onde vem colecionando prêmios, 'Castanha' é uma preciosidade."\
+
+      (Celso Sabadin, [Planeta Tela](http://www.planetatela.com.br/critica/castanha-uma-pequena-joia-que-dispensa-rotulos), out/2014)
+  - title: Premiação
+    content: >-
+      * BAFICI 16º Buenos Aires Festival Internacional de Cine Independiente
+      2014: Prêmio Feisal menção especial
+
+      * 14º Festival Internacional de Cine de Las Palmas de Gran Canaria 2014: melhor ator (castanha)
+
+      * 6º Festival Paulínia de Cinema / Paulínia Film Festival 2014: melhor som
+
+      * 16º Festival do Rio 2014: melhor filme
+
+      * 8º Prêmio ACCIRS Associação de Críticos de Cinema do Rio Grande do Sul 2014: Prêmio Luiz César Cozzatti - Destaque Gaúcho
   - title: Principais exibições
     content: >-
       [64º Berlinale - Berlin International Film Festival -
@@ -90,11 +130,15 @@ details:
 
       [36º Festival Internacional del Nuevo Cine Latinoamericano de Havana - Competencia Documental.](http://habanafilmfestival.com/filme/index.php?filmCode=25146)
   - title: Veja mais
-    content: |-
-      * Créditos completos
-      * Roteiro
+    content: >-
+      * [Créditos completos](/filmes/castanha/creditos-completos/)
+
+      * [](/filmes/castanha/creditos-completos/)Roteiro
+
       * [IMDb](https://www.imdb.com/title/tt3252164)
-      * Portal do Cinema RS
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/934/castanha)
+
       * ﻿[Letterboxd](https://letterboxd.com/film/castanha/)
 original_path: /os-filmes/produção/coproduções/castanha-0.html
 ---
