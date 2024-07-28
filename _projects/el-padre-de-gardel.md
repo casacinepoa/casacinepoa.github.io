@@ -75,12 +75,17 @@ details:
     content: "- ACCU, Associación de Críticos Cinematográficos del Uruguay: melhor
       montagem de filme uruguaio, 2014"
   - title: Veja mais
-    content: |-
+    content: >-
       * [Créditos completos](/filmes/el-padre-de-gardel/creditos-completos/)
+
       * [Tratamento - fev/2010](/uploads/padre-de-gardel-trat.pdf)
+
       * [Texto final - 25/01/2013](/uploads/padre-de-gardel-txt.pdf)
+
       * [IMDb](https://www.imdb.com/title/tt6449958)
-      * Portal do Cinema RS
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/877/el-padre-de-gardel)
+
       * [Letterboxd](https://letterboxd.com/film/el-padre-de-gardel)
 original_path: /os-filmes/produção/coproduções/el-padre-de-gardel-0.html
 ---
