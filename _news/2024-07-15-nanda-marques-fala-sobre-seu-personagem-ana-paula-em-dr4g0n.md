@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nanda Marques fala sobre sua personagem Ana Paula em Dr4g0n
+title: Nanda Marques fala sobre personagem Ana Paula em Dr4g0n
 date: 2024-07-15 15:58:17
 ---
 ![](/uploads/dragon06.jpg)
