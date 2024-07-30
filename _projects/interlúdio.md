@@ -56,9 +56,10 @@ details:
       <audio src="https://www.casacinepoa.com.br/uploads/interludio.mp3" controls />
     title: Tema musical
   - title: Veja mais
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/curtas/interlúdio/inte\
-      rlúdio-créditos)"
+    content: |-
+      * [Créditos completos](/filmes/interludio/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0138522/)
+      * [Letterboxd](https://letterboxd.com/film/interludio-1983/)
 original_path: /os-filmes/curtas/interlúdio
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
