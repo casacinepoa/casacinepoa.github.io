@@ -24,9 +24,10 @@ details:
     content: "* 10º Festival do Cinema Brasileiro de Gramado, 1982: Melhor curta
       gaúcho."
   - title: Veja mais
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/distribuição/no-amor-c\
-      réditos)"
+    content: |-
+      * [Créditos completos](/filmes/no-amor/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0136429/)
+      * [Letterboxd](https://letterboxd.com/film/for-love-1982/)
 original_path: /os-filmes/distribuição/no-amor
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
