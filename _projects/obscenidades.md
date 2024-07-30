@@ -58,9 +58,10 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/obscenidades.mp3" controls />
   - title: Veja mais
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/distribuição/obscenid\
-      ades-créditos.html)"
+    content: |-
+      * [Créditos completos](/filmes/obscenidades/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0138668)
+      * [Letterboxd](https://letterboxd.com/film/obscenidades/)
 original_path: /os-filmes/distribuição/obscenidades
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
