@@ -1,5 +1,5 @@
 ---
-title: No amor - creditos
+title: No amor - créditos
 permalink: /filmes/no-amor/creditos-completos/
 layout: page
 ---
