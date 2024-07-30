@@ -1,5 +1,5 @@
 ---
-title: Interludio - creditos
+title: Interlúdio - créditos
 permalink: /filmes/interludio/creditos-completos/
 layout: page
 ---
