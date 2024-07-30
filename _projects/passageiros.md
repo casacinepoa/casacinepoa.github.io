@@ -35,9 +35,10 @@ details:
 
       (Tuio Becker, CADERNO DE CRÍTICA/FCB, Rio de Janeiro, maio de 1989)
   - title: Veja mais
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/distribuição/passageir\
-      os-créditos)"
+    content: |-
+      * [Créditos completos](/filmes/passageiros/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0138693/)
+      * [Letterboxd](https://letterboxd.com/film/passengers-1987/)
 original_path: /os-filmes/distribuição/passageiros
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
