@@ -1,5 +1,5 @@
 ---
-title: Passageiros - creditos
+title: Passageiros - créditos
 permalink: /filmes/passageiros/creditos-completos/
 layout: page
 ---
