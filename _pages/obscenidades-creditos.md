@@ -1,5 +1,5 @@
 ---
-title: Obscenidades - creditos
+title: Obscenidades - créditos
 permalink: /filmes/obscenidades/creditos-completos/
 layout: page
 ---
