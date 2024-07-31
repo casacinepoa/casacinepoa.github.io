@@ -38,11 +38,19 @@ details:
       Esther Castro (coringa)\
       João Carlos Castanha (coringa)\
       Zeca Kiechaloski (coringa)
-  - title: Prêmios
+  - title: Prêmios e festivaisi
     content: >-
-      * 21º Festival do Cinema Brasileiro, Brasília, 1988: Melhor Filme (Júri
-      Oficial e Júri Popular), Melhor Direção, Melhor Ator (Angel Palomero) e
-      Melhor Atriz Coadjuvante (Xala Felippi).
+      * 4º Rio-Cine-Festival, Rio de Janeiro, 1988: seleção oficial.
+
+      * 21º Festival do Cinema Brasileiro, Brasília, 1988: Melhor Filme (dividido no Júri Oficial, sozinho no Júri Popular), Melhor Direção (dividido), Melhor Ator e Melhor Atriz Coadjuvante (dividido).
+
+      * 5º Festival Internacional de Cinema e Vídeo do Rio de Janeiro (Fest- Rio), 1988: seleção oficial.
+
+      * Festival de Cannes, 1988: Mostra de Mercado.
+
+      * 10º Festival Internacional do Novo Cinema Latino-americano, Havana, 1988: seleção oficial.
+
+      * 11ª Jornada de Cinema e Video do Maranhão, São Luis, 1988: Hors Concours.
 
       * Troféu Scalp 1989 - Destaque do ano em cinema.
 
