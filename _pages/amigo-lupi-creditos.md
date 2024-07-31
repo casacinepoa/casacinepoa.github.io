@@ -1,5 +1,5 @@
 ---
-title: Amigo Lupi - creditos
+title: Amigo Lupi - créditos
 permalink: /filmes/amigo-lupi/creditos-completos/
 layout: page
 ---
