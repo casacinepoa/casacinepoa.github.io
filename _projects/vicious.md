@@ -61,6 +61,11 @@ details:
       "Uma espécie de versão punk de Romeu e Julieta, (...) a tônica do filme é o momento limitado de uma relação louca entre duas pessoas no ápice de um profundo vazio existencial. (...) Tudo em VICIOUS respinga sangue e prazer na tela, em uma concepção moderna, que engloba cortes precisos e uma bela fotografia em preto e branco. Pra completar, Adriana Borba arrasa na produção e Flávio Santos (da banda De Falla) dá um show de direção musical. Nota 11!"\
 
       (Cássia Maria, revista Exclusiva, Salvador, Nº 1, setembro de 1988)
+  - title: Veja mais
+    content: |-
+      * [Créditos completos](/filmes/vicious/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0138913)
+      * [Letterboxd](https://letterboxd.com/film/vicious-1988/)
 original_path: /os-filmes/distribuição/curtas/vicious
 ---
 Sid e Nancy: amor impossível entre seres inviáveis. A angústia explode em delírios de sangue. Estraçalhados pelas contradições, a busca desesperada é o único caminho. Mas todo crime traz seu castigo. A síntese entre agonia e êxtase costuma ser fatal.
