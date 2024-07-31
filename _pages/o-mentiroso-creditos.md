@@ -1,5 +1,5 @@
 ---
-title: O mentiroso - creditos
+title: O mentiroso - créditos
 permalink: /filmes/o-mentiroso/creditos-completos/
 layout: page
 ---
