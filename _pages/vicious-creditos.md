@@ -1,5 +1,5 @@
 ---
-title: Vicious - creditos
+title: Vicious - créditos
 permalink: /filmes/vicious/creditos-completos/
 layout: page
 ---
