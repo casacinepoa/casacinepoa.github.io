@@ -33,9 +33,13 @@ details:
 
       (Zero Hora, 15/04/88)
   - title: Veja mais
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/distribuição/aulas-mu\
-      ito-particulares-créditos.html)"
+    content: >-
+      * [Créditos
+      completos](/filmes/aulas-muito-particulares/creditos-completos/)
+
+      * [IMDb](https://www.imdb.com/title/tt0138307)
+
+      * [Letterboxd](https://letterboxd.com/film/aulas-muito-particulares/)
 original_path: /os-filmes/distribuição/aulas-muito-particulares
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
