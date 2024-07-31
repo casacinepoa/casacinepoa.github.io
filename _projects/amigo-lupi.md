@@ -36,9 +36,9 @@ details:
       * 21º Festival de Cinema de Gramado, 1993:\
         Melhor montagem de curta 16 mm.
   - title: Veja mais
-    content: "* [Créditos
-      completos](https://www.casacinepoa.com.br/os-filmes/créditos/amigo-lupi.h\
-      tml)"
+    content: |-
+      * [Créditos completos](/filmes/amigo-lupi/creditos-completos/)
+      * [Letterboxd](https://letterboxd.com/film/amigo-lupi/)
 original_path: /os-filmes/distribuição/curtas/amigo-lupi
 ---
 D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
