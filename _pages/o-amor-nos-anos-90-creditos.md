@@ -1,5 +1,5 @@
 ---
-title: O amor nos anos 90 - creditos
+title: O amor nos anos 90 - créditos
 permalink: /filmes/o-amor-nos-anos-90/creditos-completos/
 layout: page
 ---
