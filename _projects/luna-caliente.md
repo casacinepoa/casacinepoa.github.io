@@ -111,4 +111,4 @@ original_path: /os-filmes/realização/séries-de-tv/luna-caliente.html
 ---
 Ramiro é um advogado de 40 anos que está de volta ao país depois de oito anos de exílio na França. Numa visita à fazenda de amigos, Ramiro reencontra a bela e adolescente Elisa. Depois do jantar, abalado pelo calor, ele se deixa seduzir pela menina que, anos atrás, não passava de uma criança. E isso é apenas o começo de uma trama que vai marcar a vida de Ramiro para sempre.\
 \
-O﻿riginalmente (1999) exibido pela TV Globo como uma minissérie em 3 capítulos, mas depois (2003) como um telefilme.
+O﻿riginalmente (1999) exibido pela TV Globo como uma minissérie em 3 capítulos, depois (2003) como um telefilme.
