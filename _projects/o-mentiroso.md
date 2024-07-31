@@ -38,7 +38,7 @@ details:
       Esther Castro (coringa)\
       João Carlos Castanha (coringa)\
       Zeca Kiechaloski (coringa)
-  - title: Prêmios e festivaisi
+  - title: Prêmios e festivais
     content: >-
       * 4º Rio-Cine-Festival, Rio de Janeiro, 1988: seleção oficial.
 
