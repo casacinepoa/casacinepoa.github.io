@@ -1,5 +1,5 @@
 ---
-title: Aulas muito particulares - creditos
+title: Aulas muito particulares - créditos
 permalink: /filmes/aulas-muito-particulares/creditos-completos/
 layout: page
 ---
