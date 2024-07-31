@@ -1,5 +1,5 @@
 ---
-title: Batalha naval - creditos
+title: Batalha naval - créditos
 permalink: /filmes/batalha-naval/creditos-completos/
 layout: page
 ---
