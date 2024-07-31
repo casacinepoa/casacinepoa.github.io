@@ -34,4 +34,4 @@ details:
 ---
 Dois gordinhos loucos por cinema vivem uma ótima vida em comum, até que a dieta - e a tragédia - os separa.\
 \
-F﻿ilme realizado pelos alunos da Oficinema 1993.
+F﻿ilme realizado pelos alunos da Oficinema '93.
