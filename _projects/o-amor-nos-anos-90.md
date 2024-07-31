@@ -45,7 +45,9 @@ details:
 
       (CORREIO BRAZILIENSE, Brasília, 04/11/89)
   - title: Veja mais
-    content: "* [Créditos completos](/filmes/o-amor-nos-anos-90/creditos-completos)"
+    content: |-
+      * [Créditos completos](/filmes/o-amor-nos-anos-90/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0138291)
 original_path: /os-filmes/produção/curtas/o-amor-nos-anos-90.html
 ---
 Cinco interpretações do amor e seu futuro próximo, em episódios curtíssimos. (1) Os cupidos estão fora da lei, e quem possuir um deles pode ser incriminado. (2) Duas pessoas se encontram e se desejam numa galeria de arte. (3) Um casal entra em crise no dia em que é descoberta a vacina contra a AIDS. (4) O último vôo está partindo, como em Casablanca. Mas desta vez só há passagem para um. (5) Um homem e uma mulher separados por uma antena, um desejo e um crime que vai ser cometido.
