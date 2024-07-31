@@ -1,5 +1,6 @@
 ---
 title: Projeto Púlex - créditos
+permalink: /filmes/projeto-pulex/creditos-completos/
 layout: page
 ---
 **ELENCO**\
