@@ -1,10 +1,11 @@
 ---
 title: Luna caliente
 tech_specs:
-  - (1999, 35 mm/SD, 3x53 min, 1.33:1)
-category: Séries
+  - (1999-2003, 35 mm/SD, 114 min, 1.33:1)
+category: Longas-metragens
 image: /uploads/lunac-imgr.jpg
 image_credits: "Foto por José Tadeu Ribeiro: Paulo Betti e Ana Paula Tabalipa"
+where_to_watch: []
 details:
   - title: Créditos
     content: |-
@@ -101,6 +102,13 @@ details:
       "Um suspense tupiniquim de arrepiar até quem não tem cabelo, que vai caminhando para um final inevitável: a condenação de Ramiro, sendo que esta, vem de uma outra forma, diferente da pregada pela justiça dos homens. Excelente projeto, para ser visto diversas vezes."\
 
       (Luck Veloso, revista virtual CLUBE CULTURAL, 11/10/2003)
+  - title: Veja mais
+    content: |-
+      * [Créditos completos](/filmes/luna-caliente/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0242216)
+      * [Letterboxd](https://letterboxd.com/film/luna-caliente-1999-1/)
 original_path: /os-filmes/realização/séries-de-tv/luna-caliente.html
 ---
-Ramiro é um advogado de 40 anos que está de volta ao país depois de oito anos de exílio na França. Numa visita à fazenda de amigos, Ramiro reencontra a bela e adolescente Elisa. Depois do jantar, abalado pelo calor, ele se deixa seduzir pela menina que, anos atrás, não passava de uma criança. E isso é apenas o começo de uma trama que vai marcar a vida de Ramiro para sempre.
+Ramiro é um advogado de 40 anos que está de volta ao país depois de oito anos de exílio na França. Numa visita à fazenda de amigos, Ramiro reencontra a bela e adolescente Elisa. Depois do jantar, abalado pelo calor, ele se deixa seduzir pela menina que, anos atrás, não passava de uma criança. E isso é apenas o começo de uma trama que vai marcar a vida de Ramiro para sempre.\
+\
+O﻿riginalmente (1999) exibido pela TV Globo como uma minissérie em 3 capítulos, mas depois (2003) como um telefilme.
