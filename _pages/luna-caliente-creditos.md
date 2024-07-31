@@ -1,5 +1,5 @@
 ---
-title: Luna caliente - creditos
+title: Luna caliente - créditos
 permalink: /filmes/luna-caliente/creditos-completos/
 layout: page
 ---
