@@ -100,7 +100,7 @@ details:
     content: >-
       * [Créditos completos](/filmes/o-mentiroso/creditos-completos/)
 
-      * Roteiro - versão 31/08/1986
+      * [Roteiro - versão 31/08/1986](/uploads/o-mentiroso-rot.pdf)
 
       * [IMDb](https://www.imdb.com/title/tt0138604)
 
