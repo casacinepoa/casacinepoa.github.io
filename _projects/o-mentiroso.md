@@ -5,6 +5,9 @@ tech_specs:
 category: Origens
 image: /uploads/ment-imgr.jpg
 image_credits: "Foto de Christian Lesage: Patrícia Travassos e Angel Palomero"
+where_to_watch:
+  - title: Prime Video - Box Brasil
+    url: https://www.primevideo.com/region/na/detail/0HT8YJKV87ZV528DWSS6XAJDA4
 details:
   - title: Créditos
     content: |-
@@ -86,9 +89,16 @@ details:
 
       (Carlos Reichenbach, FOLHA DE SãO PAULO, 09/03/89)
   - title: Veja mais
-    content: "* [Créditos
-      completos](http://www.casacinepoa.com.br/os-filmes/distribuição/o-mentiro\
-      so-créditos)"
+    content: >-
+      * [Créditos completos](/filmes/o-mentiroso/creditos-completos/)
+
+      * Roteiro - versão 31/08/1986
+
+      * [IMDb](https://www.imdb.com/title/tt0138604)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1591/o-mentiroso)
+
+      * [Letterboxd](https://letterboxd.com/film/o-mentiroso/)
 original_path: /os-filmes/distribuição/o-mentiroso
 ---
 Uma comédia de estrada que satiriza a tradição dos "road movies". Quatro pessoas (entre elas, um mentiroso), por acaso, caem na estrada. Sem dinheiro e sem convicções, fazem de uma pequena viagem de fim-de-semana o princípio de suas possibilidades de libertação.
