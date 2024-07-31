@@ -1,5 +1,5 @@
 ---
-title: A pequena vida das pessoas grandes - creditos
+title: A pequena vida das pessoas grandes - créditos
 permalink: /filmes/pequena-vida/creditos-completos/
 layout: page
 ---
