@@ -66,4 +66,4 @@ Edição: Paulo H. Farias\
 \
 Filmado em Rio Pardo, Santa Cruz e São Lourenço/RS de 17 de agosto a 30 de setembro de 1998.\
 Exibido pela TV Globo, de 15 a 17 de dezembro de 1999.\
-Reexibido (em formato de longa-metragem, com 120 minutos) em 10/10/2003.
+Reexibido (em formato de longa-metragem, com 114 minutos) em 10/10/2003.
