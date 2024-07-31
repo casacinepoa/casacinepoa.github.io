@@ -47,6 +47,11 @@ details:
       "Tadao Miaqui (...) optou por um tema real, abordado como ficção, mostrando as 'armações' de homens poderosos que querem dominar o mundo dos negócios e da política, e para isso precisam exterminar uma parcela da população. Pulex é uma pulga excepcional que transmite vírus e bactérias, mas a semelhança com o HIV da AIDS é mera coincidência."\
 
       (Jornal de Brasília, 1991)
+  - title: Veja mais
+    content: |-
+      * [Créditos completos](/filmes/projeto-pulex/creditos-completos/)
+      * [Letterboxd](https://letterboxd.com/film/projeto-pulex/)
+      * [Filmow](https://filmow.com/projeto-pulex-t204666/)
 original_path: /os-filmes/distribuição/curtas/projeto-pulex
 ---
 Desenho animado sobre o Brasil do ano 2013: um país no auge da crise social. Para conter o crescimento da população de baixa renda, a cúpula do governo acha uma solução: a pulga.
