@@ -6,6 +6,9 @@ category: Origens
 image: /uploads/croda-imgr.jpg
 image_credits: "Foto por Giba Assis Brasil: Pedro Santos, Rudi Lagemann, Nilo
   Cruz e Carlos Grübber"
+where_to_watch:
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/686397379
 details:
   - title: Créditos
     content: |-
