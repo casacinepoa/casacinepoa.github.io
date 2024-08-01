@@ -70,10 +70,18 @@ details:
 
       (Luiz César Cozzatti, ZERO HORA, Porto Alegre, 08/05/83)
   - title: Veja mais
-    content: |-
-      * [Roteiro](/uploads/inverno-rot.pdf)
-      * [Texto final](/uploads/inverno-txf.pdf)
-      * [Créditos completos](http://www.casacinepoa.com.br/node/572)
+    content: >-
+      * [Créditos completos](/filmes/inverno/creditos-completos/)
+
+      * [Roteiro - versão 11/07/1982](/uploads/inverno-rot.pdf)
+
+      * [Texto final - 13/02/1983](/uploads/inverno-txf.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt0138525)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/214/inverno)
+
+      * [Letterboxd](https://letterboxd.com/film/winter-1983/)
 original_path: /os-filmes/distribuição/longas/inverno.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
