@@ -1,5 +1,6 @@
 ---
-title: Inverno - creditos
+title: Inverno - créditos
+permalink: /filmes/inverno/creditos-completos/
 layout: page
 ---
 **ELENCO**
@@ -36,18 +37,7 @@ layout: page
 | Luiz César Cozzatti | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/nei.jpg)      |
 | P.F. Gastal         | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/nilo.jpg)     |
 | Tuio Becker         | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/osvaldo.jpg)  |
-| Paulo Mello         | (voz de Carlos)             |                                                                                          |
-| Pedro Santos        | (Marcelo)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/pedro.jpg)    |
-| Rejane Tomatis      | (Mãe de Sônia)              | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/rejane.jpg)   |
-| Ricardo Cordeiro    | (Ricardo)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/ricardo.jpg)  |
-| Rosa Luporini       | (Marta)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/rosa.jpg)     |
-| Rudi Lagemann       | (voz de Roberto)            |                                                                                          |
-| Sérgio Lerrer       | (Marco)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/sergiole.jpg) |
-| Sérgio Lulkin       | (Mauro)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/sergiolu.jpg) |
-| Wander Wildner      | (Irmão do Jaime)            | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/wander.jpg)   |
-| Werner Schünemann   | (Roberto)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/werner.jpg)   |
-| Xala Felippi        | (Virgínia)                  | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/xala.jpg)     |
-| Zezé do Canto       | (voz de Cláudia)            |                                                                                          |
+
 
 \
 **P﻿ARTICIPAÇÕES**
