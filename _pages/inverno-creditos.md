@@ -7,8 +7,8 @@ layout: page
 
 |                     |                             |                                                                                          |
 | ------------------- | --------------------------- | ---------------------------------------------------------------------------------------- |
-| Werner Schünemann   | (o heroi)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/angel.jpg)    |
-| Luciene Adami       | (Mariana)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/angela.jpg)   |
+| Werner Schünemann   | (o heroi)                   | ![](/uploads/inv-werner.jpg)    |
+| Luciene Adami       | (Mariana)                   | ![](/uploads/inv-luciene.jpg)   |
 | Marta Biavaschi     | (Lúcia)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/augusto.jpg)  |
 | Marco Antônio Sorio | (Milton)                    | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/bertrand.jpg) |
 | Cleide Fayad        | (Cláudia)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/grubber.jpg)  |
