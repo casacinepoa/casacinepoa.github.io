@@ -1,0 +1,53 @@
+---
+title: Inverno - creditos
+layout: page
+---
+**ELENCO**
+
+|                     |                             |                                                                                          |
+| ------------------- | --------------------------- | ---------------------------------------------------------------------------------------- |
+| Werner Schünemann   | (o heroi)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/angel.jpg)    |
+| Luciene Adami       | (Mariana)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/angela.jpg)   |
+| Marta Biavaschi     | (Lúcia)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/augusto.jpg)  |
+| Marco Antônio Sorio | (Milton)                    | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/bertrand.jpg) |
+| Cleide Fayad        | (Cláudia)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/grubber.jpg)  |
+| Luciana Tomasi      | (Isabel)                    | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/gerbase.jpg)  |
+| Carlos Grübber      | (Júlio)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/ceres.jpg)    |
+| Ivonete Pinto       | (Maria)                     |                                                                                          |
+| Angel Palomero      | (Alexandre)                 | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/claudia.jpg)  |
+| Sérgio Horst        | (Leo)                       | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/cleide.jpg)   |
+| Biratã Vieira       | (pai)                       | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/deborah.jpg)  |
+| Araci Esteves       | (mãe)                       |                                                                                          |
+| Marília Rossi       | (guria da rua da Praia)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/eliane.jpg)   |
+| Xala Felippi        | (empregada)                 | \*﻿cortada na montagem                                                                   |
+| Angela Gonzaga      | (vizinha)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/giba.jpg)     |
+| Rudi Lagemann       | (homem da Siqueira Campos)  | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/helio.jpg)    |
+| Soraia Simaan       | (mulher da Siqueira Campos) | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/ivonete.jpg)  |
+| Max Souza           | (rapaz da festa)            | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/julio.jpg)    |
+| Fredy Sommer        | (garçom da festa)           | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/katano.jpg)   |
+| Deborah Lacerda     | (amiga de Cláudia)          |                                                                                          |
+| Alfredo Dillenburg  | (chefe da imobiliária)      | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/palese.jpg)   |
+| Marione Reckziegel  | (secretária)                | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/marcia.jpg)   |
+| Antônio Hohlfeldt   | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/marco.jpg)    |
+| Goida               | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/mari.jpg)     |
+| Hélio Nascimento    | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/mlourdes.jpg) |
+| Ivo Stigger         | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/martadpt.jpg)          |
+| Luiz Carlos Merten  | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/narcisio.jpg) |
+| Luiz César Cozzatti | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/nei.jpg)      |
+| P.F. Gastal         | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/nilo.jpg)     |
+| Tuio Becker         | (colega na imobiliária)     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/osvaldo.jpg)  |
+| Paulo Mello         | (voz de Carlos)             |                                                                                          |
+| Pedro Santos        | (Marcelo)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/pedro.jpg)    |
+| Rejane Tomatis      | (Mãe de Sônia)              | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/rejane.jpg)   |
+| Ricardo Cordeiro    | (Ricardo)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/ricardo.jpg)  |
+| Rosa Luporini       | (Marta)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/rosa.jpg)     |
+| Rudi Lagemann       | (voz de Roberto)            |                                                                                          |
+| Sérgio Lerrer       | (Marco)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/sergiole.jpg) |
+| Sérgio Lulkin       | (Mauro)                     | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/sergiolu.jpg) |
+| Wander Wildner      | (Irmão do Jaime)            | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/wander.jpg)   |
+| Werner Schünemann   | (Roberto)                   | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/werner.jpg)   |
+| Xala Felippi        | (Virgínia)                  | ![](https://arquivo.casacinepoa.com.br/sites/default/files/images/deuprati/xala.jpg)     |
+| Zezé do Canto       | (voz de Cláudia)            |                                                                                          |
+
+\
+**P﻿ARTICIPAÇÕES**
