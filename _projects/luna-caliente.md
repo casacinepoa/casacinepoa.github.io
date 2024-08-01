@@ -94,7 +94,7 @@ details:
       (Sebastião Vilela Abreu, O POPULAR, Goiânia, 20/12/1999)
 
 
-      Os espelhos e demais objetos sem vida que Monteiro tira da cartola (as calcinhas, o carro, o cadáver de Braúlio) são os focos de denúncia alçados à estatura de heróis em 'Luna Caliente'. Nestes corpos inanimados - que tomam vida movidos pelo desejo de esclarecimento, revelação e justiça, como a lua que intensifica as paranóias de Ramiro, ou Elisa, o cadáver que se recusa ao descanso -, Furtado parece depositar seu ideário repleto de ironia, neste painel crítico de uma época de perversão e hábitos obscuros. É um trabalho em que impera a consciência e a maturidade desse artista da maior importância para o nosso cinema."\
+      "Os espelhos e demais objetos sem vida que Monteiro tira da cartola (as calcinhas, o carro, o cadáver de Braúlio) são os focos de denúncia alçados à estatura de heróis em 'Luna Caliente'. Nestes corpos inanimados - que tomam vida movidos pelo desejo de esclarecimento, revelação e justiça, como a lua que intensifica as paranóias de Ramiro, ou Elisa, o cadáver que se recusa ao descanso -, Furtado parece depositar seu ideário repleto de ironia, neste painel crítico de uma época de perversão e hábitos obscuros. É um trabalho em que impera a consciência e a maturidade desse artista da maior importância para o nosso cinema."\
 
       (Fernando Verissimo, Revista SINOPSE nº 4, março/2000)
 
