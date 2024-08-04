@@ -5,7 +5,7 @@ date: 2024-08-04 17:03:31
 ---
 ![](/uploads/falsa-com-girassol.jpg)
 
-*ATENÇÃO: a foto acima (assim como a foto abaixo) NÃO faz parte do filme ILHA DAS FLORES, embora esteja associada ao filme em muitas publicações na internet, já há vários anos. Trata-se de uma imagem retocada, com a inclusão do girassol, bem antes da existência da inteligência artificial generativa (pelo menos desde 2011), a partir de uma foto de lixão que provavelmente foi batida na Indonésia ou Bangladesh - nunca conseguimos confirmar sua origem exata. A Casa de Cinema de Porto Alegre NUNCA utilizou essas imagens na divulgação do filme.*
+*ATENÇÃO: a foto acima (assim como a foto abaixo) NÃO faz parte do filme ILHA DAS FLORES, embora esteja associada ao filme em muitas publicações na internet, já há vários anos - inclusive na matéria lincada abaixo. Trata-se de uma imagem retocada, com a inclusão do girassol, bem antes da existência da inteligência artificial generativa (pelo menos desde 2011), a partir de uma foto de lixão que provavelmente foi batida na Indonésia ou Bangladesh - nunca conseguimos confirmar sua origem exata. A Casa de Cinema de Porto Alegre NUNCA utilizou essas imagens na divulgação do filme.*
 
 ![](/uploads/falsa-sem-girassol.jpg)
 
