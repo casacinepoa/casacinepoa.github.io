@@ -5,14 +5,13 @@ date: 2024-08-04 17:03:31
 ---
 ![](/uploads/falsa-com-girassol.jpg)
 
-*ATENÇÃO: a foto acima (assim como a foto abaixo) NÃO faz parte do filme ILHA DAS FLORES, embora esteja associada ao filme em muitas publicações na internet, já há vários anos. Trata-se de uma imagem retocada, com a inclusão do girassol, bem antes da existência da inteligência artificial generativa (pelo menos desde 2011), a partir de uma foto de lixão que provavelmente foi batida na Indonésia ou Bangladesh - nunca conseguimos confirmar sua origem exata.*
+*ATENÇÃO: a foto acima (assim como a foto abaixo) NÃO faz parte do filme ILHA DAS FLORES, embora esteja associada ao filme em muitas publicações na internet, já há vários anos. Trata-se de uma imagem retocada, com a inclusão do girassol, bem antes da existência da inteligência artificial generativa (pelo menos desde 2011), a partir de uma foto de lixão que provavelmente foi batida na Indonésia ou Bangladesh - nunca conseguimos confirmar sua origem exata. A Casa de Cinema de Porto Alegre NUNCA utilizou essas imagens na divulgação do filme.*
 
 ![](/uploads/falsa-sem-girassol.jpg)
 
 **EM AGOSTO, TELECINE CULT EXIBE ESPECIAIS 'DIA DO DOCUMENTÁRIO BRASILEIRO', 'DIA DA VISIBILIDADE LÉSBICA' E 'ESQUENTA ESTÔMAGO 2'**\
 Por Anderson Ramos\
 [O Universo da TV, 01/08/2024](https://www.ouniversodatv.com/2024/08/em-agosto-telecine-cult-exibe-especiais.html#google_vignette)
-
 
 Em agosto, o Telecine Cult celebra o Dia Nacional do Documentário Brasileiro com a exibição, na quarta (dia 07), de um especial com grandes filmes documentais. A programação tem início às 17h40, com 'Ilha das Flores', curta de Jorge Furtado consagrado com o Urso de Prata em 1989. Depois, seguem dois longas de Eduardo Coutinho: 'Cabra Marcado para Morrer' e 'Edifício Master'. Na quarta (dia 28), o canal faz o Esquenta 'Estômago 2', com a exibição, às 20h05, de 'Estômago' - original da série. Na quinta (dia 29), celebra-se o Dia Nacional da Visibilidade Lésbica e, por isso, vai ao ar, a partir das 20h20, um combo duplo com títulos em que o amor lésbico é o protagonista: 'Nós Duas' e 'Retrato de Uma Jovem em Chamas'. Na terça (dia 06), o canal homenageia John Hughes, diretor de comédias clássicas que faleceu há 15 anos. Vão ao ar, a partir das 20h15, 'Clube dos Cinco' e 'Curtindo a Vida Adoidado'. Na terça (dia 13), é comemorado os 125 anos do nascimento de Alfred Hitchcock e, para entrar nas celebrações, o Telecine Cult apresenta, a partir das 09h40, uma maratona que se estende por todo o dia e inclui grandes clássicos do cineasta, como 'Psicose' e 'Um Corpo que Cai'. No sábado (dia 17), Robert De Niro completa 81 anos e, para homenageá-lo, o canal exibe, a partir das 19h, 'Cassino' e 'O Franco Atirador'. Na terça (dia 20), José Wilker completaria 78 anos e, por isso, ele também ganha um especial em sua memória. A partir das 19h55, são apresentados: 'Dona Flor e Seus Dois Maridos' e 'Bye Bye Brasil'. Confira abaixo os principais destaques.
 
