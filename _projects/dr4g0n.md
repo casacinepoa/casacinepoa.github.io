@@ -55,5 +55,65 @@ details:
          Ana Paula se endivida no banco, e precisa vencer o Summer Cup a qualquer custo. Daniel implica com o prêmio de MVP de Ike. Kami cogita trocar de time. Lara tem um dilema ético.
       8. **1x1**\
          Os irmãos recebem uma proposta irrecusável. Lara ajuda o Frozen a revogar a decisão do Summer Cup. Daniel quer enfrentar Horang no 1x1. Os pais temem o ninho vazio.
+  - title: Vídeos de divulgação
+    content: >-
+      [Prévia](https://globoplay.globo.com/v/12767898/)
+
+      \
+
+      [Trailer 1](https://globoplay.globo.com/v/12778443/)
+
+
+      [Trailer Horang](https://globoplay.globo.com/v/12778443/)
+
+      \
+
+      [Trailer Daniel](https://globoplay.globo.com/v/12778440/)
+
+
+      [A Ana Paula lidera a casa e o time](https://www.instagram.com/reel/C8971ZMpRbS/?igsh=dWJwNzV4YmtlMWhi)
+
+
+      [Imbatível e calculista, Daniel](https://www.instagram.com/reel/C8912krJKpB/?igsh=cmh2MTVvNTNtOGlp)
+
+      \
+
+      [Impossível de vencer ou de esquecer esse Horang?](https://www.instagram.com/reel/C894TigJ_CP/?igsh=MXM4b29wZ2RxNXR1bQ)
+
+      \
+
+      [Laura Luz provou o poder das garotas nos eSports com a Kami em dr4g0n](https://www.youtube.com/watch?v=XpgjnNjuXUY)
+
+      \
+
+      [Luli Horta é a nossa streamer em dr4g0n](https://www.youtube.com/watch?v=YwMRJJsnT0w)
+
+      \
+
+      [Cauã Martins se joga no mundo dos eSports em dr4g0n](https://www.youtube.com/watch?v=eSf2-n4oFqg)
+
+      \
+
+      [Plus TV: Entrevista com Cauã Martins e Nanda Marques](https://www.youtube.com/watch?v=f_3ZUyFfiBc)
+
+      \
+
+      [Canal do Doze: Bat-Papo com a roteirista Ana Saki](https://www.youtube.com/watch?v=Xfod8WsD7sI)
+
+      \
+
+      [GameArena: Nova Série da Globoplay: Dr4g0n!](https://www.youtube.com/shorts/6I0-R0wRpUU)
+
+      \
+
+      [Pod-Atuar Podcast: Laura Luz conta sua experiência na nova série “Dr4g0n”](https://www.youtube.com/watch?v=4UbEfNZoxAM)
+
+      \
+
+      [Streamer Thaigao reinventa a personagem Bel](https://www.instagram.com/thaigao/reel/C-Gg1-kPYno/)
+
+      \
+
+      [Kainan Medeiros do Teamcomics comenta dr4g0n](https://www.instagram.com/teamcomics/reel/C-NkUQTOewz/)
 ---
 Uma família passa a ser sustentada pela equipe de eSports dos filhos. O time tem como principal jogador o filho mais novo, Daniel – ou, como é conhecido na internet, dr4g0n.
