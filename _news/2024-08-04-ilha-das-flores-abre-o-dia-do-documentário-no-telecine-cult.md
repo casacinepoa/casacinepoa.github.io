@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ILHA DAS FLORES abre o "dia do documentário" no Telecine Cult
+title: ILHA DAS FLORES abre o "dia do documentário" no Telecine
 date: 2024-08-04 17:03:31
 ---
 ![](/uploads/falsa-com-girassol.jpg)
