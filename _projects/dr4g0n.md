@@ -57,60 +57,79 @@ details:
          Os irmãos recebem uma proposta irrecusável. Lara ajuda o Frozen a revogar a decisão do Summer Cup. Daniel quer enfrentar Horang no 1x1. Os pais temem o ninho vazio.
   - title: Vídeos de divulgação
     content: >-
-      [Prévia](https://globoplay.globo.com/v/12767898/)
+      GLOBOPLAY\
 
       \
 
-      [Trailer 1](https://globoplay.globo.com/v/12778443/)
-
-
-      [Trailer Horang](https://globoplay.globo.com/v/12778443/)
+      [Prévia](https://globoplay.globo.com/v/12767898/)\
 
       \
 
-      [Trailer Daniel](https://globoplay.globo.com/v/12778440/)
-
-
-      [A Ana Paula lidera a casa e o time](https://www.instagram.com/reel/C8971ZMpRbS/?igsh=dWJwNzV4YmtlMWhi)
-
-
-      [Imbatível e calculista, Daniel](https://www.instagram.com/reel/C8912krJKpB/?igsh=cmh2MTVvNTNtOGlp)
+      [Trailer 1](https://globoplay.globo.com/v/12778443/)\
 
       \
 
-      [Impossível de vencer ou de esquecer esse Horang?](https://www.instagram.com/reel/C894TigJ_CP/?igsh=MXM4b29wZ2RxNXR1bQ)
+      [Trailer Daniel](https://globoplay.globo.com/v/12778440/)\
 
       \
 
-      [Laura Luz provou o poder das garotas nos eSports com a Kami em dr4g0n](https://www.youtube.com/watch?v=XpgjnNjuXUY)
+      [Trailer Horang](https://globoplay.globo.com/v/12778439/)\
 
       \
 
-      [Luli Horta é a nossa streamer em dr4g0n](https://www.youtube.com/watch?v=YwMRJJsnT0w)
+      \
+
+      YOUTUBE\
 
       \
 
-      [Cauã Martins se joga no mundo dos eSports em dr4g0n](https://www.youtube.com/watch?v=eSf2-n4oFqg)
+      [Laura Luz provou o poder das garotas nos eSports com a Kami em dr4g0n](https://www.youtube.com/watch?v=XpgjnNjuXUY)\
 
       \
 
-      [Plus TV: Entrevista com Cauã Martins e Nanda Marques](https://www.youtube.com/watch?v=f_3ZUyFfiBc)
+      [Luli Horta é a nossa streamer em dr4g0n](https://www.youtube.com/watch?v=YwMRJJsnT0w)\
 
       \
 
-      [Canal do Doze: Bat-Papo com a roteirista Ana Saki](https://www.youtube.com/watch?v=Xfod8WsD7sI)
+      [Cauã Martins se joga no mundo dos eSports em dr4g0n](https://www.youtube.com/watch?v=eSf2-n4oFqg)\
 
       \
 
-      [GameArena: Nova Série da Globoplay: Dr4g0n!](https://www.youtube.com/shorts/6I0-R0wRpUU)
+      [Plus TV: Entrevista com Cauã Martins e Nanda Marques](https://www.youtube.com/watch?v=f_3ZUyFfiBc)\
 
       \
 
-      [Pod-Atuar Podcast: Laura Luz conta sua experiência na nova série “Dr4g0n”](https://www.youtube.com/watch?v=4UbEfNZoxAM)
+      [Canal do Doze: Bat-Papo com a roteirista Ana Saki](https://www.youtube.com/watch?v=Xfod8WsD7sI)\
 
       \
 
-      [Streamer Thaigao reinventa a personagem Bel](https://www.instagram.com/thaigao/reel/C-Gg1-kPYno/)
+      [GameArena: Nova Série da Globoplay: Dr4g0n!](https://www.youtube.com/shorts/6I0-R0wRpUU)\
+
+      \
+
+      [Pod-Atuar Podcast: Laura Luz conta sua experiência na nova série “Dr4g0n”](https://www.youtube.com/watch?v=4UbEfNZoxAM)\
+
+      \
+
+      \
+
+      INSTAGRAM\
+
+      \
+
+      [A Ana Paula lidera a casa e o time](https://www.instagram.com/reel/C8971ZMpRbS/?igsh=dWJwNzV4YmtlMWhi)\
+
+      \
+
+      [Imbatível e calculista, Daniel](https://www.instagram.com/reel/C8912krJKpB/?igsh=cmh2MTVvNTNtOGlp)\
+
+      \
+
+      [Impossível de vencer ou de esquecer esse Horang?](https://www.instagram.com/reel/C894TigJ_CP/?igsh=MXM4b29wZ2RxNXR1bQ)[\
+
+      \
+
+      Streamer Thaigao reinventa a personagem Bel](https://www.instagram.com/thaigao/reel/C-Gg1-kPYno/)\
 
       \
 
