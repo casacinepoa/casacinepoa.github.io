@@ -49,9 +49,16 @@ details:
 
       (Bernardo de Carvalho, FOLHA DE SÃO PAULO, 28/03/2006)
   - title: Veja mais
-    content: |-
+    content: >-
       * [Créditos completos](/filmes/coisa-na-roda/creditos-completos)
-      * [R﻿oteiro](/uploads/coisa-na-roda-rot.pdf)
+
+      * [Roteiro - versão 01/06/1981](/uploads/coisa-na-roda-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt0138371)
+
+      * [Portal do Cinema RS](https://letterboxd.com/film/coisa-na-roda/)
+
+      * [Letterboxd](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/210/coisa-na-roda)
 original_path: /os-filmes/distribuição/longas/coisa-na-roda.html
 ---
 Quatro estudantes moram numa comunidade urbana, onde, em princípio, tudo pode ser "posto na roda", dividido, compartilhado: a mesada de cada um, os objetos pessoais, os relacionamentos, os compromissos políticos. Mas as coisas começam a mudar com a chegada de um quinto morador, mais velho e desiludido, que coloca em xeque a capacidade de cada um viver de acordo com suas idéias.
