@@ -114,9 +114,16 @@ details:
 
       <audio src="/uploads/deu-pra-ti.mp3" controls />
   - title: Veja mais
-    content: |-
+    content: >-
       * [Créditos completos](/filmes/deu-pra-ti-anos-70/creditos-completos)
-      * [R﻿oteiro - versão 15/04/1980](/uploads/deu-pra-ti-anos-70-rot.pdf)
+
+      * [Roteiro - versão 15/04/1980](/uploads/deu-pra-ti-anos-70-rot.pdf)
+
+      * [IMDb](https://www.imdb.com/title/tt0132916)
+
+      * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/207/deu-pra-ti-anos-70)
+
+      * [Letterboxd](https://letterboxd.com/film/deu-pra-ti-anos-70/)
 original_path: /os-filmes/distribuição/longas/deu-pra-ti-anos-70.html
 ---
 Histórias da década de 70, contadas do ponto de vista de quem despertou para o mundo no período. Ao longo de 10 anos, Marcelo e Ceres encontram-se e desencontram-se em reuniões dançantes, bares, cinemas, universidades e acampamentos. Na noite de ano novo de 1980, eles ainda têm motivos para sonhar, agora juntos.
