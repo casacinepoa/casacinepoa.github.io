@@ -6,14 +6,8 @@ category: Longas-metragens
 image: /uploads/aode-imgr_0.jpg
 image_credits: "Foto por Fábio Rebelo: Jorge Bolani e Gabriela Poester"
 where_to_watch:
-  - title: Globoplay + Telecine
-    url: https://globoplay.globo.com/aos-olhos-de-ernesto/t/LLp2hckhFK/
-  - title: YouTube
-    url: https://www.youtube.com/watch?v=t3up0TMmdH0
-  - title: Google Play
-    url: https://play.google.com/store/movies/details?id=KJPF1V_9KKw.P
-  - title: Apple TV
-    url: https://tv.apple.com/br/movie/aos-olhos-de-ernesto/umc.cmc.43i2dfhp2nb70tgk35w8bhapp
+  - title: Contrato de streming - EM RENOVAÇÃO
+    url: https://youtu.be/7eoKGCHYoCE
 details:
   - title: Créditos
     content: >-
