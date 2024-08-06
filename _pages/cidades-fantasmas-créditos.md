@@ -133,4 +133,4 @@ Coprodução: Globo Filmes\
 
 **HISTÓRICO**
 
-Estreou no Festival "É tudo verdade", dia 22 de abril de 2017 no Rio de Janeiro, e 24 de abril em São Paulo.
+Viagens de pesquisa em abril de 2016. Filmagens de 01/jun a 15/jul de 2016. Estreou no Festival "É tudo verdade", dia 22 de abril de 2017 no Rio de Janeiro, e 24 de abril em São Paulo.
