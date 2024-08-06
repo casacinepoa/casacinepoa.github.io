@@ -85,9 +85,10 @@ Arte dos créditos: Luis Henrique Palese e Monica Schmiedt
 
 Assistência técnica: Leo Sganderla / Otofenic
 
-Filmado em Porto Alegre e Dois Irmãos/RS, de julho a Novembro de 1981.\
-Estreou no Festival de Super-8 de Gramado, dia 25/03/1982.
+**H﻿ISTÓRICO**
 
+Filmado em Porto Alegre (com cenas em Dois Irmãos) de 4 de julho a 22 de novembro de 1981. Montado em dezembro e janeiro. Dublado e sonorizado de fevereiro a março de 1982. Estreou no Festival de Super-8 de Gramado, dia 25/03/1982.\
+\
 **VERSÃO EM DVD**
 
 Som remasterizado, a partir das dublagens originais,\
