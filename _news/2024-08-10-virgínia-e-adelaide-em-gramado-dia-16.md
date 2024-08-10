@@ -1,0 +1,30 @@
+---
+layout: post
+title: VIRGÍNIA E ADELAIDE em Gramado dia 16
+date: 2024-08-10 16:23:22
+---
+![](/uploads/vea-ceu.jpg)
+
+*"Virgínia e Adelaide", longa de encerramento do Festival de Gramado*
+
+
+
+**GLOBO FILMES RETORNA AO FESTIVAL DE GRAMADO COM SEIS LONGAS**\
+[Grandes nomes da propaganda, 10/08/2024](https://grandesnomesdapropaganda.com.br/produtora/globo-filmes-retorna-ao-festival-de-gramado-com-seis-longas/)
+
+
+A Globo Filmes retorna ao Festival de Gramado com seis longas-metragens. "Abá e sua banda", de Humberto Avelar, inicia a Sessão Infantil na manhã do dia 9 de agosto. Na mesma data, o evento terá sua abertura oficial com a sessão hors concours de "Motel Destino", de Karim Aïnouz. A coprodutora também participa com "O Clube das Mulheres de Negócios", de Anna Muylaert, "Pasárgada", de Dira Paes, e "Cidade; Campo", de Juliana Rojas, todos em competição. A programação se encerra com a première mundial de "Virgínia e Adelaide", de Jorge Furtado e Yasmin Thayná, exibido fora da disputa. Todas as sessões noturnas acontecem às 18h, no Palácio dos Festivais.
+
+A Globo Filmes terá sua primeira exibição na estreia da Sessão Infantil, com "Abá e sua Banda". O filme será exibido no dia 9, em dois horários: às 8h30 e às 14h. Após as sessões, estudantes da rede municipal de ensino participarão de debates com a presença do produtor Alexandre Carvalho e do diretor de animação Alan Camilo. Dirigido por Humberto Avelar, a aventura musical acompanha um jovem príncipe que se depara com novas responsabilidades ao entrar na adolescência. O longa foi coproduzido pela Fraiha Produções, Globo Filmes, Gloob, Prefeitura do Rio, por meio da RioFilme.
+
+Ainda no dia 9 de agosto, à noite, acontece a sessão de abertura do festival. Aplaudido por mais de 12 minutos após sua estreia mundial em Cannes, "Motel Destino" terá sua primeira exibição nacional com a presença de Fábio Assunção, Iago Xavier e Nataly Rocha, que integram o elenco. O thriller dirigido por Karim Aïnouz é centrado no Motel Destino, lugar palco de jogos perigosos de desejo, poder e violência. A produção é assinada pela Gullane e Cinema Inflamável, com coprodução da Globo Filmes, Telecine e Canal Brasil, e distribuição da Pandora Filmes.
+
+A participação competitiva da Globo Filmes se inicia no dia 10, com "O Clube das Mulheres de Negócios". Além da diretora Anna Muylaert, também estarão presentes os atores Luis Miranda, Rafa Vitti, Katiuscia Canoro, Ítala Nandi, Louise, Helena Albergaria, Maria Bopp, Polly Marino, Verônica Debom, Grace Gianoukas, Cristina Pereira e Shirley Cruz. O filme é ambientado em um universo fictício em que os estereótipos de gênero estão invertidos. Com homens criados para serem submissos e mulheres ocupando posições de poder, o longa traz reflexões não só sobre as consequências do patriarcado, mas também sobre o classismo e a corrupção enraizados na sociedade. A produção é assinada pela Glaz Entretenimento e África Filmes, com coprodução da Globo Filmes e distribuição da Vitrine Filmes.
+
+No dia 13, Gramado traz a sessão de "Pasárgada". Esta será a primeira exibição do filme, e contará com a presença da diretora estreante Dira Paes e da produtora Eliane Ferreira. Além de assinar a direção do longa, a cineasta e atriz também vive a protagonista, Irene, uma bióloga que trabalha para um grupo de tráfico de animais. Em busca de uma espécie rara de pássaro, a pesquisadora se isola em uma floresta e é guiada por um mateiro, interpretado por Humberto Carrão. O filme explora paisagens diversas de uma grande área de preservação natural repleta de matas, cachoeiras, montanhas e rios no Arraial do Sana, distrito de Macaé, Rio de Janeiro. Produzido pela Muiraquitã Filmes com Baderna Filmes, "Pasárgada" é uma coprodução Globo Filmes. A distribuição é feita pela Bretz Filmes.
+
+"Cidade; Campo" será exibido no dia 14, com presença das protagonistas Bruna Linzmeyer, Fernanda Vianna e Mirella Façanha. Dirigido por Juliana Rojas (Melhor Direção na mostra Encounters do Festival de Berlim 2024), o filme traz uma narrativa dividida em duas histórias independentes sobre migração entre cidade e campo. Na primeira parte, após o desastre de uma barragem de dejetos de mineração inundar sua cidade natal, a trabalhadora rural Joana se muda para São Paulo para encontrar sua irmã Tania, que mora com seu neto Jaime. Joana luta para prosperar na "cidade do trabalho". Na segunda parte, após a morte do pai, Flávia se muda para a fazenda dele com a esposa Mara. A natureza obriga as duas mulheres a enfrentarem frustrações e lidar com velhas memórias e fantasmas. "Cidade; Campo" é uma produção da Dezenove Som e Imagens e tem coprodução da Globo Filmes e Telecine. A distribuição é da Vitrine Filmes.
+
+No dia 16, o festival terá sua sessão de encerramento com a première mundial de "Virgínia e Adelaide". Estarão presentes os dois diretores, Jorge Furtado (cineasta que será homenageado com o Troféu Eduardo Abelin) e Yasmin Thayná, além da atriz Gabriela Correa e da produtora Nora Goulart. Através de uma linguagem ficcional, ilustrada por arquivos documentais, "Virgínia e Adelaide" narra o encontro de duas mulheres que inauguraram a psicanálise no Brasil. Em 1936, a psicanalista alemã Adelaide Koch, interpretada por Sophie Charlotte, escapa da perseguição nazista aos judeus fugindo para o Brasil. No ano seguinte, conhece Virgínia Bicudo, jovem pesquisadora negra vivida por Gabriela Correa, que se tornaria sua primeira paciente e a primeira psicanalista brasileira. O longa foi produzido pela Casa de Cinema de Porto Alegre, com coprodução da Globo Filmes e GloboNews, e distribuição da H2O Filmes.
+
+Esta edição do Festival de Gramado conta com o apoio da Globo Filmes na Sessão Infantil, assim como na Mostra Cinema nos Bairros, ação de formação de plateia com 5 sessões gratuitas e descentralizadas, pela qual a coprodutora participa com "Perlimps", animação de Alê Abreu. A cerimônia de premiação será no dia 17, às 21h, no Palácio dos Festivais.
