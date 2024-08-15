@@ -46,7 +46,7 @@ TEM MAIS
 
 - - -
 
-**C﻿OMENTÁRIOS**
+**COMENTÁRIOS**
 
 **Enviado por eron duarte fagundes em 23 de maio de 2008.**
 

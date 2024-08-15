@@ -22,7 +22,7 @@ Na seqüência final, tempo presente, os velhos fotógrafos se reúnem numa rua 
 
 Um raro momento em que os conceitos de transitoriedade e permanência se tocam, nos tocam. Direitos Humanos se trata disso. E não é por outro motivo que vamos ao cinema.
 
-\*﻿\*\*\**
+***
 
 **COMENTÁRIOS**
 
