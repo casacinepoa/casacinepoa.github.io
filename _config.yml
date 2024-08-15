@@ -8,6 +8,7 @@ url: "https://www.casacinepoa.com.br"
 
 lang: pt-BR
 timezone: America/Sao_Paulo
+encoding: UTF-8
 
 logo: /assets/img/logo.jpeg
 
