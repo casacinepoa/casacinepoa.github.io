@@ -30,7 +30,7 @@ Motoristas: Gerson\
 \
 Federação Interestadual de Sindicatos de Engenheiros - FISENGE\
 Sindicatos de Engelheiros do Rio de Janeiro, de Pernambuco, de Minas Gerais e da Bahia\
-Conselhos Regionais de Engenharia, Arquitetura e Agronomia do Rio de Janeiro e do Espírito Santo\
+Conselhos Regionais de Engenharia, Arquitetura e Agronomia do Rio de Janeiro e do Espírito Santo\
 Central Única dos Trabalhadores\
 Conselho Federal de Economia\
 Conselho Regional de Economia - RJ\
