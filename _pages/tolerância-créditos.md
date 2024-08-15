@@ -1,7 +1,7 @@
 ---
 title: Tolerância - créditos
 permalink: /filmes/tolerância/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/toler%C3%A2ncia.html
+original_path: /os-filmes/cr%C3%A9ditos/toler%C3%A2ncia.html
 layout: page
 ---
 **ELENCO**\

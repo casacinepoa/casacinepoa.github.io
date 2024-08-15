@@ -1,7 +1,7 @@
 ---
 title: O amor nos anos 90 - créditos
 permalink: /filmes/o-amor-nos-anos-90/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/o-amor-nos-anos-90.html
+original_path: /os-filmes/cr%C3%A9ditos/o-amor-nos-anos-90.html
 layout: page
 ---
 **ELENCO**

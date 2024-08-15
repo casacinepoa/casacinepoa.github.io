@@ -1,7 +1,7 @@
 ---
 title: Homens de bem - créditos
 permalink: filmes/homens-de-bem/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/realiza%C3%A7%C3%A3o/epis%C3%B3dios-de-tv/homens-de-bem-cr%C3%A9ditos-completos
+original_path: /os-filmes/realiza%C3%A7%C3%A3o/epis%C3%B3dios-de-tv/homens-de-bem-cr%C3%A9ditos-completos
 layout: page
 ---
 **ELENCO**

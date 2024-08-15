@@ -1,7 +1,7 @@
 ---
 title: O homem que copiava - créditos
 permalink: /filmes/o-homem-que-copiava/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/o-homem-que-copiava.html
+original_path: /os-filmes/cr%C3%A9ditos/o-homem-que-copiava.html
 layout: page
 ---
 **ELENCO (por ordem de entrada)**

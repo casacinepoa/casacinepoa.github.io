@@ -1,7 +1,7 @@
 ---
 title: Veja bem - créditos
 permalink: /filmes/veja-bem/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/veja-bem.html
+original_path: /os-filmes/cr%C3%A9ditos/veja-bem.html
 layout: page
 ---
 **ELENCO**

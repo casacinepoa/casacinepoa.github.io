@@ -1,7 +1,7 @@
 ---
 title: O resto é silêncio - créditos
 permalink: /filmes/o-resto-é-silêncio/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/o-resto-%C3%A9-sil%C3%AAncio.html
+original_path: /os-filmes/cr%C3%A9ditos/o-resto-%C3%A9-sil%C3%AAncio.html
 layout: page
 ---
 **ELENCO**\

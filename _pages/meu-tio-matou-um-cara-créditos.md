@@ -1,7 +1,7 @@
 ---
 title: Meu tio matou um cara - créditos
 permalink: /filmes/meu-tio-matou-um-cara/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/meu-tio-matou-um-cara.html
+original_path: /os-filmes/cr%C3%A9ditos/meu-tio-matou-um-cara.html
 layout: page
 ---
 **ELENCO**

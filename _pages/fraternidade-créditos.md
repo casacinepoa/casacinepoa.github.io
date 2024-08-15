@@ -1,7 +1,7 @@
 ---
 title: Fraternidade - créditos
 permalink: /filmes/fraternidade/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/fraternidade.html
+original_path: /os-filmes/cr%C3%A9ditos/fraternidade.html
 layout: page
 ---
 **EQUIPE**

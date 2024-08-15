@@ -1,7 +1,7 @@
 ---
 title: Dia de visita - créditos
 permalink: /filmes/dia-de-visita/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/créditos/dia-de-visita.html
+original_path: /os-filmes/créditos/dia-de-visita.html
 layout: page
 ---
 **ELENCO**

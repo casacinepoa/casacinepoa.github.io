@@ -1,7 +1,7 @@
 ---
 title: Oscar Boz - créditos
 permalink: /filmes/oscar-boz/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/oscar-boz.html
+original_path: /os-filmes/cr%C3%A9ditos/oscar-boz.html
 layout: page
 ---
 **DEPOIMENTOS / PARTICIPAÇÕES:**

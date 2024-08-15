@@ -1,7 +1,7 @@
 ---
 title: Me beija - créditos
 permalink: /filmes/me-beija/creditos-completos
-original_path: https://arquivo.casacinepoa.com.br/os-filmes/cr%C3%A9ditos/me-beija.html
+original_path: /os-filmes/cr%C3%A9ditos/me-beija.html
 layout: page
 ---
 **ELENCO**
