@@ -51,7 +51,7 @@ details:
       ([Isabelle Regnier, LE MONDE](<[http://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html](http://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html "http\://www.lemonde.fr/web/article/0,1-0@2-3476,36-352716,0.html")>), Paris, 13/02/2004)
   - title: Veja mais
     content: "* [Créditos completos](/filmes/o-corpo-de-flavia/creditos-completos/)"
-original_path: /os-filmes/curtas/o-corpo-de-flávia.html
+redirect_from: /os-filmes/curtas/o-corpo-de-flávia.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

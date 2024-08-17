@@ -580,7 +580,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/270/o-homem-que-copiava)
 
       * [Letterboxd](https://letterboxd.com/film/the-man-who-copied/)
-original_path: /os-filmes/produção/longas/o-homem-que-copiava.html
+redirect_from: /os-filmes/produção/longas/o-homem-que-copiava.html
 synopsis: André, 20 anos, operador de fotocopiadora em uma papelaria, precisa
   desesperadamente de trinta e oito reais para impressionar a garota dos seus
   sonhos, Sílvia, que mora no prédio em frente e trabalha como balconista em uma

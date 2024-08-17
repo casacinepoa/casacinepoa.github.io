@@ -3,7 +3,7 @@ layout: post
 title: Perdemos nosso Dorival
 author: giba
 date: 2021-04-01 19:54:39
-original_path: /comment/reply/2106/scripts.js.html
+redirect_from: /comment/reply/2106/scripts.js.html
 ---
 Parece piada de mau gosto de primeiro de abril. Mas não é. [João Batista Acaiabe](https://pt.wikipedia.org/wiki/Jo%C3%A3o_Acaiabe), o grande ator brasileiro de "O dia em que Dorival encarou a guarda" acaba de nos deixar, aos 76 anos. Mais uma vítima da peste, no país que optou por eleger a peste.
 

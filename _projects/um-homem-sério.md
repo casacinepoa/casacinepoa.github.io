@@ -47,6 +47,6 @@ details:
     content: |-
       \- [Créditos completos](/filmes/um-homem-sério/creditos-completos)\
       -﻿ [Roteiro](/uploads/um-homem-serio-rot.pdf)
-original_path: /os-filmes/produção/curtas/um-homem-sério.html
+redirect_from: /os-filmes/produção/curtas/um-homem-sério.html
 ---
 Morreu Hilário Pestana, o mais famoso, o mais engraçado e, por ironia, o mais triste dos atores brasileiros. Hilário passou por várias fases do cinema nacional: pelas chanchadas, pelos clássicos da Vera Cruz, pela pornochanchada, pelos experimentais. Era adorado pelo público, tinha a vocação para o riso, mas desejava apenas e tão somente ser um homem sério.

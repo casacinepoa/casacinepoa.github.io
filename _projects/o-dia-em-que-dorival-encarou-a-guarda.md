@@ -95,6 +95,6 @@ details:
       completos](/filmes/o-dia-em-que-dorival-encarou-a-guarda/creditos-completos)
 
       * [R﻿oteiro](/uploads/dorival-rot.pdf)
-original_path: /os-filmes/produção/curtas/o-dia-em-que-dorival-encarou-guarda.html
+redirect_from: /os-filmes/produção/curtas/o-dia-em-que-dorival-encarou-guarda.html
 ---
 Numa prisão militar, numa noite de muito calor, o negro Dorival tem apenas uma vontade: tomar um banho. Para consegui-lo, vai ter que enfrentar um soldadinho assustado, um cabo com mania de herói, um sargento com saudade da namorada, um tenente cheio de prepotência - e acabar com a tranqüilidade daquela noite no quartel.

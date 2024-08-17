@@ -1,7 +1,7 @@
 ---
 title: Quintana e as musas - créditos
 permalink: /filmes/quintana-e-as-musas/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/quintana-e-musas.html
+redirect_from: /os-filmes/cr%C3%A9ditos/quintana-e-musas.html
 layout: page
 ---
 **ELENCO**

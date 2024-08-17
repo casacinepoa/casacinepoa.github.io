@@ -67,6 +67,6 @@ details:
       * Financiamento: Concurso de Curtas-metragens do Estado do Rio Grande do Sul
 
       * 34o. Festival de Gramado – Mostra Gaúcha - Melhor Montagem
-original_path: /os-filmes/distribuição/curtas/vera-lúcia
+redirect_from: /os-filmes/distribuição/curtas/vera-lúcia
 ---
 Dois adolescentes, Vera Lúcia e Beto, correm pela floresta, cheios de expectativa, entusiasmo e medo.  Ela o convida sedutoramente para um banho de rio. Beto tem que escolher entre entrar na água e ficar com Vera Lúcia. Muitos anos depois, Roberto passa o dia ao pé de uma cachoeira com sua mulher, e confronta os resultados de suas escolhas.

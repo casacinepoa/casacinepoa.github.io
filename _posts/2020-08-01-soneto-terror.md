@@ -3,7 +3,7 @@ layout: post
 title: Soneto terror
 date: 2020-08-01 00:00 +0000
 author: giba
-original_path: "/o-blog/giba-assis-brasil/soneto-terror.html"
+redirect_from: "/o-blog/giba-assis-brasil/soneto-terror.html"
 ---
 
 **Soneto**, s.m.: pequena composição poética composta de 14 versos, com número variável de sílabas, sendo o mais frequente o decassílabo, e cujo último verso (dito chave de ouro) concentra em si a ideia principal do poema ou deve encerrá-lo de maneira a encantar ou surpreender o leitor. (Dicionário Houaiss)

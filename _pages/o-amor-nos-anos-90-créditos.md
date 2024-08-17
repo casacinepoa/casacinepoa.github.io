@@ -1,7 +1,7 @@
 ---
 title: O amor nos anos 90 - créditos
 permalink: /filmes/o-amor-nos-anos-90/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-amor-nos-anos-90.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-amor-nos-anos-90.html
 layout: page
 ---
 **ELENCO**

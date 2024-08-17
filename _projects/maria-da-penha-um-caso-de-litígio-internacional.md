@@ -35,6 +35,6 @@ details:
     content: |-
       * [Créditos completos](/filmes/maria-da-penha/creditos-completos/)
       * [T﻿exto final](/uploads/maria-da-penha-txf.pdf)
-original_path: /os-filmes/curtas/maria-da-penha-um-caso-de-litígio-internacional.html
+redirect_from: /os-filmes/curtas/maria-da-penha-um-caso-de-litígio-internacional.html
 ---
 Em 29 de maio de 1983, Maria da Penha sofreu uma dupla tentativa de homicídio dentro de sua própria casa por parte de seu marido e pai de suas três filhas.  Após mais de 15 anos do crime, não havia uma solução definitiva para o caso e o agressor permanecia em liberade. Em 1998, CLADEM, CEJIL e Maria da Penha iniciaram uma luta para que a violência doméstica fosse tratada como uma violação aos direitos humanos. O documentário recupera essa história.

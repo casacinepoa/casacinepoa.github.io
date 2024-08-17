@@ -125,7 +125,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/266/houve-uma-vez-dois-veroes)
 
       * [Letterboxd](https://letterboxd.com/film/two-summers-2002/)
-original_path: /os-filmes/produção/longas/houve-uma-vez-dois-verões.html
+redirect_from: /os-filmes/produção/longas/houve-uma-vez-dois-verões.html
 synopsis: Chico, adolescente em férias na "maior e pior praia do mundo",
   encontra Roza num fliperama e se apaixona. Transam na primeira noite, mas ela
   some. Ao lado de seu amigo Juca, Chico procura Roza pela praia, em vão. Só

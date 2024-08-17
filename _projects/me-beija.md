@@ -63,6 +63,6 @@ details:
     content: |-
       * [Créditos completos](/filmes/me-beija/creditos-completos)
       * [R﻿oteiro](/uploads/me-beija-rot.pdf)
-original_path: /os-filmes/distribuição/longas/me-beija.html
+redirect_from: /os-filmes/distribuição/longas/me-beija.html
 ---
 Vera é orientadora educacional numa escola do interior. Passa os dias resolvendo pequenos problemas dos alunos e, nos intervalos, tomando chá e conversando com seu grande amigo Leandro. De repente, surge um hóspede na escola. Parece que o seu nome é Raul. Ninguém sabe de onde ele veio ou o que faz para viver. Vera se apaixona, Leandro descobre que está sozinho, o diretor Sartori se inquieta. De alguma forma, toda a escola se modifica com a breve passagem de Raul. Pra sempre.

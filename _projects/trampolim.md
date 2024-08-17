@@ -66,6 +66,6 @@ details:
       * [Créditos completos](/filmes/trampolim/creditos-completos/)
       * [I﻿MDb](https://www.imdb.com/title/tt0146323)
       * [F﻿ilmow](https://filmow.com/trampolim-t20540/)
-original_path: /os-filmes/produção/curtas/trampolim.html
+redirect_from: /os-filmes/produção/curtas/trampolim.html
 ---
 Adolescente que se prepara para concurso de saltos ornamentais identifica-se com suicidas que pularam de um antigo viaduto de Porto Alegre.

@@ -1,7 +1,7 @@
 ---
 title: Esta não é sua vida - créditos
 permalink: /filmes/esta-não-é-a-sua-vida/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/esta-n%C3%A3o-%C3%A9-sua-vida.html
+redirect_from: /os-filmes/cr%C3%A9ditos/esta-n%C3%A3o-%C3%A9-sua-vida.html
 layout: page
 ---
 **ELENCO**

@@ -78,6 +78,6 @@ details:
       * [Roteiro](/uploads/meia-encarnada-dura-de-sangue-rot.pdf)
 
       * [Créditos completos](/filmes/meia-encarnada-dura-de-sangue/creditos-completos)[](/uploads/Meia_encarnada-.mp3)
-original_path: /os-filmes/realização/episódios-de-tv/meia-encarnada-dura-de-sangue.html
+redirect_from: /os-filmes/realização/episódios-de-tv/meia-encarnada-dura-de-sangue.html
 ---
 No interior do Rio Grande do Sul, em 1953, o craque Bonifácio vive um dilema. Jogador de um time de futebol amador integrado por jogadores negros e pobres, ele é convidado a fazer parte da equipe dos brancos e ricos. Seria a chance de oferecer uma vida melhor à namorada, a doméstica Elisa. Mas seu melhor amigo Vicente não entende o que considera uma traição.

@@ -1,7 +1,7 @@
 ---
 title: Ventre livre - créditos
 permalink: /filmes/ventre-livre/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/ventre-livre.html
+redirect_from: /os-filmes/cr%C3%A9ditos/ventre-livre.html
 layout: page
 ---
 **ELENCO**

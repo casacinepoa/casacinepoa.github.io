@@ -1,7 +1,7 @@
 ---
 title: Cidades fantasmas - créditos
 permalink: filmes/cidades-fantasmas/creditos-completos
-original_path: /os-filmes/longas/cidades-fantasmas-cr%C3%A9ditos
+redirect_from: /os-filmes/longas/cidades-fantasmas-cr%C3%A9ditos
 layout: page
 ---
 **DEPOIMENTOS**

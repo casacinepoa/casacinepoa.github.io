@@ -75,6 +75,6 @@ details:
     content: |-
       * [Roteiro](/uploads/a-matadeira-rot.pdf)[](/uploads/A_Matadeira.mp3)
       * [Créditos completos](/filmes/a-matadeira/creditos-completos)
-original_path: /os-filmes/produção/documentários/matadeira.html
+redirect_from: /os-filmes/produção/documentários/matadeira.html
 ---
 Canudos foi uma pequena aldeia no nordeste do Brasil, fundada pelo líder messiânico Antônio Conselheiro e massacrada por um poderoso exército até a morte do último de seus 30 mil habitantes, em 5 de outubro de 1897. O filme conta o massacre de Canudos a partir de um canhão inglês, apelidado pelos sertanejos de "A MATADEIRA", que foi transportado por vinte juntas de boi através do sertão para disparar um único tiro.

@@ -141,6 +141,6 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/934/castanha)
 
       * ﻿[Letterboxd](https://letterboxd.com/film/castanha/)
-original_path: /os-filmes/produção/coproduções/castanha-0.html
+redirect_from: /os-filmes/produção/coproduções/castanha-0.html
 ---
 João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.

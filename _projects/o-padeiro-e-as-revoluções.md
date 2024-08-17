@@ -30,6 +30,6 @@ details:
       * [Roteiro](/uploads/o-padeiro-e-as-revolucoes-rot.pdf)
 
       * [Créditos completos](/filmes/o-padeiro-e-as-revoluções/creditos-completos)
-original_path: /os-filmes/realização/episódios-de-tv/o-padeiro-e-revoluções.html
+redirect_from: /os-filmes/realização/episódios-de-tv/o-padeiro-e-revoluções.html
 ---
 Na pequena Porto Alegre da primeira metade do século XIX, Joaquim, um padeiro que não gosta de pão, precisa ser traído pela mulher para descobrir alguns dos prazeres da vida, inclusive a necessidade de gritar em praça pública contra os poderosos de plantão.

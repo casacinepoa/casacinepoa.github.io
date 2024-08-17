@@ -1,7 +1,7 @@
 ---
 title: Deu pra ti anos 70 - créditos
 permalink: /filmes/deu-pra-ti-anos-70/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/deu-pra-ti-anos-70.html
+redirect_from: /os-filmes/cr%C3%A9ditos/deu-pra-ti-anos-70.html
 layout: page
 ---
 **ELENCO**

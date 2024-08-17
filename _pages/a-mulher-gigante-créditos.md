@@ -1,7 +1,7 @@
 ---
 title: A mulher gigante - créditos
 permalink: /filmes/a-mulher-gigante/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/mulher-gigante.html
+redirect_from: /os-filmes/cr%C3%A9ditos/mulher-gigante.html
 layout: page
 ---
 **ELENCO**

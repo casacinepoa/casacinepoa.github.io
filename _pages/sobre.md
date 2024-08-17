@@ -15,7 +15,7 @@ subpages:
     url: /sobre/casa/
   - title: Outras Atividades
     url: /sobre/outras-atividades/
-original_path: /a-casa.html
+redirect_from: /a-casa.html
 ---
 "Buscamos um cinema centrado no autor, mas estruturado no trabalho de equipe e voltado para o público. Tudo que já fizemos, de bom ou de ruim, vem dessa aparente contradição."
 

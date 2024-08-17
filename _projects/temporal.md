@@ -67,6 +67,6 @@ details:
       (Tuio Becker, FILME CULTURA nº 44, agosto de 1984, p. 105)
   - title: Veja mais
     content: "* [Créditos completos](/filmes/temporal/creditos-completos)"
-original_path: /os-filmes/produção/curtas/temporal.html
+redirect_from: /os-filmes/produção/curtas/temporal.html
 ---
 Numa mesma casa, na mesma noite, reúnem-se dois grupos. Um, formado por senhores muito sérios, integrantes de uma ordem religioso-monarquista. O outro, um bando de malucos em fantasias de animais, numa festa com sexo e rock'n'roll. Quando começa o temporal e a luz apaga, tudo pode acontecer.

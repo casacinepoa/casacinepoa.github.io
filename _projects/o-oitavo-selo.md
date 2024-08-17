@@ -45,7 +45,7 @@ details:
     content: |-
       * [R﻿oteiro](/uploads/o-oitavo-selo-rot.pdf)
       * [C﻿réditos completos](/filmes/o-oitavo-selo/creditos-completos/)
-original_path: /os-filmes/distribuição/o-oitavo-selo
+redirect_from: /os-filmes/distribuição/o-oitavo-selo
 ---
 D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
 \

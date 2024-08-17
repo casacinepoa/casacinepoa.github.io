@@ -7,7 +7,7 @@ category: blog
 tags:
   - cinema
   - política
-original_path: /comment/reply/198/scripts.js.html
+redirect_from: /comment/reply/198/scripts.js.html
 ---
 Em 2007, fui convidado pela Cinemateca Brasileira e pela Secretaria Nacional de Direitos Humanos para fazer a curadoria da segunda mostra "Cinema e Direitos Humanos na América do Sul". Aceitei, e graças a isso assisti a mais de 90 filmes sul-americanos recentes, a grande maioria documentários. Selecionei 37 - um filme para cada um dos 30 artigos da Declaração Universal dos Direitos do Homem e mais alguns extras. A mostra aconteceu de 4 a 16 de dezembro em 8 capitais brasileiras. E é desse conjunto de filmes que eu apontaria, se fosse o caso, boa parte dos meus "melhores do ano".
 

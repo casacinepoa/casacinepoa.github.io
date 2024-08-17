@@ -2,7 +2,7 @@
 title: Saneamento básico, o filme - créditos
 permalink: /filmes/saneamento-básico-o-filme/creditos-completos
 image_caption: ""
-original_path: /os-filmes/créditos/saneamento-básico-o-filme.html
+redirect_from: /os-filmes/créditos/saneamento-básico-o-filme.html
 layout: page
 ---
 **ELENCO**

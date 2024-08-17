@@ -1,7 +1,7 @@
 ---
 title: Um homem sério - créditos
 permalink: /filmes/um-homem-sério/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/um-homem-s%C3%A9rio.html
+redirect_from: /os-filmes/cr%C3%A9ditos/um-homem-s%C3%A9rio.html
 layout: page
 ---
 **ELENCO**

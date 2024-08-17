@@ -2,30 +2,30 @@
 # Hello, Jekyll!
 ---
 {%- for page in site.pages -%}
-{%- if page.original_path -%}
+{%- if page.redirect_from -%}
 
-{{ page.original_path }}       {{ page.url | relative_url }}       301
+{{ page.redirect_from }}       {{ page.url | relative_url }}       301
 
 {% endif -%}
 {%- endfor -%}
 
 {%- for post in site.posts -%}
-{%- if post.original_path -%}
+{%- if post.redirect_from -%}
 
-{{ post.original_path }}       {{ post.url | relative_url }}       301
+{{ post.redirect_from }}       {{ post.url | relative_url }}       301
 
 {% endif -%}
 {%- endfor -%}
 
 {%- for project in site.projects -%}
-{%- if project.original_path -%}
-{{- project.original_path }}       {{ project.url | relative_url }}       301
+{%- if project.redirect_from -%}
+{{- project.redirect_from }}       {{ project.url | relative_url }}       301
 {% endif -%}
 {%- endfor -%}
 
 {%- for news in site.news -%}
-{%- if news.original_path -%}
-{{- news.original_path }}       {{ news.url | relative_url }}       301
+{%- if news.redirect_from -%}
+{{- news.redirect_from }}       {{ news.url | relative_url }}       301
 {% endif -%}
 {%- endfor -%}
 

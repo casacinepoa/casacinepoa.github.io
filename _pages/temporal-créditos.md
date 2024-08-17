@@ -1,7 +1,7 @@
 ---
 title: Temporal - créditos
 permalink: /filmes/temporal/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/temporal.html
+redirect_from: /os-filmes/cr%C3%A9ditos/temporal.html
 layout: page
 ---
 **ELENCO**

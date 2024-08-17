@@ -133,7 +133,7 @@ details:
       "O objetivo é dissecar cenas consideradas antológicas do cinema brasileiro. A desta quarta-feira, 23, é exemplar. Quem vê Cidade de Deus, de Fernando Meirelles, é desde logo apanhado pela cena inicial da perseguição à galinha. De certa forma, ela é o 'gancho' que vai prender o espectador por todo o filme. (...) Na próxima semana, Fernanda Montenegro vai lembrar a cena do feijão em Eles Não Usam Black-tie, de Leon Hirszman. Nós, cinéfilos, só temos de agradecer. A série honra as grandes cenas que a inspiram."\
 
       ([Luiz Carlos Merten](http://istoe.com.br/grandes-cenas-do-cinema-numa-abordagem-critica-e-inesquecivel/), O Estado de S. Paulo, 23/11/2016)
-original_path: /os-filmes/realização/séries-de-tv/grandes-cenas
+redirect_from: /os-filmes/realização/séries-de-tv/grandes-cenas
 ---
 Uma grande cena é aquela que não se define apenas na relação com as demais. Uma grande cena é aquela que contém em si um filme à parte, um universo à parte, capaz de alterar nossa sensibilidade e perdurar na nossa memória. Com o objetivo de resgatar o apreço por essa unidade fundamental que é a cena, a série Grande Cenas busca relembrar cenas marcantes do cinema brasileiro e sul-americano.	 
 

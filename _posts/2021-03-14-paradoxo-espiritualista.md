@@ -3,7 +3,7 @@ layout: post
 title: Paradoxo espiritualista
 author: giba
 date: 2021-03-14 20:16:10
-original_path: /o-blog/giba-assis-brasil/paradoxo-espiritualista.html
+redirect_from: /o-blog/giba-assis-brasil/paradoxo-espiritualista.html
 ---
 (a partir de um cartum do Allan Sieber que o Jorge Furtado me enviou)
 

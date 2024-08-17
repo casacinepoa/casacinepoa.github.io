@@ -181,7 +181,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/816/menos-que-nada)
 
       * [Letterboxd](https://letterboxd.com/film/menos-que-nada/)
-original_path: /os-filmes/longas/menos-que-nada
+redirect_from: /os-filmes/longas/menos-que-nada
 synopsis: Dante está internado num hospital psiquiátrico com diagnóstico de
   esquizofrenia, sem falar com ninguém, nem receber visitas. Uma jovem
   psiquiatra se interessa pelo caso após ver Dante surtar no pátio do hospital.

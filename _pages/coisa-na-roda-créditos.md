@@ -1,7 +1,7 @@
 ---
 title: Coisa na roda - créditos
 permalink: /filmes/coisa-na-roda/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/coisa-na-roda.html
+redirect_from: /os-filmes/cr%C3%A9ditos/coisa-na-roda.html
 layout: page
 ---
 **ELENCO**

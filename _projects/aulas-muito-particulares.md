@@ -40,7 +40,7 @@ details:
       * [IMDb](https://www.imdb.com/title/tt0138307)
 
       * [Letterboxd](https://letterboxd.com/film/aulas-muito-particulares/)
-original_path: /os-filmes/distribuição/aulas-muito-particulares
+redirect_from: /os-filmes/distribuição/aulas-muito-particulares
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

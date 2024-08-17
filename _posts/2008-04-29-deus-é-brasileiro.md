@@ -4,7 +4,7 @@ title: Deus é brasileiro?
 date: 2008-04-29 00:00 +0000
 category: blog
 author: giba
-original_path: "/o-blog/giba-assis-brasil/deus-é-brasileiro.html"
+redirect_from: "/o-blog/giba-assis-brasil/deus-é-brasileiro.html"
 tags:
   - cibercultura
   - cinema

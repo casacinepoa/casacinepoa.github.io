@@ -98,7 +98,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/401/sal-de-prata)
 
       * [Letterboxd](https://letterboxd.com/film/sal-de-prata/)
-original_path: /os-filmes/produção/longas/sal-de-prata.html
+redirect_from: /os-filmes/produção/longas/sal-de-prata.html
 synopsis: Cátia, uma bem-sucedida economista, tem que repensar sua vida quando
   seu namorado Veronese, um cineasta polêmico, sofre um ataque cardíaco,
   deixando um passado obscuro, uma loja de artigos fotográficos, alguns curtas

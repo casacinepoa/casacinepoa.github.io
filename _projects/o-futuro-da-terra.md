@@ -40,7 +40,7 @@ details:
     content: |-
       * [Roteiro](/uploads/o-futuro-da-terra-rot.pdf)
       * [Créditos completos](/filmes/o-futuro-da-terra/creditos-completos/)
-original_path: /os-filmes/realização/vídeos/o-futuro-da-terra.html
+redirect_from: /os-filmes/realização/vídeos/o-futuro-da-terra.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

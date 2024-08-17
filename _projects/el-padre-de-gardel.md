@@ -87,6 +87,6 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/877/el-padre-de-gardel)
 
       * [Letterboxd](https://letterboxd.com/film/el-padre-de-gardel)
-original_path: /os-filmes/produção/coproduções/el-padre-de-gardel-0.html
+redirect_from: /os-filmes/produção/coproduções/el-padre-de-gardel-0.html
 ---
 Documentário sobre Carlos Escayola, que entre 1860 e 1890 dominou a vida política e cultural de Tacuarembó, no interior do Uruguai, foi fazendeiro e chefe político, construiu um teatro, conquistou muitas mulheres e deixou um grande segredo - um escândalo familiar que até hoje a cidade se recusa a comentar.

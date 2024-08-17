@@ -1,7 +1,7 @@
 ---
 title: Veja bem - créditos
 permalink: /filmes/veja-bem/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/veja-bem.html
+redirect_from: /os-filmes/cr%C3%A9ditos/veja-bem.html
 layout: page
 ---
 **ELENCO**

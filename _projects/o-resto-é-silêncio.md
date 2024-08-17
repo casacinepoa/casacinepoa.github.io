@@ -46,6 +46,6 @@ details:
       [Roteiro](/uploads/o-resto-eh-silencio-rot.pdf)[](/uploads/O_Resto_e_silencio.mp3)
 
       * [Créditos completos](/filmes/o-resto-é-silêncio/creditos-completos)
-original_path: /os-filmes/realização/episódios-de-tv/o-resto-é-silêncio.html
+redirect_from: /os-filmes/realização/episódios-de-tv/o-resto-é-silêncio.html
 ---
 Joana, balconista de uma loja de brinquedos, se joga do alto de um prédio no centro da cidade. Para a mãe, não deixa nenhuma explicação. Para o noivo, a informação de que estava grávida de outro homem. Mas, para o repórter que investiga sua morte, deixa várias pistas sobre suas preferências literárias.

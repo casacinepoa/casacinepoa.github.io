@@ -45,6 +45,6 @@ details:
   - title: Veja mais
     content: "* [C﻿réditos
       completos](/filmes/o-zeppelin-passou-por-aqui/creditos-completos)"
-original_path: /os-filmes/distribuição/curtas/o-zeppelin-passou-por-aqui.html
+redirect_from: /os-filmes/distribuição/curtas/o-zeppelin-passou-por-aqui.html
 ---
 Porto Alegre aguarda ansiosa a passagem do dirigível alemão rumo a Montevidéu. Júlio, contador, dá um jeito de não levar a esposa Mariana, costureira, que fica em casa, tristonha. Mas enquanto Júlio e sua amante Leda vêem muito pouco do Zeppelin, Mariana, em casa, se entrega a uma paixão avassaladora.

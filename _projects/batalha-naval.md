@@ -35,7 +35,7 @@ details:
       * 45ª Mostra Internacional de Cinema de Montecatini Termi, Itália, 1994: Prêmio Especial do Júri.
   - title: Veja mais
     content: "* Créditos completos"
-original_path: /os-filmes/distribuição/batalha-naval
+redirect_from: /os-filmes/distribuição/batalha-naval
 ---
 D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
 \

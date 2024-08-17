@@ -88,6 +88,6 @@ details:
 
       **24 - Filmes experimentais**\
       exibido em 10/05/1998
-original_path: /os-filmes/séries/curta-na-tv
+redirect_from: /os-filmes/séries/curta-na-tv
 ---
 Uma janela na televisão para o curta brasileiro. Em cada programa, um filme de curta-metragem é exibido na íntegra, mas antes disso é apresentado e contextualizado por uma reportagem inédita sobre seu realizador, sua temática, suas conseqüências artísticas e sociais.

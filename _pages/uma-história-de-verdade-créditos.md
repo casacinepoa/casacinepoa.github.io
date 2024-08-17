@@ -1,7 +1,7 @@
 ---
 title: Uma história de verdade - créditos
 permalink: /filmes/uma-história-de-verdade/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/uma-hist%C3%B3ria-de-verdade.html
+redirect_from: /os-filmes/cr%C3%A9ditos/uma-hist%C3%B3ria-de-verdade.html
 layout: page
 ---
 **ELENCO**

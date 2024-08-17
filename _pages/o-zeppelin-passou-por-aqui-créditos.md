@@ -1,7 +1,7 @@
 ---
 title: O Zeppelin passou por aqui - créditos
 permalink: /filmes/o-zeppelin-passou-por-aqui/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-zeppelin-passou-por-aqui.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-zeppelin-passou-por-aqui.html
 layout: page
 ---
 **ELENCO**

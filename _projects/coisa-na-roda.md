@@ -64,6 +64,6 @@ details:
       * [Portal do Cinema RS](https://letterboxd.com/film/coisa-na-roda/)
 
       * [Letterboxd](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/210/coisa-na-roda)
-original_path: /os-filmes/distribuição/longas/coisa-na-roda.html
+redirect_from: /os-filmes/distribuição/longas/coisa-na-roda.html
 ---
 Quatro estudantes moram numa comunidade urbana, onde, em princípio, tudo pode ser "posto na roda", dividido, compartilhado: a mesada de cada um, os objetos pessoais, os relacionamentos, os compromissos políticos. Mas as coisas começam a mudar com a chegada de um quinto morador, mais velho e desiludido, que coloca em xeque a capacidade de cada um viver de acordo com suas idéias.

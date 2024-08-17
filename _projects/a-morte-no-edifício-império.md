@@ -33,6 +33,6 @@ details:
   - title: Veja mais
     content: "* [C﻿réditos
       completos](/filmes/a-morte-no-edifício-império/creditos-completos)"
-original_path: /os-filmes/distribuição/curtas/morte-no-edifício-império.html
+redirect_from: /os-filmes/distribuição/curtas/morte-no-edifício-império.html
 ---
 Documentário ficcional sobre o patrimônio cultural de Porto Alegre, a partir de textos de Erico Verissimo, Dyonélio Machado, Saint-Hilaire e Souza Brandão. Os prédios históricos do centro são mostrados pelo olhar de dois personagens que circulam pela cidade que muda e pela cidade que permanece.

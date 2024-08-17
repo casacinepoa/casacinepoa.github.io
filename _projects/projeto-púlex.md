@@ -52,6 +52,6 @@ details:
       * [Créditos completos](/filmes/projeto-pulex/creditos-completos/)
       * [Letterboxd](https://letterboxd.com/film/projeto-pulex/)
       * [Filmow](https://filmow.com/projeto-pulex-t204666/)
-original_path: /os-filmes/distribuição/curtas/projeto-pulex
+redirect_from: /os-filmes/distribuição/curtas/projeto-pulex
 ---
 Desenho animado sobre o Brasil do ano 2013: um país no auge da crise social. Para conter o crescimento da população de baixa renda, a cúpula do governo acha uma solução: a pulga.

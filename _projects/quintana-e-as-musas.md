@@ -35,6 +35,6 @@ details:
       [Roteiro](/uploads/quintana-e-as-musas-rot.pdf)[](/uploads/Quintana_e_as_musas.mp3)
 
       * [Créditos completos](/filmes/quintana-e-as-musas/creditos-completos)
-original_path: /os-filmes/realização/episódios-de-tv/quintana-e-musas.html
+redirect_from: /os-filmes/realização/episódios-de-tv/quintana-e-musas.html
 ---
 Do alto de um prédio no centro de Porto Alegre, uma figura que diz ser Zeus apresenta suas nove filhas, as musas, e busca a inspiração de cada uma delas em diferentes trechos da poesia de Mario Quintana.

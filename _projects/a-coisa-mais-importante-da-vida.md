@@ -33,6 +33,6 @@ details:
   - title: Veja mais
     content: "* [Créditos
       completos](/filmes/a-coisa-mais-importante-da-vida/creditos-completos)"
-original_path: /os-filmes/produção/curtas/coisa-mais-importante-da-vida.html
+redirect_from: /os-filmes/produção/curtas/coisa-mais-importante-da-vida.html
 ---
 A descobre que B o está traindo, então contrata C para matar B por dinheiro. D tenta dissuadir C de cumprir o contrato, e busca o auxílio de E. Mas cada pessoa tem uma diferente visão do que seja a coisa mais importante da vida. Assim, E se recusa a ajudar D a impedir C de matar B em troca do dinheiro de A.

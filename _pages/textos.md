@@ -2,7 +2,7 @@
 layout: blog
 title: Textos
 permalink: "/textos/"
-original_path: "/as-conexões.html"
+redirect_from: "/as-conexões.html"
 pagination:
   enabled: true
   collection: essays

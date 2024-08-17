@@ -3,7 +3,7 @@ layout: post
 title: Fique na Casa (21 filmes e episódios liberados)
 date: 2020-03-18 00:00 +0000
 author: casa
-original_path: "/o-blog/casa-30-anos/fique-na-casa.html"
+redirect_from: "/o-blog/casa-30-anos/fique-na-casa.html"
 ---
 
 É hora de ficar em casa, para retardar e controlar a propagação da pandemia, em nome da saúde pública do país. E cada um tem que fazer a sua parte.

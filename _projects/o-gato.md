@@ -37,6 +37,6 @@ details:
       * [Créditos completos](/filmes/o-gato/creditos-completos)
       * [IMDb](https://www.imdb.com/title/tt14408488)
       * [Letterboxd](https://letterboxd.com/film/o-gato/)
-original_path: /os-filmes/distribuição/longas/o-gato.html
+redirect_from: /os-filmes/distribuição/longas/o-gato.html
 ---
 Toda primavera, na pequena Miramar, o Gato chega com sua bicicleta para provocar a inveja dos homens e o desejo das mulheres. Mas, no ano em que o Gato encontra Doroti, bela e fiel esposa do faroleiro Pedro, o cotidiano da cidade vai ser abalado para sempre. Um folhetim non-sense, uma história de amor e realismo mágico.

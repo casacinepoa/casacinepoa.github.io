@@ -39,6 +39,6 @@ details:
       * 14° Rio Cine, 1998: Melhor Filme pelo Júri Popular/TVE e Melhor Filme de Curta-Metragem.
 
       * Festival de Viña del Mar, 1998: 2° Lugar Ficção
-original_path: /os-filmes/distribuição/curtas/o-pulso
+redirect_from: /os-filmes/distribuição/curtas/o-pulso
 ---
 Um rapaz caminha numa rua do centro da cidade quando, sem qualquer razão aparente, cai, morto para sempre. Não há mais vida. Existem, porém, sentimentos.

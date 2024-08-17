@@ -44,6 +44,6 @@ details:
       * 36º Festival de Cinema de Gramado - Melhor direção de arte
 
       * 3º Festival do Paraná de Cinema Brasileiro Latino - Melhor direção de arte
-original_path: /os-filmes/distribuição/curtas/o-sete-trouxas
+redirect_from: /os-filmes/distribuição/curtas/o-sete-trouxas
 ---
 Jair conta para sua neta as suas aventuras de infância, seu medo do lendário “Sete Trouxas” e como, com ajuda de um amigo tentou enfrentar o monstro.

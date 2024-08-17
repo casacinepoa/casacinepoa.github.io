@@ -4,7 +4,7 @@ title: Tu e você e todo mundo que nós conhecemos
 date: 2008-04-18
 author: giba
 category: blog
-original_path: "/comment/reply/193/scripts.js.html"
+redirect_from: "/comment/reply/193/scripts.js.html"
 ---
 
 Esses dias o Gerbase me mostrou um excelente artigo que ele escreveu (e vai publicar em breve) sobre o uso do "tu" e do "você" no cinema feito no Rio Grande do Sul. Pois hoje, pesquisando mensagens antigas que pudessem ser reaproveitadas nesse blogue, encontrei um velho palpite meu, não sobre cinema, mas sobre os pronomes.

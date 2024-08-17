@@ -76,6 +76,6 @@ details:
       * IMARgens (Cabo Verde), 2005 Melhor Documentário
 
       * Melhor Filme do IV Encuentro Hispano-americano de Vídeo Documental Independiente (México)
-original_path: /os-filmes/distribuição/longas/o-cárcere-e-rua
+redirect_from: /os-filmes/distribuição/longas/o-cárcere-e-rua
 ---
 Cláudia é a presidiária mais antiga e respeitada da Penitenciária Madre Pelletier. A que dá ordens e protege. Protege, por exemplo, a jovem Daniela, que corre risco de vida por ser acusada de ter matado o próprio filho. Mas Cláudia, assim como Betânia, deve deixar a penitenciária em breve. Daniela terá que se defender sozinha. Cláudia sai em busca do filho. Betânia sente a tentação de deixar de lado as regras do regime semi-aberto para viver a liberdade em companhia de um novo amor.

@@ -51,7 +51,7 @@ details:
       * [IMDb](https://www.imdb.com/title/tt8271170)
 
       * [Filmow](https://filmow.com/velazquez-e-a-teoria-quantica-da-gravidade-t42783/)
-original_path: /os-filmes/curtas/velázquez-e-teoria-quântica-da-gravidade.html
+redirect_from: /os-filmes/curtas/velázquez-e-teoria-quântica-da-gravidade.html
 ---
 Jovem cientista pensa ter encontrado a teoria quântica da gravidade a partir do quadro "As meninas" de Velázquez.\
 \

@@ -39,7 +39,7 @@ details:
       * [Créditos completos](/filmes/passageiros/creditos-completos/)
       * [IMDb](https://www.imdb.com/title/tt0138693/)
       * [Letterboxd](https://letterboxd.com/film/passengers-1987/)
-original_path: /os-filmes/distribuição/passageiros
+redirect_from: /os-filmes/distribuição/passageiros
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

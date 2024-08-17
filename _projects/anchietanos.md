@@ -64,6 +64,6 @@ details:
         * [1º tratamento (longa)](/uploads/anchietanos-rot1.pdf)
         * [5º tratamento (episódio)](/uploads/anchietanos-rot2.pdf)
       * [Créditos completos](creditos-completos)
-original_path: /os-filmes/realização/episódios-de-tv/anchietanos.html
+redirect_from: /os-filmes/realização/episódios-de-tv/anchietanos.html
 ---
 Chico, Luciano e Cristina têm 13 anos e estudam no Colégio Anchieta. Chico e Luciano são apaixonados por Cristina, que dá bola pra ambos alternadamente. Andrew, pobre, é de outra turma, mas eles se enfrentam num campeonato de futebol. Vinte anos depois eles voltam a se enfrentar, e Chico vai ter que tomar a decisão mais importante de sua vida.

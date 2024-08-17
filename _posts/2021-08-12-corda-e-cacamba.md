@@ -3,7 +3,7 @@ layout: post
 date: 2021-08-12
 title: Corda e Caçamba
 author: giba
-original_path: "/o-blog/giba-assis-brasil/corda-e-caçamba.html"
+redirect_from: "/o-blog/giba-assis-brasil/corda-e-caçamba.html"
 ---
 
 Antônio observa que a expressão "a corda e a caçamba" está presente em vários sambas. E questiona se ela teria sido inventada por algum sambista, por causa da rima, ou se já existia anteriormente, e o tal sambista só a fixou em letra. Antes de mergulhar no Google, me lembro dos Originais do Samba da minha adolescência, e de uma dupla de jogadores do Inter, bem antes de eu nascer.

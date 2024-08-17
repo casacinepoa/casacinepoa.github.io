@@ -2,7 +2,7 @@
 layout: lists/films
 title: Os Filmes
 permalink: "/filmes/"
-original_path: "/os-filmes/principal.html"
+redirect_from: "/os-filmes/principal.html"
 ---
 
 

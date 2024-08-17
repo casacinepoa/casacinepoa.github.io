@@ -66,6 +66,6 @@ details:
       * [Créditos completos](/filmes/vicious/creditos-completos/)
       * [IMDb](https://www.imdb.com/title/tt0138913)
       * [Letterboxd](https://letterboxd.com/film/vicious-1988/)
-original_path: /os-filmes/distribuição/curtas/vicious
+redirect_from: /os-filmes/distribuição/curtas/vicious
 ---
 Sid e Nancy: amor impossível entre seres inviáveis. A angústia explode em delírios de sangue. Estraçalhados pelas contradições, a busca desesperada é o único caminho. Mas todo crime traz seu castigo. A síntese entre agonia e êxtase costuma ser fatal.

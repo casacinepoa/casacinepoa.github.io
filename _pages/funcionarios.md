@@ -2,7 +2,7 @@
 layout: about
 title: Equipe fixa atual
 permalink: "/sobre/funcionarios/"
-original_path: "/a-casa/funcionários.html"
+redirect_from: "/a-casa/funcionários.html"
 ---
 
 

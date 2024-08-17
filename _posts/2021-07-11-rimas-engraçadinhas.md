@@ -3,7 +3,7 @@ layout: post
 title: Rimas engraçadinhas
 author: giba
 date: 2021-07-11 19:43:27
-original_path: /o-blog/giba-assis-brasil/rimas-engraçadinhas.html
+redirect_from: /o-blog/giba-assis-brasil/rimas-engraçadinhas.html
 ---
 ECONOMIA DOMÉSTICA
 

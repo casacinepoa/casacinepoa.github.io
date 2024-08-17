@@ -1,7 +1,7 @@
 ---
 title: O velho do saco - créditos
 permalink: /filmes/o-velho-do-saco/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-velho-do-saco.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-velho-do-saco.html
 layout: page
 ---
 **ELENCO**

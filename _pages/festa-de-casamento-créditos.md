@@ -1,7 +1,7 @@
 ---
 title: Festa de casamento - créditos
 permalink: /filmes/festa-de-casamento/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/festa-de-casamento.html
+redirect_from: /os-filmes/cr%C3%A9ditos/festa-de-casamento.html
 layout: page
 ---
 **ELENCO**

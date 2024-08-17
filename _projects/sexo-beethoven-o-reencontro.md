@@ -38,7 +38,7 @@ details:
       [Roteiro](/uploads/sexo-e-beethoven-rot.pdf)[](/uploads/Sexo_e_Beethoven-.mp3)
 
       * [Créditos completos](/filmes/sexo-e-beethoven/creditos-completos/)
-original_path: /os-filmes/produção/curtas/sexo-beethoven-o-reencontro.html
+redirect_from: /os-filmes/produção/curtas/sexo-beethoven-o-reencontro.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

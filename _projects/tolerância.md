@@ -213,7 +213,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/253/tolerancia)
 
       * [Letterboxd](https://letterboxd.com/film/tolerancia/)
-original_path: /os-filmes/produção/longas/tolerância.html
+redirect_from: /os-filmes/produção/longas/tolerância.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
 \

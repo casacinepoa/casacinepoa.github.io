@@ -1,7 +1,7 @@
 ---
 title: Colaboradores da Casa
 permalink: /sobre/colaboradores/
-original_path: /a-casa/colaboradores.html
+redirect_from: /a-casa/colaboradores.html
 layout: about
 subpages:
   - title: Os Sócios

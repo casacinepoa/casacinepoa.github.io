@@ -70,6 +70,6 @@ details:
     content: |-
       * [Sinopse dos episódios](/filmes/familia-brasil/episodios/)
       * [Créditos completos](/filmes/familia-brasil/creditos-completos/)
-original_path: /os-filmes/realizacao/series-de-tv/aventuras-da-familia-brasil.html
+redirect_from: /os-filmes/realizacao/series-de-tv/aventuras-da-familia-brasil.html
 ---
 Família? Quem não tem? Quem não quer ter? O que achamos que às vezes são situações que só acontecem lá em casa, acontecem em todas as casas. Um pai, uma mãe, um filho, um neto, e uma filha com muitos namorados. Eles vivem aventuras que todos nós vivemos. Aventuras da família Brasil. Tri-massa!

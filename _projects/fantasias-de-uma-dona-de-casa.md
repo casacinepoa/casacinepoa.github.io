@@ -64,7 +64,7 @@ details:
          (04/07/2009)
       8. **Recasamento**\
          (11/07/2009)
-original_path: /os-filmes/realização/séries-de-tv/fantasias-de-uma-dona-de-casa
+redirect_from: /os-filmes/realização/séries-de-tv/fantasias-de-uma-dona-de-casa
 ---
 Carmem, dona de casa e professora de violino, é casada há mais de 20 anos com Edgar, dono de uma floricultura. De vez em quando, Carmem tem as suas fantasias: um desejo de dar um tapa no marido e ser beijada em seguida, uma vontade de aprender dança de salão, ou de pintar o cabelo de roxo.
 

@@ -40,6 +40,6 @@ details:
       18. **Neguinha**
       19. **Brinco na farinha**
       20. **Casal fuga**
-original_path: /os-filmes/realização/séries-de-tv/um-dos-três.html
+redirect_from: /os-filmes/realização/séries-de-tv/um-dos-três.html
 ---
 Uma pessoa conta uma coisa interessante que aconteceu com ela no trabalho, na família, em uma viagem, na rua. Em seguida aparece outra pessoa contando a mesma história, com alguns detalhes diferentes. E uma terceira pessoa conta de novo a mesma história, quase igual. É claro que duas dessas pessoas estão mentindo. Mas o programa garante (e, no final, comprova): UM DOS TRÊS está falando a verdade, os outros são atores contratados para enganar você. O jogo é descobrir quem é quem.

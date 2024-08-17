@@ -51,6 +51,6 @@ details:
         Melhor Direção, Melhor Atriz (Nora Prado), Melhor Montagem (conjunto)
   - title: Veja mais
     content: "* [Créditos completos](/filmes/festa-de-casamento/creditos-completos)"
-original_path: /os-filmes/distribuição/curtas/festa-de-casamento.html
+redirect_from: /os-filmes/distribuição/curtas/festa-de-casamento.html
 ---
 Um casamento no interior do Rio Grande, 1930. Entre os convidados, o amante da noiva, acompanhado da esposa grávida. Em meio à alegria da festa, os amantes decidem fugir. Então, o noivo reúne um grupo de amigos e parte em busca de vingança.

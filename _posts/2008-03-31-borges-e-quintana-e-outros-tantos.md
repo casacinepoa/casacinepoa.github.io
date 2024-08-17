@@ -6,7 +6,7 @@ category: blog
 author: giba
 tags:
   - literatura
-original_path: /comment/reply/196/scripts.js.html
+redirect_from: /comment/reply/196/scripts.js.html
 ---
 "Em um estábulo situado quase à sombra da nova igreja de pedra, um homem de olhos cinzentos e barba cinzenta, estendido entre o cheiro dos animais, humildemente procura a morte como quem procura o sonho. O dia, fiel a vastas leis secretas, vai deslocando e confundindo as sombras no pobre recinto; lá fora estão as terras aradas e um fosso entulhado de folhas mortas e algum rastro de lobo no barro negro onde começam os bosques. O homem dorme e sonha, esquecido. O toque de oração o desperta. Nos reinos da Inglaterra o som de sinos já é um dos hábitos da tarde, mas o homem, quando criança, viu a cara de Woden, o horror divino e a exultação, o tosco ídolo de madeira carregado de moedas romanas e de vestimentas pesadas, o sacrifício de cavalos, cães e prisioneiros. Antes do alvorecer morrerá e com ele morrerão, sem retornar jamais, as últimas imagens imediatas dos ritos pagãos; o mundo será um pouco mais pobre quando este saxão estiver morto."
 

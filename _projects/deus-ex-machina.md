@@ -124,7 +124,7 @@ details:
     content: |-
       \-﻿ [Roteiro](/uploads/deus-ex-machina-rot.pdf)\
       -﻿ [Créditos completos](/filmes/deus-ex-machina/creditos-completos/)
-original_path: /os-filmes/produção/curtas/deus-ex-machina.html
+redirect_from: /os-filmes/produção/curtas/deus-ex-machina.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

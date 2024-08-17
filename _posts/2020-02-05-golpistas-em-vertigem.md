@@ -3,7 +3,7 @@ layout: post
 title: Golpistas em vertigem
 date: 2020-02-05 00:00 +0000
 author: jorge
-original_path: "/o-blog/jorge-furtado/golpistas-em-vertigem.html"
+redirect_from: "/o-blog/jorge-furtado/golpistas-em-vertigem.html"
 ---
 
 Em 2016 a democracia brasileira foi vítima de um golpe parlamentar clássico, daqueles de livro, onde a maioria no congresso, insatisfeita com o trabalho do executivo e/ou com medo de ser presa, une-se para derrubar o presidente eleito, um fato corriqueiro num regime parlamentarista e que no presidencialismo só tem um nome: golpe. Dilma foi alijada do cargo para o qual foi legitimamente eleita sem crime de responsabilidade e por um motivo banal, as tais pedaladas fiscais, praticadas por todos os presidentes até então e por muitos governadores naquele exato momento. Acusação tão frágil foi usada como desculpa apenas porque era este o pedido de impeachment que estava em cima da pilha. (Sem temer escancarar a hipocrisia, as tais pedaladas tornaram-se procedimento legal dois dias depois de instalado o governo golpista, com Temer.)

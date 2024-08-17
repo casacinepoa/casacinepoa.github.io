@@ -3,7 +3,7 @@ layout: post
 title: Grandes cenas - série completa liberada
 date: 2020-03-28 00:00 +0000
 author: casa
-original_path: "/comment/reply/2063/scripts.js.html"
+redirect_from: "/comment/reply/2063/scripts.js.html"
 ---
 
 **ATUALIZAÇÃO EM 24/07/2020**

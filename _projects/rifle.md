@@ -93,6 +93,6 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1078/rifle)
 
       * [Letterboxd](https://letterboxd.com/film/rifle/)
-original_path: /os-filmes/coproduções/rifle.html
+redirect_from: /os-filmes/coproduções/rifle.html
 ---
 Dione é um jovem misterioso que vive com uma família em uma região rural e remota. A tranquilidade da região é afetada quando um rico fazendeiro tenta comprar a pequena propriedade na qual Dione e a família vivem.

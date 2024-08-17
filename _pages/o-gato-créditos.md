@@ -1,7 +1,7 @@
 ---
 title: O gato - créditos
 permalink: /filmes/o-gato/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-gato.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-gato.html
 layout: page
 ---
 **ELENCO**

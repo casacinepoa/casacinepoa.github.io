@@ -223,7 +223,7 @@ details:
       07: Lobos em pele de cordeiro (22/01/2015)\
 
       08: O caminho da denúncia (29/01/2015)
-original_path: /node/1984.html
+redirect_from: /node/1984.html
 ---
 Entre 2006 e 2014 a Casa de Cinema de Porto Alegre realizou quatro temporadas de séries temáticas para o Canal Futura e Fundação Roberto Marinho - todas sobre temas de direitos humanos, ficcionalizadas com bonecos e documentadas com depoimentos.
 

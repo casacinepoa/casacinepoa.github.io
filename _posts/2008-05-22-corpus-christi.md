@@ -5,7 +5,7 @@ author: giba
 date: 2008-05-22 00:00 +0000
 tags:
   - religião
-original_path: /comment/reply/187/scripts.js.html
+redirect_from: /comment/reply/187/scripts.js.html
 ---
 Pergunte a dez católicos praticantes o que se comemora no dia de Corpus Christi, ou seja, hoje. Provavelmente sete dirão que não têm a menor idéia.
 

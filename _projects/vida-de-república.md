@@ -39,6 +39,6 @@ details:
 
 
       Narrador: Kiko Ferraz
-original_path: /os-filmes/realização/séries-de-tv/vida-de-república.html
+redirect_from: /os-filmes/realização/séries-de-tv/vida-de-república.html
 ---
 O programa apresenta a rotina de cinco jovens que dividem uma república de estudantes e compartilham os pequenos dramas do cotidiano. As situações são problematizadas por um narrador e contextualizadas em mini-documentários, de forma a evidenciar que a energia está presente em todas as ações humanas, em maior ou menor escala.

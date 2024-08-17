@@ -7,7 +7,7 @@ category: blog
 tags:
   - literatura
   - poesia
-original_path: /comment/reply/195/scripts.js.html
+redirect_from: /comment/reply/195/scripts.js.html
 ---
 Engraçado o Jorge ter perguntado justamente hoje "para que raios serve um soneto?". Eu também não sei, é claro, e talvez exatamente por isso esteja há alguns dias tentando compor um. Não consegui, mais uma vez - quase sempre que eu tento sonetear, termino me passando das canônicas 14 linhas. No caso, são 22 dodecassílabos, dois quartetos além do necessário. Ou os meus temas são muito pretensiosos, ou me falta a concisão do sonetista, ou mais provavelmente as duas coisas.
 

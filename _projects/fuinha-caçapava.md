@@ -33,7 +33,7 @@ details:
     content: |-
       * [Créditos completos](/filmes/fuinha-e-cacapava/creditos-completos/)
       * R﻿oteiro
-original_path: /os-filmes/curtas/fuinha-caçapava.html
+redirect_from: /os-filmes/curtas/fuinha-caçapava.html
 ---
 Joaquim e Margarida passam o dia no antiquário de seu avô, o esquecido Fuinha, e seu sócio, o rabujento Caçapava. Uma velha mala, cheia de estranhos frascos, é o portal para um mundo mágico onde aventuras extraordinárias são vividas e memórias perdidas são revisitadas.
 

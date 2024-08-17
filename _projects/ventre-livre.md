@@ -99,7 +99,7 @@ details:
       * [Pré-roteiro](/uploads/ventre-livre-pre-rot.pdf)
       * [Roteiro de montagem](/uploads/ventre-livre-rot.pdf)
       * [Créditos completos](/filmes/ventre-livre/creditos-completos)
-original_path: /os-filmes/produção/documentários/ventre-livre.html
+redirect_from: /os-filmes/produção/documentários/ventre-livre.html
 synopsis: >
   O país do futuro é onde as crianças engravidam? O maior país católico do mundo
   é onde mais de trinta mil mulheres morrem em conseqüência de aborto? A 10ª

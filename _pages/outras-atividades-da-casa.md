@@ -1,7 +1,7 @@
 ---
 title: Outras Atividades da Casa
 permalink: /sobre/outras-atividades/
-original_path: /a-casa/outras-atividades-da-casa.html
+redirect_from: /a-casa/outras-atividades-da-casa.html
 layout: about
 subpages:
   - title: Os Sócios

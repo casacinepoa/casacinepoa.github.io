@@ -85,7 +85,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/214/inverno)
 
       * [Letterboxd](https://letterboxd.com/film/winter-1983/)
-original_path: /os-filmes/distribuição/longas/inverno.html
+redirect_from: /os-filmes/distribuição/longas/inverno.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

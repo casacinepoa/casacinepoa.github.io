@@ -7,7 +7,7 @@ category: blog
 tags:
   - Casa de Cinema
   - cinema
-original_path: /comment/reply/190/scripts.js.html
+redirect_from: /comment/reply/190/scripts.js.html
 ---
 O protagonista não tinha nome. Era interpretado pelo Werner Schünemann e a gente o chamava de "Herói", embora ele não fizesse nada de heróico o filme todo. O filme se chamava "Inverno", tinha sido escrito e estava sendo dirigido pelo Carlos Gerbase. Eu era assistente de direção e produtor, mais ou menos o que o próprio Gerbase tinha sido pra mim e pro Nelson Nadotti no "Deu pra ti anos 70", dois anos antes. A equipe era mínima para um longa-metragem, mas altamente profissional para um super-8: Roberto Henkin, Alex Sernambi, Luciana Tomasi, Marta Biavaschi, Garlos Grübber. "Um bando e muitos outros", como diria o Bebeto Alves.
 

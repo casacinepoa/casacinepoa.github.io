@@ -122,7 +122,7 @@ details:
       * [P﻿ortal do Cinema Gaúcho](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1109/quem-e-primavera-das-neves)
 
       * [L﻿etterboxd](https://letterboxd.com/film/quem-e-primavera-das-neves/)
-original_path: /os-filmes/produção/documentários/quem-é-primavera-das-neves.html
+redirect_from: /os-filmes/produção/documentários/quem-é-primavera-das-neves.html
 synopsis: O ponto de partida é um nome improvável, Primavera das Neves,
   tradutora de Lewis Carroll, Daniel Defoe e Julio Verne, que na década de 1960
   desapareceu sem deixar rastros. Seria um pseudônimo? A busca de um nome

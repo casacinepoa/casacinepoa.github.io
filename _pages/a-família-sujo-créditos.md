@@ -1,7 +1,7 @@
 ---
 title: A família Sujo - créditos
 permalink: /filmes/a-família-sujo-creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/fam%C3%ADlia-sujo.html
+redirect_from: /os-filmes/cr%C3%A9ditos/fam%C3%ADlia-sujo.html
 layout: page
 ---
 **ELENCO**

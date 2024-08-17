@@ -2,7 +2,7 @@
 title: Dona Cristina perdeu a memória - créditos
 permalink: /filmes/dona-cristina-perdeu-a-memória/creditos-completos
 image_caption: ""
-original_path: /os-filmes/cr%C3%A9ditos/dona-cristina-perdeu-mem%C3%B3ria.html
+redirect_from: /os-filmes/cr%C3%A9ditos/dona-cristina-perdeu-mem%C3%B3ria.html
 layout: page
 ---
 **ELENCO**

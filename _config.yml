@@ -50,6 +50,7 @@ plugins:
   - jekyll-json-feed
   - jekyll-paginate-v2
   - jekyll-auto-authors
+  - jekyll-redirect-from
 
 # Plugin: jekyll-seo-tag
 social:

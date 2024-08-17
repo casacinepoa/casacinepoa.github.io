@@ -5,7 +5,7 @@ image: /uploads/casacine-3191_20x15.jpg
 image_caption: (Da esquerda para direita) Giba Assis Brasil, montador. Nora
   Goulart, produtora. Jorge Furtado, roteirista e realizador. Ana Luiza Azevedo,
   roteirista e realizadora.
-original_path: /a-casa/os-sócios-da-casa.html
+redirect_from: /a-casa/os-sócios-da-casa.html
 layout: about
 subpages:
   - title: Os Sócios

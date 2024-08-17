@@ -1,7 +1,7 @@
 ---
 title: O padeiro e as revoluções - créditos
 permalink: /filmes/o-padeiro-e-as-revoluções/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-padeiro-e-revolu%C3%A7%C3%B5es.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-padeiro-e-revolu%C3%A7%C3%B5es.html
 layout: page
 ---
 **ELENCO**

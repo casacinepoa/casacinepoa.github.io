@@ -116,6 +116,6 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/310/felicidade-e)
 
       * [](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/310/felicidade-e)[Letterboxd](https://letterboxd.com/film/felicidade-e/)
-original_path: /os-filmes/produção/coproduções/felicidade-é.html
+redirect_from: /os-filmes/produção/coproduções/felicidade-é.html
 ---
 Quatro visões da felicidade. SONHO: Um escritor em crise recebe inesperada ajuda de sua mulher, mas só quando ela dorme. BOLO: Um casal se xinga e se ofende enquanto ela prepara o bolo para comemorar suas Bodas de Ouro. CRUZ: Um homem bem casado, respeitável e com um neto se reencontra com uma ex-namorada de 50 anos atrás. ESTRADA: Dois casais em busca de um tranqüilo fim de semana na serra cruzam com um caminhoneiro mal-humorado e sem freio.

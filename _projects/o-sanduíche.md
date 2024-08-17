@@ -86,6 +86,6 @@ details:
     content: |-
       * [Roteiro](/uploads/o-sanduiche-rot.pdf)[](/uploads/O_Sanduiche.mp3)
       * [Créditos completos](/filmes/o-sanduiche/creditos-completos/)
-original_path: /os-filmes/produção/curtas/o-sanduíche.html
+redirect_from: /os-filmes/produção/curtas/o-sanduíche.html
 ---
 Os últimos momentos de um casal: a hora da separação. Mas o fim de alguma coisa pode ser o começo de outra. Outro casal, os primeiros momentos: a hora da descoberta. Encontros, separações e um sanduíche. No cinema, o sabor está nos olhos de quem vê.

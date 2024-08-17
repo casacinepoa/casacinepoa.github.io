@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: O Blog
-original_path: "/o-blog.html"
+redirect_from: "/o-blog.html"
 permalink: "/blog/"
 pagination:
   enabled: true

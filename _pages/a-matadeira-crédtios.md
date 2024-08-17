@@ -1,7 +1,7 @@
 ---
 title: A matadeira - crédtios
 permalink: /filmes/a-matadeira/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/matadeira.html
+redirect_from: /os-filmes/cr%C3%A9ditos/matadeira.html
 layout: page
 ---
 **ELENCO**

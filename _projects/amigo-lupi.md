@@ -39,7 +39,7 @@ details:
     content: |-
       * [Créditos completos](/filmes/amigo-lupi/creditos-completos/)
       * [Letterboxd](https://letterboxd.com/film/amigo-lupi/)
-original_path: /os-filmes/distribuição/curtas/amigo-lupi
+redirect_from: /os-filmes/distribuição/curtas/amigo-lupi
 ---
 D﻿IREITOS ATUAIS DE DISTRIBUIÇÃO: Prana Filmes\
 \

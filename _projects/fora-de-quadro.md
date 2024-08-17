@@ -122,7 +122,7 @@ details:
       exibido em 12/01/2016\
 
       Cinco anos após o episódio anterior, a equipe da Babel Cinematográfica se reencontra para a gravação de uma série sobre a história de Adri e Lica, ou coisa parecida. Acho que é isso.
-original_path: /os-filmes/realização/séries-de-tv/fora-de-quadro
+redirect_from: /os-filmes/realização/séries-de-tv/fora-de-quadro
 ---
 Fora de Quadro é uma comédia em que os personagens principais integram o terceiro escalão de uma equipe de filmagem, pessoas que fazem o cinema, vivem disso, mas nunca aparecem na frente das câmeras (nem no making of!). A distância do set não os impede de viverem histórias cinematográficas no seu dia a dia: suspense, aventura, romance e a adrenalina frequente de quem precisa vencer o cronograma de filmagem numa produção de baixo orçamento.	 
 

@@ -25,7 +25,7 @@ details:
          Direção: Maria Augusta Ramos
       5. **Enquanto isso**\
          Direção: Christiana Alcazar e Roberto Berliner
-original_path: /os-filmes/realização/séries-de-tv/olimpíada-passou-por-aqui.html
+redirect_from: /os-filmes/realização/séries-de-tv/olimpíada-passou-por-aqui.html
 ---
 Sete cineastas cariocas ou residentes no Rio de Janeiro revelam diferentes olhares sobre os Jogos Olímpicos de 2016: Cavi Borges (Refugiados), Christiana Alcazar e Roberto Berliner (Enquanto Isso), Isabel Joffily e José Joffily (Vidigal Olimpo), Maria Augusta Ramos (Alvo) e Rafael Figueiredo (Como ser Herói). São registros únicos da passagem das Olimpíadas no Brasil, cujas abordagens inusitadas e sensíveis vão além da cobertura jornalística focada no imediatismo do factual. Aqui, a ideia é priorizar a diversidade de cenários, assuntos, sotaques e público documentados.
 

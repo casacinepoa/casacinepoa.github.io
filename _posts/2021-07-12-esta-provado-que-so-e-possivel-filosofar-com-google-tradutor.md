@@ -3,7 +3,7 @@ layout: post
 title: Está provado que só é possível filosofar com o Google Translator
 author: jorge
 date: 2021-07-12 00:00:00
-original_path: /o-blog/jorge-furtado/está-provado-que-só-é-possível-filosofar-com-o-google-translator.html
+redirect_from: /o-blog/jorge-furtado/está-provado-que-só-é-possível-filosofar-com-o-google-translator.html
 ---
 
 Foi o ensaio de Walter Benjamin “O Narrador: considerações sobre a obra de Nicolai Leskov” que me levou a este extraordinário contador de histórias russo, um dos autores preferidos de Tchekhov. Tinha lido o ensaio de Benjamin há muito tempo, mas só no ano passado encontrei as traduções de Leskov para o português, li todas que sei que existem, cinco livros dele e um conto numa antologia. Se alguém souber de mais alguma, por favor me avise. Para quem quer começar, sugiro “Homens Interessantes e outras histórias” (contos), e depois “Lady Macbeth do distrito de Mtzensk” (novela). Não é à toa que Benjamin escolheu Leskov para falar sobre o a experiência da arte de narrar. Suas histórias são espetaculares, impossível parar de ler, com seus grandes personagens, enredos eletrizantes, viradas e finais surpreendentes, prontas para filmar, e muitas já viraram filmes. Benjamin ensina: “Metade da arte da narrativa está em, ao comunicar uma história, evitar explicações. Nisso Leskov é magistral”.

@@ -3,7 +3,7 @@ layout: post
 title: Like a rolling stone, a origem.
 date: 2020-07-21 00:00 +0000
 author: jorge
-original_path: "/o-blog/jorge-furtado/rolling-stone-origem.html"
+redirect_from: "/o-blog/jorge-furtado/rolling-stone-origem.html"
 ---
 
 "How does it feel, how does it feel? To be on your own, with no direction home, a complete unknown, like a rolling stone."

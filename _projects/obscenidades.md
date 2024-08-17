@@ -62,7 +62,7 @@ details:
       * [Créditos completos](/filmes/obscenidades/creditos-completos/)
       * [IMDb](https://www.imdb.com/title/tt0138668)
       * [Letterboxd](https://letterboxd.com/film/obscenidades/)
-original_path: /os-filmes/distribuição/obscenidades
+redirect_from: /os-filmes/distribuição/obscenidades
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

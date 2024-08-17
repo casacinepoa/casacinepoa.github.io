@@ -23,6 +23,6 @@ details:
   - title: Veja mais
     content: "* [C﻿réditos
       completos](/filmes/uma-história-de-verdade/creditos-completos)"
-original_path: /os-filmes/realização/vídeos/uma-história-de-verdade.html
+redirect_from: /os-filmes/realização/vídeos/uma-história-de-verdade.html
 ---
 Como o PT gaúcho chegou ao Governo do Estado. Os melhores momentos da campanha vitoriosa de Olívio Dutra e da Frente Popular gaúcha em 1998, em direção ao Palácio Piratini. A história do Partido no estado, com imagens de todas as campanhas desde 1988.

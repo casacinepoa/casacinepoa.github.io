@@ -154,7 +154,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1247/aos-olhos-de-ernesto)
 
       * [Letterboxd](https://letterboxd.com/film/through-ernestos-eyes/)
-original_path: /os-projetos/aos-olhos-de-ernesto-1.html
+redirect_from: /os-projetos/aos-olhos-de-ernesto-1.html
 synopsis: >-
   Ernesto, fotógrafo aposentado e viúvo, enfrentando as limitações da velhice
   como a solidão e a crescente perda da visão, encontra Bia, uma jovem e

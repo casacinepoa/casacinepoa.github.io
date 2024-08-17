@@ -1,7 +1,7 @@
 ---
 title: O dia em que Dorival encarou a guarda - créditos
 permalink: /filmes/o-dia-em-que-dorival-encarou-a-guarda/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-dia-em-que-dorival-encarou-guarda.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-dia-em-que-dorival-encarou-guarda.html
 layout: page
 ---
 **ELENCO**

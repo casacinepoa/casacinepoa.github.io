@@ -3,7 +3,7 @@ layout: post
 title: Em Brasília, 19 horas
 date: 2008-04-22 00:00 +0000
 author: giba
-original_path: "/o-blog/giba-assis-brasil/em-bras%C3%ADlia-19-horas.html"
+redirect_from: "/o-blog/giba-assis-brasil/em-bras%C3%ADlia-19-horas.html"
 ---
 
 Imperdível o novo livro do Eugênio Bucci, "Em Brasília, 19 horas".

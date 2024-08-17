@@ -1,7 +1,7 @@
 ---
 title: O natal de Natanael - créditos completos
 permalink: /filmes/o-natal-de-natanael/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/o-natal-de-natanael.html
+redirect_from: /os-filmes/cr%C3%A9ditos/o-natal-de-natanael.html
 layout: page
 ---
 **ELENCO**

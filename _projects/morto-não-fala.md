@@ -63,7 +63,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1189/morto-nao-fala)
 
       * [Letterboxd](https://letterboxd.com/film/the-nightshifter/)
-original_path: /os-filmes/longas/morto-não-fala.html
+redirect_from: /os-filmes/longas/morto-não-fala.html
 synopsis: '"Stênio é plantonista noturno no necrotério de uma grande e violenta
   cidade. Em suas madrugadas de trabalho, ele nunca está só, pois possui um dom
   paranormal de comunicação com os mortos. Quando as confidências que ouve do

@@ -1,7 +1,7 @@
 ---
 title: Continuidade - créditos
 permalink: /filmes/continuidade/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/continuidade.html
+redirect_from: /os-filmes/cr%C3%A9ditos/continuidade.html
 layout: page
 ---
 **ELENCO**

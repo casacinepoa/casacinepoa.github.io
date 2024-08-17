@@ -28,7 +28,7 @@ details:
       * [Créditos completos](/filmes/no-amor/creditos-completos/)
       * [IMDb](https://www.imdb.com/title/tt0136429/)
       * [Letterboxd](https://letterboxd.com/film/for-love-1982/)
-original_path: /os-filmes/distribuição/no-amor
+redirect_from: /os-filmes/distribuição/no-amor
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

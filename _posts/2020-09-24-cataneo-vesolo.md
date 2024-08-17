@@ -3,7 +3,7 @@ layout: post
 title: Cataneo Vesolo
 date: 2020-09-24 00:00 +0000
 author: jorge
-original_path: "/o-blog/jorge-furtado/cataneo-vesolo.html"
+redirect_from: "/o-blog/jorge-furtado/cataneo-vesolo.html"
 ---
 
 No ótimo documentário “Narciso em férias”, dirigido por Renato Terra e Ricardo Calil, Caetano Veloso narra sua própria vida com o brilhantismo que, em prosa, se aproxima daquele que atinge com seus versos. O filme tem, entre muitos méritos, o de reorganizar o passado e, assim, nos dar elementos para entender o agora.

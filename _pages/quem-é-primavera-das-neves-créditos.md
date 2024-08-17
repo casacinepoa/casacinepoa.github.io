@@ -1,7 +1,7 @@
 ---
 title: Quem é Primavera das Neves - créditos
 permalink: /filmes/quem-é-primavera-das-neves/creditos-completos/
-original_path: /os-filmes/longas/quem-é-primavera-das-neves-créditos.html
+redirect_from: /os-filmes/longas/quem-é-primavera-das-neves-créditos.html
 layout: page
 ---
 **ELENCO**

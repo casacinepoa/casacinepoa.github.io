@@ -1,7 +1,7 @@
 ---
 title: Sobre a Casa
 permalink: /sobre/casa/
-original_path: /a-casa/sobre-casa.html
+redirect_from: /a-casa/sobre-casa.html
 layout: about
 subpages:
   - title: Os Sócios

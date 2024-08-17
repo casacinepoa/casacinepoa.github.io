@@ -75,7 +75,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/793/homens-de-bem)
 
       * [Letterboxd](https://letterboxd.com/film/homens-de-bem/)
-original_path: /os-filmes/realização/episódios-de-tv/homens-de-bem.html
+redirect_from: /os-filmes/realização/episódios-de-tv/homens-de-bem.html
 synopsis: Ciba é um espião que presta serviços não oficiais para a Polícia
   Federal, mas também para outros clientes. Quando um empresário é suspeito de
   subornar um deputado federal, Ciba é chamado por um delegado para se infiltrar

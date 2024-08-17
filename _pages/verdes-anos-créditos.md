@@ -1,7 +1,7 @@
 ---
 title: Verdes anos - créditos
 permalink: /filmes/verdes-anos/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/verdes-anos.html
+redirect_from: /os-filmes/cr%C3%A9ditos/verdes-anos.html
 layout: page
 ---
 **ELENCO**

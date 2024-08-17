@@ -100,7 +100,7 @@ details:
       * [P﻿ortal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/512/3-efes)
 
       * [L﻿etterboxd](https://letterboxd.com/film/3-efes/)
-original_path: /os-filmes/produção/longas/3-efes.html
+redirect_from: /os-filmes/produção/longas/3-efes.html
 ---
 D﻿IREITOS ATUAIS: [Prana Filmes](https://www.pranafilmes.com.br/)\
 \

@@ -292,7 +292,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/355/meu-tio-matou-um-cara)
 
       * [Letterboxd](https://letterboxd.com/film/my-uncle-killed-a-guy/)
-original_path: /os-filmes/produção/longas/meu-tio-matou-um-cara.html
+redirect_from: /os-filmes/produção/longas/meu-tio-matou-um-cara.html
 synopsis: Duca, aos 15 anos, descobre que os crimes que ele está acostumado a
   ver em jogos eletrônicos também podem existir na vida real, quando seu tio
   Éder é preso por um assassinato mal explicado. Duca resolve investigar o caso

@@ -1,7 +1,7 @@
 ---
 title: Rummikub - créditos
 permalink: /filmes/rummikub/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/rummikub.html
+redirect_from: /os-filmes/cr%C3%A9ditos/rummikub.html
 layout: page
 ---
 **ELENCO**

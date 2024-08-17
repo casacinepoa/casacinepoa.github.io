@@ -1,7 +1,7 @@
 ---
 title: A coisa mais importante da vida - créditos
 permalink: /filmes/a-coisa-mais-importante-da-vida/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/coisa-mais-importante-da-vida.html
+redirect_from: /os-filmes/cr%C3%A9ditos/coisa-mais-importante-da-vida.html
 layout: page
 ---
 **ELENCO**

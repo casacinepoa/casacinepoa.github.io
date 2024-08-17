@@ -1,7 +1,7 @@
 ---
 title: Ex-Sócios da Casa
 permalink: /sobre/ex-socios/
-original_path: /a-casa/ex-sócios-da-casa.html
+redirect_from: /a-casa/ex-sócios-da-casa.html
 layout: about
 subpages:
   - title: Os Sócios

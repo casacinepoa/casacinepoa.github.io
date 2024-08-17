@@ -119,7 +119,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1206/rasga-coracao)
 
       * [Letterboxd](https://letterboxd.com/film/rend-your-heart/)
-original_path: /os-filmes/longas/rasga-coracao.html
+redirect_from: /os-filmes/longas/rasga-coracao.html
 synopsis: "Custódio Manhães é um funcionário público de meia idade que continua
   pensando como o militante político que foi na juventude, quando era conhecido
   como 'Manguari Pistolão'. Mas é confrontado por seu filho Luca, que o acusa de

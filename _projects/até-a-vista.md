@@ -51,6 +51,6 @@ details:
     content: |-
       * [R﻿oteiro (1º tratamento - 15/04/2011)](/uploads/ate-a-vista-rot.pdf)
       * [C﻿réditos completos](/filmes/ate-a-vista/creditos-completos/)
-original_path: /os-filmes/produção/curtas/até-vista-0.html
+redirect_from: /os-filmes/produção/curtas/até-vista-0.html
 ---
 Jovem cineasta procura uma história para o seu primeiro longa-metragem. Na tentativa de conseguir os direitos autorais de um romance, o jovem aceita a proposta inusitada do autor e juntos partem à procura de um antigo amor do escritor.

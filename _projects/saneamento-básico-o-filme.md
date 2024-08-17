@@ -213,7 +213,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/492/saneamento-basico-o-filme)
 
       * [Letterboxd](https://letterboxd.com/film/basic-sanitation-the-movie/)
-original_path: /os-filmes/produção/longas/saneamento-básico-o-filme.html
+redirect_from: /os-filmes/produção/longas/saneamento-básico-o-filme.html
 synopsis: Na pequena Linha Cristal, a comunidade se mobiliza para construir uma
   fossa no arroio e acabar com o mau cheiro. Marina, a líder do movimento,
   descobre que a Prefeitura este ano só tem verba para produzir um vídeo de

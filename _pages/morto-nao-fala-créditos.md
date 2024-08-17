@@ -1,7 +1,7 @@
 ---
 title: Morto não fala - créditos
 permalink: /filmes/morto-nao-fala/creditos-completos/
-original_path: /filmes/morto-nao-fala/creditos-completos/
+redirect_from: /filmes/morto-nao-fala/creditos-completos/
 layout: page
 ---
 MORTO NÃO FALA - CRÉDITOS COMPLETOS\

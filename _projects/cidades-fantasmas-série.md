@@ -41,6 +41,6 @@ details:
     content: |-
       * [Sinopses dos episódios](http://www.casacinepoa.com.br/node/2040)
       * [Créditos completos](http://www.casacinepoa.com.br/node/2039)
-original_path: /os-filmes/séries/cidades-fantasmas-série.html
+redirect_from: /os-filmes/séries/cidades-fantasmas-série.html
 ---
 Cidades prósperas, que abrigaram populações inteiras, hoje completamente abandonadas e consumidas pelo tempo, carregam o status de cidades fantasmas. Catástrofes naturais, motivações econômicas, embates políticos, guerras, são algumas das condições que levaram esses lugares ao total despovoamento. A série documental Cidades Fantasmas refaz os passos de algumas dessas populações, reconstruindo essas cidades através das lembranças de alguns de seus antigos habitantes.

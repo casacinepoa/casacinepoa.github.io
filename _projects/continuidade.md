@@ -29,6 +29,6 @@ details:
         Prêmio especial do júri
   - title: Veja mais
     content: "* [C﻿réditos completos](/filmes/continuidade/creditos-completos)"
-original_path: /os-filmes/distribuição/curtas/continuidade.html
+redirect_from: /os-filmes/distribuição/curtas/continuidade.html
 ---
 Um quarto, um homem, ações comuns do dia-a-dia. Mas o que está acontecendo aqui? Será que alguém pode me explicar?... Continuidade.

@@ -90,6 +90,6 @@ details:
       [Roteiro de 1998](/uploads/tres-minutos-rot2.pdf)\
       Cannes 2000\
       [Créditos completos](/filmes/tres-minutos/creditos-completos/)
-original_path: /os-filmes/produção/curtas/três-minutos.html
+redirect_from: /os-filmes/produção/curtas/três-minutos.html
 ---
 Três minutos. O tempo de passar o bastão e correr 1600 metros. De cozinhar um ovo. O tempo de tomar uma decisão que pode mudar a sua vida, antes que caia a ficha.

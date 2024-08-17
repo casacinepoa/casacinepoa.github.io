@@ -3,7 +3,7 @@ layout: post
 title: 5 palíndromos ilustrados
 author: giba
 date: 2021-03-22 20:02:29
-original_path: /o-blog/giba-assis-brasil/5-palíndromos-ilustrados.html
+redirect_from: /o-blog/giba-assis-brasil/5-palíndromos-ilustrados.html
 ---
 
 

@@ -84,7 +84,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1004/real-beleza)
 
       * [Letterboxd](https://letterboxd.com/film/real-beleza/)
-original_path: /os-filmes/produção/longas/real-beleza
+redirect_from: /os-filmes/produção/longas/real-beleza
 synopsis: João é um fotógrafo à procura candidatas a modelo em cidades do
   interior gaúcho. João conhece uma jovem de rara beleza, Maria, e acaba se
   envolvendo com a mãe dela, Anita. O pai da menina, Pedro, não quer deixar que

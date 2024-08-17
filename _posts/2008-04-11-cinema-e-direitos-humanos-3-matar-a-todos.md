@@ -4,7 +4,7 @@ title: "Cinema e Direitos Humanos 3: Matar a todos"
 date: 2008-04-11 00:00 +0000
 category: blog
 author: giba
-original_path: /comment/reply/194/scripts.js.html
+redirect_from: /comment/reply/194/scripts.js.html
 ---
 Eugenio Berríos Sagredo era o nome do sujeito. Bioquímico chileno nascido em 1947, ligado ao grupo de extrema direita "Patria y Libertad" desde os tempos de estudante, entrou na folha de pagamentos da DINA, a polícia secreta de Pinochet, em 1974. Sabe-se que chefiou o complexo químico do Exército em Talagante, a 40 km de Santiago, onde foram feitas experiências com o gás Sarin, uma substância letal que não deixa rastros e que fora inventada pelos nazistas durante a segunda guerra mundial. Há evidências de que ele tenha também aplicado Antrax e a bactéria do botulismo para eliminar inimigos do regime. Mais de uma testemunha aponta Berríos como o responsável pelo explosivo plástico que matou o diplomata Orlando Letelier em Washington, em 1976. Denúncias mais recentes de ex-colaboradores da ditadura indicam que o complexo de Talagante também produzia "cocaína negra", uma variante da droga que não é detectada pelos métodos policiais tradicionais, e com isso teria faturado pelo menos 26 milhões de dólares, hoje em contas bancárias no exterior em nome da família de Augusto Pinochet.
 

@@ -51,6 +51,6 @@ details:
       Em setembro: "Dubladores"  e "Telegrama ao vivo"\
 
       Em outubro: "Baile só para homens", "Replicantes" e "Senna x Manuel da Conceição"
-original_path: /os-filmes/produção/curtas/o-vampiro-de-novo-hamburgo.html
+redirect_from: /os-filmes/produção/curtas/o-vampiro-de-novo-hamburgo.html
 ---
 Falso documentário sobre o falso cineasta Volker Freunden e seu falso pioneiro filme de terror, que teria sido rodado na década de 1920 na verdadeira cidade de Novo Hamburgo - mas gravado em Porto Alegre.

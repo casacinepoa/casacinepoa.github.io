@@ -107,6 +107,6 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1591/o-mentiroso)
 
       * [Letterboxd](https://letterboxd.com/film/o-mentiroso/)
-original_path: /os-filmes/distribuição/o-mentiroso
+redirect_from: /os-filmes/distribuição/o-mentiroso
 ---
 Uma comédia de estrada que satiriza a tradição dos "road movies". Quatro pessoas (entre elas, um mentiroso), por acaso, caem na estrada. Sem dinheiro e sem convicções, fazem de uma pequena viagem de fim-de-semana o princípio de suas possibilidades de libertação.

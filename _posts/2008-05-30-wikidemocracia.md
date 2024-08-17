@@ -6,7 +6,7 @@ date: 2008-05-30 00:00 +0000
 tags:
   - cibercultura
   - religião
-original_path: /comment/reply/186/scripts.js.html
+redirect_from: /comment/reply/186/scripts.js.html
 ---
 Não lembro qual foi a primeira vez em que, certamente procurando alguma coisa no Google, fui parar na Wikipédia, essa estranha enciclopédia em que tudo é gratuito e qualquer pessoa, em qualquer parte do mundo, pode mexer em qualquer artigo a qualquer momento.
 

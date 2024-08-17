@@ -89,6 +89,6 @@ details:
     content: |-
       * [Créditos completos](/filmes/aqueles-dois/creditos-completos)
       * [Música](/uploads/Aqueles_dois.mp3)
-original_path: /os-filmes/distribuição/longas/aqueles-dois.html
+redirect_from: /os-filmes/distribuição/longas/aqueles-dois.html
 ---
 Raul é extrovertido e brincalhão. Vem de um casamento frustrado e passa o tempo ouvindo e tocando melancólicos boleros no pequeno apartamento onde mora. Saul é tímido, de espírito crítico e amargo. Vem de um noivado tão interminável que um dia terminou. Também de uma recente tentativa de suicídio. Raul e Saul são duas pessoas simples, sensíveis, solitárias, e se conhecem no primeiro dia de trabalho em uma repartição pública.

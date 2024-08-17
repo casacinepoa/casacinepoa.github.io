@@ -1,7 +1,7 @@
 ---
 title: Tolerância - créditos
 permalink: /filmes/tolerância/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/toler%C3%A2ncia.html
+redirect_from: /os-filmes/cr%C3%A9ditos/toler%C3%A2ncia.html
 layout: page
 ---
 **ELENCO**\

@@ -70,7 +70,7 @@ details:
       "Tão importante quanto o bom elenco e o texto refinado, é a graciosa abertura realizada pelo estúdio Makako, que oferecem uma ambientação de 'pop-up book' para A História do Amor."\
 
       ([Mauro Trindade](https://www.terra.com.br/diversao/tv/segunda-temporada-de-a-historia-do-amor-renova-o-fantastico,00500ce68385a310VgnCLD200000bbcceb0aRCRD.html), portal Terra, 23/08/2012)
-original_path: /os-filmes/realização/séries-de-tv/a-história-do-amor.html
+redirect_from: /os-filmes/realização/séries-de-tv/a-história-do-amor.html
 ---
 Leandra Leal (35), Fernanda de Freitas (61) e Daniel de Oliveira (103) vivem ao todo 199 personagens que atravessam o tempo para contar "A História do Amor".  A sedução, o namoro, o casamento, as separações e os recomeços, desde o tempo das cavernas até hoje, passando por Adão e Eva, a antiguidade, a idade média, o Brasil Colônia e o século 20.
 

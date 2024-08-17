@@ -41,7 +41,7 @@ details:
 
 
       \-﻿ [Créditos completos](/filmes/o-comprador-de-fazendas/creditos-completos/)
-original_path: /os-filmes/realização/episódios-de-tv/o-comprador-de-fazendas.html
+redirect_from: /os-filmes/realização/episódios-de-tv/o-comprador-de-fazendas.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

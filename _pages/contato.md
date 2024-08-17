@@ -2,7 +2,7 @@
 layout: contact
 title: Contato
 permalink: "/contato/"
-original_path: "/o-contato/geral.html"
+redirect_from: "/o-contato/geral.html"
 ---
 
 ## Casa de Cinema de Porto Alegre

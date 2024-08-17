@@ -1,7 +1,7 @@
 ---
 title: Meia encarnada dura de sangue - créditos
 permalink: /filmes/meia-encarnada-dura-de-sangue/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/meia-encarnada-dura-de-sangue.html
+redirect_from: /os-filmes/cr%C3%A9ditos/meia-encarnada-dura-de-sangue.html
 layout: page
 ---
 **ELENCO**

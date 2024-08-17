@@ -1,7 +1,7 @@
 ---
 title: Anchietanos - créditos
 permalink: filmes/anchietanos/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/anchietanos.html
+redirect_from: /os-filmes/cr%C3%A9ditos/anchietanos.html
 layout: page
 ---
 **ELENCO**

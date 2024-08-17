@@ -1,7 +1,7 @@
 ---
 title: Sal de prata - créditos
 permalink: /filmes/sal-de-prata/creditos-completos/
-original_path: /os-filmes/créditos/sal-de-prata.html
+redirect_from: /os-filmes/créditos/sal-de-prata.html
 layout: page
 ---
 **ELENCO**

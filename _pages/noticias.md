@@ -2,7 +2,7 @@
 layout: blog
 title: Notícias da Casa
 permalink: "/noticias/"
-original_path: "/as-noticias.html"
+redirect_from: "/as-noticias.html"
 pagination:
   enabled: true
   collection: news

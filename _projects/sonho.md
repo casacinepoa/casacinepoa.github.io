@@ -47,7 +47,7 @@ details:
         Melhor Filme (Júri Popular)
       * 28º Festival do Cinema Brasileiro de Brasília, 1995:\
         Melhor Filme (Júri Popular), Melhor Atriz (Denise Fraga, no episódio SONHO)
-original_path: /os-filmes/distribuição/curtas/felicidade-é-sonho
+redirect_from: /os-filmes/distribuição/curtas/felicidade-é-sonho
 ---
 Episódio do longa [FELICIDADE É...](/filmes/felicidade-é/)
 

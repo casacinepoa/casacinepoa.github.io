@@ -94,7 +94,7 @@ details:
     content: |-
       * [Créditos completos](/filmes/memoria/creditos-completos/)
       * [R﻿oteiro](/uploads/memoria-rot.pdf)
-original_path: /os-filmes/produção/curtas/memória.html
+redirect_from: /os-filmes/produção/curtas/memória.html
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

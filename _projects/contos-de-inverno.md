@@ -136,6 +136,6 @@ details:
       **O último desejo do Doutor Genarinho**\
       Direção: Fabiano de Souza\
       Exibido em 10/08/2002
-original_path: /os-filmes/realização/séries-de-tv/contos-de-inverno.html
+redirect_from: /os-filmes/realização/séries-de-tv/contos-de-inverno.html
 ---
 O mais importante acontecimento da televisão do Rio Grande do Sul em 2001, depois ampliado em 2002. Teledramaturgia gaúcha, com atores gaúchos, roteiristas e diretores gaúchos, temas e linguagem gaúchas.

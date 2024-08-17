@@ -1,7 +1,7 @@
 ---
 title: A morte no Edifício Império - créditos
 permalink: /filmes/a-morte-no-edifício-império/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/morte-no-edif%C3%ADcio-imp%C3%A9rio.html
+redirect_from: /os-filmes/cr%C3%A9ditos/morte-no-edif%C3%ADcio-imp%C3%A9rio.html
 layout: page
 ---
 **ELENCO**

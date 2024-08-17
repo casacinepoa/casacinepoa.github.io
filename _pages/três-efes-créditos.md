@@ -1,7 +1,7 @@
 ---
 title: Três efes - créditos
 permalink: /filmes/3-efes/creditos-completos
-original_path: /os-filmes/cr%C3%A9ditos/3-efes.html
+redirect_from: /os-filmes/cr%C3%A9ditos/3-efes.html
 layout: page
 ---
 **ELENCO**

@@ -34,6 +34,6 @@ details:
     content: |-
       * [R﻿oteiro](/uploads/objetos-rot.pdf)
       * [C﻿réditos completos](/filmes/objetos/creditos-completos/)
-original_path: /os-filmes/produção/curtas/objetos.html
+redirect_from: /os-filmes/produção/curtas/objetos.html
 ---
 Entre os objetos de um antigo apartamento, um casal observa suas memórias. Enquanto Miguel tenta iniciar uma conversa importante, Lorena faz um colar de contas.

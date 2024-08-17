@@ -57,6 +57,6 @@ details:
 
       11. **Tudo ou nada em Soterópolis**\
       Direção: Lázaro Ramos
-original_path: /os-filmes/realização/séries-de-tv/copa-passou-por-aqui-0
+redirect_from: /os-filmes/realização/séries-de-tv/copa-passou-por-aqui-0
 ---
 Durante um acontecimento que ficou marcado na história do Brasil, onze cineastas documentaram, através de uma abordagem autoral, as várias questões que divergem a opinião dos brasileiros sobre a Copa. A série em 11 episódios conta com Esmir Filho, Tata Amaral, Vicente Moreno, Davi Preto, Maria Augusta Ramos, Leandra Leal, Rita Toledo, Carolina Benjamin, Beto Magalhães, Anna Flávia Salles, Adirley Queirós, Lázaro Ramos, Kleber Mendonça e Jorane Castro no time de diretores. Além da discussão crítica, a série traz um panorama estético e visual da produção cinematográfica no Brasil.

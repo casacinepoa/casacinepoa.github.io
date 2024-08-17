@@ -102,7 +102,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/1110/cidades-fantasmas)
 
       * [Letterboxd](https://letterboxd.com/film/cidades-fantasmas/)
-original_path: /os-filmes/produção/documentários/cidades-fantasmas.html
+redirect_from: /os-filmes/produção/documentários/cidades-fantasmas.html
 synopsis: Deserto chileno, Amazônia brasileira, Andes colombianos e Pampa
   argentino. Quatro destinos na América Latina, onde as ruínas e o silêncio são
   o plano de fundo da nossa jornada. Alguns de seus antigos moradores ainda

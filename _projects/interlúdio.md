@@ -60,7 +60,7 @@ details:
       * [Créditos completos](/filmes/interludio/creditos-completos/)
       * [IMDb](https://www.imdb.com/title/tt0138522/)
       * [Letterboxd](https://letterboxd.com/film/interludio-1983/)
-original_path: /os-filmes/curtas/interlúdio
+redirect_from: /os-filmes/curtas/interlúdio
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \

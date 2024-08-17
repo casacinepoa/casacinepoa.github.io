@@ -73,6 +73,6 @@ details:
   - title: Veja mais
     content: "* [Créditos
       completos](http://www.casacinepoa.com.br/os-filmes/créditos/o-branco)"
-original_path: /os-filmes/distribuição/curtas/o-branco
+redirect_from: /os-filmes/distribuição/curtas/o-branco
 ---
 Um garoto cego especula continuamente sobre as cores das coisas e manifesta uma predileção pela cor branca, síntese de tudo o que para ele é inatingível.

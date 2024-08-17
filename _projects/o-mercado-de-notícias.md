@@ -50,7 +50,7 @@ details:
       * [Portal do Cinema RS](https://www.cinematecapauloamorim.com.br/portaldocinemagaucho/939/o-mercado-de-noticias)
 
       * [Letterboxd](https://letterboxd.com/film/the-staple-of-news/)
-original_path: /os-filmes/produção/longas/o-mercado-de-noticias
+redirect_from: /os-filmes/produção/longas/o-mercado-de-noticias
 synopsis: Documentário sobre jornalismo e democracia. O filme traz os
   depoimentos de treze importantes jornalistas brasileiros sobre o sentido e a
   prática de sua profissão, o futuro do jornalismo e também sobre casos recentes
