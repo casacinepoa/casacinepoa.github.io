@@ -35,6 +35,8 @@ collections:
     sortable_fields:
       - title
       - date
+      - author
+      - commit_date
     view_filters:
       - label: "Posts da Ana"
         field: author
@@ -115,6 +117,8 @@ collections:
       Páginas de conteúdo estático.
     sortable_fields:
       - title
+      - author
+      - commit_date
     view_groups:
       - label: Rascunhos
         field: draft
