@@ -74,18 +74,12 @@ content:
       default:
         sort: date
         order: desc
-  - name: page
+  - name: pages
     label: Pages
     type: collection
     path: _pages
-    icon: fileType
+    icon: 'file-type'
     filename: "{fields.title}"
-    view:
-      fields:
-        - title
-      primary: title
-      sort:
-        - title
     fields:
       - name: title
         label: Title
@@ -154,7 +148,15 @@ content:
         default: true
         description: >-
           Set this to true to publish it in your website.
-
+    view:
+      fields:
+        - title
+      primary: title
+      sort:
+        - date
+      default:
+        sort: date
+        order: desc
   - name: news
     label: News
     type: collection
@@ -165,7 +167,8 @@ content:
         - title
         - date
       primary: title
-      sort: date
+      sort:
+        - date
       default:
         sort: date
         order: desc
