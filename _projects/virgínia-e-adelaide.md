@@ -28,10 +28,12 @@ details:
       Sophie Charlotte (Adelheid Koch)
   - title: VEJA MAIS
     content: |-
-      \- Créditos completos\
-      - Roteiro\
-      - [IMDb](https://www.imdb.com/title/tt32831747)\
-      - Portal do Cinema RS\
-      - [Letterboxd](https://letterboxd.com/film/virginia-e-adelaide/)
+      
+
+      * Créditos completos
+      * [Roteiro](/uploads/virginia-e-adelaide-rot.pdf)
+      * [IMDb](https://www.imdb.com/title/tt32831747)
+      * Portal do Cinema RS
+      * [Letterboxd](https://letterboxd.com/film/virginia-e-adelaide/)
 ---
 Adelaide e Virgínia se conheceram em 1937, um ano após a chegada da alemã ao Brasil, fugindo da perseguição nazista aos judeus, para onde veio com seu marido e duas filhas. Juntas, fundaram e popularizaram a psicanálise no Brasil, quebrando barreiras e preconceitos. Foram médica e paciente por 5 anos, colegas por mais de 30 anos, amigas a vida inteira.
