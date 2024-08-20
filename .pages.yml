@@ -4,7 +4,7 @@ content:
     label: Blog
     type: collection
     path: _posts
-    icon: notebook-text
+    icon: notebookText
     fields:
       - name: layout
         hidden: true
@@ -78,11 +78,13 @@ content:
     label: Pages
     type: collection
     path: _pages
-    icon: file-type-2
+    icon: fileType
     view:
-      fields: title
+      fields:
+        - title
       primary: title
-      sort: title
+      sort:
+        - title
     fields:
       - name: layout
         label: Layout
