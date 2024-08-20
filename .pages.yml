@@ -18,7 +18,6 @@ content:
         label: Date
         type: date
         options:
-          format: "YYYY-MM-DD' 'HH:mm:ss"
           time: true
         description: >-
           The publication date for this post.
