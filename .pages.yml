@@ -5,5 +5,9 @@ content:
     type: collection
     path: _posts
     icon: rss
-    
+    fields:
+      - name: title
+        label: Title
+        required: true
+        
     
