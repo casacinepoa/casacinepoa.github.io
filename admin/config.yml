@@ -3,6 +3,7 @@ backend:
   name: github # Netlify’s Git Gateway connects to Git provider’s API
   repo: casacinepoa/casacinepoa.github.io
   branch: main # Branch to update (master by default)
+  base_url: https://auth.casacinepoa.com.br
   # site_domain: casacinepoa.com.br
   # auth_endpoint: auth
   # base_url: https://api.netlify.com
