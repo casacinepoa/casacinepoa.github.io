@@ -1,6 +1,6 @@
 # https://www.netlifycms.org/docs/configuration-options/
 backend:
-  name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
+  name: github # Netlify’s Git Gateway connects to Git provider’s API
   repo: casacinepoa/casacinepoa.github.io
   branch: main # Branch to update (master by default)
   # site_domain: casacinepoa.com.br
@@ -12,7 +12,7 @@ media_folder: "uploads"
 publish_mode: editorial_workflow
 site_url: "https://www.casacinepoa.com.br/"
 display_url: "https://www.casacinepoa.com.br/"
-logo_url: "https://www.casacinepoa.com.br/assets/img/favicon.png"
+# logo_url: "https://www.casacinepoa.com.br/assets/img/favicon.png"
 # slug:
 #   encoding: "unicode"
 #   clean_accents: true
