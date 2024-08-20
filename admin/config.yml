@@ -13,7 +13,7 @@ media_folder: "uploads"
 publish_mode: editorial_workflow
 site_url: "https://www.casacinepoa.com.br/"
 display_url: "https://www.casacinepoa.com.br/"
-# logo_url: "https://www.casacinepoa.com.br/assets/img/favicon.png"
+logo_url: "https://www.casacinepoa.com.br/assets/img/logo.jpeg"
 # slug:
 #   encoding: "unicode"
 #   clean_accents: true
