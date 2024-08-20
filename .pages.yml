@@ -79,6 +79,7 @@ content:
     type: collection
     path: _pages
     icon: fileType
+    filename: "{fields.title}"
     view:
       fields:
         - title
@@ -86,6 +87,31 @@ content:
       sort:
         - title
     fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: body
+        label: Body
+        type: rich-text
+        required: true
+      - name: permalink
+        label: Permalink
+        required: false
+        type: string
+        description: >-
+          The path for this page in your website, such as `example.com/page-title`
+      - name: image
+        label: Cover Image
+        type: image
+      - name: image_caption
+        label: Cover Image Caption
+        type: string
+      - name: excerpt
+        label: Excerpt
+        type: text
+        description: >-
+          A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
       - name: layout
         label: Layout
         default: page
@@ -116,32 +142,62 @@ content:
               label: Blog
             - value: author
               label: Post Author Page
+      - name: redirect_from
+        label: Original URL
+        default: null
+        type: string
+        description: >-
+          The path to this page in the `archive`. If set, it'll handle redirects from the old path to the new one.
+      - name: published
+        label: Publish
+        type: boolean
+        default: true
+        description: >-
+          Set this to true to publish it in your website.
 
+  - name: news
+    label: News
+    type: collection
+    path: _news
+    icon: newspaper
+    view:
+      fields:
+        - title
+        - date
+      primary: title
+      sort: date
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: layout
+        type: string
+        value: post
+        hidden: true
       - name: title
         label: Title
         type: string
         required: true
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: "yyyy-MM-dd' 'HH:mm:ss"
+          time: true
       - name: body
         label: Body
         type: rich-text
         required: true
-      - name: permalink
-        label: Permalink
-        required: false
-        type: string
-        description: >-
-          The path for this page in your website, such as `example.com/page-title`
-      - name: image
-        label: Cover Image
-        type: image
-      - name: image_caption
-        label: Cover Image Caption
+      - name: tags
+        label: Tags
+        list: true
         type: string
       - name: excerpt
         label: Excerpt
-        type: text
         description: >-
           A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
+        type: text
+        required: false
       - name: published
         label: Publish
         type: boolean
