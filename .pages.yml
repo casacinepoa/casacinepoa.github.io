@@ -89,6 +89,7 @@ content:
       - name: layout
         label: Layout
         default: page
+        type: select
         options:
           values:
             - value: default
