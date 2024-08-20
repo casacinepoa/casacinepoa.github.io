@@ -6,15 +6,23 @@ content:
     path: _posts
     icon: rss
     fields:
+      - name: layout
+        hidden: true
+        type: string
+        default: "post"
       - name: title
         label: Title
         required: true
-        type: text
-        options:
-          rows: 1
+        type: string
       - name: body
         label: Body
         required: true
         type: rich-text
+      - name: excerpt
+        label: Excerpt
+        description: >-
+          A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
+        type: text
+        required: false
         
     
