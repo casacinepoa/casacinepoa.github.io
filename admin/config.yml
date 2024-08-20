@@ -1,6 +1,6 @@
 # https://www.netlifycms.org/docs/configuration-options/
 backend:
-  name: github # Netlify’s Git Gateway connects to Git provider’s API
+  name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   repo: casacinepoa/casacinepoa.github.io
   branch: main # Branch to update (master by default)
   # site_domain: casacinepoa.com.br
