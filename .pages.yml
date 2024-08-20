@@ -14,6 +14,29 @@ content:
         label: Title
         required: true
         type: string
+      - name: date
+        label: Date
+        type: date
+        options:
+          time: true
+        description: >-
+          The publication date for this post.
+      - name: author
+        label: Author
+        type: select
+        default: casa
+        options:
+          values:
+            - value: casa
+              label: A Casa
+            - value: ana
+              label: Ana Luíza Azevedo
+            - value: giba
+              label: Giba Assis Brasil
+            - value: jorge
+              label: Jorge Furtado
+            - value: nora
+              label: Nora Goulart
       - name: body
         label: Body
         required: true
