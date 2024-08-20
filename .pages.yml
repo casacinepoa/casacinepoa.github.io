@@ -4,7 +4,7 @@ content:
     label: Blog
     type: collection
     path: _posts
-    icon: rss
+    icon: notebook-text
     fields:
       - name: layout
         hidden: true
@@ -68,10 +68,86 @@ content:
       fields:
         - title
         - date
-        - author.name
-        - published
+        - author
       primary: title
       sort: date
       default:
         sort: date
         order: desc
+  - name: page
+    label: Pages
+    type: collection
+    path: _pages
+    icon: file-type-2
+    view:
+      fields: title
+      primary: title
+      sort: title
+    fields:
+      - name: layout
+        label: Layout
+        default: page
+        options:
+          values:
+            - value: default
+              label: No Layout
+            - value: page
+              label: Simple Page
+            - value: about
+              label: About Page
+            - value: archive
+              label: Archives Page
+            - value: contact
+              label: Contact Page
+            - value: post
+              label: Blog Post
+            - value: project
+              label: Project Page
+            - value: lists/films
+              label: Film List
+            - value: lists/posts
+              label: Posts List
+            - value: lists/projects
+              label: Projects List
+            - value: blog
+              label: Blog
+            - value: author
+              label: Post Author Page
+
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: body
+        label: Body
+        type: rich-text
+        required: true
+      - name: permalink
+        label: Permalink
+        required: false
+        type: string
+        description: >-
+          The path for this page in your website, such as `example.com/page-title`
+      - name: image
+        label: Cover Image
+        type: image
+      - name: image_caption
+        label: Cover Image Caption
+        type: string
+      - name: excerpt
+        label: Excerpt
+        type: text
+        description: >-
+          A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
+      - name: published
+        label: Publish
+        type: boolean
+        default: true
+        description: >-
+          Set this to true to publish it in your website.
+      - name: redirect_from
+        label: Original URL
+        default: null
+        type: string
+        description: >-
+          The path to this page in the `archive`. If set, it'll handle redirects from the old path to the new one.
