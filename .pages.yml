@@ -18,6 +18,7 @@ content:
         label: Date
         type: date
         options:
+          format: "yyyy-MM-dd' 'HH:mm:ss"
           time: true
         description: >-
           The publication date for this post.
@@ -54,17 +55,15 @@ content:
       - name: published
         label: Publish
         type: boolean
-        default: false
+        default: true
         description: >-
           Set this to true to publish it in your website.
       - name: redirect_from
         label: Original URL
         default: null
-        widget: string
+        type: string
         description: >-
           The path to this page in the `archive`. If set, it'll handle redirects from the old path to the new one.
-    
-
     view:
       fields:
         - title
