@@ -18,6 +18,7 @@ content:
         label: Date
         type: date
         options:
+          format: "YYYY-MM-DD HH:mm:ss"
           time: true
         description: >-
           The publication date for this post.
@@ -41,11 +42,20 @@ content:
         label: Body
         required: true
         type: rich-text
+      - name: tags
+        label: Tags
+        
       - name: excerpt
         label: Excerpt
         description: >-
           A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
         type: text
         required: false
+      - name: published
+        label: Publish
+        type: boolean
+        default: false
+        description: >-
+          Set this to true to publish it in your website.
         
     
