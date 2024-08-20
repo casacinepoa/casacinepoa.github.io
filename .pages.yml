@@ -9,5 +9,11 @@ content:
       - name: title
         label: Title
         required: true
+        options:
+          rows: 1
+      - name: body
+        label: Body
+        required: true
+        type: rich-text
         
     
