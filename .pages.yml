@@ -9,6 +9,7 @@ content:
       - name: title
         label: Title
         required: true
+        type: text
         options:
           rows: 1
       - name: body
