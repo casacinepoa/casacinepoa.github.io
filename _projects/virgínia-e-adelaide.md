@@ -28,9 +28,7 @@ details:
       Sophie Charlotte (Adelheid Koch)
   - title: VEJA MAIS
     content: |-
-      
-
-      * Créditos completos
+      * [Créditos completos](/filmes/virginia-e-adelaide/creditos-completos/)
       * [Roteiro](/uploads/virginia-e-adelaide-rot.pdf)
       * [IMDb](https://www.imdb.com/title/tt32831747)
       * Portal do Cinema RS
