@@ -94,13 +94,13 @@ collections:
         required: false
         hint: >-
           Uma lista de tópicos separados por vírgulas. Se adicionadas, a notícia aperecerá na página de posts com essa tag.
-      - label: Caminho original
-        name: redirect_from
-        default: null
-        widget: string
-        required: false
-        hint: >-
-          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+      # - label: Caminho original
+      #   name: redirect_from
+      #   default: null
+      #   widget: string
+      #   required: false
+      #   hint: >-
+      #     O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: page
     label: Páginas
     label_singular: Página
@@ -150,42 +150,42 @@ collections:
         required: false
         hint: >-
           Exibido em resultados de busca. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 160 caracteres para exibir o resumo inteiro.
-      - label: Caminho original
-        name: redirect_from
-        default: null
-        widget: string
-        required: false
-        hint: >-
-          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+      # - label: Caminho original
+      #   name: redirect_from
+      #   default: null
+      #   widget: string
+      #   required: false
+      #   hint: >-
+      #     O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
       - label: Layout
         name: layout
         widget: select
         default: "page"
         options:
-        - label: Sem layout
-          value: default
-        - label: Página simples
-          value: page
-        - label: Página "Sobre"
-          value: about
-        - label: Página de arquivo
-          value: archive
-        - label: Página de contato
-          value: contact
-        - label: Post de blog
-          value: post
-        - label: Página de projeto
-          value: project
-        - label: Lista de filmes
-          value: lists/films
-        - label: Lista de posts
-          value: lists/posts
-        - label: Lista de projetos
-          value: lists/projects
-        - label: Blog
-          value: blog
-        - label: Autor do blog
-          value: author
+          - label: Sem layout
+            value: default
+          - label: Página simples
+            value: page
+          - label: Página "Sobre"
+            value: about
+          - label: Página de arquivo
+            value: archive
+          - label: Página de contato
+            value: contact
+          - label: Post de blog
+            value: post
+          - label: Página de projeto
+            value: project
+          - label: Lista de filmes
+            value: lists/films
+          - label: Lista de posts
+            value: lists/posts
+          - label: Lista de projetos
+            value: lists/projects
+          - label: Blog
+            value: blog
+          - label: Autor do blog
+            value: author
   - name: news
     label: Notícias
     label_singular: Notícia
@@ -223,13 +223,13 @@ collections:
         required: false
         hint: >-
           Uma lista de tópicos separados por vírgulas. Se adicionadas, a notícia aperecerá na página de posts com essa tag.
-      - label: Caminho original
-        name: redirect_from
-        widget: string
-        required: false
-        default: null
-        hint: >-
-          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+      # - label: Caminho original
+      #   name: redirect_from
+      #   widget: string
+      #   required: false
+      #   default: null
+      #   hint: >-
+      #     O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: essays
     label: Textos
     label_singular: Texto
@@ -281,13 +281,13 @@ collections:
         name: date
         widget: datetime
         format: "YYYY-MM-DD HH:mm:ss"
-      - label: Caminho original
-        name: redirect_from
-        default: null
-        widget: string
-        required: false
-        hint: >-
-          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+      # - label: Caminho original
+      #   name: redirect_from
+      #   default: null
+      #   widget: string
+      #   required: false
+      #   hint: >-
+      #     O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: projects
     label: Filmes
     label_singular: Filme
@@ -300,36 +300,36 @@ collections:
     editor:
       preview: false
     view_filters:
-    - label: "Longas"
-      field: category
-      pattern: "Longas-metragens"
-    - label: "Coproduções"
-      field: category
-      pattern: "Coproduções"
-    - label: "Médias"
-      field: category
-      pattern: "Médias-metragens"
-    - label: "Curtas"
-      field: category
-      pattern: "Curtas-metragens"
-    - label: "Séries"
-      field: category
-      pattern: "Séries"
-    - label: "Origens"
-      field: category
-      pattern: "Origens"
-    - label: "Distribuição"
-      field: category
-      pattern: "Distribuição"
-    - label: "Coleções"
-      field: category
-      pattern: "Coleções"
-    - label: "Projetos"
-      field: category
-      pattern: "Projetos"
-    - label: "Episódios"
-      field: category
-      pattern: "Episódios"
+      - label: "Longas"
+        field: category
+        pattern: "Longas-metragens"
+      - label: "Coproduções"
+        field: category
+        pattern: "Coproduções"
+      - label: "Médias"
+        field: category
+        pattern: "Médias-metragens"
+      - label: "Curtas"
+        field: category
+        pattern: "Curtas-metragens"
+      - label: "Séries"
+        field: category
+        pattern: "Séries"
+      - label: "Origens"
+        field: category
+        pattern: "Origens"
+      - label: "Distribuição"
+        field: category
+        pattern: "Distribuição"
+      - label: "Coleções"
+        field: category
+        pattern: "Coleções"
+      - label: "Projetos"
+        field: category
+        pattern: "Projetos"
+      - label: "Episódios"
+        field: category
+        pattern: "Episódios"
     description: >-
       Os projetos ou os filmes. Dependendo da categoria, eles são exibidos em sua lista respectiva.
     fields:
@@ -345,7 +345,7 @@ collections:
         widget: list
         summary: "{{fields.info}}"
         minimize_collapsed: true
-        field: {name: info, widget: string}
+        field: { name: info, widget: string }
         required: false
       - label: Categoria
         name: category
@@ -401,13 +401,13 @@ collections:
           - label: Conteúdo
             name: content
             widget: markdown
-      - label: Caminho original
-        name: redirect_from
-        default: null
-        widget: string
-        required: false
-        hint: >-
-          O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
+      # - label: Caminho original
+      #   name: redirect_from
+      #   default: null
+      #   widget: string
+      #   required: false
+      #   hint: >-
+      #     O caminho original desse conteúdo no site antigo. Útil para criarmos um redirecionamento automático e evitarmos links quebrados no site.
   - name: menu
     label: Menus
     label_singular: Menu
@@ -516,21 +516,21 @@ collections:
     description: >-
       As pessoas envolvidas na Casa, sejam os sócios, funcionários, equipe e elenco.
     view_filters:
-    - label: "Sócios"
-      field: category
-      pattern: "socios"
-    - label: "Funcionários"
-      field: category
-      pattern: "funcionarios"
-    - label: "Equipes"
-      field: category
-      pattern: "equipes"
-    - label: "Elencos"
-      field: category
-      pattern: "elencos"
-    - label: "Ex-Sócios"
-      field: category
-      pattern: "passado"
+      - label: "Sócios"
+        field: category
+        pattern: "socios"
+      - label: "Funcionários"
+        field: category
+        pattern: "funcionarios"
+      - label: "Equipes"
+        field: category
+        pattern: "equipes"
+      - label: "Elencos"
+        field: category
+        pattern: "elencos"
+      - label: "Ex-Sócios"
+        field: category
+        pattern: "passado"
     fields:
       - label: Nome
         name: title
