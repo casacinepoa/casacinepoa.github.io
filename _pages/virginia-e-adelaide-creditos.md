@@ -301,10 +301,10 @@ NA ALEMANHA
   / Photo Archive #02769. United States Holocaust Memorial Museum,\
   / courtesy of Francisca Verdoner Kan.\
   / Copyright of United States Holocaust Memorial Museum.
-* A man surveys the damage to the Lichtenstein leather goods store,
-  / after the Kristallnacht pogrom, Photo Archive #73909,
-  / United States Holocaust Memorial Museum,
-  / courtesy of National Archives and Records Administration,
+* A man surveys the damage to the Lichtenstein leather goods store,\
+  / after the Kristallnacht pogrom, Photo Archive #73909,\
+  / United States Holocaust Memorial Museum,\
+  / courtesy of National Archives and Records Administration,\
   / College Park, Public Domain.
 * School children pledging their allegiance to the flag,\
   / Prints & Photographs Division, FSA/OWI Collection,\
