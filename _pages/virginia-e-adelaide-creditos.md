@@ -100,9 +100,9 @@ Carregadores / Marcos Rodrigues
 Recepção / Simone Guedes
 Serviços Gerais / Joelma Machado Leão
 
-**EQUIPE DE ALIMENTAÇÃO: ALIMENSET**
-/ Adriana Mercanti
-/ Brenda Grazziani
+**EQUIPE DE ALIMENTAÇÃO: ALIMENSET**\
+/ Adriana Mercanti\
+/ Brenda Grazziani\
 / William Pureza
 
 Motoristas : Emerson Assumpção
