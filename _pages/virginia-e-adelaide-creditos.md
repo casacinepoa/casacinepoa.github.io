@@ -489,40 +489,43 @@ OUTROS LIVROS
 
 **AGRADECIMENTOS DA PRODUÇÃO** 
 
-Bruno Pavan
-Coletivo Macumba Lab
-Luan Cutti
-Maria Salete da Silva
-Wilton Martins (Locall)
+Bruno Pavan\
+Coletivo Macumba Lab\
+Luan Cutti\
+Maria Salete da Silva\
+Wilton Martins (Locall)\
 Vinicius Corso
 
 **AGRADECIMENTOS DA ARTE**
 
-Bruna Giuliatti
-Elena Sassi
-Jasmin Tapetes
-Leonardo Reis
-Rita Zart
-Tiago Bello
+Bruna Giuliatti\
+Elena Sassi\
+Jasmin Tapetes\
+Leonardo Reis\
+Rita Zart\
+Tiago Bello\
 Tomaz Borges
 
 **AGRADECIMENTOS DA DIREÇÃO** 
 
-Dra. Carmem Mion, médica e psicanalista,
-/ analista didata e atual presidente da SBPSP
-Cassio Rotenberg, psicanalista,
-/ membro e atual diretor financeiro efetivo da SBPSP
-Irene Pereira, documentarista do CDM da SBPSP
-Janaína Damasceno
-Jorge Bodanzky
-Natalia Zacchi, tradutora das cartas de Adelaide
-Regina Lacorte Gianesi, psicanalista,
-/ membro associado da SBPSP
-/ e atual coordenadora do CDM da SBPSP
-Yone Vitorello Castelo, psicanalista,
-/ membro associado da SBPSP
+Dra. Carmem Mion, médica e psicanalista,\
+/ analista didata e atual presidente da SBPSP\
+Cassio Rotenberg, psicanalista,\
+/ membro e atual diretor financeiro efetivo da SBPSP\
+Irene Pereira, documentarista do CDM da SBPSP\
+Janaína Damasceno\
+Jorge Bodanzky\
+Natalia Zacchi, tradutora das cartas de Adelaide\
+Regina Lacorte Gianesi, psicanalista,\
+/ membro associado da SBPSP\
+/ e atual coordenadora do CDM da SBPSP\
+Yone Vitorello Castelo, psicanalista,\
+/ membro associado da SBPSP\
 / e co-coordenadora do CDM
 
 **HISTÓRICO**
 
-Filmado em Porto Alegre, de 21/11 a 02/12 de 2023. Montado em Avid, de 06/12/2023 até 05/04/2024. Mixagem final em 24/07, matriz DCP aprovada em 02/08/2024. Pré-estreia no Festival de Gramado, 16/08/2024.
+Filmado em Porto Alegre, de 21/11 a 02/12 de 2023.\
+Montado em Avid, de 06/12/2023 até 05/04/2024.\
+Mixagem final em 24/07, matriz DCP aprovada em 02/08/2024.\
+Pré-estreia no Festival de Gramado, 16/08/2024.
