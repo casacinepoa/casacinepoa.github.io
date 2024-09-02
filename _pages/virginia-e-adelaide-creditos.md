@@ -167,54 +167,54 @@ Produção / Cris Caldas
 
 **ASSESSORIA DE IMPRENSA**
 
-Produção / Bruna Paulin
-Lançamento / PRIMEIRO PLANO
-/ Anna Luiza Muller
+Produção / Bruna Paulin\
+Lançamento / PRIMEIRO PLANO\
+/ Anna Luiza Muller\
 / Bia Hecht
 
 **EQUIPE H20 FILMS**
 
-/ Sandro Rodrigues
-/ Jorge Peregrino
-/ Lúcia Burmeister
-/ Giuliana Garboggini
-/ Nathalia Araujo
-/ Selma Regina
-/ Kelle Coelho
-/ Priscila de Oliveira
-/ Edson Pimentel
-/ Marcelo Duarte
-/ Juliana Ribas
-/ Fernanda Costa
-/ Marcela Fecury
-/ Aline Ferreira
-/ Charles Freitas
+/ Sandro Rodrigues\
+/ Jorge Peregrino\
+/ Lúcia Burmeister\
+/ Giuliana Garboggini\
+/ Nathalia Araujo\
+/ Selma Regina\
+/ Kelle Coelho\
+/ Priscila de Oliveira\
+/ Edson Pimentel\
+/ Marcelo Duarte\
+/ Juliana Ribas\
+/ Fernanda Costa\
+/ Marcela Fecury\
+/ Aline Ferreira\
+/ Charles Freitas\
 / Marcio de Azevedo
 
 **FINALIZAÇÃO DE IMAGEM - FORNO FX**
 
-Supervisão de Pós-Produção / Pedro de Lima Marques
-Coordenação de Pós-Produção / Victoria Ketzer
-Correção e Gradação de Cor / André Wofchuk
-Composição de Efeitos Visuais / Pedro de Lima Marques
-Motion Graphics / Pedro de Lima Marques
-/ Sofia Bidarte
-Assistentes de Pós-Produção / Laura Canavezi
+Supervisão de Pós-Produção / Pedro de Lima Marques\
+Coordenação de Pós-Produção / Victoria Ketzer\
+Correção e Gradação de Cor / André Wofchuk\
+Composição de Efeitos Visuais / Pedro de Lima Marques\
+Motion Graphics / Pedro de Lima Marques\
+/ Sofia Bidarte\
+Assistentes de Pós-Produção / Laura Canavezi\
 / Sofia Bidarte
 
 **PÓS-PRODUÇÃO DE SOM - KF STUDIOS**
 
-Desenho de Som / Kiko Ferraz
+Desenho de Som / Kiko Ferraz\
 / Ricardo Costa
 
-Mixagem / Ricardo Costa
-Edição de Diálogos / Ricardo Costa
-Edição de Sons Ambientes / Kiko Ferraz
-/ Leonardo Mocca
-Edição de Efeitos Sonoros / Leonardo Mocca
-Artista de Foley / Felipe Burger Marques
-Gravação e Edição de Foley / Renato Galimberti
-Pré-Mixagem de Foley / Leonardo Mocca
+Mixagem / Ricardo Costa\
+Edição de Diálogos / Ricardo Costa\
+Edição de Sons Ambientes / Kiko Ferraz\
+/ Leonardo Mocca\
+Edição de Efeitos Sonoros / Leonardo Mocca\
+Artista de Foley / Felipe Burger Marques\
+Gravação e Edição de Foley / Renato Galimberti\
+Pré-Mixagem de Foley / Leonardo Mocca\
 Coordenação de Pós-Produção de Som / Lísia Faccin
 
 **EQUIPE DE MÚSICA**
@@ -223,10 +223,10 @@ Trilha Original e Execução / Maurício Nader
 
 Andrea Cavalheiro / Voz em "Chequerê"(Sinhô)
 
-Antônio Luz Nader / Violão 7 cordas em
-"Chequerê"(Sinhô)
-"Corta Jaca" (Chiquinha Gonzaga)
-"Ciclos" (Maurício Nader)
+Antônio Luz Nader / Violão 7 cordas em\
+"Chequerê"(Sinhô)\
+"Corta Jaca" (Chiquinha Gonzaga)\
+"Ciclos" (Maurício Nader)\
 "A carta" (Antônio Luz Nader)
 
 Pedro Callegaro / Cavaquinho em "Chequerê"(Sinhô)
@@ -235,9 +235,9 @@ Vitor Peixoto / Piano em "Gnossienne # 1" (Erik Satie)
 
 **CESSÃO DE DIREITOS**
 
-Fonograma: "You don't know me"
-Intérprete: Caetano Veloso
-Autor: Caetano Veloso
+Fonograma: "You don't know me"\
+Intérprete: Caetano Veloso\
+Autor: Caetano Veloso\
 Warner Chappell Music Brasil
 
 **MATERIAL DE ARQUIVO** 
