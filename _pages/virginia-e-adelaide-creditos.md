@@ -1,7 +1,6 @@
 ---
 title: Virgínia e Adelaide - créditos
 permalink: /filmes/virginia-e-adelaide/creditos-completos/
-redirect_from: ""
 layout: page
 ---
 **ELENCO**
