@@ -6,98 +6,98 @@ layout: page
 ---
 **ELENCO**
 
-Gabriela Correa (Virgínia Bicudo)
+Gabriela Correa (Virgínia Bicudo)\
 Sophie Charlotte (Adelaide Koch)
 
 **EQUIPE DE DIREÇÃO**
 
-Direção / Yasmin Thayná
+Direção / Yasmin Thayná\
 / Jorge Furtado
 
-Assistência de Direção / Ana Moura
+Assistência de Direção / Ana Moura\
 Continuidade / Teresa Assis Brasil
 
 **EQUIPE DE ROTEIRO**
 
-Roteiro e Pesquisa / Jorge Furtado
-Colaboração no Roteiro / Yasmin Thayná
+Roteiro e Pesquisa / Jorge Furtado\
+Colaboração no Roteiro / Yasmin Thayná\
 Assistência de Pesquisa / Diego de Godoy
 
 **EQUIPE DE PRODUÇÃO**
 
-Produção Executiva / Nora Goulart
+Produção Executiva / Nora Goulart\
 Direção de Produção / Jeferson Silva
 
-Produtora Associada / Ana Luiza Azevedo
-1ª Assistente de Produção Executiva / Naomi Luana Siviero
+Produtora Associada / Ana Luiza Azevedo\
+1ª Assistente de Produção Executiva / Naomi Luana Siviero\
 2º Assistente de Produção Executiva / João Quaresma
 
-Financeiro / Anisio Guedes
+Financeiro / Anisio Guedes\
 Controladoria / Tanize Cardoso
 
-Assistentes de Produção / Eduardo Piotroski
-/ Marcelo "Tchaca" Baieski
-Platô / Thiago Luiz Machado "Vermelho"
+Assistentes de Produção / Eduardo Piotroski\
+/ Marcelo "Tchaca" Baieski\
+Platô / Thiago Luiz Machado "Vermelho"\
 Ajudante de Set / Lucas do Amaral
 
 **EQUIPE DE FOTOGRAFIA**
 
 Direção de Fotografia / Lívia Pasqual
 
-1º Assistente de Câmara / Brent Behncke
-2º Assistente de Câmara / Lucas Heitor
-/ Nicole Vaz
-Video Assist / Beatriz Potenza
-Logger / Jonatas Rubert
+1º Assistente de Câmara / Brent Behncke\
+2º Assistente de Câmara / Lucas Heitor\
+/ Nicole Vaz\
+Video Assist / Beatriz Potenza\
+Logger / Jonatas Rubert\
 Fotografia Still / Fábio Rebelo
 
 **EQUIPE DE SOM**
 
-Som Direto / Rafael Rodrigues
+Som Direto / Rafael Rodrigues\
 Microfonista / Bárbara Lima
 
 **EQUIPE DE ARTE**
 
-Direção de Arte / Vanessa Rodrigues
-/ Richard Tavares
-Figurino / Rosângela Cortinhas
-Caracterização / Jojo Silveira
+Direção de Arte / Vanessa Rodrigues\
+/ Richard Tavares\
+Figurino / Rosângela Cortinhas\
+Caracterização / Jojo Silveira\
 / Juliane Senna
 
-Assistente de Arte / Alice Furtado
-Assistente de Figurino / Cacá Velasco
-Produção de Objetos / Clarissa Ramires
-Assistência de Produção de Objetos / Caroline Hermes
-Produção de Locação / Zé Alexandre Freitas
-Contrarregragem / Victória Melgarejo
-Cenotécnica / Anderson Conceição
-Assistente de Cenotécnica / Rodrigo Schmidt
-Ilustrações Originais / Lorenzo Lermen
+Assistente de Arte / Alice Furtado\
+Assistente de Figurino / Cacá Velasco\
+Produção de Objetos / Clarissa Ramires\
+Assistência de Produção de Objetos / Caroline Hermes\
+Produção de Locação / Zé Alexandre Freitas\
+Contrarregragem / Victória Melgarejo\
+Cenotécnica / Anderson Conceição\
+Assistente de Cenotécnica / Rodrigo Schmidt\
+Ilustrações Originais / Lorenzo Lermen\
 Arte Gráfica / Mitti Mendonça
 
-Produção Virtual de Cenários: ASSESSORIA TÉCNICA BLUEDOT VP
+Produção Virtual de Cenários: ASSESSORIA TÉCNICA BLUEDOT VP\
 Modelagem de Cenários: HI FI V SOLUÇÕES CRIATIVAS
 
 **EQUIPE DE ELÉTRICA E MAQUINÁRIA**
 
-Chefe de Elétrica / Guilherme Kroeff
-Assistência de Elétrica / Anderson Dias
-Maquinista / Daniel Tavares
-Assistente de Maquinária / Bruna Canto
-Ajudante de Elétrica e Maquinária / Nicolas Huf
+Chefe de Elétrica / Guilherme Kroeff\
+Assistência de Elétrica / Anderson Dias\
+Maquinista / Daniel Tavares\
+Assistente de Maquinária / Bruna Canto\
+Ajudante de Elétrica e Maquinária / Nicolas Huf\
 Geradorista / Leandro Mercanti
 
 **APOIO DE SET**
 
-Segurança / AMIM VIGILÂNCIA PATRIMONIAL
-Serviços Gerais: SAFETY PORTARIA E LIMPEZA
-Carregadores / Marcos Rodrigues
-/ Rodrigo Correa
+Segurança / AMIM VIGILÂNCIA PATRIMONIAL\
+Serviços Gerais: SAFETY PORTARIA E LIMPEZA\
+Carregadores / Marcos Rodrigues\
+/ Rodrigo Correa\
 / Vitor Segato de Vargas
 
 **EQUIPE DA BASE - CASA DE CINEMA**
 
-Recepção / Simone Guedes
+Recepção / Simone Guedes\
 Serviços Gerais / Joelma Machado Leão
 
 **EQUIPE DE ALIMENTAÇÃO: ALIMENSET**\
@@ -105,64 +105,64 @@ Serviços Gerais / Joelma Machado Leão
 / Brenda Grazziani\
 / William Pureza
 
-Motoristas : Emerson Assumpção
-/ Fabio Catalane Arocha
-/ Hugo Biolo Guimarães
-/ João Luiz Barbosa "Júnior"
-/ Leandro Mercanti
-/ Lucas Mendes
-/ Marceli Bassoa
-/ Mauro Rebello
+Motoristas : Emerson Assumpção\
+/ Fabio Catalane Arocha\
+/ Hugo Biolo Guimarães\
+/ João Luiz Barbosa "Júnior"\
+/ Leandro Mercanti\
+/ Lucas Mendes\
+/ Marceli Bassoa\
+/ Mauro Rebello\
 / Vitória Reimundo
 
 **EQUIPE DE MONTAGEM E PÓS-PRODUÇÃO**
 
-Montagem / Giba Assis Brasil, Edt.
+Montagem / Giba Assis Brasil, Edt.\
 / Jonatas Rubert, Edt.
 
-Assistência de Montagem / Valentina Ritter Hickmann
-Estagiária de Montagem / Luzia Saraiva
+Assistência de Montagem / Valentina Ritter Hickmann\
+Estagiária de Montagem / Luzia Saraiva\
 Gerenciamento de Licenças / João Quaresma
 
-Acessibilidade / PRISMA PRODUÇÕES E ACESSIBILIDADE
-/ Natália Polla
-/ Júlia Heerdt
-Audiodescritora / Márcia Caspary
-Intérprete de Libras / Nathalia Holleben Lesnik
+Acessibilidade / PRISMA PRODUÇÕES E ACESSIBILIDADE\
+/ Natália Polla\
+/ Júlia Heerdt\
+Audiodescritora / Márcia Caspary\
+Intérprete de Libras / Nathalia Holleben Lesnik\
 Consultor de Audiodescrição / André Martins Campelo
 
-Tradução / Gabriela Burck (Espanhol)
+Tradução / Gabriela Burck (Espanhol)\
 / GERTUM BECKER TRADUÇÃO SS (Inglês)
 
 **EQUIPE GLOBO FILMES**
 
-Head / Simone Leandro de Oliveira
-Conteúdo / Carolina Rapp
-/ Flávia Naliato
-/ Vinícius Lobo
-/ Vinícius Neris
-Marketing e Digital / Ruth Zagury Levy Epstein
-/ Gabriel Coutinho
-/ Larissa Paparana
-/ Otávio Monteiro
-/ Eduarda Almeida
-Planejamento e Negócios / Tais Martins
-/ Joana Frenkel
-/ Maria Isabel Zaranza Cerqueira
-/ Gabriel Machado
-/ Clara Camera
-/ Nathalie Viana
-Assessoria Jurídica / Gustavo Surerus
-/ Beatriz Vianna
-/ Luciano Santos
+Head / Simone Leandro de Oliveira\
+Conteúdo / Carolina Rapp\
+/ Flávia Naliato\
+/ Vinícius Lobo\
+/ Vinícius Neris\
+Marketing e Digital / Ruth Zagury Levy Epstein\
+/ Gabriel Coutinho\
+/ Larissa Paparana\
+/ Otávio Monteiro\
+/ Eduarda Almeida\
+Planejamento e Negócios / Tais Martins\
+/ Joana Frenkel\
+/ Maria Isabel Zaranza Cerqueira\
+/ Gabriel Machado\
+/ Clara Camera\
+/ Nathalie Viana\
+Assessoria Jurídica / Gustavo Surerus\
+/ Beatriz Vianna\
+/ Luciano Santos\
 Apoio Administrativo / Rafael Maia Côrtes
 
 **EQUIPE GLOBO NEWS**
 
-Direção / Vinicius Menezes
-Chefe de Redação / Carlos Jardim
-Chefe de Conteúdo e Produção / Andréa Escobar
-Supervisão Editorial / Ledu Garcia
+Direção / Vinicius Menezes\
+Chefe de Redação / Carlos Jardim\
+Chefe de Conteúdo e Produção / Andréa Escobar\
+Supervisão Editorial / Ledu Garcia\
 Produção / Cris Caldas
 
 **ASSESSORIA DE IMPRENSA**
