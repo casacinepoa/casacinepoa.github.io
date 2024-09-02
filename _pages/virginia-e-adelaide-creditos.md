@@ -377,114 +377,114 @@ TEXTOS DE VIRGÍNIA E ADELAIDE
   / Adelaide Koch.\
   / Conferência feita na Secção de Neuro-Psiquiatria\
   / da Associação Paulista de Medicina em 05/10/1945.
-* A criança à luz da psicanálise.
-  / Adelaide Koch,
+* A criança à luz da psicanálise.\
+  / Adelaide Koch,\
   / Palestra, Nossa Voz, SP, 12/05/1949.
-* Reprogressão nas doenças psicossomáticas.
-  / Adelaide Koch.
+* Reprogressão nas doenças psicossomáticas.\
+  / Adelaide Koch.\
   / Revista Brasileira de Psicanálise, Vol. 2 N.3.
 
 ENTREVISTAS
 
-* Entrevista de Adelaide Koch a Patrícia Galvão (Pagu),
+* Entrevista de Adelaide Koch a Patrícia Galvão (Pagu),\
   / Jornal de Notícias, 26/03/1950.
-* Entrevista de Virgínia a Anna Verônica Mautner e Luiz Meyer,
+* Entrevista de Virgínia a Anna Verônica Mautner e Luiz Meyer,\
   / Projeto Memória da SBPSP, outubro de 1983.
-* Entrevista de Virginia a Marcos Chor Maio,
-  / em: "Educação sanitária, estudos de atitudes raciais
-  / e psicanálise na trajetória de Virgínia Leone Bicudo",
-  / entrevista realizada em 1995.
+* Entrevista de Virginia a Marcos Chor Maio,\
+  / em: "Educação sanitária, estudos de atitudes raciais\
+  / e psicanálise na trajetória de Virgínia Leone Bicudo",\
+  / entrevista realizada em 1995.\
   / Publicada no Caderno Pagu, dez. 2010.
-* Depoimento de Virgínia a Cláudio João Tognolli,
+* Depoimento de Virgínia a Cláudio João Tognolli,\
   / Folha de São Paulo, 2004, p. 6.
-* Virgínia Leone Bicudo - 110 anos,
-  / Entrevista com Virginia Bicudo,
+* Virgínia Leone Bicudo - 110 anos,\
+  / Entrevista com Virginia Bicudo,\
   / direção de Olívio Tavares de Araújo.
 
 TRABALHOS SOBRE VIRGÍNIA E ADELAIDE
 
-* Os segredos de Virgínia:
-  / estudos de Atitudes Raciais em São Paulo (1945-1955),
+* Os segredos de Virgínia:\
+  / estudos de Atitudes Raciais em São Paulo (1945-1955),\
   / Janaina Damaceno Gomes.
-* Pioneirismo e memória: uma sociobiografia
-  / da socióloga negra Virgínia Leone Bicudo,
+* Pioneirismo e memória: uma sociobiografia\
+  / da socióloga negra Virgínia Leone Bicudo,\
   / Gabriela da Costa Silva.
-* Uma história brasileira,
-  / Maria Angela Gomes Moretzsohn,
-  / Divisão de Documentação e Pesquisa
+* Uma história brasileira,\
+  / Maria Angela Gomes Moretzsohn,\
+  / Divisão de Documentação e Pesquisa\
   / da História da Psicanálise da SBPSP.
-* Virginia Bicudo, uma história da psicanálise brasileira,
-  / Maria Helena Indig Teperman e Sonia Knopf,
+* Virginia Bicudo, uma história da psicanálise brasileira,\
+  / Maria Helena Indig Teperman e Sonia Knopf,\
   / Jornal de Psicanálise n.44, São Paulo, 2011.
-* Educação sanitária, estudos de atitudes raciais
-  / e psicanálise na trajetória de Virgínia Leone Bicudo,
+* Educação sanitária, estudos de atitudes raciais\
+  / e psicanálise na trajetória de Virgínia Leone Bicudo,\
   / entrevista, Marcos Chor Maio.
-* Pelas trilhas de Virgínia Bicudo:
-  / psicanálise e relações raciais em São Paulo,
-  / Ana Paula Musatti Braga,
+* Pelas trilhas de Virgínia Bicudo:\
+  / psicanálise e relações raciais em São Paulo,\
+  / Ana Paula Musatti Braga,\
   / Revista Lacuna, 2018.
-* Modernismo, mulher e psicanálise - Adelheid Koch,
-  / Virgínia Bicudo, Lygia Amaral e Judith Andreucci:
-  / pioneiras da psicanálise em São Paulo.
-  / Teresa Rocha Leite Haudenschild.
+* Modernismo, mulher e psicanálise - Adelheid Koch,\
+  / Virgínia Bicudo, Lygia Amaral e Judith Andreucci:\
+  / pioneiras da psicanálise em São Paulo.\
+  / Teresa Rocha Leite Haudenschild.\
   / Revista Ide, vol.38 n.60, São Paulo, 2015.
-* Reabilitando Virgínia Leone Bicudo.
+* Reabilitando Virgínia Leone Bicudo.\
   / Mário Augusto Medeiros da Silva.
-* Virgínia Leone Bicudo:
-  / Um capítulo da história da psicanálise brasileira.
-  / Carlos Cesar Marques Frausino.
+* Virgínia Leone Bicudo:\
+  / Um capítulo da história da psicanálise brasileira.\
+  / Carlos Cesar Marques Frausino.\
   / Revista Fronteiras Culturais.
-* Virgínia Bicudo e a psicanálise como lugar de escuta.
+* Virgínia Bicudo e a psicanálise como lugar de escuta.\
   / Christian Ingo Lenz Dunker.
-* A menina negra com o bebê branco no colo.
-  / Guilherme Gutman.
+* A menina negra com o bebê branco no colo.\
+  / Guilherme Gutman.\
   / Pontifícia Universidade Católica do Rio de Janeiro.
-* A historiografia sobre o movimento psicanalítico no Brasil.
+* A historiografia sobre o movimento psicanalítico no Brasil.\
   / Carmen Lucia Montechi Valladares de Oliveira.
-* Trajetórias da psicanálise paulista.
+* Trajetórias da psicanálise paulista.\
   / Carmen Lucia Montechi Valladares de Oliveira.
-* Pensamento Negro no Brasil #3 - Vírginia Bicudo.
+* Pensamento Negro no Brasil #3 - Vírginia Bicudo.\
   / Kleber Amancio e Rita Dias.
-* Álbum de família: imagens, fontes e ideias
-  / da psicanálise em São Paulo.
-  / Leopoldo Nosek e outros.
+* Álbum de família: imagens, fontes e ideias\
+  / da psicanálise em São Paulo.\
+  / Leopoldo Nosek e outros.\
   / Ed. Casa do Psicólogo, São Paulo, 1994.
 
 JORNAIS E REVISTAS
 
-* Virginia participa do Primeiro
-  / Congresso Negro Brasileiro (1950).
-  / Correio Paulistano,
+* Virginia participa do Primeiro\
+  / Congresso Negro Brasileiro (1950).\
+  / Correio Paulistano,\
   / Acervo da Fundação Biblioteca Nacional - Brasil.
-* O racismo seletivo de Vargas.
+* O racismo seletivo de Vargas.\
   / Roberta Jansen, O Globo, 15/03/2008.
-* Primeiro congresso negro brasileiro.
-  / Correio Paulistano, 10/06/1950,
+* Primeiro congresso negro brasileiro.\
+  / Correio Paulistano, 10/06/1950,\
   / Acervo da Fundação Biblioteca Nacional - Brasil.
 
 OUTROS LIVROS
 
-* Oneirokritica: livro de análise se sonhos: livro V.
-  / Artemidoro de Daldis (século II d.C.).
-  / Organização A.G. D'Orange Ferreira.
+* Oneirokritica: livro de análise se sonhos: livro V.\
+  / Artemidoro de Daldis (século II d.C.).\
+  / Organização A.G. D'Orange Ferreira.\
   / São Paulo, Cultura Acadêmica - UNESP, 2014.
-* Negro preto como a noite (poemas).
-  / Lino Guedes,
+* Negro preto como a noite (poemas).\
+  / Lino Guedes,\
   / Santo Antônio, São Paulo, 1932.
-* Lino Guedes: seu tempo e seu perfil.
-  / Oswaldo Camargo,
+* Lino Guedes: seu tempo e seu perfil.\
+  / Oswaldo Camargo,\
   / São Paulo: Ciclo Contínuo Editorial, 2016.
-* O Holocausto, uma nova história.
-  / Laurence Rees,
+* O Holocausto, uma nova história.\
+  / Laurence Rees,\
   / Editora Vestígio, São Paulo, 2018.
-* Sonhos no terceiro reich.
-  / Charlotte Beradt,
+* Sonhos no terceiro reich.\
+  / Charlotte Beradt,\
   / Editora Três Estrelas, São Paulo, 2017.
-* O último justo.
-  / André Schwarz-Bar,
+* O último justo.\
+  / André Schwarz-Bar,\
   / Publicações Europa América, Lisboa, 1960.
-* É isto um homem?
-  / Primo Levi,
+* É isto um homem?\
+  / Primo Levi,\
   / Editora Rocco, São Paulo, 1988.
 
 **AGRADECIMENTOS DA PRODUÇÃO** 
