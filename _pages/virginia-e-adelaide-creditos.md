@@ -244,138 +244,138 @@ Warner Chappell Music Brasil
 
 * Fotografias de Virgínia Bicudo e Adelaide Koch
 * Correspondência entre Virgínia Bicudo e Adelaide Koch
-* Programa Radiofônico: "Nosso Mundo Mental",
+* Programa Radiofônico: "Nosso Mundo Mental",\
   / dirigido por Virgínia Bicudo, Rádio Excelsior, 1950.
-* Coleção Virgínia Bicudo e Adelheid Lucy Koch,
-  / Centro de Documentação e Memória,
-  / (CDM) "Maria Angela Gomes Moretzsohn",
-  / Sociedade Brasileira de Psicanálise de São Paulo (SBPSP):
-  / Carmen C. Mion - Presidente - SBPSP,
-  / Regina Lacorte Gianesi - Coordenadora - CDM - SBPSP,
+* Coleção Virgínia Bicudo e Adelheid Lucy Koch,\
+  / Centro de Documentação e Memória,\
+  / (CDM) "Maria Angela Gomes Moretzsohn",\
+  / Sociedade Brasileira de Psicanálise de São Paulo (SBPSP):\
+  / Carmen C. Mion - Presidente - SBPSP,\
+  / Regina Lacorte Gianesi - Coordenadora - CDM - SBPSP,\
   / Yone Vittorello Castelo - Co-coordenadora - CDM - SBPSP.
 
 NO BRASIL 
 
 * A Luta pelo Transporte em São Paulo (1952) - Acervo Jean Manzon.
-* Fotografias de escravizados em fazendas: Marc Ferrez,
+* Fotografias de escravizados em fazendas: Marc Ferrez,\
   / Coleção Gilberto Ferrez - Acervo Instituto Moreira Salles.
-* Registros da presidência de Getúlio Vargas:
-  / BR RJANRIO EH.0.FOT, PRP.1844/1,
-  / BR RJANRIO EH.0.FIL, CJI.5,
+* Registros da presidência de Getúlio Vargas:\
+  / BR RJANRIO EH.0.FOT, PRP.1844/1,\
+  / BR RJANRIO EH.0.FIL, CJI.5,\
   / BR RJANRIO EH.0.DSO, DIS.3 - Arquivo Nacional.
-* Registros dos integrantes da Frente Negra Brasileira,
+* Registros dos integrantes da Frente Negra Brasileira,\
   / Acervo da Fundação Biblioteca Nacional - Brasil.
-* Carmen Medeiros/Plínio Salgado e companheiros desfilando,
-  / e sendo saudados por outros integralistas
-  / 1935/AAB AIB 016/Acervo AIB-PRP - Delfos,
-  / Espaço de Documentação e Memória Cultural,
+* Carmen Medeiros/Plínio Salgado e companheiros desfilando,\
+  / e sendo saudados por outros integralistas\
+  / 1935/AAB AIB 016/Acervo AIB-PRP - Delfos,\
+  / Espaço de Documentação e Memória Cultural,\
   / Instituto de Cultura - PUCRS.
-* Recebendo passe para viajar,
-  / Museu da Imigração do Estado de São Paulo,
+* Recebendo passe para viajar,\
+  / Museu da Imigração do Estado de São Paulo,\
   / Arquivo Público do Estado de São Paulo.
-* Dirigível Graf Zeppelin no céu de São Paulo,
+* Dirigível Graf Zeppelin no céu de São Paulo,\
   / Theodor Preising.
-* Miguel Reale em uniforme da Ação Integralista Nacional,
-  / Jornal O Lince, autor desconhecido,
+* Miguel Reale em uniforme da Ação Integralista Nacional,\
+  / Jornal O Lince, autor desconhecido,\
   / Licenciado sob CC BY-SA 2.5.
 * Jornal Voz da Raça - Memorial da Democracia.
 
 NA ALEMANHA
 
-* Burning Synagogue in Baden-Baden;
-  / Fasanenstrasse synagogue in Berlin: Destroyed,
+* Burning Synagogue in Baden-Baden;\
+  / Fasanenstrasse synagogue in Berlin: Destroyed,\
   / April 16, 1941 - Cortesia de Leo Baeck Institute.
-* Registros da Noite dos Cristais:
-  / 1567/25; 503/8153; 1567/54; 3705/25; 7396/21; 3705/17;
+* Registros da Noite dos Cristais:\
+  / 1567/25; 503/8153; 1567/54; 3705/25; 7396/21; 3705/17;\
   / 15539 - Yad Vashem Photo Archive.
-* Students conducting dissection,
-  / Woman's Medical College of Pennsylvania Photograph Collection,
-  / p0396, 1890, Cortesia de Legacy Center,
+* Students conducting dissection,\
+  / Woman's Medical College of Pennsylvania Photograph Collection,\
+  / p0396, 1890, Cortesia de Legacy Center,\
   / Drexel University, College of Medicine.
-* Bad Harzburg, Jubelnde NSDAP-Anhänger,
-  / Bundesarchiv, Bild 102-12405,
-  / Licenciado sob CC-BY-SA 3.0 Germany,
+* Bad Harzburg, Jubelnde NSDAP-Anhänger,\
+  / Bundesarchiv, Bild 102-12405,\
+  / Licenciado sob CC-BY-SA 3.0 Germany,\
   / Southington, Connecticut.
-* School children pledging their allegiance to the flag,
-  / Prints & Photographs Division, FSA/OWI Collection,
-  / LC-DIG-fsa-8d35173 - Library of Congress.
-* Group portrait of Hilde and Gerrit Verdoner,
-  / with four bridesmaids on their wedding day.
-  / Photo Archive #02769. United States Holocaust Memorial Museum,
-  / courtesy of Francisca Verdoner Kan.
+* Group portrait of Hilde and Gerrit Verdoner,\
+  / with four bridesmaids on their wedding day.\
+  / Photo Archive #02769. United States Holocaust Memorial Museum,\
+  / courtesy of Francisca Verdoner Kan.\
   / Copyright of United States Holocaust Memorial Museum.
 * A man surveys the damage to the Lichtenstein leather goods store,
   / after the Kristallnacht pogrom, Photo Archive #73909,
   / United States Holocaust Memorial Museum,
   / courtesy of National Archives and Records Administration,
   / College Park, Public Domain.
-* View of the destroyed interior of the Hechingen synagogue,
-  / the day after Kristallnacht, Photo Archive #87449,
-  / United States Holocaust Memorial Museum,
-  / courtesy of Dr. Adolf Vees,
+* School children pledging their allegiance to the flag,\
+  / Prints & Photographs Division, FSA/OWI Collection,\
+  / LC-DIG-fsa-8d35173 - Library of Congress.
+* View of the destroyed interior of the Hechingen synagogue,\
+  / the day after Kristallnacht, Photo Archive #87449,\
+  / United States Holocaust Memorial Museum,\
+  / courtesy of Dr. Adolf Vees,\
   / Copyright of United States Holocaust Memorial Museum.
-* Portrait of a young couple standing on a street,
-  / in either Eisiskes or Vilna, Photo Archive #43193,
-  / United States Holocaust Memorial Museum,
-  / courtesy of Marsha Lederman,
+* Portrait of a young couple standing on a street,\
+  / in either Eisiskes or Vilna, Photo Archive #43193,\
+  / United States Holocaust Memorial Museum,\
+  / courtesy of Marsha Lederman,\
   / Copyright of United States Holocaust Memorial Museum.
-* Portrait of members of an extended Jewish family,
-  / at a family gathering, Photo Archive #08488,
-  / United States Holocaust Memorial Museum,
-  / courtesy of Kurt & Jill Berg Pauly,
+* Portrait of members of an extended Jewish family,\
+  / at a family gathering, Photo Archive #08488,\
+  / United States Holocaust Memorial Museum,\
+  / courtesy of Kurt & Jill Berg Pauly,\
   / Copyright of United States Holocaust Memorial Museum.
-* RG-60.0743, Accessed at United States Holocaust Memorial Museum,
+* RG-60.0743, Accessed at United States Holocaust Memorial Museum,\
   / courtesy of National Archives & Records Administration.
-* RG-60.2476, United States Holocaust Memorial Museum,
+* RG-60.2476, United States Holocaust Memorial Museum,\
   / gift of Marie Hammerling.
-* RG-60.4240, United States Holocaust Memorial Museum,
+* RG-60.4240, United States Holocaust Memorial Museum,\
   / gift of Robert Tennenbaum.
-* RG-60.4703, United States Holocaust Memorial Museum,
+* RG-60.4703, United States Holocaust Memorial Museum,\
   / gift of Julien Bryan Archive.
-* RG-60.0393, Accessed at United States Holocaust Memorial Museum,
-  / courtesy of Library of Congress,
+* RG-60.0393, Accessed at United States Holocaust Memorial Museum,\
+  / courtesy of Library of Congress,\
   / United States Holocaust Memorial Museumm.
-* Registros do Gueto de Varsóvia, 1941,
+* Registros do Gueto de Varsóvia, 1941,\
   / Alfons Ziólkowski.
 
 EM LONDRES
 
-* Registros da cidade de Londres nas décadas de 1950 e 1960,
+* Registros da cidade de Londres nas décadas de 1950 e 1960,\
   / fornecido por British Pathé.
 
-Envidamos os melhores esforços na busca das fontes
-/ e fornecimento de créditos adequados
+Envidamos os melhores esforços na busca das fontes\
+/ e fornecimento de créditos adequados\
 / às imagens utilizadas neste filme.
 
 **BIBLIOGRAFIA CONSULTADA**
 
 TEXTOS DE VIRGÍNIA E ADELAIDE
 
-* Nosso Mundo Mental.
-  / Virgínia Leone Bicudo.
+* Nosso Mundo Mental.\
+  / Virgínia Leone Bicudo.\
   / Instituição Brasileira de Difusão Cultural, 1956.
-* Atitudes raciais de pretos e mulatos em São Paulo.
-  / Virginia Leone Bicudo. Org. Marcos Chor Maio.
+* Atitudes raciais de pretos e mulatos em São Paulo.\
+  / Virginia Leone Bicudo. Org. Marcos Chor Maio.\
   / Editora Sociologia e Política, 2010.
-* Contribuição para a história do desenvolvimento
-  / da psicanálise em São Paulo.
+* Contribuição para a história do desenvolvimento\
+  / da psicanálise em São Paulo.\
   / Virginia Leone Bicudo, 1944.
-* A mensagem de "Roda Viva".
-  / Virginia Leone Bicudo.
+* A mensagem de "Roda Viva".\
+  / Virginia Leone Bicudo.\
   / Revista Brasileira de Psicanálise, Vol 2 N.2.
-* Comunicação não-verbal como expressão
-  / de onipotência e omnisciência.
-  / Virginia Leone Bicudo.
+* Comunicação não-verbal como expressão\
+  / de onipotência e omnisciência.\
+  / Virginia Leone Bicudo.\
   / Revista Brasileira de Psicanálise, Vol 37 N.4.
-* Linha, cor e espaço no desenho infantil.
+* Linha, cor e espaço no desenho infantil.\
   / Virginia Leone Bicudo.
-* Nosso Mundo Mental.
-  / Virginia Leone Bicudo.
-  / Coluna semanal publicada no jornal Folha da Manhã,
+* Nosso Mundo Mental.\
+  / Virginia Leone Bicudo.\
+  / Coluna semanal publicada no jornal Folha da Manhã,\
   / 01/08/1954.
-* Elementos básicos da terapia psicanalítica.
-  / Adelaide Koch.
-  / Conferência feita na Secção de Neuro-Psiquiatria
+* Elementos básicos da terapia psicanalítica.\
+  / Adelaide Koch.\
+  / Conferência feita na Secção de Neuro-Psiquiatria\
   / da Associação Paulista de Medicina em 05/10/1945.
 * A criança à luz da psicanálise.
   / Adelaide Koch,
