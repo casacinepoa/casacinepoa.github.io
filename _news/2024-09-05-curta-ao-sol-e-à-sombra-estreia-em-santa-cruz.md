@@ -25,4 +25,4 @@ Esta obra cinematográfica foi realizada com recursos do Fundo de Apoio à Cultu
 
 ![](/uploads/asas-s-cruz.jpg)
 
-*Equipe do curta no Festival de Santa Cruz: Gabriela Grecco, Jeferson Silva, Teresa Assis Brasil, Jonatas Rubert e Valentina Ritter Hickmann*
+*Equipe do curta no Festival de Santa Cruz: Gabriela Greco, Jeferson Silva, Teresa Assis Brasil, Jonatas Rubert e Valentina Ritter Hickmann*
