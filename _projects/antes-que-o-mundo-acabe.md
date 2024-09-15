@@ -6,6 +6,8 @@ category: Longas-metragens
 image: /uploads/aqma-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Eduardo Cardoso, Pedro Tergolina e Bianca Menti"
 where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/JZUeMRLyTeA
   - title: Sulflix
     url: https://sulflix.com.br/app/longas/antes-que-o-mundo-acabe
   - title: Claro TV+
