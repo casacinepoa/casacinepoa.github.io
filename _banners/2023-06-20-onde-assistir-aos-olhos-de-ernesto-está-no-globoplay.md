@@ -1,7 +1,7 @@
 ---
-date: 2024-08-20 01:22:00
+date: 2024-09-16 16:52:00
 image: /uploads/aode-ramiro.jpg
-title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no Globoplay'
-link: https://globoplay.globo.com/aos-olhos-de-ernesto/t/LLp2hckhFK/
+title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no SESC Digital'
+link: https://sesc.digital/conteudo/filmes/cinema-em-casa-com-sesc/aos-olhos-de-ernesto
 ---
-AOS OLHOS DE ERNESTO, dirigido por Ana Luiza Azevedo, vencedor de prêmios do Júri Popular em 5 festivais internacionais, pode ser visto no Globoplay, mas também no Google Play e Apple TV. Na foto (de Fábio Rebello), Jorge Bolani e Júlio Andrade.
+AOS OLHOS DE ERNESTO, dirigido por Ana Luiza Azevedo, vencedor de prêmios do Júri Popular em 5 festivais internacionais, pode ser visto, de 12/set até 15/nov, na Plataforma SESC Digital. Na foto (de Fábio Rebello), Jorge Bolani e Júlio Andrade.
