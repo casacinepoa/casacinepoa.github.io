@@ -3,9 +3,10 @@ layout: post
 title: Oficina "Cinema, educação e Direitos Humanos" com Jonatas Rubert
 date: 2024-09-23 16:00:00
 ---
+![](/uploads/mostra-cdh-2024.jpg)
+
 **INSCRIÇÕES ABERTAS PARA A OFICINA "CINEMA, EDUCAÇÃO E DIREITOS HUMANOS"**\
 [UFRGS, 23/09/2024 | 15:25](http://www.ufrgs.br/ufrgs/noticias/inscricoes-abertas-para-as-oficinas-cinema-educacao-e-direitos-humanos)
-
 
 / Atividade é gratuita e ocorre nos dia 3 e 4 de outubro, no Centro Cultural da UFRGS
 
