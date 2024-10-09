@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oficina "Cinema, educação e Direitos Humanos" com Jonatas Rubert
+title: Oficina "Cinema e Direitos Humanos" com Jonatas Rubert
 date: 2024-09-23 16:00:00
 ---
 ![](/uploads/mostra-cdh-2024.jpg)
