@@ -1,17 +1,13 @@
 ---
 layout: post
 title: GRANDES CENAS no aniversário de Fernanda Montenegro
-date: 2024-10-10 18:46:00
+date: 2024-10-10 16:46:00
 ---
 ![](/uploads/grc-fernanda.jpg)
 
 **ANIVERSÁRIO DE FERNANDA MONTENEGRO É CELEBRADO NO CURTA! COM EXIBIÇÃO DE EPISÓDIO DE 'GRANDES CENAS'**\
 Por Anderson Ramos\
 [O Universo da TV, 10/10/2024](https://www.ouniversodatv.com/2024/10/aniversario-de-fernanda-montenegro-e.html)
-
-
-
-/ Por seu papel como Dora em 'Central do Brasil', a atriz foi premiada com o Urso de Prata no Festival de Berlim (Imagem: Divulgação/Curta)
 
 Admirada, exaltada e celebrada. Para homenagear Fernanda Montenegro, que completa 95 anos no próximo dia 16 de outubro, o Canal Curta! irá exibir, no dia do seu aniversário, às 21h, o episódio ''Central do Brasil'' da série ''Grandes Cenas''. A produção também pode ser vista no Curta!On - Clube de Documentários do Curta!. Dirigida por Ana Luiza Azevedo e Vicente Moreno, a série documental analisa e discute célebres produções do cinema nacional.
 
