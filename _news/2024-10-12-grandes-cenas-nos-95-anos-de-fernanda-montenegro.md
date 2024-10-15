@@ -1,15 +1,24 @@
 ---
 layout: post
-title: GRANDES CENAS nos 95 anos de Fernanda Montenegro
+title: DOCE DE MÃE nos 95 anos de Fernanda Montenegro
 date: 2024-10-11 16:00:00
 ---
-ANIVERSÁRIO DE FERNANDA MONTENEGRO É CELEBRADO NO CURTA! COM EXIBIÇÃO DE EPISÓDIO DE 'GRANDES CENAS'\
-Por Anderson Ramos\
-[O Universo da TV, 10/10/2024](https://www.ouniversodatv.com/2024/10/aniversario-de-fernanda-montenegro-e.html)
+![](/uploads/ddm-familia.jpg)
 
-[](https://www.ouniversodatv.com/2024/10/aniversario-de-fernanda-montenegro-e.html)Admirada, exaltada e celebrada. Para homenagear Fernanda Montenegro, que completa 95 anos no próximo dia 16 de outubro, o Canal Curta! irá exibir, no dia do seu aniversário, às 21h, o episódio "Central do Brasil" da série "Grandes Cenas". A produção também pode ser vista no Curta!On - Clube de Documentários do Curta!. Dirigida por Ana Luiza Azevedo e Vicente Moreno, a série documental analisa e discute célebres produções do cinema nacional.
+Nessa quarta-feira, 16 de outubro, Fernanda Montenegro completa 95 anos de vida, e em plena atividade. Dia de festa. Dia de agradecer a oportunidade de estarmos vivos testemunhando o talento dessa extraordinária atriz.
 
-Por sua memorável atuação como Dora no longa "Central do Brasil", ela recebeu o Urso de Prata como melhor atriz no Festival de Berlim, e foi indicada ao Oscar e ao Globo de Ouro na mesma categoria, entre outros prêmios. O filme foi dirigido por Walter Salles e lançado em 1998.
-"Quando aquilo foi feito, já tínhamos passado o dia num calor insano, no fundo de um sertão abandonado, esperando a noite chegar. A multidão jogada pelos cantos, já rezando e dali a pouco aquilo tudo começou a ser verdade para aquela multidão. Vi que as pessoas não estavam ali representando", conta Fernanda Montenegro no episódio.
+Vários canais estão programando sessões especiais de filmes e programas para celebrar esse aniversário. A Globo vai mostrar um "Tributo a Fernanda Montenegro" em horário nobre. O Canal Brasil programou uma semana de filmes estrelados por Fernandona. E assim por diante.
 
-A produção também pode ser assistida no CurtaOn - Clube de Documentários, disponível no Prime Video Channels, da Amazon, na Claro tv+ e no site oficial da plataforma (CurtaOn.com.br). "Grandes Cenas" é uma produção da Casa de Cinema de Porto Alegre e foi viabilizada pelo Curta! através do Fundo Setorial do Audiovisual.
+E a Casa de Cinema de Porto Alegre tem muito orgulho em participar de duas dessas homenagens.
+
+**Dia 16/out às 15:00 na Globo**
+
+**DOCE DE MÃE**
+
+O telefilme que deu origem à série, e pelo qual Fernanda Montenegro (como Dona Picucha) recebeu o Prêmio Emmy Internacional de Melhor Atriz em 2013. Produção da Casa de Cinema de Porto Alegre. Direção de Jorge Furtado e Ana Luiza Azevedo.
+
+**Dia 16/out às 21:00 no Canal Curta!**
+
+**GRANDES CENAS, episódio 13: "Central do Brasil"**
+
+Fernanda (como Dora) recebeu em 1998 o Urso de Ouro em Berlim pelo filme de Walter Salles. Nesse episódio, de 2016, ela comenta a filmagem e os sentidos da cena da "Casa dos milagres". Produção da Casa de Cinema de Porto Alegre. Direção de Ana Luiza Azevedo e Vicente Moreno.
