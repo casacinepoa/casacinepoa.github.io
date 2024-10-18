@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DOCE DE MÃE: quase 60 milhões de pessoas já viram."
+title: "DOCE DE MÃE: quase 60 milhões de pessoas já viram"
 date: 2024-10-18 02:31:00
 ---
 ![](/uploads/ddm-pic-jesus.jpg)
