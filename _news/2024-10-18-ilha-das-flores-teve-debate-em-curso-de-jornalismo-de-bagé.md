@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ILHA DAS FLORES teve debate em curso de Jornalismo de Bagé
+title: ILHA DAS FLORES teve debate com estudantes de Bagé
 date: 2024-10-16 22:00:00
 ---
 ![](/uploads/ilha-bage.jpg)
