@@ -7,7 +7,7 @@ image: /uploads/ddmp-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Fernanda Montenegro"
 where_to_watch:
   - title: Globoplay
-    url: https://globoplay.globo.com/doce-de-mae/t/881LYyHzBy/
+    url: https://globoplay.globo.com/v/2316358/
 details:
   - title: Créditos
     content: >-
