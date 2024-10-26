@@ -10,6 +10,8 @@ where_to_watch:
     url: https://globoplay.globo.com/o-homem-que-copiava/t/GtrD6KmTVM/
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/o-homem-que-copiava/2954488
+  - title: Youtube - wocomo
+    url: https://youtu.be/fjT-CtR4AWs
 details:
   - title: Créditos
     content: |-
