@@ -6,7 +6,9 @@ category: Curtas-metragens
 image: /uploads/dcris-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Tergolina e Lissy Brock"
 where_to_watch:
-  - title: Vimeo
+  - title: Youtube - wocomo
+    url: https://youtu.be/iawXU1Y8_TQ
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/240478265
 details:
   - title: Créditos
