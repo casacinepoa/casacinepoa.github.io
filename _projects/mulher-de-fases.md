@@ -123,5 +123,8 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/mulher-de-fases.mp3" controls />
 redirect_from: /os-filmes/realização/séries-de-tv/clone-história-do-amor.html
+where_to_watch:
+  - title: Trailer - Youtube
+    url: https://youtu.be/HeLwS-NojJ0
 ---
 Baseada no livro "Louca por Homem", de Claudia Tajes, MULHER DE FASES é uma crônica moderna sobre os relacionamentos e sobre a busca de nós mesmos e de um amor. Em 13 episódios, com meia hora de duração cada, a série acompanha as aventuras de Graça, uma mulher de 30 anos, recém-divorciada, louca para ser amada e começar uma vida nova. Nessa busca, Graça relaciona-se com vários tipos de homens e acaba adotando hábitos, gostos e comportamento de cada um deles. Ela descobre que encontrar um homem ideal não é uma tarefa fácil e que, ao contrário dos contos de fadas, na maioria dos casos é o príncipe que se transforma em sapo.
