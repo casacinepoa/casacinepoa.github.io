@@ -6,8 +6,8 @@ category: Longas-metragens
 image: /uploads/kelson-moto-177.jpg
 image_credits: "Foto de Fábio Rebelo: Cauê Campos"
 where_to_watch:
-  - title: Paramount+
-    url: https://www.paramountplus.com/movies/vai-dar-nada/R2VKsTwKF2sz_bq6kiKdSNIJ6Fs7Q8Z0/
+  - title: Trailer - Youtube
+    url: https://youtu.be/yu9MyKOJpOU
 details:
   - title: Créditos
     content: >-
