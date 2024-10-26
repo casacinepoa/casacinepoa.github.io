@@ -6,12 +6,14 @@ category: Longas-metragens
 image: /uploads/sbof-imgr.jpeg
 image_credits: "Foto de Leopoldo Plentz: Wagner Moura e Fernanda Torres"
 where_to_watch:
-  - url: https://globoplay.globo.com/saneamento-basico-o-filme/t/fcDXBmQBH1/?gclsrc=aw.ds&&gclid=Cj0KCQjwnMWkBhDLARIsAHBOftoOpkq1fhz0qFGaQnccSnvxo8ncJFaFUmNwUIcEG52WWXPLgOKZIJ4aAiIaEALw_wcB&gclsrc=aw.ds
+  - url: https://globoplay.globo.com/saneamento-basico-o-filme/t/fcDXBmQBH1
     title: Globoplay
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/sanemamento-basico-o-filme/2954363
   - title: Itaú Cultural Play
     url: https://assista.itauculturalplay.com.br/ItemDetail/5ffc640d2d32c290d3b29387/66cd29819be857088fe07b2a
+  - title: Youtube - wocomo
+    url: https://youtu.be/CuPjODnuQ7Y
 details:
   - title: Créditos
     content: |-
