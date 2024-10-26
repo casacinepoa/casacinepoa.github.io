@@ -5,6 +5,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/ang-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Sérgio Lulkin"
+where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/UtxfKalKwW8
 details:
   - title: Créditos
     content: |-
