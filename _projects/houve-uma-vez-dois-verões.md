@@ -12,6 +12,8 @@ where_to_watch:
     url: https://sulflix.com.br/app/longas/houve-uma-vez-dois-veroes
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/houve-uma-vez-dois-veroes/2954063
+  - title: Youtube - wocomo
+    url: https://youtu.be/Cq3HH3rBv9Q
 details:
   - title: Créditos
     content: |-
