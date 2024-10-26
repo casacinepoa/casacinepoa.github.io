@@ -6,7 +6,9 @@ category: Curtas-metragens
 image: /uploads/matad-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Cardoso"
 where_to_watch:
-  - title: Vimeo
+  - title: Youtube - wocomo
+    url: https://youtu.be/khmomjG0pVM
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/238568218
 details:
   - title: Créditos
