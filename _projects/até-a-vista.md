@@ -6,7 +6,9 @@ category: Curtas-metragens
 image: /uploads/ateav-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Salo Pasik e Felipe de Paula"
 where_to_watch:
-  - title: Vimeo
+  - title: Youtube - wocomo
+    url: https://youtu.be/NN9ZHq-G6nY
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/243215363
 details:
   - title: Créditos
