@@ -8,7 +8,7 @@ image: /uploads/hdb-imgr.jpeg
 image_credits: "Foto por Alex Sernambi: Rodrigo Santoro e Luiz Miranda"
 where_to_watch:
   - title: Globoplay
-    url: https://globoplay.globo.com/homens-de-bem/t/pTtdMyWbgv/#:~:text=Assistir%20Homens%20de%20Bem%20online%20no%20Globoplay
+    url: https://globoplay.globo.com/v/1749162
 details:
   - title: Créditos
     content: |-
