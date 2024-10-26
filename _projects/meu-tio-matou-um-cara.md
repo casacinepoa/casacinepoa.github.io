@@ -10,6 +10,8 @@ where_to_watch:
     url: https://globoplay.globo.com/meu-tio-matou-um-cara/t/hdjqC8N1Ls/
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/meu-tio-matou-um-cara/2953903
+  - title: Youtube - wocomo
+    url: https://youtu.be/ryPVRqQNiFE
 details:
   - title: Créditos
     content: |-
