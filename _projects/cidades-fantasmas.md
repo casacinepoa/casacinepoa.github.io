@@ -8,7 +8,7 @@ image_credits: "Foto por Glauco Firpo: Epecuén"
 where_to_watch:
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/cidades-fantasmas/1846680
-  - title: TamanduáTV
+  - title: Curta!On
     url: https://curtaon.com.br/filme/?name=cidades-fantasmas1
 details:
   - title: Créditos
