@@ -41,11 +41,11 @@ details:
       maior dessas produções, apesar de ter apenas 4 minutos. Abaixo, a lista
       completa dos quadros produzidos.\
 
-      Em abril: "Tempo"\
+      Em abril: "[Tempo](https://vimeo.com/239625928)"\
 
-      Em maio: "Dona Sílvia não gostava de música"\
+      Em maio: "[Dona Sílvia não gostava de música](https://vimeo.com/239623690)"\
 
-      Em junho: "O vampiro de Novo Hamburgo"\
+      Em junho: "[O vampiro de Novo Hamburgo](https://vimeo.com/239624871)"\
 
       Em julho: "Corpo", "Colecionadores" e "Dupla personalidade"\
 
