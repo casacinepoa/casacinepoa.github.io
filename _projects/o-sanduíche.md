@@ -6,7 +6,9 @@ category: Curtas-metragens
 image: /uploads/sand-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Felippe Monnaco e Janaína Kremer Motta"
 where_to_watch:
-  - title: Vimeo
+  - title: Youtube - Kis Kis
+    url: https://youtu.be/NkdqLKFXuV8
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/240198939
 details:
   - title: Créditos
