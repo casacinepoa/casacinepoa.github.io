@@ -6,6 +6,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/carc-im.jpg
 image_credits: "Foto de Sadil Breda: Cláudia Rullian"
+where_to_watch:
+  - title: Sulflix
+    url: https://www.sulflix.com.br/app/longas/o-carcere-e-a-rua
 details:
   - title: Créditos
     content: >-
