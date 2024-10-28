@@ -7,7 +7,7 @@ category: Médias-metragens
 image: /uploads/restsil-imgr.jpg
 image_credits: "Foto por Juliano Lopes: Jairo de Andrade"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/239639386
 details:
   - title: Créditos
