@@ -5,6 +5,9 @@ tech_specs:
 category: Médias-metragens
 image: /uploads/efdltug-imgr.jpg
 image_credits: Foto por Júlio Spier
+where_to_watch:
+  - title: Youtube - Themis
+    url: https://youtu.be/yVkJ9JP6Qdo
 details:
   - title: Créditos
     content: |-
