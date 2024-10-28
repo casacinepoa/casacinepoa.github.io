@@ -5,6 +5,9 @@ tech_specs:
 category: Origens
 image: /uploads/aq2-imgr.jpg
 image_credits: "Foto por Cesar Charlone: Beto Ruas e Pedro Wayne"
+where_to_watch:
+  - title: Sulflix
+    url: https://www.sulflix.com.br/app/longas/aqueles-dois
 details:
   - title: Créditos
     content: |-
