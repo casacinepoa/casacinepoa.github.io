@@ -8,7 +8,7 @@ category: Curtas-metragens
 image: /uploads/frat-imgr.jpg
 image_credits: Foto por Juliano Lopes
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/354058261
 details:
   - title: Créditos
