@@ -5,6 +5,9 @@ tech_specs:
 category: Origens
 image: /uploads/vanos-imgr.jpg
 image_credits: "Foto por Christian Lesage: Márcia do Canto e Werner Schünemann"
+where_to_watch:
+  - title: Youtube - Alex Sernambi
+    url: https://youtu.be/8-IBiP653Ek
 details:
   - title: Créditos
     content: |-
