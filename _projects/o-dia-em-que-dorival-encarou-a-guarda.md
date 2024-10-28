@@ -5,6 +5,11 @@ tech_specs:
 category: Origens
 image: /uploads/doriv-imgr.jpg
 image_credits: "Foto por Christian Lesage: João Acaiabe"
+where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/gbDC42vNzDQ
+  - title: Sulflix
+    url: https://www.sulflix.com.br/app/curtas/o-dia-em-que-dorival-encarou-a-guarda
 details:
   - title: Créditos
     content: >-
