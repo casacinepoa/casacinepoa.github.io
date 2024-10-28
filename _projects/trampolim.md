@@ -6,7 +6,7 @@ category: Curtas-metragens
 image: /uploads/tramp-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Júlia Barth"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/240164806
 details:
   - title: Créditos
