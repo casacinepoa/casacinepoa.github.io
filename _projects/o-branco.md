@@ -5,6 +5,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/bran-imgr.jpg
 image_credits: "Foto de Christian Lesage: Francisco Milanez e Lígia Rigo"
+where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/VRI3oyOmyfE
 details:
   - title: Créditos
     content: |-
