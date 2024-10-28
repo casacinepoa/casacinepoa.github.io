@@ -6,7 +6,9 @@ category: Médias-metragens
 image: /uploads/vlivre-imgr.jpg
 image_credits: Foto de Carlos Gerbase
 where_to_watch:
-  - title: Vimeo
+  - title: Youtube - wocomo
+    url: https://youtu.be/6yw9PyhImOY
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/239530546
 details:
   - title: Créditos
