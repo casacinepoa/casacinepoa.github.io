@@ -6,7 +6,7 @@ category: Origens
 image: /uploads/inv-imgr_0.jpg
 image_credits: "Foto por Roberto Henkin: Werner Schünemann e Luciene Adami"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/686838082
 details:
   - title: Créditos
