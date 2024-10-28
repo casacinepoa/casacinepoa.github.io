@@ -5,6 +5,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/cont-imgr.jpg
 image_credits: "Foto por Joel Sagardia: Zé Adão Barbosa"
+where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/rmDS1mNPxbs
 details:
   - title: Créditos
     content: |-
