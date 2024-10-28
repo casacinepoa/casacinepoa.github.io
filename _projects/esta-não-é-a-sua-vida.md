@@ -6,8 +6,10 @@ category: Curtas-metragens
 image: /uploads/eneasv-imgr.jpg
 image_credits: "Foto por Carlos Gerbase: Noeli Cavalheiro"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/238459313
+  - title: Youtube - wocomo
+    url: https://youtu.be/0Wb7HztiKdc
 details:
   - title: Créditos
     content: |-
