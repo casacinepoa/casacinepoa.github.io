@@ -5,6 +5,9 @@ tech_specs:
 category: Origens
 image: /uploads/temp-imgr.jpg
 image_credits: "Foto por Christian Lesage: Biratã Vieira"
+where_to_watch:
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/401193280
 details:
   - title: Créditos
     content: >-
