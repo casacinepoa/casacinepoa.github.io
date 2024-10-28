@@ -5,6 +5,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/meupai-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Felipe de Paula e Gustavo Castro"
+where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/iQpKRnsckBY
 details:
   - title: Créditos
     content: |-
