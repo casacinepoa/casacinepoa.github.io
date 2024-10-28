@@ -5,6 +5,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/rummi-imgr.jpg
 image_credits: "Foto por Jacob Solitrenick: Patsy Cecato, Elisa Volpatto e Nelson Diniz"
+where_to_watch:
+  - title: Youtube - wocomo
+    url: https://youtu.be/VS5YhLSA14s
 details:
   - title: Créditos
     content: |-
