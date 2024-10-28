@@ -6,7 +6,7 @@ category: Curtas-metragens
 image: /uploads/mpenha-imgr.jpg
 image_credits: "Foto por Pablo Escajedo: Maria da Penha"
 where_to_watch:
-  - title: Youtube do CLADEM
+  - title: Youtube - Cladem
     url: https://www.youtube.com/watch?v=NB-hglQil-w
 details:
   - title: Créditos
