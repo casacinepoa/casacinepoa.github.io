@@ -8,6 +8,8 @@ image_credits: "Foto por Alex Sernambi: Sérgio Lulkin"
 where_to_watch:
   - title: Youtube - wocomo
     url: https://youtu.be/UtxfKalKwW8
+  - title: Sulflix
+    url: https://www.sulflix.com.br/app/curtas/angelo-anda-sumido
 details:
   - title: Créditos
     content: |-
