@@ -5,6 +5,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/festa-imgr.jpg
 image_credits: "Foto por Norberto Lubisco: Nora Prado"
+where_to_watch:
+  - title: Sulflix
+    url: https://www.sulflix.com.br/app/curtas/festa-de-casamento
 details:
   - title: Créditos
     content: |-
