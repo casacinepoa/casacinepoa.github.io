@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/oscboz-imgr.jpg
 image_credits: "Foto por Edu Izquierdo: Oscar Boz"
+where_to_watch:
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/1006730453
 details:
   - title: Créditos
     content: |-
