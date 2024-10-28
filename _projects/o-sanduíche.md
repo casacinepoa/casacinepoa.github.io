@@ -8,6 +8,8 @@ image_credits: "Foto por Alex Sernambi: Felippe Monnaco e Janaína Kremer Motta"
 where_to_watch:
   - title: Youtube - Kis Kis
     url: https://youtu.be/NkdqLKFXuV8
+  - title: Sulflix
+    url: https://www.sulflix.com.br/app/curtas/o-sanduiche
   - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/240198939
 details:
