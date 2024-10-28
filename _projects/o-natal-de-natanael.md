@@ -6,7 +6,7 @@ category: Médias-metragens
 image: /uploads/natal-imgr.jpg
 image_credits: "Foto de Juliano Lopes: Raquel Grabauska, Gustavo Finkler e Vika Schabbach"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/399446493
 details:
   - title: Créditos
