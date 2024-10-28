@@ -6,7 +6,7 @@ category: Longas-metragens
 image: /uploads/vea-encontro.jpg
 image_credits: "Foto por Fábio Rebelo: Gabriela Correa e Sophie Charlotte"
 where_to_watch:
-  - title: Trailer no YouTube
+  - title: Trailer - YouTube
     url: https://youtu.be/tPXSGFB2SME
 details:
   - title: CRÉDITOS
