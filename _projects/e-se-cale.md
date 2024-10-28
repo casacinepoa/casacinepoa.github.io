@@ -6,7 +6,7 @@ category: Curtas-metragens
 image: /uploads/e-se-cale-img.jpg
 image_credits: "Foto de Bruno Polidoro: Cristal Rocha"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/manage/videos/289153820
 details:
   - title: Créditos
