@@ -6,7 +6,7 @@ category: Origens
 image: /uploads/dpta70-imgr.jpg
 image_credits: "Foto por Nelson Nadotti: Pedro Santos e Ceres Victora"
 where_to_watch:
-  - title: Vimeo
+  - title: Vimeo - Casa de Cinema
     url: https://vimeo.com/429778301
 details:
   - title: Créditos
