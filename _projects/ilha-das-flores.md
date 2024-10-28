@@ -6,10 +6,12 @@ category: Curtas-metragens
 image: /uploads/ilhafl-imgr.jpg
 image_credits: Foto por Carlos Gerbase
 where_to_watch:
-  - title: VImeo
-    url: https://vimeo.com/238439307
-  - title: SUlflix
+  - title: Youtube - Kis Kis
+    url: https://youtu.be/h30BO_6kFNM
+  - title: Sulflix
     url: https://sulflix.com.br/app/curtas/ilha-das-flores
+  - title: VImeo - Casa de Cinema
+    url: https://vimeo.com/238439307
 details:
   - title: Créditos
     content: |-
