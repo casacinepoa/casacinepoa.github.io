@@ -7,7 +7,7 @@ image: /uploads/famsuj-imgr.jpg
 image_credits: "Foto de Juliano Lopes: Vika Schabbach, Raquel Grabauska e Gustavo Finkler"
 where_to_watch:
   - url: https://vimeo.com/399442987
-    title: Vimeo
+    title: Vimeo - Casa de Cinema
 details:
   - title: Créditos
     content: |-
