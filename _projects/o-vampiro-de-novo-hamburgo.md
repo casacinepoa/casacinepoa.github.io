@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/vampnh-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Antônio Carlos Falcão e Flávia Moraes"
+where_to_watch:
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/239624871
 details:
   - title: Créditos
     content: |-
