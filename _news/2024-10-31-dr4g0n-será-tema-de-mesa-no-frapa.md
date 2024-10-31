@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dr4g0n será tema de mesa no Frapa
-date: 2020-10-30 16:00:00
+date: 2024-10-30 14:59:00
 ---
 ![](/uploads/dragon01.jpg)
 
