@@ -28,7 +28,9 @@ Elenco: Jorge Bolani, Gabriela Poester, Jorge D'elia, Julio Andrade, Gloria Dema
 Direção: Ana Luiza Azevedo
 
 Produção: Casa De Cinema De Porto Alegre\
-Roteiro: Ana Luiza Azevedo, Jorge FurtadoColaboração de roteiro: Vicente Moreno, Miguel da Costa FrancoDireção de fotografia: Glauco Firpo\
+Roteiro: Ana Luiza Azevedo, Jorge Furtado\
+Colaboração de roteiro: Vicente Moreno, Miguel da Costa Franco\
+Direção de fotografia: Glauco Firpo\
 Direção de arte: Fiapo Barth, William Valduga\
 Montagem: Giba Assis Brasil\
 Música original: Leo Henkin\
