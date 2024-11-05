@@ -7,7 +7,7 @@ date: 2024-11-05 16:51:00
 
 Livro de ensaio crítico "O cinema de Jorge Furtado", de Rodrigo de Oliveira, terá lançamento na Feira do Livro, dia 15 de novembro, sexta-feira, às 16h, no espaço de autógrafos da Feira do Livro de Porto Alegre.
 
-No dia seguinte, sábado 16/nov, às 17h30, o autor Rodrigo de Oliveira participa de um debate com mediação do cinemasta e historiador Boca Bigotto, no 2º Festival de Cinema de Canoas, que ocorre no Sesc Canoas, av Guilherme Schell 5340.
+No dia seguinte, sábado 16/nov, às 17h30, o autor Rodrigo de Oliveira participa de um debate com mediação do cineasta e historiador Boca Bigotto, no 2º Festival de Cinema de Canoas, que ocorre no Sesc Canoas, av Guilherme Schell 5340.
 
 - - -
 
