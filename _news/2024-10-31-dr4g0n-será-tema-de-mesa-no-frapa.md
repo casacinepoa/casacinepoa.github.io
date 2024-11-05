@@ -5,6 +5,14 @@ date: 2024-10-30 14:59:00
 ---
 ![](/uploads/dragon01.jpg)
 
+**ESTUDO DE CASO: COMÉDIA E COMPETIÇÃO EM "DR4G0N"**\
+sexta-feira 08/nov: 14h30 - 16h\
+com Ana Saki, Tiago Rezende e Tomás Fleck\
+Sala Paulo Amorim\
+Casa de Cultura Mario Quintana - Rua dos Andradas, 736
+
+\*\*\*\**
+
 **PORTO ALEGRE RECEBE MAIS UMA EDIÇÃO DO FESTIVAL FRAPA E DA MOSTRA FRAPA**\
 [TELA VIVA News, 18/10/2024](https://telaviva.com.br/17/10/2024/porto-alegre-recebe-mais-uma-edicao-do-festival-frapa-e-da-mostra-frapa/)
 
