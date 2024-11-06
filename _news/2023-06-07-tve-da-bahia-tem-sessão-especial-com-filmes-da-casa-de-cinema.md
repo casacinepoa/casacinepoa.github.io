@@ -3,6 +3,8 @@ layout: post
 title: TVE da Bahia tem sessão especial com filmes da Casa de Cinema
 date: 2020-05-21 17:06:22
 ---
+![](/uploads/casa-bahia.jpg)
+
 SESSÃO ESPECIAL CASA DE CINEMA DE PORTO ALEGRE
 
 TRAMPOLIM\
