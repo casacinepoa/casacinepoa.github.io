@@ -42,4 +42,26 @@ VENEZUELA\
 
 ![](/uploads/cinameca-bol.jpg)
 
-*Sede da Fundación Cinemateca Boliviana, em La Paz, onde ocorrerá a 20ª Mostra de Cine Latino-americano y del Caribe do GRULAC Cultural*
+*Sede da Fundación Cinemateca Boliviana, em La Paz, onde ocorrerá a 20ª Mostra de Cine Latino-americano y del Caribe do GRULAC Cultural*\
+\
+\*\*\*\**
+
+20° MUESTRA DE CINE LATINOAMERICANO Y DEL CARIBE - 2024\
+Un viaje cultural sin fronteras 
+
+El Grupo de Cultura de América Latina y el Caribe - GRULAC Cultural y la Fundación Cinemateca Boliviana
+
+Invitan a la inauguración y proyecciones de la 20° Muestra de Cine del Grupo de países de América Latina y el Caribe: "Cine Latinoamericano y del Caribe, un viaje cultural sin fronteras", durante 10 días, se exhibirán cintas que han sido reconocidas en festivales de cine a nivel internacional y han sido aclamadas por la crítica. 
+
+DEL 14 AL 23 DE NOVIEMBRE DEL 2024
+
+También se podrá disfrutar de la 2° versión de la Exposición Fotográfica de América Latina y el Caribe "Nuestra gente, nuestra cultura"
+
+Lugar: Cinemateca Boliviana (Rosendo Gutiérrez, esquina Oscar Soria)
+
+ENTRADA GRATUITA 
+
+Países participantes: Brasil, Bolivia, Colombia, Cuba, España, Guatemala, México, Uruguay, Nicaragua y Venezuela. 
+PAÍS INVITADO: ESPAÑA 
+
+LA PAZ, BOLIVIA - NOVIEMBRE 2024
