@@ -23,7 +23,7 @@ COLÔMBIA\
 "Cuando las aguas se juntan" (2023), dir. Margarita Martinez Escallon
 
 CUBA\
-"José Martí, el ojo del canario" (201), dir. Fernando Pérez
+"José Martí, el ojo del canario" (2010), dir. Fernando Pérez
 
 ESPANHA (país convidado)\
 "Segundo premio" (2024), dir. Isaki Lacuesta, Pol Rodríguez
