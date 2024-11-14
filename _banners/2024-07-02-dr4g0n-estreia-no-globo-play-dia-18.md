@@ -1,5 +1,5 @@
 ---
-date: 2024-10-08 19:28:00
+date: 2024-11-14 15:39:00
 image: /uploads/dragon02.jpg
 title: "ONDE ASSISTIR: Dr4g0n está no Globo Play"
 link: https://globoplay.globo.com/dr4g0n/t/JxHzWzbH9n/temporadas/1/
