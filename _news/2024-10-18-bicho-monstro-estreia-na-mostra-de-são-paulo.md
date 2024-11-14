@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BICHO MONSTRO estreia na Mostra de São Paulo
-date: 2024-10-18 17:07:00
+date: 2024-10-19 17:07:00
 ---
 ![](/uploads/bchm-1.jpg)
 
