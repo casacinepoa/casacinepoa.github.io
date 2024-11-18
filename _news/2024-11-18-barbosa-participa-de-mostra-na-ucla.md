@@ -3,7 +3,7 @@ layout: post
 title: BARBOSA participa de mostra na UCLA
 date: 2024-11-10 16:00:00
 ---
-![](/uploads/barb-imgr.jpg)
+![](/uploads/barb-imgr.jpg "Foto de Sérgio Amon: Antônio Fagundes em BARBOSA.")
 
 A mostra de filmes "Science fiction against the margins" (Ficção científica contra as margens) do UCLA Film & TV Archive é parte integrante do conjunto "Getty's PST: Art & Science Collide" (Arte e ciência em colisão).
 
