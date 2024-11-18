@@ -5,6 +5,8 @@ date: 2024-11-10 16:00:00
 ---
 ![](/uploads/barb-imgr.jpg)
 
+*Foto de Sérgio Amon: Antônio Fagundes em BARBOSA.*
+
 A mostra de filmes "Science fiction against the margins" (Ficção científica contra as margens) do UCLA Film & TV Archive é parte integrante do conjunto "Getty's PST: Art & Science Collide" (Arte e ciência em colisão).
 
 Explicando: UCLA é a Universidade da Califórnia em Los Angeles, onde estudaram cineastas como Francis Ford Coppola, Rob Reiner, Tim Robbins, etc. Getty é a Fundação Getty, financiadora dos eventos. PST, Pacific Standart Time, é o fuso horário da Califórnia. E "Art & Science Collide" é uma ampla gama de exposições de arte e eventos realizados no sul da Califórnia no outono de 2024.
