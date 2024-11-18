@@ -75,6 +75,11 @@ details:
       "Um dos curtas brasileiros mais comunicativos e originais dos últimos tempos. É um filme onde tudo funciona à perfeição, do roteiro ao elenco. Sem esquecer da montagem impecável, da surpreendente utilização do vídeo e da integração entre ficção e documentário."\
 
       (Sérgio Bazi, CORREIO BRASILIENSE, Brasília, 28/10/88)
+
+
+      "The historic upset that was the 1950 World Cup Final between Brazil and Uruguay is the focal point of one of science fiction's most obsessed time travelers in Jorge Furtado and Ana Luíza Azevedo's short. A devastating loss for the Brazilians - the game was the inaugural event in Rio de Janeiro's Maracanã Stadium, itself a purpose-built symbol of national pride - it was also a personal turning point for the film's narrator, an 11-year-old in the crowd who felt his own hopeful future slip away with his team's loss. Leaving aside completely the wonder of his time machine, he yearns to set things right only to discover that regret - personal and national - can sometimes form an infernal loop."\
+
+      (Paul Malcolm, UCLA Library, "[Science fiction against the margins](https://www.international.ucla.edu/institute2/event/16816)", 18/10/2024)
   - title: Tema musical
     content: |-
       "O Silêncio e a culpa", de Geraldo Flach
