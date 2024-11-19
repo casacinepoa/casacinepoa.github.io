@@ -3,7 +3,7 @@ layout: post
 title: AO SOL E À SOMBRA ganha Menção Honrosa em Canoas
 date: 2024-11-18 00:18:00
 ---
-![](/uploads/asas-valentina.jpg)
+![](/uploads/asas-valentina.jpg "Valentina Hickmann recebe a Menção Honrosa de AO SOL E À SOMBRA")
 
 Terminou neste domingo o 2º Festival de Cinema de Canoas. E o curta-metragem AO SOL E À SOMBRA, produção da Casa de Cinema de Porto Alegre com direção de Teresa Assis Brasil e Richard Tavares, ganhou menção honrosa na competição estadual. A assistente de montagem Valentina Ritter Hickmann (na foto) recebeu o diploma em nome da equipe.
 
