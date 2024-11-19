@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BARBOSA participa de mostra na UCLA
-date: 2024-11-10 16:00:00
+date: 2024-10-16 23:42:00
 ---
 ![](/uploads/barb-imgr.jpg "Foto de Sérgio Amon: Antônio Fagundes em BARBOSA.")
 
