@@ -3,7 +3,7 @@ layout: post
 title: VIRGÍNIA E ADELAIDE dia 26 na Mostra de Rio Grande
 date: 2024-11-23 15:27:00
 ---
-![](/uploads/vea-diretores.jpg)
+![](/uploads/vea-rio-grande.jpg)
 
 **DIRETOR JORGE FURTADO TEM PRESENÇA CONFIRMADA NA 6ª MOSTRA DE CINEMA LATINO-AMERICANO DE RIO GRANDE**\
 [Rio Grande Tem, 21/11/2024](https://riograndetem.com.br/diretor-jorge-furtado-tem-presenca-confirmada-na-6a-mostra-de-cinema-latino-americano-de-rio-grande/)[](https://riograndetem.com.br/diretor-jorge-furtado-tem-presenca-confirmada-na-6a-mostra-de-cinema-latino-americano-de-rio-grande/)
