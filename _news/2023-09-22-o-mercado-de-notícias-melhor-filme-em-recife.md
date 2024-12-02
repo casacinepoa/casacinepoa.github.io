@@ -3,7 +3,7 @@ layout: post
 title: "O MERCADO DE NOTÍCIAS: melhor filme em Recife"
 date: 2014-04-29 11:39:53
 ---
-O documentário O MERCADO DE NOTÍCIAS, produção da Casa de Cinema de Porto Alegre com direção de Jorge Furtado, recebeu no Festival de Cinema de Recife os dois principais prêmios de sua categoria: melhor filme segundo o júrio oficial e segundo o júri popular.
+O documentário O MERCADO DE NOTÍCIAS, produção da Casa de Cinema de Porto Alegre com direção de Jorge Furtado, recebeu no Festival de Cinema de Recife os dois principais prêmios de sua categoria: melhor filme segundo o júri oficial e segundo o júri popular.
 
 Jorge Furtado, que esteve no Recife para a apresentação do filme, no domingo 27/04, já havia retornado a Porto Alegre na noite da premiação. Os troféus de O MERCADO DE NOTÍCIAS foram recebidos pela jornalista Maria do Rosário Caetano, que leu no palco o texto abaixo, enviado pelo diretor:
 
