@@ -1,5 +1,5 @@
 ---
-date: 2024-02-24 12:43:58
+date: 2024-12-22 12:00:00
 image: /uploads/barbosa-arquib.jpg
 title: 'ONDE ASSISTIR: "Barbosa" está no Vimeo'
 link: https://vimeo.com/238074665
