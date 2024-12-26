@@ -5,6 +5,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/toler-imgr.jpg
 image_credits: "Foto de Alex Sernambi: Maitê Proença e Roberto Bomtempo"
+where_to_watch:
+  - url: https://youtu.be/lgCuMK81_1A
+    title: Trailer - YouTube
 details:
   - title: Créditos
     content: >-
