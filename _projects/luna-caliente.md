@@ -5,7 +5,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/lunac-imgr.jpg
 image_credits: "Foto por José Tadeu Ribeiro: Paulo Betti e Ana Paula Tabalipa"
-where_to_watch: []
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/Hz3Dlb3GACs
 details:
   - title: Créditos
     content: |-
