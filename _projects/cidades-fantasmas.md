@@ -10,6 +10,8 @@ where_to_watch:
     url: https://www.clarotvmais.com.br/filme/cidades-fantasmas/1846680
   - title: Curta!On
     url: https://curtaon.com.br/filme/?name=cidades-fantasmas1
+  - title: Trailer - YouTube
+    url: https://youtu.be/wQJTEX1vbqU
 details:
   - title: Créditos
     content: >-
