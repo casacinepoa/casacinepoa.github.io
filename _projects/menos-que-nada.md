@@ -5,7 +5,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/mqn-imgr.jpeg
 image_credits: "Foto por Marcelo Nunes: Felipe Kannenberg e Rosanne Mulholland"
-where_to_watch: []
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/1uCC1NRfzTQ
 details:
   - title: Créditos
     content: >-
