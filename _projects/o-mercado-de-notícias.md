@@ -10,6 +10,8 @@ where_to_watch:
     url: https://www.clarotvmais.com.br/filme/o-mercado-de-noticias/1846689
   - title: Curta!On
     url: https://canalcurta.tv.br/filme/?name=o_mercado_de_noticias
+  - url: https://youtu.be/rMBj7kBTgZk
+    title: Trailer - YouTube
 details:
   - title: Créditos
     content: |-
