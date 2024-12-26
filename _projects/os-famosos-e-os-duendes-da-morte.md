@@ -12,6 +12,8 @@ where_to_watch:
     url: https://tv.apple.com/br/movie/os-famosos-e-os-duendes-da-morte/umc.cmc.1ipmak3g7r4bro4dwei13xxs4
   - title: Prime Video
     url: https://www.primevideo.com/-/pt/detail/Os-Famosos-e-os-Duendes-da-Morte/0LLCE7S1XI3LHBTKHDNYBH3H9D
+  - url: https://youtu.be/4fBUjaii4kw
+    title: Trailer - YouTube
 details:
   - title: Créditos
     content: >-
