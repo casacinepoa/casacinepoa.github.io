@@ -8,8 +8,10 @@ image_credits: "Foto por Fábio Rebello: Vladimir Brichta e Adriana Esteves"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/real-beleza/t/dVQshK9HqN/
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/iKpL7DsoQ0g
+  - url: https://youtu.be/BiiJ7ZpJBcY
+    title: Trailer - YouTube
 details:
   - title: Créditos
     content: |-
