@@ -5,6 +5,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/3efes-imgr.jpg
 image_credits: "Foto por João Divino: Alexandre Vargas e Cris Kessler"
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/0Q_CtsLGPJQ
 details:
   - title: Créditos
     content: |-
