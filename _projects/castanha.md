@@ -8,6 +8,8 @@ image_credits: "Foto divulgação: João Carlos Castanha"
 where_to_watch:
   - title: Sulflix
     url: https://sulflix.com.br/app/longas/castanha/
+  - title: Trailer - YouTube
+    url: https://youtu.be/El7iLi_ZD5M
 details:
   - title: Créditos
     content: >-
