@@ -12,6 +12,8 @@ where_to_watch:
     url: https://sulflix.com.br/app/longas/antes-que-o-mundo-acabe
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/antes-que-o-mundo-acabe/2954398
+  - title: Trailer - YouTube
+    url: https://youtu.be/wIAeG37DYw4
 details:
   - title: Créditos
     content: >-
