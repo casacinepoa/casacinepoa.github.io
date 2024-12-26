@@ -6,7 +6,7 @@ category: Longas-metragens
 image: /uploads/kelson-moto-177.jpg
 image_credits: "Foto de Fábio Rebelo: Cauê Campos"
 where_to_watch:
-  - title: Trailer - Youtube
+  - title: Trailer - YouTube
     url: https://youtu.be/yu9MyKOJpOU
 details:
   - title: Créditos
