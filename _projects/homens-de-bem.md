@@ -9,6 +9,8 @@ image_credits: "Foto por Alex Sernambi: Rodrigo Santoro e Luiz Miranda"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/v/1749162
+  - title: Trailer - YouTube
+    url: https://youtu.be/CdcsfxHdaIE
 details:
   - title: Créditos
     content: |-
