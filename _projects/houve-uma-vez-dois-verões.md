@@ -14,6 +14,8 @@ where_to_watch:
     url: https://www.clarotvmais.com.br/filme/houve-uma-vez-dois-veroes/2954063
   - title: Youtube - wocomo
     url: https://youtu.be/0d6DNej5804
+  - title: Trailer - YouTube
+    url: https://youtu.be/L_95YZDTrvo
 details:
   - title: Créditos
     content: |-
