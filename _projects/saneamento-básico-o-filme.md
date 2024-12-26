@@ -12,8 +12,10 @@ where_to_watch:
     url: https://www.clarotvmais.com.br/filme/sanemamento-basico-o-filme/2954363
   - title: Itaú Cultural Play
     url: https://assista.itauculturalplay.com.br/ItemDetail/5ffc640d2d32c290d3b29387/66cd29819be857088fe07b2a
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/CuPjODnuQ7Y
+  - title: Trailer - YouTube
+    url: https://youtu.be/T0d-U3bVuJw
 details:
   - title: Créditos
     content: |-
