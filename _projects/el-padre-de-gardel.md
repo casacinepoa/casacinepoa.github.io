@@ -6,7 +6,7 @@ category: Coproduções
 image: /uploads/pdg-imgr.jpg
 image_credits: "Foto de arquivo: Carlos Escayola"
 where_to_watch:
-  - title: Trailer - Youtube
+  - title: Trailer - YouTube
     url: https://youtu.be/scw8ppPpev8
 details:
   - title: Créditos
