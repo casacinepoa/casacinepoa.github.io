@@ -5,6 +5,9 @@ tech_specs:
 category: Longas-metragens
 image: /uploads/saldeprata-2a.jpg
 image_credits: "Foto por Jacob Solitrenick: Maria Fernanda Cândido e Bruno Garcia"
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/DSpRyo6G-5k
 details:
   - title: Créditos
     content: |-
