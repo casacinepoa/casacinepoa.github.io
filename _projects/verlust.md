@@ -13,6 +13,8 @@ where_to_watch:
     url: https://play.google.com/store/movies/details?id=ycwMnourc5A.P
   - title: Apple TV
     url: https://tv.apple.com/br/movie/verlust/umc.cmc.17lcrgt17y7nh1ch4kiytd0so
+  - title: Trailer - YouTube
+    url: https://youtu.be/xpP-b803u0g
 details:
   - title: Créditos
     content: |-
