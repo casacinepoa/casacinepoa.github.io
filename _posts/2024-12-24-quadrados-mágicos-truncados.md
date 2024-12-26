@@ -84,7 +84,7 @@ E teve um até com apenas 5 letras diferentes, que ficou interessante:
 
 5 letras /AMDCO/
 
-Mas, se eu quiser forçar a barra, dá pra fazer com apenas duas letras.
+Mas, se eu quiser forçar a barra, dá pra fazer com apenas duas letras. No caso, parafraseando o [Fábio Aristimunho](https://portal.unila.edu.br/editora/livros/arara-rara):
 
 (8) Arara rara. Rara? Rá-rá-rá-rá! Rara...
 
