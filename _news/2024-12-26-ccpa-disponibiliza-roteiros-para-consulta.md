@@ -11,19 +11,19 @@ Carlos Redel\
 
 [](https://gauchazh.clicrbs.com.br/colunistas/juliana-bublitz/noticia/2024/12/casa-de-cinema-de-porto-alegre-disponibiliza-roteiros-de-suas-producoes-para-consulta-popular-cm516slkp002j015bth141p8l.html)/ São mais de 70 scripts, que vão desde filmes consagrados, como "O Homem Que Copiava", até de produções ainda não lançadas, como "Virgínia e Adelaíde"
 
-Adelaide indica o sofá, Virgínia se senta, encosta-se. Adelaide pega na poltrona um caderno, encapado em papel decorado, põe sobre a mesinha com o abajur, ao lado dos óculos e de um lápis, senta-se na poltrona, mãos cruzadas sobre o colo.
+*Adelaide indica o sofá, Virgínia se senta, encosta-se. Adelaide pega na poltrona um caderno, encapado em papel decorado, põe sobre a mesinha com o abajur, ao lado dos óculos e de um lápis, senta-se na poltrona, mãos cruzadas sobre o colo.*
 
-Virgínia: "Acho que errei de roupa. Este casaco é quente, pela manhã estava mais frio."
+*Virgínia: "Acho que errei de roupa. Este casaco é quente, pela manhã estava mais frio."*
 
-Adelaide: "Quer tirar o casaco?"
+*Adelaide: "Quer tirar o casaco?"*
 
-Virgínia: "Não, obrigada."
+*Virgínia: "Não, obrigada."*
 
-Virgínia olha para as caixas.
+*Virgínia olha para as caixas.*
 
-Adelaide: "Desculpe a desordem, nos mudamos há poucos dias."
+*Adelaide: "Desculpe a desordem, nos mudamos há poucos dias."*
 
-Pausa. Na sala, há um piano. Virgínia afasta-se do encosto, senta-se na beira do assento.
+*Pausa. Na sala, há um piano. Virgínia afasta-se do encosto, senta-se na beira do assento.*
 
 Este é um trecho do filme Virgínia e Adelaide, produção da Casa de Cinema de Porto Alegre que sequer estreou ainda - a previsão é que o lançamento ocorra entre março e abril de 2025 -, mas o seu roteiro já está no site da produtora para quem quiser conferir. E na íntegra.
 
