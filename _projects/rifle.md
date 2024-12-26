@@ -12,6 +12,8 @@ where_to_watch:
     url: https://play.google.com/store/movies/details?id=O6qMkYWIbyM.P
   - title: Apple TV
     url: https://tv.apple.com/br/movie/rifle/umc.cmc.h5szo2mkslhzx7hvkbblvoek
+  - url: https://youtu.be/0w1o62NKv5I
+    title: Trailer - YouTube
 details:
   - title: Créditos
     content: |-
