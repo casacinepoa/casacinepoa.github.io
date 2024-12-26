@@ -93,3 +93,28 @@ Mas, se eu quiser forçar a barra, dá pra fazer com apenas duas letras. No caso
 2 letras /AR/
 
 Palíndromos são assim. Uma forma de escrita constrangida que às vezes faz o mesmo com seus autores.
+
+\*\*\*\**
+
+Mais textos sobre palíndromos:
+
+[Sator arepo tenet opera rotas](https://www.nao-til.com.br/nao-82/sator.htm)\
+[](https://www.nao-til.com.br/nao-82/sator.htm)junho/2006
+
+[A sua causa](https://www.casacinepoa.com.br/blog/2007-02-06-a-sua-causa/)\
+[](https://www.casacinepoa.com.br/blog/2007-02-06-a-sua-causa/)06/02/2007
+
+[É do povo? Pode! É vedada? Deve!](https://www.casacinepoa.com.br/blog/2017-06-11-%C3%A9-do-povo-pode-%C3%A9-vedada-deve/)\
+[](https://www.casacinepoa.com.br/blog/2017-06-11-%C3%A9-do-povo-pode-%C3%A9-vedada-deve/)11/06/2017
+
+[20 palíndromos com comentários](https://www.casacinepoa.com.br/blog/2017-09-18-20-pal%C3%ADndromos-com-coment%C3%A1rios/)\
+[](https://www.casacinepoa.com.br/blog/2017-09-18-20-pal%C3%ADndromos-com-coment%C3%A1rios/)18/09/2017
+
+[Palíndromos? Numa hora dessas?](https://www.casacinepoa.com.br/blog/2018-10-19-pal%C3%ADndromos-numa-hora-dessas/)\
+[](https://www.casacinepoa.com.br/blog/2018-10-19-pal%C3%ADndromos-numa-hora-dessas/)19/10/2018
+
+[5 palíndromos ilustrados](https://www.casacinepoa.com.br/blog/2021-03-22-5-pal%C3%ADndromos-ilustrados/)\
+[](https://www.casacinepoa.com.br/blog/2021-03-22-5-pal%C3%ADndromos-ilustrados/)22/03/2021
+
+[Antônimos ao contrário](https://www.casacinepoa.com.br/blog/2024-02-07-ant%C3%B4nimos-ao-contr%C3%A1rio/)\
+[](https://www.casacinepoa.com.br/blog/2024-02-07-ant%C3%B4nimos-ao-contr%C3%A1rio/)07/02/2024
