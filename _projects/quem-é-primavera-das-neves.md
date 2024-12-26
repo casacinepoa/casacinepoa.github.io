@@ -6,8 +6,10 @@ category: Longas-metragens
 image: /uploads/qepdn-imgr.jpeg
 image_credits: "Foto de arquivo: Primavera das Neves"
 where_to_watch:
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/JzhkIH3Up1s
+  - url: https://youtu.be/tlpZKT2prio
+    title: Trailer - YouTube
 details:
   - title: Créditos
     content: |-
