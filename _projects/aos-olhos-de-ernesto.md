@@ -6,8 +6,8 @@ category: Longas-metragens
 image: /uploads/aode-imgr_0.jpg
 image_credits: "Foto por Fábio Rebelo: Jorge Bolani e Gabriela Poester"
 where_to_watch:
-  - title: SESC Digital
-    url: https://sesc.digital/conteudo/filmes/cinema-em-casa-com-sesc/aos-olhos-de-ernesto
+  - title: Trailer - YouTube
+    url: https://youtu.be/7eoKGCHYoCE
 details:
   - title: Créditos
     content: >-
