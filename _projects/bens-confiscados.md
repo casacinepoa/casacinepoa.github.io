@@ -7,7 +7,7 @@ trailer: ""
 image: /uploads/bens-imgr.jpeg
 image_credits: "Foto divulgação: Betty Faria e Werner Schünemann"
 where_to_watch:
-  - title: Youtube - Filmes Br
+  - title: YouTube - Filmes Br
     url: https://youtu.be/lcVG0cNWnpY
 details:
   - title: Créditos
