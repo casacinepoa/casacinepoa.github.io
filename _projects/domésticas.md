@@ -6,7 +6,7 @@ category: Curtas-metragens
 image: /uploads/domest-imgr.jpg
 image_credits: "Foto por Bruno Polidoro: Djanira Correa"
 where_to_watch:
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/dG95BWiVVcM
 details:
   - title: Créditos
