@@ -6,10 +6,8 @@ category: Curtas-metragens
 image: /uploads/barb-imgr.jpg
 image_credits: "Foto por Sérgio Amon: Antônio Fagundes"
 where_to_watch:
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/rscoEY5MSA0
-  - title: Vimeo - Casa de Cinema
-    url: https://vimeo.com/238074665
 details:
   - title: Créditos
     content: |-
