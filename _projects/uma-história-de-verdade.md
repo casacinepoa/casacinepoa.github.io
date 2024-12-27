@@ -5,6 +5,9 @@ tech_specs:
 category: Médias-metragens
 image: /uploads/histver-imgr.jpg
 image_credits: "Foto divulgação: Olívio Dutra"
+where_to_watch:
+  - title: "YouTube - PT "
+    url: " https://youtu.be/jdT4o-uRsHw"
 details:
   - title: Créditos
     content: |-
