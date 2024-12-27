@@ -5,6 +5,9 @@ tech_specs:
 category: Origens
 image: /uploads/interl-imgr.jpg
 image_credits: "Foto por Norberto Lubisco: Júlio Conte e Márcia do Canto"
+where_to_watch:
+  - title: YouTube - Prana
+    url: https://youtu.be/fbbchK9xBvc
 details:
   - title: Créditos
     content: |-
