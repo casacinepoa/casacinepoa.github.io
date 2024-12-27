@@ -25,6 +25,8 @@ Rubem Peña, marido de Carmem\
 Maria Helena da Silva, PLP-SIM Partenon\
 Elvira Centena da Silva, PLP-SIM Zona Norte 
 
+Narração: Deborah Finocchiaro
+
 **EQUIPE**
 
 Direção: Ana Luiza Azevedo\
