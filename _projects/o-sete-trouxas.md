@@ -5,6 +5,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/7troux-imgr.jpg
 image_credits: "Foto de Alberto LaSalvia: Natanielhe Pacheco e Luiz Paulo Vasconcellos"
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/g9ngRCfytUc
 details:
   - title: Créditos
     content: |-
