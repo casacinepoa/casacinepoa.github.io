@@ -6,7 +6,7 @@ category: Médias-metragens
 image: /uploads/efdltug-imgr.jpg
 image_credits: Foto por Júlio Spier
 where_to_watch:
-  - title: Youtube - Themis
+  - title: YouTube - Themis
     url: https://youtu.be/yVkJ9JP6Qdo
 details:
   - title: Créditos
@@ -20,6 +20,8 @@ details:
       **Direção de Produção**: Débora Peters\
       **Montagem**: Júlio Spier e Fábio Lobanowsky\
       **Assistente de Direção**: Alfredo Barros
+
+      **Narração**: Deborah Finocchiaro
 
       **Uma Produção Themis Assessoria Jurídica e Estudos de Gênero**
 
