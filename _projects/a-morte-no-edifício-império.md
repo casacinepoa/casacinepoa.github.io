@@ -6,7 +6,7 @@ category: Distribuição
 image: /uploads/medimp-imgr.jpg
 image_credits: "Foto por Ana Pompermayer: Flávia Moraes"
 where_to_watch:
-  - title: Youtube - Beto Souza
+  - title: YouTube - Beto Souza
     url: https://youtu.be/q-UvuDkB2w0
 details:
   - title: Créditos
