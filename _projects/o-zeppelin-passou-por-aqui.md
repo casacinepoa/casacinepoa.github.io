@@ -6,6 +6,9 @@ category: Distribuição
 trailer: ""
 image: /uploads/zepppa-imgr.jpg
 image_credits: "Foto por Norberto Lubisco: Nora Prado e Werner Schünemann"
+where_to_watch:
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/207328294
 details:
   - title: Créditos
     content: |-
