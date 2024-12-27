@@ -8,6 +8,8 @@ image_credits: "Foto de Juliano Lopes: a Mulher Gigante e Gustavo Finkler"
 where_to_watch:
   - url: https://vimeo.com/399438821
     title: Vimeo - Casa de Cinema
+  - title: YouTube - Cuidado que Mancha
+    url: https://youtu.be/kQ8esBbos8E
 details:
   - title: Créditos
     content: |-
