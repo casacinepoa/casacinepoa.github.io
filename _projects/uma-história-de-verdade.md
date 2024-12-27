@@ -6,8 +6,8 @@ category: Médias-metragens
 image: /uploads/histver-imgr.jpg
 image_credits: "Foto divulgação: Olívio Dutra"
 where_to_watch:
-  - title: "YouTube - PT "
-    url: " https://youtu.be/jdT4o-uRsHw"
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/877610118
 details:
   - title: Créditos
     content: |-
