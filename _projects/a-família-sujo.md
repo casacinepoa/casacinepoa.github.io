@@ -8,6 +8,8 @@ image_credits: "Foto de Juliano Lopes: Vika Schabbach, Raquel Grabauska e Gustav
 where_to_watch:
   - url: https://vimeo.com/399442987
     title: Vimeo - Casa de Cinema
+  - title: YouTube - Cuidado que Mancha
+    url: https://youtu.be/uDnWbLasZBQ
 details:
   - title: Créditos
     content: |-
