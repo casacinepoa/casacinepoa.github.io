@@ -5,6 +5,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/vicious-imgr.jpg
 image_credits: "Foto por Ivo Czamanski: Márcia do Canto"
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/Ctk1jbYyZtg
 details:
   - title: Créditos
     content: |-
