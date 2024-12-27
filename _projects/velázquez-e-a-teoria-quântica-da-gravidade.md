@@ -6,10 +6,8 @@ category: Curtas-metragens
 image: /uploads/velazq-imgr.jpg
 image_credits: "Foto por Juliano Lopes: Felipe de Paula e Renata de Lélis"
 where_to_watch:
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/7azJPfLH2UI
-  - title: Vimeo - Casa de Cinema
-    url: https://vimeo.com/348891112
 details:
   - title: Créditos
     content: |-
