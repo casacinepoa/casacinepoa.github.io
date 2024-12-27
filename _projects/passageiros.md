@@ -5,6 +5,9 @@ tech_specs:
 category: Origens
 image: /uploads/pass-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Zé Adão Barbosa e Marcos Carbonell"
+where_to_watch:
+  - title: "YouTube - Prana "
+    url: https://youtu.be/JVk5wd-0xO8
 details:
   - title: Créditos
     content: |-
