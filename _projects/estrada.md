@@ -6,6 +6,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/estr-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Pedro Cardoso e Débora Bloch"
+where_to_watch:
+  - title: Vimeo - Casa de Cinema
+    url: https://vimeo.com/1006722224
 details:
   - title: Créditos
     content: |-
