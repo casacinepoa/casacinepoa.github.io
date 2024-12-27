@@ -5,6 +5,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/fec-imgr.jpg
 image_credits: "Foto por Pablo Chasseraux: Sérgio Lulkin"
+where_to_watch:
+  - title: Trailer - YouTube
+    url: https://youtu.be/DvFIAAV6yBM
 details:
   - title: Créditos
     content: |-
