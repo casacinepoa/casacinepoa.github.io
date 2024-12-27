@@ -8,8 +8,6 @@ image_credits: "Foto por Carlos Gerbase: Lisa Becker"
 where_to_watch:
   - title: Sulflix
     url: https://www.sulflix.com.br/app/curtas/3-minutos
-  - title: Vimeo - Casa de Cinema
-    url: https://vimeo.com/240196565
 details:
   - title: Créditos
     content: |-
