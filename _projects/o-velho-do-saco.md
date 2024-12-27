@@ -5,6 +5,9 @@ tech_specs:
 category: Distribuição
 image: /uploads/velhsac-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Ricardo Pedralli"
+where_to_watch:
+  - title: YouTube - wocomo
+    url: https://youtu.be/TqhlvtzRwbs
 details:
   - title: Créditos
     content: |-
