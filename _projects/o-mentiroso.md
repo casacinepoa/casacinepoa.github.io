@@ -8,6 +8,8 @@ image_credits: "Foto de Christian Lesage: Patrícia Travassos e Angel Palomero"
 where_to_watch:
   - title: Prime Video - Box Brasil
     url: https://www.primevideo.com/region/na/detail/0HT8YJKV87ZV528DWSS6XAJDA4
+  - title: Trailer - YouTube
+    url: https://youtu.be/rW8PsoW51-A
 details:
   - title: Créditos
     content: |-
