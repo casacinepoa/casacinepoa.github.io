@@ -6,7 +6,7 @@ category: Curtas-metragens
 image: /uploads/homser-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Ari França"
 where_to_watch:
-  - title: Youtube - wocomo
+  - title: YouTube - wocomo
     url: https://youtu.be/GWZEJNhNswM
 details:
   - title: Créditos
