@@ -17,7 +17,7 @@ details:
       **Montagem**: Bruno Carboni, Germano de Oliveira\
       **Desenho de Som**: Tiago Bello
 
-      **Uma Produção** Vulcana Filmes\
+      **Uma Produção** Vulcana Cinema\
       **Co-produção** Casa de Cinema Poa, Avante Filmes\
       **Distribuição**: Vitrine Filmes
 
