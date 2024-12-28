@@ -67,4 +67,4 @@ Artigo na Wikipédia anglófona sobre o [molho Chimichurri](http://en.wikipedia.
 
 **Enviado por Jorge em 10 de setembro de 2009.**
 
-*Muito bom. Danny Boy, com The Larks.*
+*Muito bom. [Danny Boy, com The Larks](https://www.youtube.com/watch?v=le_aVQTAKyY).*
