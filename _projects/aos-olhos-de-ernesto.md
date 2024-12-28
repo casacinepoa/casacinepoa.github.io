@@ -136,7 +136,9 @@ details:
       (Rodrigo Fonseca, O Estado de São Paulo)
 
 
-      "Estamos frente a um filme raro no cinema brasileiro. Seu roteiro é uma rocha impenetrável, a direção de atores perfeita, e a serenidade de sua narrativa reforça o drama e o humor nos momentos corretos."(Júlio Ricardo da Rosa, Viagens imóveis)
+      "Estamos frente a um filme raro no cinema brasileiro. Seu roteiro é uma rocha impenetrável, a direção de atores perfeita, e a serenidade de sua narrativa reforça o drama e o humor nos momentos corretos."\
+
+      (Júlio Ricardo da Rosa, Viagens imóveis)
   - title: Tema musical
     content: >-
       "Por que cantamos", letra de Mario Benedetti, música de Leo Henkin;
