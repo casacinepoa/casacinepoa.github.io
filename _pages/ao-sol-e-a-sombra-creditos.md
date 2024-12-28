@@ -1,5 +1,5 @@
 ---
-title: Ao sol e a sombra - creditos
+title: Ao sol e à sombra - créditos
 permalink: /filmes/ao-sol-e-a-sombra/creditos-completos/
 layout: page
 ---
