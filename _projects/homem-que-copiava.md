@@ -8,7 +8,7 @@ image_credits: "Foto por Alex Sernambi: Lázaro Ramos e Leandra Leal"
 where_to_watch:
   - title: Globoplay
     url: https://globoplay.globo.com/o-homem-que-copiava/t/GtrD6KmTVM/
-  - title: Claro TV+
+  - title: Brasiliana TV (Claro TV+)
     url: https://www.clarotvmais.com.br/filme/o-homem-que-copiava/2954488
   - title: YouTube - wocomo
     url: https://youtu.be/fjT-CtR4AWs
