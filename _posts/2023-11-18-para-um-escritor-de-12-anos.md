@@ -15,7 +15,7 @@ Em primeiro lugar, ter doze anos não é um problema. Que bom que você tem tant
 
 De qualquer maneira, se você quiser ser roteirista, a única coisa que você pode fazer, por enquanto, é ler. Ler muito, tudo o que te der vontade: livros de aventura, policiais, poesia, roteiros, revistas, jornais... Claro que ler os clássicos (Machado de Assis, Dostoievski, Flaubert, Borges, etc.) é fundamental, mas cada um tem a sua hora pra esse "mergulho", não se obrigue a fazer isso se ainda não for a tua hora.
 
-Leia sempre, nunca pare de ler - e saboreie a leitura, discuta o que você leu com outras pessoas, pense no que leu, pleneje suas próximas leituras. E, claro, sempre que der vontade, escreva, mostre o que você escreveu pra quem estiver perto - seus pais, um professor, seus amigos, uma namorada...
+Leia sempre, nunca pare de ler - e saboreie a leitura, discuta o que você leu com outras pessoas, pense no que leu, planeje suas próximas leituras. E, claro, sempre que der vontade, escreva, mostre o que você escreveu pra quem estiver perto - seus pais, um professor, seus amigos, uma namorada...
 
 Se, daqui a alguns anos, você realmente resolver ser roteirista, tuas leituras vão ser fundamentais pra tudo o que você for escrever. E a grande vantagem é a seguinte: se você resolver ser médico ou advogado ou arquiteto ou ator ou jogador de futebol, pode ter certeza que as tuas leituras também vão ser fundamentais pro que você for fazer.
 
