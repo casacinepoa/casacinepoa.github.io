@@ -1,5 +1,5 @@
 ---
-title: Tres efes
+title: Três efes
 tech_specs:
   - (2007, SD, 100 min, 1.33:1)
 category: Longas-metragens
