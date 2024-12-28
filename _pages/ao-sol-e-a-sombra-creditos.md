@@ -77,17 +77,20 @@ Desenho de Som e Mixagem: Tiago Bello\
 Estúdio de Mixagem Final: Tecna
 
 Arte do cartaz: Amanda Copstein\
-Fotos still: Rosana Machado (estudante)
-
+Fotos still: Rosana Machado (estudante)\
+\
+Curta-metragem "Fora de campo"\
+/ realizado pelos alunos\
+\
+**FINANCIAMENTO**\
+\
+Produção: Casa de Cinema de Porto Alegre\
+Recursos do Fundo de Apoio à Cultura\
+/ Pró-cultura RS FAC, Lei nº 13.490/10.\
 Apoio: Programa de Alfabetização Audiovisual\
 / Cinemateca Capitólio\
 / Locall\
 / Vento Leste Cinema
-
-Curta-metragem "Fora de campo"\
-/ realizado pelos alunos
-
-Recursos do Fundo de Apoio à Cultura Pró-cultura RS FAC, Lei nº 13.490/10.
 
 **HISTÓRICO**
 
