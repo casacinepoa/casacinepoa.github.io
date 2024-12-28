@@ -27,5 +27,7 @@ details:
   - title: PREMIAÇÃO
     content: "\\* 2º Festival de Cinema de Canoas, 2024: Menção Honrosa na
       Competição Estadual"
+  - title: VEJA MAIS
+    content: \- [Créditos completos](/filmes/ao-sol-e-a-sombra/creditos-completos/)
 ---
 Uma escola pública de Porto Alegre recebe uma equipe de cinema que propõe aos estudantes um desafio: fazer um filme de ficção a partir de um jogo de futebol. Eles topam e começam os preparativos. Os times são montados, o roteiro é escrito, o elenco ensaia, as equipes treinam e todo o processo é documentado. Ao sol e à sombra mostra essa rotina dentro da sala de aula e fora, na quadra de esportes.
