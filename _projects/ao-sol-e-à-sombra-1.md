@@ -25,7 +25,7 @@ details:
       Estudantes da Escola Municipal Neusa Goulart Brizola, turmas 91 e 92\
       **Professores Parceiros**: Gabriela Greco, Christian Pizzolatto
   - title: PREMIAÇÃO
-    content: "\\* 2º Festival de Cinema de Canoas: Menção Honrosa na Competição
-      Estadual"
+    content: "\\* 2º Festival de Cinema de Canoas, 2024: Menção Honrosa na
+      Competição Estadual"
 ---
 Uma escola pública de Porto Alegre recebe uma equipe de cinema que propõe aos estudantes um desafio: fazer um filme de ficção a partir de um jogo de futebol. Eles topam e começam os preparativos. Os times são montados, o roteiro é escrito, o elenco ensaia, as equipes treinam e todo o processo é documentado. Ao sol e à sombra mostra essa rotina dentro da sala de aula e fora, na quadra de esportes.
