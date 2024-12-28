@@ -106,6 +106,7 @@ details:
       (Luck Veloso, revista virtual CLUBE CULTURAL, 11/10/2003)
   - title: Veja mais
     content: |-
+      * [Roteiro](/uploads/luna-caliente-rot.pdf)
       * [Créditos completos](/filmes/luna-caliente/creditos-completos/)
       * [IMDb](https://www.imdb.com/title/tt0242216)
       * [Letterboxd](https://letterboxd.com/film/luna-caliente-1999-1/)
