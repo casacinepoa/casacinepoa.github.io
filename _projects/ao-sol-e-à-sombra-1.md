@@ -1,7 +1,7 @@
 ---
 title: Ao sol e à sombra
 tech_specs:
-  - 2024, HD, 19 min, 1.77:1
+  - (2024, HD, 19 min, 1.77:1)
 category: Médias-metragens
 image: /uploads/asas-penalti.jpg
 where_to_watch:
