@@ -1,7 +1,7 @@
 ---
 title: Bicho monstro
 tech_specs:
-  - 2024, HD, 75 min
+  - (2024, HD, 75 min)
 category: Coproduções
 image: /uploads/bchm-imgr.jpg
 image_credits: "Foto de Daniel de Bem: Kamilly Wagner"
