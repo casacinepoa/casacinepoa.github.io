@@ -29,7 +29,7 @@ A partir de 1991, a Casa de Cinema de Porto Alegre se tornou uma produtora indep
 
 Em setembro de 2011, houve uma nova alteração na composição da Casa. Os quatro sócios atuais são Ana Luiza Azevedo, Giba Assis Brasil, Jorge Furtado e Nora Goulart.
 
-Em seus 35 anos de existência, a Casa produziu centenas de filmes e vídeos, programas de televisão (especiais e séries), cursos de roteiro e de introdução à realização cinematográfica, fórums de debates e programas eleitorais para TV.
+Em seus 37 anos de existência, a Casa produziu centenas de filmes e vídeos, programas de televisão (especiais e séries), cursos de roteiro e de introdução à realização cinematográfica, fórums de debates e programas eleitorais para TV.
 
 A Casa de Cinema já teve como parceiros e clientes: Channel 4 (Inglaterra), ZDF (Alemanha), HBO (America Latina), Fox Film do Brasil, Columbia Tristar, Sony, Paramount, Fundação MacArthur, TV Globo, Globo Play, RBS TV, Canal Futura, Canal Brasil, Canal Curta, entre outros.
 
