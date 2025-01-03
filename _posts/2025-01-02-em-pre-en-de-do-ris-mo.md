@@ -32,7 +32,7 @@ Mandrana e mandraço são variações de mandrião, e todas elas vêm do italian
 
 Tanjão é uma boa derivação: aquele que só trabalha quando é tangido, empurrado. E quem empurra é o quê?
 
-Indolente era aquele que não sentia dor (do verbo latino 'dolere', doer), mas aos poucos foi virando também sinônimo de insensível, indiferente; depois sem vitalidade, lento; por fim preguiçoso, negligente. Ou seja: não mais 'quem não sofre com a própria dor', mas 'quem não percebe a dor dos outros'. Como o administrador público que não vê motivos pra consertar as casas de combas ou renovar o sistema de proteção contra enchentes.
+Indolente era aquele que não sentia dor (do verbo latino 'dolere', doer), mas aos poucos foi virando também sinônimo de insensível, indiferente; depois sem vitalidade, lento; por fim preguiçoso, negligente. Ou seja: não mais 'quem não sofre com a própria dor', mas 'quem não percebe a dor dos outros'. Como o administrador público que não vê motivos pra consertar as casas de bombas ou renovar o sistema de proteção contra enchentes.
 
 Pachola pode ser um indivíduo bom, simples, ingênuo, para quem tudo está bem. Quanto será que eu ainda preciso empreender pra chegar lá?
 
