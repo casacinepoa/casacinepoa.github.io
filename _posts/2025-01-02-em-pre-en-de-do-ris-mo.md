@@ -8,7 +8,7 @@ date: 2025-01-02 20:39:00
 
 Movido por um genuíno sentimento de rejeição ao conceito e principalmente à forma como ele tem sido apresentado por toda parte desde o início deste século, procurei no Google: "antônimos de empreendedorismo". Os dicionários parece que não estavam preparados para a questão. Mas encontrei em vários locais a citação "o contrário de empreendedorismo é conservadorismo".
 
-Em geral não me considero conservador, mas reconheço que a idade (ou a rabujice) às vezes me leva a tomar posições que, sim, podem ser consideradas conservadoras - algumas das quais me envergonham e procuro corrigir; outras, nem tanto. No caso, não cheguei a me sentir ofendido pela frase, mas a resposta não me pareceu satisfatória.
+Em geral não me considero conservador, mas reconheço que a idade (ou a rabugice) às vezes me leva a tomar posições que, sim, podem ser consideradas conservadoras - algumas das quais me envergonham e procuro corrigir; outras, nem tanto. No caso, não cheguei a me sentir ofendido pela frase, mas a resposta não me pareceu satisfatória.
 
 Voltei ao Google e busquei: "antônimos de empreendedor". E aí veio a lista que eu procurava: tanjão, sedentário, pachola, bandarra, calaceiro, gandaieiro, mandrana, rascão, vadio, mandrião, indolente, bilhardeiro, inativo, preguiçoso, madraço.
 
