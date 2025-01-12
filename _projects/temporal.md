@@ -16,6 +16,8 @@ details:
 
       **Roteiro**: Jorge Furtado, José Pedro Goulart, Ana Luiza Azevedo e Marcelo Lopes\
 
+      **Argumento**: Luis Fernando Verissimo\
+
       **Direção de Fotografia**: Christian Lesage\
 
       **Direção de Arte**: Lordsir Peninha, Jailton Moreira e Teresa Poester\
@@ -24,10 +26,13 @@ details:
 
       **Montagem**: Giba Assis Brasil\
 
-      **Assistente de Direção**: Ana Luiza Azevedo
+      **Assistente de Direção**: Ana Luiza Azevedo\
 
+      \
 
-      **Uma Produção da Casa de Cinema PoA**
+      **Produção:** Luz Produções\
+
+      **Distribuição:** Casa de Cinema PoA
 
 
       **Elenco Principal**:\
