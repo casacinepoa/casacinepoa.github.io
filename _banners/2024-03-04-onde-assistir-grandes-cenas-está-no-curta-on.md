@@ -1,5 +1,5 @@
 ---
-date: 2024-04-24 14:22:24
+date: 2025-02-15 05:25:00
 image: /uploads/grcenas-matheus.jpg
 title: 'ONDE ASSISTIR: "Grandes cenas" está no Curta!On'
 link: https://www.curtaon.com.br/series/grandes-cenas
