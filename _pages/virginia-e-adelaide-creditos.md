@@ -394,7 +394,7 @@ ENTREVISTAS
   / e psicanálise na trajetória de Virgínia Leone Bicudo",\
   / entrevista realizada em 1995.\
   / Publicada no Caderno Pagu, dez. 2010.
-* Depoimento de Virgínia a Cláudio João Tognolli,\
+* Depoimento de Virgínia a Cláudio Júlio Tognolli,\
   / Folha de São Paulo, 2004, p. 6.
 * Virgínia Leone Bicudo - 110 anos,\
   / Entrevista com Virginia Bicudo,\
