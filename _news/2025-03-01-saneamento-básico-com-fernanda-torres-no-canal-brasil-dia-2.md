@@ -3,13 +3,11 @@ layout: post
 title: SANEAMENTO BÁSICO com Fernanda Torres no Canal Brasil dia 2
 date: 2025-03-01 16:00:00
 ---
+![](/uploads/sbof-quarteto.jpg)
+
 **CANAL BRASIL FARÁ MARATONA COM FILMES DE FERNANDA TORRES**\
 Alexandre Almeida\
 [Omelete, 18/02/2025 | 16:57](https://www.omelete.com.br/filmes/oscar-2025-maratona-canal-brasil-fernanda-torres)
-
-[](https://www.omelete.com.br/filmes/oscar-2025-maratona-canal-brasil-fernanda-torres)
-
-![](/uploads/sbof-quarteto.jpg)
 
 / Aquecimento para cerimônia será feito no próprio domingo (02) antes da premiação
 
