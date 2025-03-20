@@ -13,7 +13,7 @@ details:
     content: |-
       **Criação**: Tiago Cruz Rezende\
       **Produção**: Nora Goulart\
-      **Direção**: Tiasgo Cruz Rezende e Ana Luiza Azevedo\
+      **Direção**: Tiago Cruz Rezende e Ana Luiza Azevedo\
       **Roteiros**: Tiago Cruz Rezende, Ana Saki e Tomás Fleck\
       **Supervisão de texto**: Jorge Furtado\
       **Produção executiva**: Nicky Klöpsch\
