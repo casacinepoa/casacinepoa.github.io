@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mostra Jorge Furtado na Sala Paulo Amorim a partir do dia 27
+title: Mostra Jorge Furtado na Sala Eduardo Hirtz a partir do dia 27
 date: 2025-03-26 16:00:00
 ---
 ![](/uploads/jorge-2025.jpg)
