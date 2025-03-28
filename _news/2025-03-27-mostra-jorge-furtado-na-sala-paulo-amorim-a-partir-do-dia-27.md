@@ -75,3 +75,6 @@ Coletiva.net\
 
 Blog Felipe Vieira\
 <https://felipevieira.com.br/site/detalhes-noticia/?id=358124>
+
+Olá Serra Gaúcha\
+[https://olaserragaucha.com.br/entretenimento/filmes/cinemateca-paulo-amorim-em-porto-alegre-celebrar-a-trajetoria-do-diretor-gaucho-jorge-furtado/](https://felipevieira.com.br/site/detalhes-noticia/?id=358124)[](https://felipevieira.com.br/site/detalhes-noticia/?id=358124)
