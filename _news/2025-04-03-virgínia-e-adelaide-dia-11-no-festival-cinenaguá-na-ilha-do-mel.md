@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIRGÍNIA E ADELAIDE dia 11 no Festival Cinenaguá na Ilha do Mel
+title: VIRGÍNIA E ADELAIDE dia 11 no Festival da Ilha do Mel
 date: 2025-04-03 16:00:00
 ---
 ![](/uploads/vea-cartaz-det.jpg)
