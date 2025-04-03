@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Três filmes da Casa de Cinema no mês de abril em Caxias
-date: 2025-03-31 16:00:00
+date: 2025-04-02 16:00:00
 ---
 ![](/uploads/3-filmes.jpg)
 
