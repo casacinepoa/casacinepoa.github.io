@@ -1,5 +1,5 @@
 ---
-date: 2023-09-18 19:42:16
+date: 2025-04-12 12:16:00
 image: /uploads/fora-de-quadro-31.jpg
 title: 'ONDE ASSISTIR: "Fora de quadro" está no Sulflix'
 link: https://sulflix.com.br/app/series/fora-de-quadro
