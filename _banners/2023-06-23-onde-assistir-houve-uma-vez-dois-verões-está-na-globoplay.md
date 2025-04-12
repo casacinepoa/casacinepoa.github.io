@@ -1,6 +1,6 @@
 ---
-date: 2023-06-23 10:09:00
-image: /uploads/houve-banco.jpg
+date: 2025-04-12 12:15:00
+image: /uploads/h1x2v-imgr.jpeg
 title: 'ONDE ASSISTIR: "Houve uma vez dois verões" está na Globoplay'
 link: https://globoplay.globo.com/houve-uma-vez-dois-veroes/t/HC1X28ZGdj/
 ---
