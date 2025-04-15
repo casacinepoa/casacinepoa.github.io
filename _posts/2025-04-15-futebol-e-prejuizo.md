@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futebol e prejuizo
+title: Futebol e prejuízo
 author: giba
 date: 2022-07-27 21:00:00
 ---
