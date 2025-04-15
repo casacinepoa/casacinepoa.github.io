@@ -11,7 +11,7 @@ date: 2022-07-27 21:00:00
 
 **"Palmeiras avalia em R$ 10 milhões o prejuízo por eliminação com erro do VAR"**
 
-Bem assim se compõe a manchete do UOL (anexo): a foto de uma diretora de instituição financeira + uma frase sobre um prejuízo de uma outra instituição (por acaso presidida pela mesma pessoa) + uma frase sobre um erro que teria provocado o tal prejuízo. O detalhe é que, nessa última frase, o "erro", que em futebol sempre foi subjetivo, é tornado objetivo, inquestionável: "jogo teve erro de VAR".
+Bem assim se compõe a manchete do UOL (acima): a foto de uma diretora de instituição financeira + uma frase sobre um prejuízo de uma outra instituição (por acaso presidida pela mesma pessoa) + uma frase sobre um erro que teria provocado o tal prejuízo. O detalhe é que, nessa última frase, o "erro", que em futebol sempre foi subjetivo, é tornado objetivo, inquestionável: "jogo teve erro de VAR".
 
 Aliás, taí mais uma mudança que o VAR pode ter decretado: ele não acabou com os erros de arbitragem (longe disso, como sabemos), mas pode tê-los transformado em "falhas objetivas", pelo menos quando provocam prejuízos a instituições financeiras.
 
