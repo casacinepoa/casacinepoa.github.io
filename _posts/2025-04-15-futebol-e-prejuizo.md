@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futebol e prejuizo
+title: Futebol e prejuízo
 author: giba
 date: 2022-07-27 21:00:00
 ---
@@ -9,9 +9,9 @@ date: 2022-07-27 21:00:00
 (mensagem para um grupo de amigos colorados)\
 27/07/2022
 
-**"Palmeiras vê prejuízo de R$ 10 mi por eliminação na Copa do Brasil; jogo teve falha do VAR"**
+**"Palmeiras avalia em R$ 10 milhões o prejuízo por eliminação com erro do VAR"**
 
-Bem assim se compõe a manchete do UOL (anexo): a foto de uma diretora de instituição financeira + uma frase sobre um prejuízo de uma outra instituição (por acaso presidida pela mesma pessoa) + uma frase sobre um erro que teria provocado o tal prejuízo. O detalhe é que, nessa última frase, o "erro", que em futebol sempre foi subjetivo, é tornado objetivo, inquestionável: "jogo teve falha de VAR".
+Bem assim se compõe a manchete do UOL (anexo): a foto de uma diretora de instituição financeira + uma frase sobre um prejuízo de uma outra instituição (por acaso presidida pela mesma pessoa) + uma frase sobre um erro que teria provocado o tal prejuízo. O detalhe é que, nessa última frase, o "erro", que em futebol sempre foi subjetivo, é tornado objetivo, inquestionável: "jogo teve erro de VAR".
 
 Aliás, taí mais uma mudança que o VAR pode ter decretado: ele não acabou com os erros de arbitragem (longe disso, como sabemos), mas pode tê-los transformado em "falhas objetivas", pelo menos quando provocam prejuízos a instituições financeiras.
 
