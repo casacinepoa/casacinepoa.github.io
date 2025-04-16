@@ -74,6 +74,6 @@ redirect_from: /os-filmes/realização/séries-de-tv/a-história-do-amor.html
 ---
 Leandra Leal (35), Fernanda de Freitas (61) e Daniel de Oliveira (103) vivem ao todo 199 personagens que atravessam o tempo para contar "A História do Amor".  A sedução, o namoro, o casamento, as separações e os recomeços, desde o tempo das cavernas até hoje, passando por Adão e Eva, a antiguidade, a idade média, o Brasil Colônia e o século 20.
 
-Você sabia que os Celtas não tinha uma palavra para beijo? Que até 2002, no Brasil, um casamento poderia ser anulado se a noiva não fosse virgem? Que Salomão tinha 400 mulheres?  Que no tempo dos seus avós pisar no pé de alguém podia ser uma declaração de amor?
+Você sabia que os Celtas não tinham uma palavra para beijo? Que até 2002, no Brasil, um casamento poderia ser anulado se a noiva não fosse virgem? Que Salomão tinha 400 mulheres?  Que no tempo dos seus avós pisar no pé de alguém podia ser uma declaração de amor?
 
 Todos os cenários da série foram feitos a partir de originais das diferentes épocas, uma colagem de estilos e cores que se transforma numa divertida viagem através do tempos.
