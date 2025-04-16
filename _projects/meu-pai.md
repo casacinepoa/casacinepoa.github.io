@@ -44,4 +44,4 @@ details:
       * [R﻿oteiro](/uploads/meu-pai-rot.pdf)
 redirect_from: /os-filmes/distribuição/curtas/meu-pai
 ---
-Álvaro, tem 12 anos, é filho único de pais separados. Está numa fase de muitas dúvidas e inquietações. Quer crescer logo, mas será que o pai dele também demorou para crescer? Como será que o pai fazia com as meninas? É difícil perguntar, o pai de Alvaro tem um jeito estranho de dizer as coisas.
+Álvaro tem 12 anos, é filho único de pais separados. Está numa fase de muitas dúvidas e inquietações. Quer crescer logo, mas será que o pai dele também demorou para crescer? Como será que o pai fazia com as meninas? É difícil perguntar, o pai de Alvaro tem um jeito estranho de dizer as coisas.
