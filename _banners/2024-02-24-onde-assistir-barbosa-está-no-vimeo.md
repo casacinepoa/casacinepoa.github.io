@@ -1,5 +1,5 @@
 ---
-date: 2024-12-22 12:00:00
+date: 2025-04-19 16:57:00
 image: /uploads/barbosa-arquib.jpg
 title: 'ONDE ASSISTIR: "Barbosa" está no YouTube'
 link: https://youtu.be/rscoEY5MSA0
