@@ -8,6 +8,8 @@ image_credits: "Foto por Fábio Rebelo: Gabriela Correa e Sophie Charlotte"
 where_to_watch:
   - title: Trailer - YouTube
     url: https://youtu.be/tPXSGFB2SME
+  - title: Making-of - YouTube
+    url: https://youtu.be/5R2calmGMpc
 details:
   - title: CRÉDITOS
     content: |-
