@@ -3,6 +3,8 @@ layout: post
 title: Lançado making-of de VIRGÍNIA E ADELAIDE
 date: 2025-04-20 15:05:00
 ---
+![](/uploads/vea-mosaico.jpg)
+
 No YouTube:\
 <https://youtu.be/5R2calmGMpc>
 
