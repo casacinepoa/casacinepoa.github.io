@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sócios da Casa de Cinema homenageados no Festival da Fronteira
+title: Sócios da Casa homenageados no Festival da Fronteira
 date: 2025-04-23 16:00:00
 ---
 ![](/uploads/giba-ana-bage.jpg)
