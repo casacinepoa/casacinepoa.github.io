@@ -1,8 +1,9 @@
 ---
-title: MOTEL PÉROLA
+title: MUITO PRAZER
 tech_specs:
+  - (ex "Motel Pérola")
   - Longa-metragem, ficção
-  - EM CAPTAÇÃO
+  - EM PRÉ-PRODUÇÃO (filmagens a partir de 08/06/2025)
 category: Projetos
 image: /uploads/mot-perola.jpg
 ---
