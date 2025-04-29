@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SANEAMENTO BÁSICO, O FILME chega à Netflix
-date: 2025-04-23 19:30:00
+date: 2025-04-24 19:30:00
 ---
 ![](/uploads/sbof-nanda-paulo.jpg)
 
