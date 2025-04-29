@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BICHO MONSTRO ganha Melhor Roteiro no Festival da Fronteira
+title: BICHO MONSTRO é Melhor Roteiro no Festival da Fronteira
 date: 2025-04-28 16:25:00
 ---
 ![](/uploads/fest-bage-2025.jpg)
