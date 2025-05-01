@@ -6,7 +6,7 @@ date: 2024-10-25 16:00:00
 ---
 (mensagem para um grupo de amigos) 25/10/2024
 
-Duas notícias de hoje, que chegaram com o café da manhã. Duas histórias absurdas, duas mortes aparentemente sem sentido mas que talvez contem muito do nosso tempo. Talvez. Um menino se matou porque estava apaixonado por uma IA. Outro foi assassinado porque tirou uma foto fazendo um sinal que ele não sabia que era proibido. O que se faz com isso? Ficção parece forçado, documentário seria apelativo. Sociologia não chega, poesia ruim já tem que chegue no mundo. Sentar e chorar no cantinho é inútil. Humor podia ser o caminho, muitas vezes é, mas cadê a graça? Então é isso: simplesmente copiar e colar as notícias, pra dividir minha perplexidade com quem mais tiver paciência pra ler. Desculpem a aluguel.
+Duas notícias de hoje, que chegaram com o café da manhã. Duas histórias absurdas, duas mortes aparentemente sem sentido mas que talvez contem muito do nosso tempo. Talvez. Um menino se matou porque estava apaixonado por uma IA. Outro foi assassinado porque tirou uma foto fazendo um sinal que ele não sabia que era proibido. O que se faz com isso? Ficção parece forçado, documentário seria apelativo. Sociologia não chega, poesia ruim já tem que chegue no mundo. Sentar e chorar no cantinho é inútil. Humor podia ser o caminho, muitas vezes é, mas cadê a graça? Então é isso: simplesmente copiar e colar as notícias, pra dividir minha perplexidade com quem mais tiver paciência pra ler. Desculpem o aluguel.
 
 - - -
 
