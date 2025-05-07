@@ -8,6 +8,8 @@ image_credits: "Foto por Bruno Polidoro: Djanira Correa"
 where_to_watch:
   - title: YouTube - wocomo
     url: https://youtu.be/dG95BWiVVcM
+  - url: https://play.fatoflix.com.br/app/mostra-mundo-do-trabalho/domesticas
+    title: Fatoflix
 details:
   - title: Créditos
     content: >-
