@@ -1,5 +1,5 @@
 ---
-date: 2025-04-30 21:32:00
+date: 2025-05-07 01:26:00
 image: /uploads/vea-cartaz-det.jpg
 title: VIRGÍNIA E ADELAIDE dia 8 de maio nos cinemas
 link: https://youtu.be/jRYw48YcPH0
