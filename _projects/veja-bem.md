@@ -44,7 +44,10 @@ details:
 
       (Ismail Xavier)
   - title: Veja mais
-    content: "* [Créditos completos](/filmes/veja-bem/creditos-completos)"
+    content: |-
+      * [Créditos completos](/filmes/veja-bem/creditos-completos)
+      * [IMDb](https://www.imdb.com/title/tt0126111)
+      * [Letterboxd](https://letterboxd.com/film/veja-bem/)
 redirect_from: /os-filmes/produção/curtas/veja-bem.html
 ---
 Veja Bem é um filme e é também um objeto, um Zootrópio, espécie de precursor do cinema. Na primeira parte do filme (e do lado de dentro do objeto), o foco de atenção é o homem-músculo, as imagens se repetem até a exaustão, e o texto é de João Cabral. Na segunda parte do filme (e do lado de fora do objeto), o foco de atenção é o maravilhoso e ridículo caleidoscópio de ofertas da cidade, as imagens são pura diversidade, e o texto é de Drummond.
