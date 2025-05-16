@@ -52,6 +52,8 @@ details:
       * [C﻿réditos completos](/filmes/cretinalia/creditos-completos/)
 
       * [](/filmes/cretinalia/creditos-completos/)[R﻿oteiro](/uploads/cretinalia-rot.pdf)
+
+      * [Letterboxd](https://letterboxd.com/film/cretinalia/)
 ---
 Isolado durante a pandemia, um cineasta descobre um discurso de Camus nos anos 1950 e um poema de Pope do século XVIII em conexão com Lewis Carroll e Bob Dylan, e a partir daí reflete sobre as relações entre arte e política no Brasil de 2020.
 
