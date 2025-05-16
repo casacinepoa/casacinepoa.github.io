@@ -48,6 +48,10 @@ details:
       * [Texto final](https://www.casacinepoa.com.br/os-filmes/roteiros/rummikub-texto-final.html)[](/uploads/Rummikub.mp3)
 
       * [Créditos completos](/filmes/rummikub/creditos-completos)
+
+      * [IMDb](https://www.imdb.com/title/tt1090344)
+
+      * [Letterboxd](https://letterboxd.com/film/rummikub/)
 redirect_from: /os-filmes/produção/curtas/rummikub.html
 ---
 Num fim de semana chuvoso na praia, duas famílias brigam por causa do Rummikub, um jogo de mesa. Enquanto isso, alheios às brigas dos pais, surge um casal de amantes.
