@@ -39,7 +39,10 @@ details:
 
       <audio src="https://www.casacinepoa.com.br/uploads/oscar-boz.mp3" controls />
   - title: Veja mais
-    content: "* [Créditos completos](/filmes/oscar-boz/creditos-completos)"
+    content: |-
+      * [Créditos completos](/filmes/oscar-boz/creditos-completos)
+      * [IMDb](https://www.imdb.com/title/tt14409370)
+      * [Letterboxd](https://letterboxd.com/film/oscar-boz/)
 redirect_from: /os-filmes/realização/vídeos/oscar-boz.html
 ---
 Jorge Furtado conversa com Oscar Boz, um pioneiro nas filmagens familiares. Mostra as cenas captadas por Boz nos anos 1950 em seu formato original e atualmente retrabalhadas em computador, para fazer uma reflexão sobre a memória e um diálogo entre passado e futuro. Oscar Boz filmou em Caxias do Sul e litoral gaúcho entre 1951 e 1957.
