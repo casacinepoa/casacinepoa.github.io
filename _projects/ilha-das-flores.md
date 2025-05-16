@@ -172,6 +172,10 @@ details:
       * [Texto final em português](/uploads/ilha-das-flores-texto-final.pdf) (01/05/1989)
 
       * [Créditos completos](/filmes/ilha-das-flores/creditos-completos)
+
+      * [IMDb](https://www.imdb.com/title/tt0097564/)
+
+      * [Letterboxd](https://letterboxd.com/film/isle-of-flowers/)
 redirect_from: /os-filmes/produção/curtas/ilha-das-flores.html
 ---
 Um tomate é plantado, colhido, transportado e vendido num supermercado, mas apodrece e acaba no lixo. Acaba? Não. ILHA DAS FLORES segue-o até seu verdadeiro final, entre animais, lixo, mulheres e crianças. E então fica clara a diferença que existe entre tomates, porcos e seres humanos.
