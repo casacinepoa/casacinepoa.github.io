@@ -87,6 +87,8 @@ details:
     content: |-
       * [Roteiro](/uploads/barbosa-rot.pdf)
       * [Créditos completos](/filmes/barbosa/creditos-completos/)
+      * [IMDb](https://www.imdb.com/title/tt0125671)
+      * [Letterboxd](https://letterboxd.com/film/barbosa/)
 redirect_from: /os-filmes/produção/curtas/barbosa.html
 ---
 Trinta e oito anos depois da Copa do Mundo de 1950, um homem volta no tempo a fim de impedir o gol que derrotou o Brasil, destruiu seus sonhos de infância e acabou com a carreira do goleiro Barbosa.
