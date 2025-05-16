@@ -31,6 +31,8 @@ details:
     content: |-
       * [Créditos completos](/filmes/fraternidade/creditos-completos)
       * [R﻿oteiro](/uploads/fraternidade-rot.pdf)
+      * [IMDb](https://www.imdb.com/title/tt14395984)
+      * [Letterboxd](https://letterboxd.com/film/fraternidade/)
 redirect_from: /os-filmes/realização/vídeos/fraternidade.html
 ---
 15 anos depois, uma equipe de filmagem volta à Ilha Grande dos Marinheiros, em Porto Alegre, onde foi realizado o curta-metragem ILHA DAS FLORES. E discute a possibilidade de ajudar, de fato, a mudar um pouco a vida das pessoas que moram lá e sobrevivem da coleta do lixo.
