@@ -69,6 +69,8 @@ details:
       * [Pré-roteiro](/uploads/esta-nao-eh-a-sua-vida-rot.pdf)
       * [Texto final](/uploads/esta-nao-eh-a-sua-vida-txf.pdf)
       * [Créditos completos](/filmes/esta-não-é-a-sua-vida/creditos-completos)
+      * [IMDb](https://www.imdb.com/title/tt0125738)
+      * [Letterboxd](https://letterboxd.com/film/this-is-not-your-life)
 redirect_from: /os-filmes/produção/documentários/esta-não-é-sua-vida.html
 ---
 Documentário sobre a vida de Noeli Joner Cavalheiro. Noeli mora num subúrbio de Porto Alegre, é dona de casa e tem dois filhos. Nasceu numa cidade do interior, foi pra capital, trabalhou numa padaria, casou. É uma pessoa comum. Mas não existem pessoas comuns.
