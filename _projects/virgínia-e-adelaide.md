@@ -61,6 +61,11 @@ details:
       ([Carlos Alberto Mattos, blog, 12/05/2025](https://carmattos.com/2025/05/12/um-encontro-para-alem-do-diva/))
 
 
+      "Vale ressaltar que a assinatura de Furtado na direção não aparece sozinha. Ao lado dele, está Yasmin Thayná, jovem cineasta, com premiada carreira nos curtas-metragens. (...) A proeza de Thayná e Furtado é conseguir abarcar três assuntos tão complexos evitando sobressaltos de roteiro e escapando de abordagens levianas."\
+
+      ([Naief Haddad, Folha de Sâo Paulo, 14/05/2025 | 10:00](https://www1.folha.uol.com.br/ilustrada/2025/05/jorge-furtado-e-yasmin-thayna-filmam-o-inicio-da-psicanalise-no-brasil.shtml))
+
+
       "Seria um engano pensar que a produção interessa apenas a psicanalistas. O filme abre uma grande janela para quem deseja se inspirar na potência subversiva que nasce da amizade entre duas mulheres marcadas pela raça."\
 
       ([Carolina Mousquer Lima, Sul21, 06/05/2025](https://sul21.com.br/opiniao/2025/05/virginia-e-adelaide-coluna-da-appoa/))
