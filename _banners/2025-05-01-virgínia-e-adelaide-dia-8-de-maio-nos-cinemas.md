@@ -1,7 +1,7 @@
 ---
 date: 2025-05-07 00:15:00
-image: /uploads/vea_atrizes2.jpg
-title: VIRGÍNIA E ADELAIDE hoje nos cinemas
+image: /uploads/vea-mosaico.jpg
+title: VIRGÍNIA E ADELAIDE em terceira semana nos cinemas
 link: https://youtu.be/jRYw48YcPH0
 ---
 ESTREIA NACIONAL 8 DE MAIO 2025
