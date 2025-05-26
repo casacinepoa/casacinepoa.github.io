@@ -51,6 +51,21 @@ details:
       ([Luiz Carlos Merten, Blog, 17/08/2024)](https://blogdomertenblog.wordpress.com/2024/08/17/gramado-16-adelaide-e-virginia-e-a-minha-decepcao-nenhum-reconhecimento-para-um-corpo-so/)
 
 
+      [](https://blogdomertenblog.wordpress.com/2024/08/17/gramado-16-adelaide-e-virginia-e-a-minha-decepcao-nenhum-reconhecimento-para-um-corpo-so/)"Como é recorrente nas produções escritas e/ou dirigidas pelo cineasta, o filme costura com fluência cenas dramáticas com apresentações informativas que remetem ao cinema documentário. Merece destaque também a recriação da primeira sessão de análise de Virgínia com Adelaide em uma longa sequência que convida o espectador a partilhar da intimidade de um consultório médico."\
+
+      ([Roger Lerina, Matinal, 07/05/2025](https://www.matinaljornalismo.com.br/rogerlerina/cinema/virginia-e-adelaide-lanca-luz-sobre-duas-pioneiras-da-psicanalise-no-brasil/))
+
+
+      "Além da importância temática, o filme se destaca pela concepção dos ambientes. Há uma alternância entre a proposta realista do consultório de Adelaide, onde se passam muitas sequências, e espaços abstratos e assumidamente cenográficos que, em todo caso, trazem Virgínia e Adelaide envolvidas em situações concretas (apresentação de programa de rádio, leitura de cartas). (...) Bonequinho aplaude."\
+
+      ([Daniel Schenker, O Globo, 08/05/2025 03h00](https://oglobo.globo.com/rioshow/cinema/guia/virginia-e-adelaide-com-sophie-charlotte-mostra-como-tragedias-coletivas-reverberam-na-vida-de-mulheres.ghtml))
+
+
+      "Um dos aspectos mais interessantes do filme são as camadas de discussão que apresenta, primeiramente colocando em comparação as vidas de Virgínia - uma filha de negro beneficiado pela Lei do Ventre Livre, no século anterior, e que sofre todo tipo de discriminação para poder trabalhar com saúde pública - e Adelheid, judia alemã que foge da ascensão nazista em Berlim, encontrando refúgio no Brasil. Ambas são mulheres perseguidas pelo contexto histórico-social e que se fortalecem nessa amizade."\
+
+      ([Paulo Henrique Silva, O Tempo (Estado de Minas), 08/05/2025 | 07:00](https://www.otempo.com.br/entretenimento/2025/5/8/filme-com-sophie-charlotte-destaca-a-importancia-de-duas-mulheres-para-a-psicanalise-brasileira))
+
+
       [](https://blogdomertenblog.wordpress.com/2024/08/17/gramado-16-adelaide-e-virginia-e-a-minha-decepcao-nenhum-reconhecimento-para-um-corpo-so/)"É espantoso notar que apenas duas atrizes nos carregam durante os 94 minutos de duração. Virgínia e Adelaide privilegia o diálogo, mas não é cansativo. Uma obra que carrega muita informação, mas que não soa professoral. E muito desse predicado está, claro, na direção das atrizes, mas, principalmente, no talento de Gabriela Correa e de Sophie Charlotte."\
 
       ([Rodrigo de Oliveira, Almanaque21, maio/2025](https://almanaque21.com.br/))[](https://almanaque21.com.br/)
@@ -99,6 +114,21 @@ details:
       "É ótimo assistir o bate e volta das conversas entre a dupla, os malabarismos argumentativos e a relação que vai se formando entre as duas, algo que fica ainda mais envolvente considerando a barreira linguística entre elas e a dificuldade de Virgínia em se abrir completamente para a experiência. O filme encontra uma pérola nas interpretações de duas ótimas atrizes."\
 
       ([Roberto Honorato, Plano Crítico, 05/11/2024](https://www.planocritico.com/critica-virginia-e-adelaide/))
+
+
+      "Seria tão óbvio quanto irrelevante taxar o dispositivo de teatral, graças à encenação assumida enquanto tal. Ao invés de filmarem o nazismo, os cineastas Yasmin Thayná e Jorge Furtado preferem discutir o tema; ao invés de representarem imageticamente o racismo, conversam a respeito. (...) O longa-metragem é lúdico, pedagógico, esmiuçando sempre que possível suas intenções, objetivos, e fornecendo contextualizações históricas."\
+
+      ([Bruno Carmelo, Meio amargo, maio/2025](https://meioamargo.com/critica-virginia-e-adelaide-2024/))
+
+
+      "Contar essa história por meio do olhar das duas persongens é uma daquelas decisões que devem ser celebradas como um grande acerto. (...) No decorrer de 96 minutos, enxergamos, em cena, apenas as duas atrizes principais: Gabriela Correa e Sophie Charlotte. (...) Com grande competência, ambas tiraram de letra. Há uma forte sensação de cumplicidade e de amizade cada vez que elas aparecem."\
+
+      ([Bruno Giacobbo, Rota Cult, 07/05/2025](https://rotacult.com.br/2025/05/sophie-charlotte-e-gabriela-correa-vivem-pioneiras-da-psicanalise-em-virginia-e-adelaide/))
+
+
+      "Com apenas as duas personagens em cena, o filme muitas vezes lembra uma peça de teatro, com diálogos dinâmicos, longos monólogos e praticamente todo ambientado em um único cenário. (...) Porém, ao longo de pouco mais de uma hora e meia de duração, vemos muito mais do que isso. Somos transportados para o passado e conhecemos a dor de duas mulheres que ainda tateiam e tentam compreender temas como o racismo no Brasil e o Holocausto na Alemanha."\
+
+      ([Pedro Gilio, Omelete, 08/05/2025 | 06:00](https://www.omelete.com.br/filmes/criticas/virginia-e-adelaide-filme-critica-sophie-charlotte))
   - title: VEJA MAIS
     content: |-
       * [Créditos completos](/filmes/virginia-e-adelaide/creditos-completos/)
