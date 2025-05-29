@@ -130,11 +130,15 @@ details:
 
       ([Pedro Gilio, Omelete, 08/05/2025 | 06:00](https://www.omelete.com.br/filmes/criticas/virginia-e-adelaide-filme-critica-sophie-charlotte))
   - title: VEJA MAIS
-    content: |-
+    content: >-
       * [Créditos completos](/filmes/virginia-e-adelaide/creditos-completos/)
+
       * [Roteiro](/uploads/virginia-e-adelaide-rot.pdf)
+
       * [IMDb](https://www.imdb.com/title/tt32831747)
-      * Portal do Cinema RS
+
+      * [Portal do Cinema RS](https://cinematecapauloamorim.com.br/portaldocinemagaucho/2337/virginia-e-adelaide)
+
       * [Letterboxd](https://letterboxd.com/film/virginia-e-adelaide/)
 ---
 Adelaide e Virgínia se conheceram em 1937, um ano após a chegada da alemã ao Brasil, fugindo da perseguição nazista aos judeus, para onde veio com seu marido e duas filhas. Juntas, fundaram e popularizaram a psicanálise no Brasil, quebrando barreiras e preconceitos. Foram médica e paciente por 5 anos, colegas por mais de 30 anos, amigas a vida inteira.
