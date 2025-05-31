@@ -1,6 +1,6 @@
 ---
-date: 2025-05-07 00:15:00
-image: /uploads/vea-mosaico.jpg
+date: 2025-05-31 09:43:00
+image: /uploads/vea-cartaz-det.jpg
 title: VIRGÍNIA E ADELAIDE em terceira semana nos cinemas
 link: https://youtu.be/jRYw48YcPH0
 ---
