@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SANEAMENTO BÁSICO tem sessão especial na Cinemateca Capitólio
+title: SANEAMENTO BÁSICO tem sessão especial na Capitólio
 date: 2025-05-30 16:00:00
 ---
-![](/uploads/sbof-quarteto.jpg)
+![](/uploads/sbof-nanda-paulo.jpg)
 
 A Cinemateca Capitólio (R. Demétrio Ribeiro, 424) receberá nesta sexta-feira (30), às 19h, uma sessão especial com o diretor Jorge Furtado, a produtora de cinema Nora Goulart e a equipe da Casa de Cinema de Porto Alegre para o relançamento em 4K das obras “Saneamento Básico, o Filme” e “Ilha das Flores”, dirigidos por Furtado e com produção da Casa de Cinema. A exibição será seguida de um debate com os cineastas.
 
