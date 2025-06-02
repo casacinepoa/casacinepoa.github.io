@@ -3,7 +3,7 @@ layout: post
 title: Procura-se uma sósia para Silene Seagal
 date: 2025-05-27 16:00:00
 ---
-![](/uploads/sbof-silene.jpg)
+![](/uploads/sosias-silene.jpg)
 
 **LEMBRA DELA? CONCURSO PROCURA SÓSIA DE SILENE SEAGAL, DO FILME 'SANEAMENTO BÁSICO'**\
 [IstoÉ, 25/05/2025 | 12:00](https://istoe.com.br/lembra-dela-concurso-procura-sosia-de-silene-seagal-do-filme-saneamento-basico)
