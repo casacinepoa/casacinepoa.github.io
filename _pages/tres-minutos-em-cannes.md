@@ -1,10 +1,8 @@
 ---
-title: Tres minutos em Cannes
+title: "TRÊS MINUTOS: seleção oficial de Cannes 2000"
 layout: page
 ---
-TRÊS MINUTOS: SELEÇÃO OFICIAL DE CANNES 2000
 
-- - -
 
 * ZERO HORA 20/04: Uma gaúcha em Cannes
 * A SELEÇÃO DE CANNES 2000
