@@ -88,7 +88,7 @@ details:
     content: |-
       [Roteiro de 1993](/uploads/tres-minutos-rot1.pdf)\
       [Roteiro de 1998](/uploads/tres-minutos-rot2.pdf)\
-      [Cannes 2000](/tres-minutos-em-cannes)\
+      [Cannes 2000](/filmes/tres-minutos/cannes/)\
       [Créditos completos](/filmes/tres-minutos/creditos-completos/)
 redirect_from: /os-filmes/produção/curtas/três-minutos.html
 ---
