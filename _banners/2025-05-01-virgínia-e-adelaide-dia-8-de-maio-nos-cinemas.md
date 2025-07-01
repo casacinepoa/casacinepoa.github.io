@@ -1,6 +1,6 @@
 ---
-date: 2025-05-31 09:43:00
-image: /uploads/vea-revistas2.jpg
+date: 2025-07-01 09:21:00
+image: /uploads/vea-ceu.jpg
 title: VIRGÍNIA E ADELAIDE em sexta semana nos cinemas
 link: https://youtu.be/jRYw48YcPH0
 ---
