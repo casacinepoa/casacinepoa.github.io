@@ -1,6 +1,6 @@
 ---
 date: 2025-06-29 11:25:00
-image: /uploads/sbof-quarteto.jpg
+image: /uploads/sbof-nanda-paulo.jpg
 title: SANEAMENTO BÁSICO volta a cartaz em todo o Brasil
 link: https://www.matinaljornalismo.com.br/rogerlerina/cinema/ilha-das-flores-e-saneamento-basico-o-filme-retornam-ao-cinema-em-copias-restauradas/
 ---
