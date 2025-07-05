@@ -3,6 +3,8 @@ layout: post
 title: O som de O HOMEM QUE COPIAVA dia 9 no Curta!
 date: 2025-07-05 14:09:00
 ---
+![](/uploads/luiz-adelmo.jpg)
+
 *\[Luiz Adelmo Manzano é autor do livro "Som-imagem no cinema"]*
 
 Em novo episódio da série "Na Trilha do Cinema", André Abujamra conversa com o engenheiro de som Luiz Adelmo Manzano, sobre o desenho de som dos filmes "O Palhaço" (2011) e "O Homem Que Copiava" (2003). No Canal Curta! nesta Quarta de Cinema, às 21h30. O CURTA! pode ser visto nos canais 56/556 da Claro/NET, 75 na Oi TV, 664 na Vivo TV e em algumas operadoras da Neo TV.
