@@ -6,4 +6,4 @@ link: https://www.matinaljornalismo.com.br/rogerlerina/cinema/ilha-das-flores-e-
 ---
 Comédia escrita e dirigida por Jorge Furtado em 2007, produção da Casa de Cinema de Porto Alegre, volta a cartaz nos cinemas de todo o país através do projeto Vitrine Petrobras, que restaura e exibe para novs plateias importantes obras do cinema brasileiro. O filme é estrelado por Wagner Moura (que acabou de ser premiado em Cannes) e Fernanda Torres (vencedora do Globo de Ouro 2025), além de Camila Pitanga, Lázaro Ramos e Bruno Garcia. No elenco também Paulo José, Tonico Pereira, Janaína Kremer, Sérgio Lulkin e Irene Brietzke.\
 \
-Em vários cinemas, complementa a sessão o curta ILHA DAS FLORES, uma das primeiras produções da Casa de Cinema (1989), também dirigido por Jorge Furtado, e também restaurado pela Vitrine Petrobras.
+Em Porto Alegre, o fime segue em cartaz na Sala Norberto Lubisco da Casa de Cultura Mário Quintana, na sessão das 16h15.
