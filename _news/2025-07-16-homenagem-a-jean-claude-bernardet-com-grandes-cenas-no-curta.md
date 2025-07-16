@@ -5,7 +5,7 @@ date: 2025-07-16 14:31:00
 ---
 ![](/uploads/grc-jean-cleude.jpg)
 
-\[Bernardet analisa o filme 'São Paulo S.A.' da série 'Grandes Cenas'. Crédito: Divulgação/Curta!]
+*\[Bernardet analisa o filme 'São Paulo S.A.' da série 'Grandes Cenas'. Crédito: Divulgação/Curta!]*
 
 **CURTA! HOMENAGEIA JEAN-CLAUDE BERNARDET COM EPISÓDIO DE "GRANDES CENAS" SOBRE SÃO PAULO S.A.**\
 Por Anderson Ramos\
@@ -29,8 +29,9 @@ O crítico Jean-Claude Bernardet destrincha a cena da ruptura entre Carlos e Luc
 **Duração**: 17 min\
 **Classificação**: Livre\
 **Horários**:\
-- quarta-feira, 16 de julho, às 21h;\
-- quinta-feira, 17 de julho, às 01h e às 15h;\
-- sexta-feira, 18 de julho, às 09h;\
-- sábado, 19 de julho, às 08h;\
-- e segunda-feira, 21 de julho, às 03h30
+
+* quarta-feira, 16 de julho, às 21h;\
+* quinta-feira, 17 de julho, às 01h e às 15h;\
+* sexta-feira, 18 de julho, às 09h;\
+* sábado, 19 de julho, às 08h;\
+* e segunda-feira, 21 de julho, às 03h30
