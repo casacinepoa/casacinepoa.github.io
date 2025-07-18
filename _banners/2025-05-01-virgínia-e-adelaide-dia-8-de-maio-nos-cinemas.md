@@ -1,7 +1,7 @@
 ---
 date: 2025-07-01 09:21:00
 image: /uploads/vea-revistas2.jpg
-title: VIRGÍNIA E ADELAIDE em nona semana nos cinemas
+title: VIRGÍNIA E ADELAIDE em 11a semana nos cinemas
 link: https://youtu.be/jRYw48YcPH0
 ---
 ESTREIA NACIONAL FOI DIA 8 DE MAIO
