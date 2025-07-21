@@ -3,7 +3,7 @@ layout: post
 title: MUITO PRAZER já está em fase de montagem
 date: 2025-07-17 16:00:00
 ---
-![](/uploads/mpz-elenco-claquete.jpg)
+![](/uploads/mpz-elenco-claq.jpg)
 
 **MUITO PRAZER | JORGE FURTADO TRANSFORMA MOTEL ESQUECIDO EM PALCO DE RECOMEÇOS E RISADAS NA NOVA COMÉDIA BRASILEIRA**\
 por Esdras Ribeiro\
