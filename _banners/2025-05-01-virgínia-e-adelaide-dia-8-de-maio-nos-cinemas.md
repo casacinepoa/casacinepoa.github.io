@@ -1,6 +1,6 @@
 ---
-date: 2025-07-01 09:21:00
-image: /uploads/vea-revistas2.jpg
+date: 2025-07-25 13:40:00
+image: /uploads/vea-encontro.jpg
 title: VIRGÍNIA E ADELAIDE em 11a semana nos cinemas
 link: https://youtu.be/jRYw48YcPH0
 ---
