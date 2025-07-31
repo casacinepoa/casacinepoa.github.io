@@ -1,10 +1,10 @@
 ---
 date: 2025-07-25 13:40:00
 image: /uploads/vea-encontro.jpg
-title: VIRGÍNIA E ADELAIDE em 11a semana nos cinemas
+title: VIRGÍNIA E ADELAIDE está no streaming
 link: https://youtu.be/jRYw48YcPH0
 ---
-ESTREIA NACIONAL FOI DIA 8 DE MAIO
+A PARTIR DE 31 DE JULHO NAS PLATAFORMAS ITUNES, AMAZON, CLARO E VIVO
 
 A história real de um encontro que inaugurou a psicanálise no Brasil.
 
