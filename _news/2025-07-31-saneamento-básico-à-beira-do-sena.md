@@ -8,9 +8,7 @@ date: 2025-08-01 16:00:00
 *\[Na quinta-feira, 31 de julho, o filme 'Saneamento Básico', do diretor Jorge Furtado, foi o destaque da primeira noite de exibição, com Fernanda Torres, Wagner Moura e grande elenco. Foto Luiza Ramos/RFI]*
 
 CINEMA BRASILEIRO É DESTAQUE EM EXIBIÇÃO DE TRÊS DIAS AO AR LIVRE ÀS MARGENS DO RIO SENA\
-[RFI (Radio France Internacional), 01/08/2025 | 16:02](https://www.rfi.fr/br/podcasts/reportagem/20250801-cinema-brasileiro-recebe-destaque-em-exibi%C3%A7%C3%A3o-de-tr%C3%Aas-dias-ao-ar-livre-%C3%A0s-margens-do-rio-sena)
-
-[UOL 01/08/2025 | 11:02](https://noticias.uol.com.br/ultimas-noticias/rfi/2025/08/01/cinema-brasileiro-recebe-destaque-em-exibicao-de-tres-dias-ao-ar-livre-as-margens-do-rio-sena.htm)
+[RFI (Radio France Internacional), 01/08/2025 | 16:02](https://www.rfi.fr/br/podcasts/reportagem/20250801-cinema-brasileiro-recebe-destaque-em-exibi%C3%A7%C3%A3o-de-tr%C3%Aas-dias-ao-ar-livre-%C3%A0s-margens-do-rio-sena)[](https://noticias.uol.com.br/ultimas-noticias/rfi/2025/08/01/cinema-brasileiro-recebe-destaque-em-exibicao-de-tres-dias-ao-ar-livre-as-margens-do-rio-sena.htm)
 
 [](https://noticias.uol.com.br/ultimas-noticias/rfi/2025/08/01/cinema-brasileiro-recebe-destaque-em-exibicao-de-tres-dias-ao-ar-livre-as-margens-do-rio-sena.htm)[](https://noticias.uol.com.br/ultimas-noticias/rfi/2025/08/01/cinema-brasileiro-recebe-destaque-em-exibicao-de-tres-dias-ao-ar-livre-as-margens-do-rio-sena.htm)O cinema brasileiro é celebrado em uma exibição de seis filmes ao ar livre em Paris, como parte da programação da Temporada Cultural do Brasil na França. A mostra começou na noite de quinta-feira (31), diante de um telão montado às margens do rio Sena, e segue até sábado (2), com curadoria da Associação Jangada, a convite da Prefeitura de Paris e do comissariado brasileiro. Todos os filmes são transmitidos com áudio original em português e legendas em francês.
 
