@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ANTES QUE O MUNDO ACABE abre mostra na Sala Redenção
-date: 2025-07-30 16:00:00
+date: 2025-08-02 15:59:00
 ---
 ![](/uploads/aqma-ponte.jpg)
 
