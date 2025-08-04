@@ -6,8 +6,10 @@ category: Longas-metragens
 image: /uploads/vea-encontro.jpg
 image_credits: "Foto por Fábio Rebelo: Gabriela Correa e Sophie Charlotte"
 where_to_watch:
-  - title: Trailer - YouTube
-    url: https://youtu.be/tPXSGFB2SME
+  - title: YouTube Filmes
+    url: " https://youtu.be/92sULYCMT5A"
+  - title: Apple TV
+    url: https://tv.apple.com/br/movie/virginia-e-adelaide/umc.cmc.1s99j4trhvwmldw81n4bjntr2
   - title: Making-of - YouTube
     url: https://youtu.be/5R2calmGMpc
 details:
