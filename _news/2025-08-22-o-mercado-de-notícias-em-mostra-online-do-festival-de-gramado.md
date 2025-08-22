@@ -5,11 +5,13 @@ date: 2025-08-22 14:42:00
 ---
 ![](/uploads/mdn-redacao.jpg)
 
+*\[Ismael Caneppele e Eduardo Cardoso em O MERCADO DE NOTÍCIAS. Foto de Fábio Rebelo]*
+
 **NA ARQUEOLOGIA DAS FAKE NEWS**\
 Por Rodrigo Fonseca\
 [Correio da Manhã (Rio de Janeiro), 21/08/2025 | 00:01](https://www.correiodamanha.com.br/resgate-do-doc-mercado-de-noticias-de-2014-mostra-que-jorge-furtado-ja-analisava-fake-news-na-sociedade-a.html)
 
-[](https://www.correiodamanha.com.br/resgate-do-doc-mercado-de-noticias-de-2014-mostra-que-jorge-furtado-ja-analisava-fake-news-na-sociedade-a.html)Até sábado, quem clicar https://festivaldecinemadegramado.com/mostra-acessivel/ poderá ver, a custo zero, no aconchego do lar, "O Mercado de Notícias" (2014), de Jorge Furtado, o primeiro documentário brasileiro a levar às salas de cinema o conflito de nosso jornalismo contra as fake news. São assim chamadas as falácias que, espalhadas (sobretudo) por grupos de whatsapp elegeram um falso messias faz pouco tempo.
+[](https://www.correiodamanha.com.br/resgate-do-doc-mercado-de-noticias-de-2014-mostra-que-jorge-furtado-ja-analisava-fake-news-na-sociedade-a.html)Até sábado, quem clicar <https://festivaldecinemadegramado.com/mostra-acessivel/> poderá ver, a custo zero, no aconchego do lar, "O Mercado de Notícias" (2014), de Jorge Furtado, o primeiro documentário brasileiro a levar às salas de cinema o conflito de nosso jornalismo contra as fake news. São assim chamadas as falácias que, espalhadas (sobretudo) por grupos de whatsapp elegeram um falso messias faz pouco tempo.
 
 Documentário sobre mídia e democracia, incluindo uma breve história da imprensa desde o seu surgimento, no século 17, até hoje, "Mercado de Notícias" é ilustrada pelo humor da peça "O Mercado de Notícias", escrita pelo dramaturgo inglês Ben Jonson em 1625, sobre os primórdios do jornalismo. Trechos da encenação da peça são intercalados com entrevistas de 13 jornalistas brasileiros comentando temas da prática jornalística e casos recentes da história política brasileira, onde a imprensa tem papel de grande destaque.
 
