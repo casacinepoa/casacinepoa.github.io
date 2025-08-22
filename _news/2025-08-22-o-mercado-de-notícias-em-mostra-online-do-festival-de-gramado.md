@@ -5,7 +5,7 @@ date: 2025-08-22 14:42:00
 ---
 ![](/uploads/mdn-redacao.jpg)
 
-*\[Ismael Caneppele e Eduardo Cardoso em O MERCADO DE NOTÍCIAS]*
+*\[Ismael Caneppele e Eduardo Cardoso em O MERCADO DE NOTÍCIAS. Foto de Fábio Rebelo]*
 
 **NA ARQUEOLOGIA DAS FAKE NEWS**\
 Por Rodrigo Fonseca\
