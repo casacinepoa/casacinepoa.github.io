@@ -5,6 +5,8 @@ date: 2025-08-22 14:42:00
 ---
 ![](/uploads/mdn-redacao.jpg)
 
+*\[Ismael Caneppele e Eduardo Cardoso em O MERCADO DE NOTÍCIAS]*
+
 **NA ARQUEOLOGIA DAS FAKE NEWS**\
 Por Rodrigo Fonseca\
 [Correio da Manhã (Rio de Janeiro), 21/08/2025 | 00:01](https://www.correiodamanha.com.br/resgate-do-doc-mercado-de-noticias-de-2014-mostra-que-jorge-furtado-ja-analisava-fake-news-na-sociedade-a.html)
