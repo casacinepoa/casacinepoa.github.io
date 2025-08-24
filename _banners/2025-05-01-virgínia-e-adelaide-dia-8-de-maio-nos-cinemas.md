@@ -1,7 +1,7 @@
 ---
-date: 2025-07-25 13:40:00
+date: 2025-08-24 12:00:00
 image: /uploads/vea-encontro.jpg
-title: VIRGÍNIA E ADELAIDE está no streaming
+title: 'ONDE ASSISITIR: "Virgínia e Adelaide" está no streaming'
 link: https://youtu.be/jRYw48YcPH0
 ---
 A PARTIR DE 31 DE JULHO NAS PLATAFORMAS ITUNES, AMAZON, CLARO E VIVO
