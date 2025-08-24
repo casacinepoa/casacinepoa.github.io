@@ -1,7 +1,7 @@
 ---
 layout: post
 title: APPOA lança série de escritas sobre VIRGÍNIA E ADELAIDE
-date: 2025-08-21 10:49:00
+date: 2025-08-18 10:49:00
 ---
 ![](/uploads/vea-revistas2.jpg)
 
