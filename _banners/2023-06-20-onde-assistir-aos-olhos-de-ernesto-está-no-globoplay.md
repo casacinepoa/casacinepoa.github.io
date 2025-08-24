@@ -1,5 +1,5 @@
 ---
-date: 2024-12-06 01:55:00
+date: 2025-08-24 10:00:00
 image: /uploads/aode-ramiro.jpg
 title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no SESC Digital'
 link: https://sesc.digital/conteudo/filmes/cinema-em-casa-com-sesc/aos-olhos-de-ernesto
