@@ -7,7 +7,7 @@ date: 2025-08-23 10:00:00
 
 *\[Germano Oliveira, Jonatas Rubert e Tiago Rubert no palco do Festival de Gramado]*
 
-BICHO MONSTRO, com direção de Germano de Oliveira, é uma produção da Vulcana Filmes, de Jéssica Luz e Paola Wink, com coprodução da Casa de Cinema de Porto Alegre. O filme recebeu os prêmios de Melhor Direção de Fotografia (para Bruno Polidoro) e Melhor Direção de Arte (para Gabriela Burck) na Mostra Gaúcha do 53º Festival de Gramado, encerrada ontem.
+BICHO MONSTRO, com direção de Germano de Oliveira, é uma produção da Vulcana Cinema, de Jéssica Luz e Paola Wink, com coprodução da Casa de Cinema de Porto Alegre. O filme recebeu os prêmios de Melhor Direção de Fotografia (para Bruno Polidoro) e Melhor Direção de Arte (para Gabriela Burck) na Mostra Gaúcha do 53º Festival de Gramado, encerrada ontem.
 
 UMA EM MIL, dirigido por Jonatas Rubert e Tiago Rubert, é uma produção da Faço Filmes, de Jonatas e sua sócia Natasha Ferla. Jonatas é montador da Casa de Cinema de Porto Alegre desde 2013. O documentário foi premiado como Melhor Direção e Melhor Roteiro (para os irmãos Jonatas e Tiago), além de Melhor Montagem (para Joana Bernardes e Thaís Fernandes).
 
