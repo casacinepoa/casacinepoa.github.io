@@ -1,5 +1,5 @@
 ---
-date: 2023-11-05 20:35:35
+date: 2025-08-26 12:00:00
 image: /uploads/mnf-stenio.jpg
 title: 'ONDE ASSISTIR: "Morto não fala" está na Apple TV'
 link: https://tv.apple.com/br/movie/morto-nao-fala/umc.cmc.3b2utu56x13h5nvz87bl50ewj?action=play
