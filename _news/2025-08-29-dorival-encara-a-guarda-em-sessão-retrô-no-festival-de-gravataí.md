@@ -5,7 +5,7 @@ date: 2025-08-28 10:26:00
 ---
 ![](/uploads/dorival-banho.jpg)
 
-\[João Acaiabe e Sirmar Antunes em O DIA EM QUE DORIVAL ENCAROU A GUARDA]
+*\[João Acaiabe e Sirmar Antunes em O DIA EM QUE DORIVAL ENCAROU A GUARDA]*
 
 **1º FESTIVAL DE CINEMA DE GRAVATAÍ COMEÇA NESTA QUINTA-FEIRA**\
 [Seguinte (Gravataí), 26/08/2025 | 08:56](https://seguinte.inf.br/1o-festival-de-cinema-de-gravatai-comeca-na-proxima-quinta-feira/)
