@@ -1,5 +1,5 @@
 ---
-date: 2023-06-21 18:02:37
+date: 2025-08-29 13:00:00
 image: /uploads/hdb-ciba-mary.jpg
 title: 'ONDE ASSISTIR: "Homens de bem" está na Globoplay'
 link: https://globoplay.globo.com/homens-de-bem/t/pTtdMyWbgv/
