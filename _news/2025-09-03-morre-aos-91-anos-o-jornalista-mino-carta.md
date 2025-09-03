@@ -9,8 +9,6 @@ Mino Carta (1933-2025), um dos maiores jornalistas brasileiros, foi um dos entre
 
 Aqui, a [entrevista completa de Mino Carta](https://youtu.be/TNDNkGgpUVc) para o filme, com 30 min, gravada em dezembro de 2012.
 
-
-
 - - -
 
 **MORRE MINO CARTA, FUNDADOR DAS REVISTAS VEJA E CARTA CAPITAL**\
@@ -50,5 +48,3 @@ Mino Carta, ainda na entrevista a Lira Neto, afirmou que nem o Brasil, nem o jor
 "Este país não tem saída, graças aos que o governaram e à permanência de um pensamento medieval representado pela Casa-Grande", vaticinou.
 
 Casa-Grande refere-se a uma elite escravocrata que colonizou o Brasil a partir de 1.500 por meio da escravização de africanos e da usurpação das terras dos povos indígenas, que também foram escravizados. O termo foi imortalizado pelo sociólogo pernambucano Gilberto Freire em sua obra Casa Grande e Senzala que pretendeu explicar a formação social do país.
-
-![]()
