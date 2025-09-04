@@ -5,9 +5,11 @@ date: 2025-09-04 14:58:00
 ---
 ![](/uploads/marcia-jonatas.jpg)
 
-Jonatas é cineasta, montador da Casa de Cinema de Porto Alegre e autor (com seu irmão Thiago Rubert) do documentário UMA EM MIL, recentemente premiado em Gramado. Márcia é atriz e arte-educadora; ex-integrante do seminal grupo teatral Vende-se Sonhos, esteve na origem da Casa de Cinema com filmes como DEU PRA TI ANOS 70, VERDES ANOS e INTERLÚDIO.
+Jonatas é cineasta, montador da Casa de Cinema de Porto Alegre e autor (com seu irmão Thiago Rubert) do documentário UMA EM MIL, recentemente premiado em Gramado. Márcia é atriz e arte-educadora; ex-integrante do seminal grupo teatral Vende-se Sonhos, esteve na origem da Casa de Cinema com filmes como DEU PRA TI ANOS 70, VERDES ANOS e INTERLÚDIO.\
+\
+Os dois serão os homenageados especiais na 7ª edição do Festival de Cinema de Três Passos, que acontece de 4 a 6 de novembro na cidade de Três Passos, região noroeste do Rio Grande do Sul.
 
-*****
+- - -
 
 **A 7ª EDIÇÃO DO FESTIVAL DE CINEMA DE TRÊS PASSOS VAI HOMENAGEAR DOIS ARTISTAS**\
 [Correio do Povo, 03/09/2025 | 18:47](https://www.correiodopovo.com.br/arteagenda/a-7-edicao-do-festival-de-cinema-de-tres-passos-vai-homenagear-dois-artistas-1.1644397)
