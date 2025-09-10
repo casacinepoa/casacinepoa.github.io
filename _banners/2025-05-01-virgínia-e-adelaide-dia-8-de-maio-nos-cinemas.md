@@ -1,6 +1,6 @@
 ---
-date: 2025-08-26 15:59:00
-image: /uploads/vea-encontro.jpg
+date: 2025-09-10 09:00:00
+image: /uploads/vea-ceu.jpg
 title: 'ONDE ASSISTIR: "Virgínia e Adelaide" está no streaming'
 link: https://youtu.be/jRYw48YcPH0
 ---
