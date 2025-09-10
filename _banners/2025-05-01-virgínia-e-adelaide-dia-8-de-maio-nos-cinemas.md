@@ -4,7 +4,7 @@ image: /uploads/vea-ceu.jpg
 title: 'ONDE ASSISTIR: "Virgínia e Adelaide" está no streaming'
 link: https://youtu.be/jRYw48YcPH0
 ---
-A PARTIR DE 31 DE JULHO NAS PLATAFORMAS ITUNES, AMAZON, CLARO E VIVO
+DESDE 31 DE JULHO NAS PLATAFORMAS ITUNES, AMAZON, CLARO E VIVO
 
 A história real de um encontro que inaugurou a psicanálise no Brasil.
 
