@@ -1,5 +1,5 @@
 ---
-date: 2025-09-12 12:00:00
+date: 2025-09-12 14:00:00
 image: /uploads/vea-cartaz-det.jpg
 title: 'ONDE ASSISTIR: "Virgínia e Adelaide" está no streaming'
 link: https://youtu.be/jRYw48YcPH0
