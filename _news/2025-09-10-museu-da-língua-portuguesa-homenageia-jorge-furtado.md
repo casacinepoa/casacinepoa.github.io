@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Museu da Língua Portuguesa homenageia Jorge Furtado
-date: 2025-09-10 09:56:00
+title: Museu da Língua Portuguesa homenageia Jorge Furtado dia 25
+date: 2025-09-13 09:56:00
 ---
 ![](/uploads/museu-lp.jpg)
 
