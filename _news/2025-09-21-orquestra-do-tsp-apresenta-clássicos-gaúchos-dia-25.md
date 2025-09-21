@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orquestra do TSP apresenta clássicos gaúchos dia 25
+title: Orquestra do TSP apresenta "clássicos gaúchos" dia 25
 date: 2025-09-20 16:03:00
 ---
 ![](/uploads/va-hqc.jpg)
