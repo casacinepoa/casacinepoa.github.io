@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curta MEU PAI no dia da criança da TV Cultura
+title: Curta MEU PAI no dia da criança da TV Rá-Tim-Bum
 date: 2025-10-03 14:08:00
 ---
 ![](/uploads/meu-pai-fusca.jpg)
