@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SANEAMENTO BÁSICO e ILHA seguem em exibição nas Sessões Vitrine em outubro
+title: SANEAMENTO BÁSICO e ILHA seguem na Vitrine em outubro
 date: 2025-10-01 13:59:00
 ---
 ![](/uploads/ilha-sbof.jpg)
