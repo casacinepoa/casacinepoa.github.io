@@ -3,7 +3,7 @@ layout: post
 title: Curta MEU PAI no dia da criança da TV Cultura
 date: 2025-10-03 14:08:00
 ---
-![](/uploads/meu-pai-felipe.jpg)
+![](/uploads/meu-pai-fusca.jpg)
 
 **TV RÁ TIM BUM CELEBRA O MÊS DA CRIANÇA COM SEIS NOVAS ATRAÇÕES BRASILEIRAS**
 [Cultura UOL, 01/10/2025 | 16:42](https://cultura.uol.com.br/entretenimento/noticias/2025/10/01/14870_tv-ra-tim-bum-celebra-o-mes-da-crianca-com-seis-novas-atracoes-brasileiras.html)
