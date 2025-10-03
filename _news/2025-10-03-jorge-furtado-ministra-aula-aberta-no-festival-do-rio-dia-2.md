@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jorge Furtado ministra aula aberta no Festival do Rio dia 2
+title: Jorge Furtado ministra aula aberta no Festival do Rio
 date: 2025-10-02 14:05:00
 ---
 ![](/uploads/jorge-2025.jpg)
