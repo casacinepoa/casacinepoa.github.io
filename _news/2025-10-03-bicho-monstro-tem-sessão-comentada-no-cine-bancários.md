@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BICHO MONSTRO tem sessão comentada no Cine Bancários
+title: BICHO MONSTRO tem sessão comentada no Bancários
 date: 2025-09-30 14:31:00
 ---
 ![](/uploads/bchm-1.jpg)
