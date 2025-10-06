@@ -1,5 +1,5 @@
 ---
-date: 2023-07-06 13:51:35
+date: 2025-10-06 11:13:00
 image: /uploads/merc-not-2.jpg
 title: 'ONDE ASSISTIR: "O mercado de notícias" está na Claro TV+'
 link: https://www.clarotvmais.com.br/filme/o-mercado-de-noticias/1846689
