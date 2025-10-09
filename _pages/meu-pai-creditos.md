@@ -19,45 +19,46 @@ Lucca Dos Santos Vargas (menino 2)\
 \
 **EQUIPE**\
 \
-Direção / Ana Luiza Azevedo\
+Direção: Ana Luiza Azevedo\
+Assistente de direção: Laura Mansur\
 \
-Roteiro / Ana Luiza Azevedo\
- / Márcio Schoenardie\
-Colaboração / Giba Assis Brasil\
+Roteiro: Ana Luiza Azevedo\
+/ Márcio Schoenardie\
+Colaboração: Giba Assis Brasil\
 \
-Produção Executiva / Nora Goulart\
-Direção de Produção / Glauco Urbim\
-Assistente de Produção / Marcos Rohrig\
-Assistente de Produção Executiva / Nicky Klopsch\
-Produção de Objetos / Pierre Rosa\
-Produção de Elenco / Simone Buttelli\
+Produção Executiva: Nora Goulart\
+Direção de Produção: Glauco Urbim\
+Assistente de Produção: Marcos Rohrig\
+Assistente de Produção Executiva: Nicky Klopsch\
+Produção de Objetos: Pierre Rosa\
+Produção de Elenco: Simone Buttelli\
 \
-Direção de Fotografia / Alex Sernambi\
+Direção de Fotografia: Alex Sernambi\
 \
-Direção de Arte / Gert Seewald\
-Caracterização / Britney\
-Figurinos Cláudia / Velasco\
+Direção de Arte: Gert Seewald\
+Caracterização: Britney\
+Figurinos: Cláudia Velasco\
 \
-Montagem / Giba Assis Brasil\
-Finalização de Imagem / Jonatas Rubert\
-Animações / ROCKET ANIMAÇÕES\
-Cenários Virtuais / MONOCICLO\
+Montagem: Giba Assis Brasil\
+Finalização de Imagem: Jonatas Rubert\
+Animações: ROCKET ANIMAÇÕES\
+Cenários Virtuais: MONOCICLO\
 \
-Música / Maurício Nader\
+Música: Maurício Nader\
 \
 **EQUIPE CANAL FUTURA**\
 \
-Coordenação de Núcleo / Tatiana Milanez\
-Coordenação Artística / Marcio Motokane\
-Coordenação de Produção / Joana Levy\
-Coordenação de Conteúdo / Kitta Eitler\
-Produtores Assistentes / Marília Cruz\
- / Juliana Oliveira\
-Gerente de Produção / Vanessa Jardim\
-Gerente de Conteúdo / Débora Garcia\
-Gerente de Programação / João Alegria\
-Gerente Geral / Lúcia Araújo\
-Supervisão Geral / Hugo Barreto\
+Coordenação de Núcleo: Tatiana Milanez\
+Coordenação Artística: Marcio Motokane\
+Coordenação de Produção: Joana Levy\
+Coordenação de Conteúdo: Kitta Eitler\
+Produtores Assistentes: Marília Cruz\
+/ Juliana Oliveira\
+Gerente de Produção: Vanessa Jardim\
+Gerente de Conteúdo: Débora Garcia\
+Gerente de Programação: João Alegria\
+Gerente Geral: Lúcia Araújo\
+Supervisão Geral: Hugo Barreto\
 \
 **AGRADECIMENTOS**\
 \
