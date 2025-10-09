@@ -13,15 +13,16 @@ details:
     content: |-
       **Direção:** Ana Luiza Azevedo 
 
-      **Produção Executiva:** Nora Goulart\
+      **Produção executiva:** Nora Goulart\
       **Roteiro:** Ana Luiza Azevedo e Marcio Schoenardie\
-      **Direção de Fotografia:** Alex Sernambi\
+      **Direção de fotografia:** Alex Sernambi\
       **Direção de arte:** Gert Seewald\
+      **Assistente de direção**: Laura Mansur\
       **Montagem:** Giba Assis Brasil\
       **Desenho de som:** Tiago Bello\
       **Música:** Maurício Nader
 
-      **Uma Produção da Casa de Cinema PoA**\
+      **Uma produção da Casa de Cinema PoA**\
       **Coprodução:** Canal Futura
 
       **Elenco**\
