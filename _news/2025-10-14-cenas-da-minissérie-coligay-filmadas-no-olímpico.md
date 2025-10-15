@@ -33,3 +33,27 @@ Volmar Santos, à época gerente da boate gay Coliseu, em Porto Alegre, resolveu
 Usos distintos
 
 Enquanto o Grêmio não entrega o estádio Olímpico, o imóvel serve também de espaço para treinamento de equipes das forças públicas de segurança. Também já foi usado como garagem para ônibus da Carris e ponto de coleta de itens para pessoas atingidas pela enchente do ano passado.
+
+- - -
+
+**'COLIGAY', PRODUÇÃO SOBRE A PRIMEIRA TORCIDA GAY DE FUTEBOL NO BRASIL, INICIA FILMAGENS**
+Pamela Cordeiro
+[Ingresso.com, 14/10/2025 | 12:03](https://www.ingresso.com/noticias/coligay-producao-sobre-primeira-torcida-gay-de-futebol-no-brasil-inicia-filmagens)
+
+/ Dirigido por Paulo Machline, projeto resgata a história real de um grupo que desafiou o preconceito durante a ditadura militar
+
+Nesta terça-feira (14), a distribuidora +Galeria revelou que as filmagens de "Coligay", filme sobre a torcida que mudou a história do futebol brasileiro, começaram na última semana em Porto Alegre, no Rio Grande do Sul.
+
+A produção - que vai dar origem a uma série de quatro episódios e um longa-metragem - é inspirada em uma história real e retrata a criação da primeira torcida 100% gay do Brasil, formada por torcedores do Grêmio durante os anos 1970, em plena Ditadura Militar.
+
+A trama acompanha Ramon, vivido por Irandhir Santos ('Aquarius'), um cabeleireiro gremista que, ao lado dos amigos, transforma as arquibancadas hostis em palco de resistência, desafiando o preconceito e colorindo o futebol brasileiro com coragem e irreverência ímpares.
+
+Faça parte do canal do Whatsapp da Ingresso.com e fique por dentro de promoções e das últimas notícias sobre o universo do cinema e da cultura pop!
+
+A direção, tanto do longa quanto da série, fica por conta de Paulo Machline ('Meu Sangue Ferve Por Você'), a partir de um roteiro assinado por Patrícia Corso, Raul Perez, Fernando Américo e Luiz Filipe Noé.
+
+Além de Irandhir, "Coligay" ainda conta com grandes nomes no elenco, como Zé Adão Barbosa, Vini Meneguzzi, Julia Soares, Bruno Fernandes, Edu D'Ávila, Duda Cardoso, Fred Vittola, Edu Mendas e Jana Pellizon.
+
+Com produção da Ventre Studio e da Casa de Cinema de Porto Alegre, em coprodução com o Canal Brasil e +Galeria, o filme pretende celebrar a força da representatividade e o poder da paixão pelo futebol, em uma comédia vibrante sobre uma torcida que transformou a luta pela diversidade no Brasil.
+
+Até o momento, demais detalhes sobre "Coligay", como data previsão de lançamento do trailer ou data de estreia, ainda não foram divulgados.
