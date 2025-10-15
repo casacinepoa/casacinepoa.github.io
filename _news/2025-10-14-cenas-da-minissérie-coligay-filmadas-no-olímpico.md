@@ -3,7 +3,7 @@ layout: post
 title: Cenas da minissérie COLIGAY filmadas no Olímpico
 date: 2025-10-09 16:00:00
 ---
-![](/uploads/olimpico.jpg)
+![](/uploads/coligay-torcida.jpg)
 
 **SÉRIE "COLIGAY" É GRAVADA NO ESTÁDIO OLÍMPICO**\
 Jocimar Farina\
