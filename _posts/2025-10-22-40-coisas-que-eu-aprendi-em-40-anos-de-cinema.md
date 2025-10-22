@@ -4,6 +4,8 @@ title: 40 coisas que eu aprendi em 40 anos de cinema
 author: jorge
 date: 2025-10-22 14:23:00
 ---
+![](/uploads/40-coisas.jpg)
+
 **40 coisas que eu aprendi em 40 anos de cinema**
 
 Anotações para fala no Inovacine, na Unisinos, para estudantes e profissionais do cinema. Porto Alegre, 21 de outubro de 2025.
