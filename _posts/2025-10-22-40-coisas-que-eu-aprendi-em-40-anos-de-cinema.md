@@ -18,7 +18,7 @@ Ter algo a dizer, na sua voz, é o que importa.
 
 Esta regra vale sobre todas as outras.
 
-Eugene Vale e a convicção audaz: "Se aquilo em você acredita firmemente contradiz todas as regras, esqueça as regras".
+Eugene Vale e a convicção audaz: "Se aquilo em que você acredita firmemente contradiz todas as regras, esqueça as regras".
 
 **\#2 Cinema é trabalho de equipe.**
 
