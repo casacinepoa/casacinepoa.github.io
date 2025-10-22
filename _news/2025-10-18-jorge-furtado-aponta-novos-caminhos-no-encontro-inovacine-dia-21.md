@@ -16,6 +16,4 @@ Além de revelar detalhes de todas as iniciativas em andamento, o 1º Encontro I
 
 Fechando a programação do encontro, o Inovacine RS recebe o cineasta Jorge Furtado (foto) para uma conversa sobre “Novos caminhos para nossas histórias”, tema que norteia os propósitos do ecossistema. Um dos mais importantes roteiristas e diretores do país, Furtado é sócio fundador da Casa de Cinema de Porto Alegre, produtora que traz sua experiência de mais de 40 anos no mercado para dentro do Inovacine RS, dialogando com outras produtoras emergentes e consolidadas do audiovisual local.
 
-Para participar do evento, é necessário preencher o formulário disponível aqui.
-
-https://docs.google.com/forms/d/e/1FAIpQLSeYwD_JVfkBJjMOFamc4t23VFX6spINsV9ISURWXipTAs99hQ/viewform
+Para participar do evento, é necessário preencher o formulário [disponível aqui](https://docs.google.com/forms/d/e/1FAIpQLSeYwD_JVfkBJjMOFamc4t23VFX6spINsV9ISURWXipTAs99hQ/viewform).
