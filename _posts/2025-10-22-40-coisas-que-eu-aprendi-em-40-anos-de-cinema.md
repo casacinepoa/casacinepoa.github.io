@@ -4,11 +4,11 @@ title: 40 coisas que eu aprendi em 40 anos de cinema
 author: jorge
 date: 2025-10-22 14:23:00
 ---
-40 coisas que eu aprendi em 40 anos de cinema
+**40 coisas que eu aprendi em 40 anos de cinema**
 
 Anotações para fala no Inovacine, na Unisinos, para estudantes e profissionais do cinema. Porto Alegre, 21 de outubro de 2025.
 
-\#1 "Seja fiel a você mesmo."\
+**\#1 "Seja fiel a você mesmo."**\
 "to thine own self be true"
 
 Ter algo a dizer, na sua voz, é o que importa.
@@ -17,7 +17,7 @@ Esta regra vale sobre todas as outras.
 
 Eugene Vale e a convicção audaz: "Se aquilo em você acredita firmemente contradiz todas as regras, esqueça as regras".
 
-\#2 Cinema é trabalho de equipe.
+**\#2 Cinema é trabalho de equipe.**
 
 Das sete artes, o cinema é a única que não se pode fazer sozinho. (Arquitetura?)
 
@@ -27,11 +27,11 @@ O maior autor da história do cinema, Charles Chaplin - autor, roteirista, ator,
 
 Se puderem evitar, não escrevam "um filme de..." no cartaz e nos créditos, a não ser que o distribuidor decida que isso vai vender ingressos.
 
-\#3 Contamos histórias para saber quem somos.
+**\#3 Contamos histórias para saber quem somos.**
 
 Neurologista português Antonio Damásio:
 
-Contar histórias, no sentido de registrar o que acontece na forma de mapas cerebrais, é provavelmente uma obsessão do cérebro e talvez tenha início relativamente cedo, no que concerne tanto ao processo evolutivo como à complexidade das estruturas neurais necessárias para criar narrativas. Contar histórias precede a linguagem, pois é, na verdade, uma condição para a linguagem".
+*Contar histórias, no sentido de registrar o que acontece na forma de mapas cerebrais, é provavelmente uma obsessão do cérebro e talvez tenha início relativamente cedo, no que concerne tanto ao processo evolutivo como à complexidade das estruturas neurais necessárias para criar narrativas. Contar histórias precede a linguagem, pois é, na verdade, uma condição para a linguagem"*.
 
 - - -
 
@@ -169,27 +169,27 @@ Não há exceções a esta regra.
 
 Novos Exemplos de Não-roteiro.
 
-As veias saltam de sua testa.
+*As veias saltam de sua testa.*
 
-O mal estar se instaura. O silêncio entre eles é pesado.
+*O mal estar se instaura. O silêncio entre eles é pesado.*
 
-Sabrina cheira a axila da camisa e constata que ela está aprovada para mais um uso.
+*Sabrina cheira a axila da camisa e constata que ela está aprovada para mais um uso.*
 
-Beto levanta as sobrancelhas.
+*Beto levanta as sobrancelhas.*
 
-Guedes novamente nada responde.
+*Guedes novamente nada responde.*
 
-Magda dá alguns passos, escuta a música que vem do quarto, e faz cara de "não acredito".
+*Magda dá alguns passos, escuta a música que vem do quarto, e faz cara de "não acredito".*
 
-Magda tenta disfarçar a expectativa perante o inevitável convite pra ser C.E.O.
+*Magda tenta disfarçar a expectativa perante o inevitável convite pra ser C.E.O.*
 
-Sabrina parece reagir normalmente àquilo, demonstrando bem menos perplexidade do que a amiga imaginava. Na verdade, ela está com o pensamento em outra coisa.
+*Sabrina parece reagir normalmente àquilo, demonstrando bem menos perplexidade do que a amiga imaginava. Na verdade, ela está com o pensamento em outra coisa.*
 
-Não há sinal de equipamentos de proteção em sua indumentária.
+*Não há sinal de equipamentos de proteção em sua indumentária.*
 
-O Delegado, chega em casa sem o diamante.
+*O Delegado, chega em casa sem o diamante.*
 
-Começo de uma manhã normal em Brasília.
+*Começo de uma manhã normal em Brasília.*
 
 \#11 O orçamento é a estética.
 
@@ -264,11 +264,11 @@ Personagens que falam sozinhos ou escutam atrás da porta são, para mim, inacei
 
 \#19 Explicações demoram um tempo horrível. Conte as aventuras primeiro"
 
-"Eu poderia contar minhas aventuras... começando por hoje de manhã", disse Alice um pouco timidamente, "mas nem adianta lembrar de ontem porque, ontem, eu era outra pessoa".
+*"Eu poderia contar minhas aventuras... começando por hoje de manhã", disse Alice um pouco timidamente, "mas nem adianta lembrar de ontem porque, ontem, eu era outra pessoa".*
 
-"Explique tudo isso direitinho", disse a Tartaruga Falsa.
+*"Explique tudo isso direitinho", disse a Tartaruga Falsa.*
 
-"Não, não! Explicações demoram um tempo horrível. Conte as aventuras primeiro", disse o Grifo num tom impaciente.
+*"Não, não! Explicações demoram um tempo horrível. Conte as aventuras primeiro", disse o Grifo num tom impaciente.*
 
 Lewis Carroll, "Alice no país das maravilhas".
 
@@ -313,13 +313,13 @@ W. Somerset Maugham. Citado em Sérgio Rodrigues, "Escrever é humano":
 
 Rubrica de um roteiro:
 
-"Eles não percebem, mas estão se envolvendo emocionalmente."
+*"Eles não percebem, mas estão se envolvendo emocionalmente."*
 
 Roteiros cheios de literatura - desonestos com o filme que poderá nascer de suas palavras - podem comover jurados de concursos. Infelizmente, tenho que admitir, uma versão "romantizada" do roteiro pode ser útil, mas não esqueça que, um dia, se quiser fazer um filme bom, vai precisar de um roteiro de verdade.
 
 \#23 O que não conta a história não faz parte da história.
 
-"Todos os acontecimentos se devem suceder em conexão tal que, uma vez suprimido ou deslocado um deles, também se confunda ou mude a ordem do todo. Pois não faz parte de um todo o que não altera este todo". Aristóteles.
+*"Todos os acontecimentos se devem suceder em conexão tal que, uma vez suprimido ou deslocado um deles, também se confunda ou mude a ordem do todo. Pois não faz parte de um todo o que não altera este todo". Aristóteles.*
 
 Dashiel Hammet: "Concentre-se no essencial e corte fora todo o resto".
 
@@ -355,7 +355,7 @@ Como uma máquina da academia faz você exercitar músculos que não sabia exist
 
 Italo Calvino:
 
-"Podemos dizer uma coisa ao menos de duas maneiras: uma maneira como quem a diz quer dizer aquela coisa e somente ela; e uma maneira como queremos dizer, sim, aquela coisa, mas ao mesmo tempo recordar que o mundo é muito mais complicado, e vasto e contraditório. A ironia de Ariosto, o cômico de Shakespeare, o picaresco de Cervantes, o humor de Stern, a truanice de Lewis Carroll, de Edgar Lear, de Jarry, de Queneau, valem para mim na medida em que, por meio deles, alcançamos essa espécie de distanciamento do específico, de sentido da vastidão do todo".
+*"Podemos dizer uma coisa ao menos de duas maneiras: uma maneira como quem a diz quer dizer aquela coisa e somente ela; e uma maneira como queremos dizer, sim, aquela coisa, mas ao mesmo tempo recordar que o mundo é muito mais complicado, e vasto e contraditório. A ironia de Ariosto, o cômico de Shakespeare, o picaresco de Cervantes, o humor de Stern, a truanice de Lewis Carroll, de Edgar Lear, de Jarry, de Queneau, valem para mim na medida em que, por meio deles, alcançamos essa espécie de distanciamento do específico, de sentido da vastidão do todo".*
 
 Italo Calvino, "Definições de território: o cômico".
 
@@ -363,17 +363,17 @@ A primeira virtude de todo humorista: envolver na própria ironia também a si m
 
 \#28 "Paulo José: "O importante é que sejam amigos!"
 
-Repórter - Já contratou amigos em vez de pessoas mais capacitadas para o trabalho?
+*Repórter - Já contratou amigos em vez de pessoas mais capacitadas para o trabalho?*
 
-Orson Welles -Frequentemente.
+*Orson Welles -Frequentemente.*
 
-Repórter - E se arrependeu?
+*Repórter - E se arrependeu?*
 
-Orson Welles - Frequentemente.
+*Orson Welles - Frequentemente.*
 
-Repórter - Voltaria a fazê-lo?
+*Repórter - Voltaria a fazê-lo?*
 
-Orson Welles - Sim, sem dúvida. Não considero que a arte seja mais importante que a vida. Odeio a concepção romântica dos artistas que se colocam acima de todos, é a pior coisa a fazer. Sem dúvida a amizade está acima da minha arte.
+*Orson Welles - Sim, sem dúvida. Não considero que a arte seja mais importante que a vida. Odeio a concepção romântica dos artistas que se colocam acima de todos, é a pior coisa a fazer. Sem dúvida a amizade está acima da minha arte.*
 
 Tina Fey: "Não trabalhe com ninguém que você não queira encontrar na máquina de café às duas da manhã".
 
