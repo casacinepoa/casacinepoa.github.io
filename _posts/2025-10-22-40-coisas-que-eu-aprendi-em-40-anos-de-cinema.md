@@ -454,40 +454,25 @@ https://youtu.be/JRTGzifHx84
 
 Trechos de "Galáxias", de Haroldo de Campos
 
-e começo aqui
-
-e meço aqui este começo
-
-e recomeço e remeço e arremesso e aqui me meço
-
-quando se vive sob a espécie da viagem
-
-o que importa não é a viagem mas o começo da
-
+e começo aqui\
+e meço aqui este começo\
+e recomeço e remeço e arremesso e aqui me meço\
+quando se vive sob a espécie da viagem\
+o que importa não é a viagem mas o começo da\
 por isso meço
 
 (...)
 
-por isso começo
-
-pois a viagem é o começo
-
-e volto e revolto
-
-pois na volta recomeço
-
-reconheço
-
-remeço
-
-um livro é o conteúdo do livro
-
-e cada página de um livro é o conteúdo do livro
-
-e cada linha de uma página
-
-e cada palavra de uma linha é o conteúdo da palavra da linha da página do livro
-
+por isso começo\
+pois a viagem é o começo\
+e volto e revolto\
+pois na volta recomeço\
+reconheço\
+remeço\
+um livro é o conteúdo do livro\
+e cada página de um livro é o conteúdo do livro\
+e cada linha de uma página\
+e cada palavra de uma linha é o conteúdo da palavra da linha da página do livro\
 Há milumaestórias na mínima unha de estória.
 
 \#38 "Cada homem leva em si a forma inteira da condição humana."
@@ -534,34 +519,22 @@ Do poeta romano Horácio, em sua Ars Poetica:
 
 - - -
 
-Dizem que finjo ou minto
-
-Tudo que escrevo. Não.
-
-Eu simplesmente sinto
-
-Com a imaginação.
-
+Dizem que finjo ou minto\
+Tudo que escrevo. Não.\
+Eu simplesmente sinto\
+Com a imaginação.\
 Não uso o coração.
 
-Tudo o que sou ou passo,
-
-O que me falha ou finda,
-
-É como que um terraço
-
-Sobre outra coisa ainda.
-
+Tudo o que sou ou passo,\
+O que me falha ou finda,\
+É como que um terraço\
+Sobre outra coisa ainda.\
 Essa coisa é que é linda.
 
-Por isso escrevo em meio
-
-Do que não está ao pé,
-
-Livre do meu enleio,
-
-Sério do que não é.
-
+Por isso escrevo em meio\
+Do que não está ao pé,\
+Livre do meu enleio,\
+Sério do que não é.\
 Sentir? Sinta quem lê!
 
 Fernando Pessoa
