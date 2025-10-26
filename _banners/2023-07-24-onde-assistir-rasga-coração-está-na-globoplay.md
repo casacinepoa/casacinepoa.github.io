@@ -1,5 +1,5 @@
 ---
-date: 2023-07-24 20:21:51
+date: 2025-10-26 10:38:00
 image: /uploads/rasgacor2.jpg
 title: 'ONDE ASSISTIR: "Rasga coração" está na Globoplay'
 link: https://globoplay.globo.com/rasga-coracao/t/q2SLg6HZQs/
