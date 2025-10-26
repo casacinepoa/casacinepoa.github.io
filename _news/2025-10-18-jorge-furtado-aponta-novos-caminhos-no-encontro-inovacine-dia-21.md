@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jorge Furtado aponta novos caminhos no Encontro Inovacine dia 21
+title: Jorge Furtado aponta novos caminhos no Inovacine dia 21
 date: 2025-10-18 18:01:00
 ---
 ![](/uploads/jorge-2025.jpg)
