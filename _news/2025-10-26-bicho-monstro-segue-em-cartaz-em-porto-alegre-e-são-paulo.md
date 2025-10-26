@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BICHO MONSTRO segue em cartaz, em Porto Alegre e São Paulo
+title: BICHO MONSTRO segue em cartaz, em PoA e SP
 date: 2025-10-22 21:00:00
 ---
 ![](/uploads/bchm-1.jpg)
