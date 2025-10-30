@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BICHO MONSTRO dia 1º no Festival Susto1 de Brumadinho
+title: BICHO MONSTRO dia 1º no Festival Susto! de Brumadinho
 date: 2025-10-29 12:03:00
 ---
 ![](/uploads/bicho-mon-3.jpg)
