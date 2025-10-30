@@ -1,5 +1,5 @@
 ---
-date: 2025-04-14 23:06:00
+date: 2025-10-30 12:45:00
 image: /uploads/3min-imgr.jpg
 title: 'ONDE ASSISTIR: "Três minutos" está no Sulflix'
 link: https://sulflix.com.br/app/curtas/3-minutos
