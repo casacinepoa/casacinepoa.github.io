@@ -4,7 +4,7 @@ title: 40 coisas que eu aprendi em 40 anos de cinema
 author: jorge
 date: 2025-10-22 14:23:00
 ---
-![](/uploads/40-coisas.jpg)
+![](/uploads/jorge-inovacine.jpg)
 
 **40 coisas que eu aprendi em 40 anos de cinema**
 
