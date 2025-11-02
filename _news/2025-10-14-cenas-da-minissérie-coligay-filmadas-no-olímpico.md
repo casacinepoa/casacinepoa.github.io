@@ -36,11 +36,11 @@ Enquanto o Grêmio não entrega o estádio Olímpico, o imóvel serve também de
 
 - - -
 
-**'COLIGAY', PRODUÇÃO SOBRE A PRIMEIRA TORCIDA GAY DE FUTEBOL NO BRASIL, INICIA FILMAGENS**
-Pamela Cordeiro
+**'COLIGAY', PRODUÇÃO SOBRE A PRIMEIRA TORCIDA GAY DE FUTEBOL NO BRASIL, INICIA FILMAGENS**\
+Pamela Cordeiro\
 [Ingresso.com, 14/10/2025 | 12:03](https://www.ingresso.com/noticias/coligay-producao-sobre-primeira-torcida-gay-de-futebol-no-brasil-inicia-filmagens)
 
-/ Dirigido por Paulo Machline, projeto resgata a história real de um grupo que desafiou o preconceito durante a ditadura militar
+[](https://www.ingresso.com/noticias/coligay-producao-sobre-primeira-torcida-gay-de-futebol-no-brasil-inicia-filmagens)[](https://www.ingresso.com/noticias/coligay-producao-sobre-primeira-torcida-gay-de-futebol-no-brasil-inicia-filmagens)/ Dirigido por Paulo Machline, projeto resgata a história real de um grupo que desafiou o preconceito durante a ditadura militar
 
 Nesta terça-feira (14), a distribuidora +Galeria revelou que as filmagens de "Coligay", filme sobre a torcida que mudou a história do futebol brasileiro, começaram na última semana em Porto Alegre, no Rio Grande do Sul.
 
