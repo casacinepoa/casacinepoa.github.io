@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jonatas Rubert e Márcia do Canto homenagados em Três Passos
+title: Jonatas Rubert e Márcia do Canto serão homenagados em Três Passos
 date: 2025-09-04 14:58:00
 ---
 ![](/uploads/marcia-jonatas.jpg)
