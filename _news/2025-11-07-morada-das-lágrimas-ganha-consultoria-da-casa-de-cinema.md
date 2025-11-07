@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Morada das lágrimas" ganha consultoria da Casa de Cinema'
-date: 2025-11-02 16:00:00
+date: 2025-11-03 16:00:00
 ---
 ![](/uploads/toni-tornado.jpg)
 
