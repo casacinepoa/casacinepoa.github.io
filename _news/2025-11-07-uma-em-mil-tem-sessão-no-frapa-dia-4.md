@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UMA EM MIL tem sessão no FRAPA dia 4
-date: 2025-11-03 16:00:00
+date: 2025-11-02 16:00:00
 ---
 ![](/uploads/jonatas-thiago-kikito.jpg)
 
