@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIRGÍNIA E ADELAIDE dia 24 em mostra no Canal Brasil
-date: 2025-11-07 11:45:00
+date: 2025-11-06 16:00:00
 ---
 ![](/uploads/vea-ceu.jpg)
 
