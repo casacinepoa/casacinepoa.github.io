@@ -1,6 +1,6 @@
 ---
 date: 2025-11-07 11:29:00
-image: /uploads/ddm-familia.jpg
+image: /uploads/ddmp-imgr.jpg
 title: "DOCE DE MÃE na TV Globo: neste sábado, 08/nov, às 14h40"
 link: https://almanaquegeek.com/sessao-de-sabado-08-11-exibe-doce-de-mae-uma-homenagem-emocionante-a-vida-ao-envelhecer-e-a-forca-do-amor-familiar/
 ---
