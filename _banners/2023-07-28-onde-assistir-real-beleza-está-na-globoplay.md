@@ -1,5 +1,5 @@
 ---
-date: 2023-07-28 17:27:29
+date: 2025-11-21 01:00:00
 image: /uploads/real-beleza-1.jpg
 title: 'ONDE ASSISTIR: "Real beleza" está na Globoplay'
 link: https://globoplay.globo.com/real-beleza/t/dVQshK9HqN/
