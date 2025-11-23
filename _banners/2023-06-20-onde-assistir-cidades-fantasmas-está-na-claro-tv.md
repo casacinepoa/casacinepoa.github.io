@@ -1,5 +1,5 @@
 ---
-date: 2025-04-17 10:32:00
+date: 2025-11-23 13:45:00
 image: /uploads/cidfant-cemit.jpg
 title: 'ONDE ASSISTIR: "Cidades fantasmas" está na Claro TV'
 link: https://www.clarotvmais.com.br/filme/cidades-fantasmas/1846680
