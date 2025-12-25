@@ -5,7 +5,7 @@ date: 2025-12-25 11:08:00
 ---
 ![](/uploads/toler-sdp.jpg)
 
-Os filmes TOLERÂNCIA (2000) e SAL DE PRATA (2005), ambos dirigidos por Carlos Gerbase, foram produzidos pela Casa de Cinema de Porto Alegre, e hoje fazem parte do acervo da Prana Filmes.
+Os filmes TOLERÂNCIA (2000) e SAL DE PRATA (2005), ambos dirigidos por Carlos Gerbase, foram produzidos pela Casa de Cinema de Porto Alegre, e hoje fazem parte do acervo da [Prana Filmes](https://www.pranafilmes.com.br/).
 
 - - -
 
