@@ -21,7 +21,7 @@ redirect_from: /a-casa.html
 
 "Buscamos um cinema centrado no autor, mas estruturado no trabalho de equipe e voltado para o público. Tudo que já fizemos, de bom ou de ruim, vem dessa aparente contradição."
 
-Em 2024 a Casa de Cinema de Porto Alegre completa 37 anos de atividades ininterruptas no audiovisual brasileiro feito no Rio Grande do Sul.
+Em 2026 a Casa de Cinema de Porto Alegre completa 39 anos de atividades ininterruptas no audiovisual brasileiro feito no Rio Grande do Sul.
 
 A Casa começou, em outubro de 1987, como uma cooperativa informal de cineastas gaúchos que já trabalhavam em conjunto desde o início dos anos 80.
 
