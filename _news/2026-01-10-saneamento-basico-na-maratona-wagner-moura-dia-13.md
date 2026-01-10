@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SANEAMENTO BASICO na "Maratona Wagner Moura" dia 13
-date: 2026-01-10 09:00:00
+date: 2026-01-09 16:00:00
 ---
 ![](/uploads/sbof-imgr.jpeg)
 
