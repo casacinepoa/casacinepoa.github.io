@@ -7,7 +7,7 @@ date: 2026-01-17 17:20:00
 
 *\[Centro Cultural Yapi Kredi, em Istambul, sede do festival Art World Film Days]*
 
-O 3º festival de arte de Istambul "Art World Film Days", de 23 a 27 de janeiro, com o título "Quem come quem?", apresentará filmes, performances e obras de artes visuais que discutem a relação entre o ser humano e a comida: a distribuição de recursos alimentares, o ativismo alimentar, a dualidade entre fome e saciedade, consumidor e consumido, os papéis de gênero na cozinha e as dimensões culturais e temporais da alimentação. Entre os filmes clássicos selecionados pela curadoria, estão programados "2001: Uzay Macerası" (2001: uma odisseia no espaço, dir. Stanley Kubricj) e "Çiçek Adası" (ILHA DAS FLORES, dir. Jorge Furtado).
+O 3º festival de arte de Istambul "Art World Film Days", de 23 a 27 de janeiro, com o título "Quem come quem?", apresentará filmes, performances e obras de artes visuais que discutem a relação entre o ser humano e a comida: a distribuição de recursos alimentares, o ativismo alimentar, a dualidade entre fome e saciedade, consumidor e consumido, os papéis de gênero na cozinha e as dimensões culturais e temporais da alimentação. Entre os filmes clássicos selecionados pela curadoria, estão programados "2001: Uzay Macerası" (2001: uma odisseia no espaço, dir. Stanley Kubrick) e "Çiçek Adası" (ILHA DAS FLORES, dir. Jorge Furtado).
 
 ILHA DAS FLORES será exibido na sessão de abertura do festival, no sábado 23 de janeiro, às 16 horas. A mostra acontece no Centro Cutural do banco Yapi Kredi.
 
