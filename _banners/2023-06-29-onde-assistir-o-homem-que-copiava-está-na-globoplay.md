@@ -1,5 +1,5 @@
 ---
-date: 2025-11-17 09:20:00
+date: 2026-01-30 16:13:00
 image: /uploads/hqc-dinheiro.jpg
 title: 'ONDE ASSISTIR: "O homem que copiava" está na Globoplay'
 link: https://globoplay.globo.com/o-homem-que-copiava/t/GtrD6KmTVM/
