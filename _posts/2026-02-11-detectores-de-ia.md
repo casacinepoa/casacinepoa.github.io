@@ -32,6 +32,6 @@ O que o Justdone me oferece é simplesmente um mecanismo para "tornar mais human
 
 E é claro que o resultado veio junto com um botão "Desbloquear texto", que me levou a uma nova janela, onde eu teria mais três opções: o "plano mensal ilimitado" ($ 14,99 por mês), o "plano anual ilimitado" (marcado como "melhor preço: $ 10 por mês") ou o "acesso por 7 dias" (por apenas $ 2,00, mas em letras miúdas: "depois 19,99 por mês"). Um detalhe engraçado é o uso do cifrão genérico, sem específicar a moeda. Suponho que seja dólar. Tanto faz.
 
-Não fui adiante no teste. Vi que há outros detectores de IA disponíveis no mercado, acessíveis na primeira página de qualquer mecanismo de busca: QuillBot, Grammarly, Copyleaks, até um "AskGPT". Não sei se todos propõem o mesmo nível de picaretagem. Não sei se algum deles pode ser realmente uma ferramenta útil.
+Não fui adiante. Fiquei curioso, mas me recuso a pagar pelo próximo teste óbvio: será que o Justdone detecta suas próprias interferências "indetectáveis"? Ou mesmo as realizadas pelos outros detectores de IA disponíveis no mercado, acessíveis na primeira página de qualquer mecanismo de busca: QuillBot, Grammarly, Copyleaks, até um "AskGPT"? Não sei se todos eles propõem o mesmo nível de picaretagem. Não sei se algum deles pode ser realmente uma ferramenta útil.
 
 Não importa. O que parece claro é que nós estamos perdendo essa briga. Nós, humanidade.
