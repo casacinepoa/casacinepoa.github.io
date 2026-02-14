@@ -1,5 +1,5 @@
 ---
-date: 2025-10-14 00:43:00
+date: 2026-02-14 13:57:00
 image: /uploads/h1x2v-imgr.jpeg
 title: 'ONDE ASSISTIR: "Houve uma vez dois verões" está na Globoplay'
 link: https://globoplay.globo.com/houve-uma-vez-dois-veroes/t/HC1X28ZGdj/
