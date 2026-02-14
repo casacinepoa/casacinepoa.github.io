@@ -30,7 +30,9 @@ Indetectável? Então era isso que o Justdone, afinal, estava oferecendo? Um tex
 
 O que o Justdone me oferece é simplesmente um mecanismo para "tornar mais humano" (e até mesmo "indetectáveis) textos que eu supostamente deveria escrever, mas que por algum motivo eu preciso (ou simplesmente quero) que sejam escritos por IA. Afinal, quem melhor para "humanizar" um texto escrito por IA do que uma IA? Ponto pros colunistas preguiçosos e pros coaches de empreendedorismo. Ponto pra picaretagem em geral.
 
-E é claro que o resultado veio junto com um botão "Desbloquear texto", que me levou a uma nova janela, onde eu teria mais três opções: o "plano mensal ilimitado" ($ 14,99 por mês), o "plano anual ilimitado" (marcado como "melhor preço: $ 10 por mês") ou o "acesso por 7 dias" (por apenas $ 2,00, mas em letras miúdas: "depois 19,99 por mês"). Um detalhe engraçado é o uso do cifrão genérico, sem específicar a moeda. Suponho que seja dólar. Tanto faz.
+Mas, afinal, o tal processo de "humanização" proposto pela máquina funciona? Melhora o texto sob algum aspecto? É mesmo indetectável? Não sei, e não vou ficar sabendo.
+
+Porque é claro que o resultado veio bloqueado, junto com um botão para "desbloquear". E é claro que este botão me levou a uma nova janela, onde eu teria mais três opções: o "plano mensal ilimitado" ($ 14,99 por mês), o "plano anual ilimitado" (marcado como "melhor preço: $ 10 por mês") ou o "acesso por 7 dias" (por apenas $ 2,00, mas em letras miúdas: "depois 19,99 por mês"). Um detalhe engraçado é o uso do cifrão genérico, sem específicar a moeda. Suponho que seja dólar. Tanto faz.
 
 Não fui adiante. Fiquei curioso, mas me recuso a pagar pelo próximo teste óbvio: será que o Justdone detecta suas próprias interferências "indetectáveis"? Ou mesmo as realizadas pelos outros detectores de IA disponíveis no mercado, acessíveis na primeira página de qualquer mecanismo de busca: QuillBot, Grammarly, Copyleaks, até um "AskGPT"? Não sei se todos eles propõem o mesmo nível de picaretagem. Não sei se algum deles pode ser realmente uma ferramenta útil.
 
