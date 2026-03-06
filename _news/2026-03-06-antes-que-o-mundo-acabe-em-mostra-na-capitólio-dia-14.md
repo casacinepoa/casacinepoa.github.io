@@ -80,8 +80,10 @@ Curta: A Noite do Sr. Lanari (2002), 11min. Direção: Flavia Seligman
 * Sinopse: Baseado no conto Cabecita Negra, do escritor argentino German Rozenmacher, o ﬁlme aborda a autoridade presente nos anos das ditaduras, na América Latina.
 
 Média: A Invenção da Infância (2000), 26min. Direção: Liliana Sulzbach
+- Sinopse: Ser criança não signiﬁca ter infância.
 
-* Sinopse: A Invenção da infância: Ser criança não signiﬁca ter infância | A Cidade: Distante de outros centros urbanos, Itapuã (RS) é uma comunidade com hábitos bem característicos. A localidade, que abrigou 1454 pessoas durante mais de 70 anos de existência, conta hoje com apenas 35 moradores, todos acima de 60 anos.
+Curta: A Cidade (2012), 16min. Direção: Liliana Sulzbach
+- Sinopse: Distante de outros centros urbanos, Itapuã (RS) é uma comunidade com hábitos bem característicos. A localidade, que abrigou 1454 pessoas durante mais de 70 anos de existência, conta hoje com apenas 35 moradores, todos acima de 60 anos.
 
 Média: As Bicicletas de Nhanderu (2011), 45min. Direção: Patrícia Ferreira Yxapy
 
