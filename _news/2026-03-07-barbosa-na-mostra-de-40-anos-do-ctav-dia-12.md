@@ -3,7 +3,7 @@ layout: post
 title: BARBOSA na mostra de 40 anos do CTAV dia 12
 date: 2026-03-07 16:36:00
 ---
-![](/uploads/barbosa-arquib.jpg)
+![](/uploads/barbos06.jpg)
 
 **MOSTRA CTAV 40 ANOS: FILMES APOIADOS**
 
