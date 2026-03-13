@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANTES QUE O MUNDO ACABE em mostra na Capitólio dia 14
+title: ANTES QUE O MUNDO ACABE na Capitólio dia 14
 date: 2026-03-09 21:14:00
 ---
 ![](/uploads/aqma7.jpg)
