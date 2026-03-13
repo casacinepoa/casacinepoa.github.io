@@ -1,5 +1,5 @@
 ---
-date: 2025-10-15 15:26:00
+date: 2026-03-13 11:34:00
 image: /uploads/aqma-imgr.jpg
 title: 'ONDE ASSISTIR: "Antes que o mundo acabe" está no Sulflix'
 link: https://sulflix.com.br/app/longas/antes-que-o-mundo-acabe
