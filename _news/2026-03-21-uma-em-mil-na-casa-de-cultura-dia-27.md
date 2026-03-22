@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UMA EM MIL na Casa de Cultura dia 27
+title: UMA EM MIL na Casa de Cultura Mario Quintana dia 27
 date: 2026-03-21 10:00:00
 ---
 ![](/uploads/jonatas-tiago.jpg)
