@@ -6,7 +6,7 @@ category: Curtas-metragens
 image: /uploads/barb-imgr.jpg
 image_credits: "Foto por Sérgio Amon: Antônio Fagundes"
 where_to_watch:
-  - title: YouTube - wocomo
+  - title: YouTube - KisKis
     url: https://youtu.be/OjVBp0zXPcU
 details:
   - title: Créditos
