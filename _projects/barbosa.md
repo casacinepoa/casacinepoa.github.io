@@ -7,7 +7,7 @@ image: /uploads/barb-imgr.jpg
 image_credits: "Foto por Sérgio Amon: Antônio Fagundes"
 where_to_watch:
   - title: YouTube - wocomo
-    url: https://youtu.be/rscoEY5MSA0
+    url: https://youtu.be/OjVBp0zXPcU
 details:
   - title: Créditos
     content: |-
