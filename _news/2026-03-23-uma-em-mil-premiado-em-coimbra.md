@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UMA EM MIL premiado em Coimbra
-date: 2026-03-22 23:00:00
+date: 2026-03-23 16:00:00
 ---
 ![](/uploads/uma-mil-coimbra.jpg)
 
