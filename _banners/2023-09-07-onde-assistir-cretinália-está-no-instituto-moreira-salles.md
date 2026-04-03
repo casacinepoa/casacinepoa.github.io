@@ -1,5 +1,5 @@
 ---
-date: 2025-07-18 13:43:00
+date: 2026-04-03 11:56:00
 image: /uploads/cretinalia01.jpg
 title: 'ONDE ASSISTIR: "Cretinália" está no Instituto Moreira Salles'
 link: https://ims.com.br/convida/jorge-furtado/
