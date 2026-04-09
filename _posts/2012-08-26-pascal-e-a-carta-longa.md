@@ -10,7 +10,7 @@ date: 2012-08-26 16:00:00
 26/08/2012\
 (para Luis Augusto Fischer)
 
-"Se eu tivesse mais tempo, teria escrito uma carta mais curta."
+*"Se eu tivesse mais tempo, teria escrito uma carta mais curta."*
 
 A tal frase, que se desculpa pela extensão da carta por falta de tempo de ser breve, não é do Padre Vieira, nem do Voltaire, mas de um contemporâneo do primeiro e precursor do segundo: Blaise Pascal.
 
