@@ -5,6 +5,8 @@ date: 2026-04-09 11:40:00
 ---
 ![](/uploads/uma-em-mil-cleber.jpg)
 
+*\[A 49ª edição do Festival Guarnicê acontece de 30 de julho a 6 de agosto em São Luís do Maranhão.]*
+
 **UFMA/PROEC DIVULGA SELEÇÃO DO 49º FESTIVAL GUARNICÊ DE CINEMA**\
 POR: Vanessa Aguiar\
 [Portal Padrão (UFMA), 07/04/2026 18h29](https://portalpadrao.ufma.br/proec/noticias/ufma-proec-divulga-resultado-parcial-da-selecao-do-49deg-festival-guarnice-de-cinema-nas-categorias-longa-metragem-e-videoclipes)
