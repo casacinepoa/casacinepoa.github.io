@@ -5,6 +5,8 @@ date: 2026-04-09 16:13:00
 ---
 ![](/uploads/vea-mosaico.jpg)
 
+*\[A premiação será na Cinemateca Brasileira, em São Paulo, dia 16 de maio, encerrando a Semana ABC de 2026.]*
+
 **ASSOCIAÇÃO BRASILEIRA DE CINEMATOGRAFIA ANUNCIA OS SELECIONADOS PARA O PRÊMIO ABC 2026**\
 [Tela Viva, 08/04/2026](https://telaviva.com.br/08/04/2026/associacao-brasileira-de-cinematografia-anuncia-os-selecionados-para-o-premio-abc-2026/)
 
