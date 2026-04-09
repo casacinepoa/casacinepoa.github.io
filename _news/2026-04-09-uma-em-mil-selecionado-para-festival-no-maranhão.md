@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UMA EM MIL selecionado para festival no Maranhão
+title: UMA EM MIL selecionado para Festival Guarnicê no Maranhão
 date: 2026-04-09 11:40:00
 ---
 ![](/uploads/uma-em-mil-cleber.jpg)
