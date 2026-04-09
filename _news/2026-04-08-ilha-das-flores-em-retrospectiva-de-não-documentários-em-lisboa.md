@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ILHA DAS FLORES em retrospectiva de não-documentários em Lisboa
+title: ILHA DAS FLORES em retrospectiva de "não-documentários" em Lisboa
 date: 2026-04-07 22:33:00
 ---
 ![](/uploads/indielisboa.jpg)
