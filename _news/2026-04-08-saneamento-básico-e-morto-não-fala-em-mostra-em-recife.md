@@ -5,6 +5,8 @@ date: 2026-04-08 16:24:00
 ---
 ![](/uploads/mnf-sbof.jpg)
 
+*[Produções da Casa de Cinema de Porto Alegre serão exibidas nas salas da Fundação Joaquim Nabuco, entre 9 e 15 de abril.;*
+
 **FUNDAJ RECEBE MOSTRA DE FILMES COM 21 TÍTULOS NACIONAIS NESTE MÊS**\
 por André Guerra\
 [Diario de Pernambuco, 07/04/2026 | 05:00](https://www.diariodepernambuco.com.br/viver/2026/04/11711596-fundaj-recebe-mostra-de-filmes-com-21-titulos-nacionais-neste-mes.html)
