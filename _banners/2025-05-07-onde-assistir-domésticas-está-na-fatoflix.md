@@ -1,5 +1,5 @@
 ---
-date: 2025-11-12 09:29:00
+date: 2026-05-09 12:00:00
 image: /uploads/domest-imgr.jpg
 title: 'ONDE ASSISTIR: "Domésticas" está na Fatoflix'
 link: https://play.fatoflix.com.br/app/mostra-mundo-do-trabalho/domesticas
