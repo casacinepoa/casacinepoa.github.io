@@ -3,7 +3,7 @@ title: MUITO PRAZER
 tech_specs:
   - (ex "Motel Pérola")
   - Longa-metragem, ficção
-  - EM MONTAGEM (filmagens de 08/jun a 10/jul/2025)
+  - FINALIZADO - estreia em agosto/2026
 category: Projetos
 image: /uploads/mot-perola.jpg
 ---
