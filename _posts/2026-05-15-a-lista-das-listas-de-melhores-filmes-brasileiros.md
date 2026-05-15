@@ -4,6 +4,8 @@ title: A lista das listas de melhores filmes brasileiros
 author: jorge
 date: 2026-05-15 14:35:00
 ---
+![](/uploads/filmes-br-lista.jpg)
+
 **A LISTA DAS LISTAS DE MELHORES FILMES BRASILEIROS**
 
 Fui gentilmente convidado, mais uma vez, para fazer minha lista de "melhores filmes brasileiros". Este convite foi feito pelo Globo para vários cineastas que devem indicar seus 20 filmes preferidos, os mais votados vão compor a lista de 100. A competição entre filmes é um divertido passatempo de salão, um bom motivo para puxar conversa e divulgar os filmes, quase sempre aceito participar. Desta vez, declinei do convite e me justifico.
@@ -16,13 +18,13 @@ Pelo exposto, não vou votar na próxima lista, mas, para não cortar a brincade
 
 - - -
 
-LISTA 1
+**LISTA 1**
 
 50 melhores filmes brasileiros dos anos 2000 na cotação do público do Letterboxd (*)
 
-Letterboxd
+[Letterboxd](https://letterboxd.com/films/country/brazil/by/rating/)
 
-https://letterboxd.com/films/country/brazil/by/rating/
+
 
 (*) Filmes brasileiros de longa metragem, ficção ou documentário, lançados nos anos 2000, vistos e avaliados por mais de 2000 cadastrados do Letterboxd.
 
@@ -82,13 +84,13 @@ O filme mais bem avaliado tem média 4,56 e o que fecha a lista tem média 3,88.
 
 - - -
 
-LISTA 2
+**LISTA 2**
 
 50 melhores filmes brasileiros do século XXI (na opinião de cineastas, em O Globo)
 
-O Globo
+[O Globo](https://infograficos.oglobo.globo.com/cultura/top10-filmes-brasileiros.html)
 
-https://infograficos.oglobo.globo.com/cultura/top10-filmes-brasileiros.html
+
 
 * 01 / Cidade de Deus (2002)
 * 02 / Ainda Estou Aqui (2024)
@@ -143,13 +145,13 @@ https://infograficos.oglobo.globo.com/cultura/top10-filmes-brasileiros.html
 
 - - -
 
-LISTA 3
+**LISTA 3**
 
 100 melhores filmes brasileiros de todos os tempos, na opinião dos críticos da ABRACCINE, em 2016.
 
-Wikipedia
+[Wikipedia](https://pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE)
 
-https://pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_a_ABRACCINE
+
 
 * 01 / Limite / 1931 / Mário Peixoto
 * 02 / Deus e o Diabo na Terra do Sol / 1964 / Glauber Rocha
@@ -254,13 +256,13 @@ https://pt.wikipedia.org/wiki/Lista_dos_100_melhores_filmes_brasileiros_segundo_
 
 - - -
 
-LISTA 4
+**LISTA 4**
 
 50 filmes do Século XXI, segundo convidados da Folha SP (críticos e realizadores)
 
-Folha de São Paulo
+[Folha de São Paulo](https://www1.folha.uol.com.br/ilustrada/2026/03/veja-os-50-melhores-filmes-brasileiros-do-seculo-21-segundo-convidados-da-folha.shtml)
 
-https://www1.folha.uol.com.br/ilustrada/2026/03/veja-os-50-melhores-filmes-brasileiros-do-seculo-21-segundo-convidados-da-folha.shtml
+
 
 * 01 / Cidade de Deus
 * 02 / Ainda estou aqui
@@ -315,13 +317,13 @@ https://www1.folha.uol.com.br/ilustrada/2026/03/veja-os-50-melhores-filmes-brasi
 
 - - -
 
-LISTA 5
+**LISTA 5**
 
 100 melhores filmes brasileiros de todos os tempos, na opinião dos críticos da ABRACCINE, em 2026, em ordem cronológica.
 
-Folha de São Paulo
+[Folha de São Paulo](https://www1.folha.uol.com.br/amp/ilustrada/2026/05/abraccine-atualiza-lista-dos-melhores-filmes-brasileiros-com-o-agente-secreto-veja.shtml)
 
-https://www1.folha.uol.com.br/amp/ilustrada/2026/05/abraccine-atualiza-lista-dos-melhores-filmes-brasileiros-com-o-agente-secreto-veja.shtml
+
 
 * Limite (1931), de Mário Peixoto
 * Ganga Bruta (1933), de Humberto Mauro
@@ -426,13 +428,11 @@ https://www1.folha.uol.com.br/amp/ilustrada/2026/05/abraccine-atualiza-lista-dos
 
 - - -
 
-LISTA 6
+**LISTA 6**
 
 50 filmes brasileiros de maior bilheteria no século XXI
 
-Wikipedia
-
-https://pt.wikipedia.org/wiki/Lista_de_filmes_brasileiros_com_mais_de_um_milh%C3%A3o_de_espectadores
+[Wikipedia](https://pt.wikipedia.org/wiki/Lista_de_filmes_brasileiros_com_mais_de_um_milh%C3%A3o_de_espectadores)
 
 * 01 / Nada a Perder - 2018
 * 02 / Minha Mãe É uma Peça - 2019
