@@ -1,7 +1,7 @@
 ---
 layout: post
-title: BARBOSA na mostra do CTAV, agora em São Paulo
-date: 2026-05-15 14:47:00
+title: BARBOSA na mostra 40 anos do CTAV, agora em São Paulo
+date: 2026-05-14 16:00:00
 ---
 ![](/uploads/barb-roleta.jpg)
 
