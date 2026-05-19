@@ -32,7 +32,7 @@ Veja como é simples a América Latina. Simples como o a-bê-cê. A, existe os q
 
 Mas espera aí, não pode ser só isso. Isso é uma simplificação grosseira, é a velha e batida cartilha da esquerda, certamente nós, homens sofisticados, adultos informados, podemos ir mais fundo do que isso. Mas é exatamente, simplesmente, isso. Pergunte a uma criança de três anos. 
 
-Era assim quando o primeira branco encontrou o primeiro índio na primeira praia. "Eu, senhor. Tu, escravo. Para sempre". O primeiro índio que quis protestar levou um tiro na boca, sua casa foi arrasada e pilhada, os outros entraram na linha. De vez em quando outro índio tenta protestar, às vezes até algum branco que toma as dores dos índios. E o seu fim é o mesmo. Que sirva de lição. 
+Era assim quando o primeiro branco encontrou o primeiro índio na primeira praia. "Eu, senhor. Tu, escravo. Para sempre". O primeiro índio que quis protestar levou um tiro na boca, sua casa foi arrasada e pilhada, os outros entraram na linha. De vez em quando outro índio tenta protestar, às vezes até algum branco que toma as dores dos índios. E o seu fim é o mesmo. Que sirva de lição. 
 
 As dores dos escravos. A fome dos escravos. A doença dos escravos. O abandono dos escravos. A exploração dos escravos. Velho, batido, piegas, simples. O desprezo dos senhores. A inconsciência dos senhores. A violência dos senhores. A arrogância dos senhores. Simples como um melodrama barato. 
 
