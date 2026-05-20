@@ -1,5 +1,5 @@
 ---
-date: 2026-05-18 11:15:00
+date: 2026-05-20 18:02:00
 image: /uploads/grc3-lazaro.jpg
 title: Nova temporada de GRANDES CENAS estreia dia 20 no Canal Curta
 link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_1
