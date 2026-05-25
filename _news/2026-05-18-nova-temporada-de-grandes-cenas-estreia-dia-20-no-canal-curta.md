@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nova temporada de GRANDES CENAS estreia dia 20 no Canal Curta!
+title: GRANDES CENAS estreia com "Medida provisória" no Curta!
 date: 2026-05-18 16:00:00
 ---
 ![](/uploads/grc3-lazaro.jpg)
