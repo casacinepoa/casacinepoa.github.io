@@ -3,7 +3,7 @@ layout: post
 title: MUITO PRAZER apresentado em evento de exibidores
 date: 2026-05-26 16:00:00
 ---
-![](/uploads/mpz-elenco.jpg)
+![](/uploads/mpz-luisa-cj.jpg)
 
 *\[Jorge Furtado com o elenco principal de MUITO PRAZER: Luísa Arraes, Samantha Jones e Daniel de Oliveira]*
 
