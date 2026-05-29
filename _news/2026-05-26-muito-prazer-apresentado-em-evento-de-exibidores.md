@@ -3,9 +3,9 @@ layout: post
 title: MUITO PRAZER apresentado em evento de exibidores
 date: 2026-05-26 16:00:00
 ---
-![](/uploads/mpz-elenco.jpg)
+![](/uploads/mpz-luisa-cj.jpg)
 
-*\[Jorge Furtado com o elenco principal de MUITO PRAZER: Luísa Arraes, Samantha Jones e Daniel de Oliveira]*
+*[Luísa Arraes apresentando o filme* MUITO PRAZER no evento de Campos do Jordão*]*
 
 **JORGE FURTADO E LUISA ARRAES PARTICIPAM DE APRESENTAÇÃO DA ELO STUDIOS DURANTE O SHOW DE INVERNO 2026**\
 [Conexão Magazine, 25 de maio de 2026](https://conexaomagazine.com.br/jorge-furtado-e-luisa-arraes-participam-de-apresentacao-da-elo-studios-durante-o-show-de-inverno-2026/)
