@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Festival Curta! começa dia 1º, com GRANDES CENAS e SANEAMENTO BÁSICO
+title: Festival Curta! começa dia 1º, com GRANDES CENAS
 date: 2026-05-29 16:48:00
 ---
 ![](/uploads/grc3-matheus-2.jpg)
