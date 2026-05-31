@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Streaming Tela Brasil estreia dia 30, com 555 títulos
-date: 2026-05-30 16:00:00
+date: 2026-05-28 16:00:00
 ---
 ![](/uploads/tela-br.jpg)
 
