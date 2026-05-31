@@ -1,5 +1,5 @@
 ---
-date: 2023-12-02 01:06:25
+date: 2026-05-30 01:57:00
 image: /uploads/e-se-cale-img2.jpg
 title: 'ONDE ASSISTIR: "E se cale" está no saite do Instituto Goethe'
 link: https://www.goethe.de/ins/br/pt/kul/fok/cut.html
