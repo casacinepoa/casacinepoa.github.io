@@ -1,5 +1,5 @@
 ---
-date: 2026-05-31 01:58:00
+date: 2026-06-01 14:30:00
 image: /uploads/grc3-carla-c.jpg
 title: 3º episódio de GRANDES CENAS fala de "Era o Hotel Cambridge"
 link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_3
