@@ -51,7 +51,13 @@ details:
 
       "INTERLÚDIO é ótimo. Entre duas grandes paixões, um rapaz vive um romance sem futuro - um interlúdio - com a caixa de um supermercado. Gerbase, que se baseou num conto de sua autoria, discute o amor como consumo."\
 
-      ([Luis Carlos Merten](http://www.terra.com.br/cinema/noticias/2000/10/03/010.htm), Agência Estado, 03/10/2000)
+      ([Luis Carlos Merten](http://www.terra.com.br/cinema/noticias/2000/10/03/010.htm), Agência Estado, 03/10/2000)\
+
+      \
+
+      "INTERLÚDIO é um roteiro sobre personagens medíocres, e alguns dias na vida desses personagens. A ótica, a câmera, nesse caso, não é medíocre. (...) INTERLÚDIO é poético (no bom sentido), é brechtiano (também no bom sentido, de distanciamento). Um lírico ensaio sobre os medíocres. Não prova nada, não diz que a mediocridade pode ser maravilhosa, nem que ela é terrível. Só a expõe, como num bom documentário."\
+
+      (Ivonete Pinto, "A mediocridade: interpretação mais ou menos séria", ed. Sulina, 1989, p. 14)
   - content: >-
       "Tema de interlúdio", por Marcelo Fornazzier
 
@@ -67,4 +73,4 @@ redirect_from: /os-filmes/curtas/interlúdio
 ---
 D﻿IREITOS ATUAIS: Prana Filmes\
 \
-Entre um amor desesperado, daqueles que acabam com a louça no chão, e uma paixão romântica, daquelas que parecem que nunca vão acabar, um freqüentador de supermercados tem um caso passageiro com a menina da caixa.
+Entre um amor desesperado, daqueles que acabam com a louça no chão, e uma paixão romântica, daquelas que parecem que nunca vão acabar, um frequentador de supermercados tem um caso passageiro com a menina da caixa.
