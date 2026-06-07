@@ -1,19 +1,14 @@
 ---
-date: 2026-06-01 14:30:00
-image: /uploads/grc3-carla-c.jpg
-title: 3º episódio de GRANDES CENAS fala de "Era o Hotel Cambridge"
-link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_3
+date: 2026-06-07 19:34:00
+image: /uploads/grc3-sem-asas.jpg
+title: Episódio 4 de GRANDES CENAS analisa o curta "Sem asas"
+link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_4
 ---
+Quarta-feira dia 10 de junho estreia o 4º espisódio da 3ª temporada de GRANDES CENAS. A diretora Renata Martins comenta a construção da cena do tiro em Sem Asas, ponto máximo de tensão do filme. O episódio aborda como esse momento concentra o conflito central da narrativa, ao expor a violência policial e o impacto dela sobre o futuro do protagonista, tensionando desejo e sobrevivência.
 
-A terceira temporada de GRANDES CENAS, produção da Casa de Cinema de Porto Alegre com direção de Ana Luiza Azevedo e Vicente Moreno, chega esta semana ao seu terceiro episódio, que estreia na quarta-feira, dia 3 de junho. 
-
-A diretora de arte Carla Caffé comenta a construção da cena da ocupação do prédio em Era o Hotel Cambridge (2016), marcada pela chegada dos moradores, pela tensão da entrada e pela quebra da parede. O episódio destaca o processo criativo que mistura atores e não-atores, a dimensão coletiva da encenação e os desafios de filmar uma ação real de ocupação.
-
-- Estreia: qua 03/jun 21h
-- Reprises: qui 04/jun 01h
-- qui 04/jun 15h
-- sex 05/jun 09h
-- sab 06/jun 19h30
-- dom 07/jun 12h
-
-Em Porto Alegre, o Curta! pode ser acessado pela Claro TV/NET (canais 56 e 556), Vivo TV (664) ou Oi TV (75), ou ainda no streaming, pelo Amazon Prime Video Channels.
+- Estreia: qua 10/jun 21h
+- Reprises: qui 11/jun 01h
+- qui 11/jun 15h
+- sex 12/jun 09h
+- sab 13/jun 19h30
+- dom 14/jun 12h
