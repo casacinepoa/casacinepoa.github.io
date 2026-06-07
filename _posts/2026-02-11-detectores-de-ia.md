@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Detectores de IA
+title: O que detectam os detectores de IA?
 author: giba
 date: 2026-02-11 12:23:00
 ---
