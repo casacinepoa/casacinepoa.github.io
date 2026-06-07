@@ -19,3 +19,19 @@ Além de "Muito Prazer", a ELO STUDIOS também levará títulos como "Carolina",
 "Vivemos um momento muito especial na ELO STUDIOS, com (Des)controle consolidado entre as maiores bilheterias do cinema nacional no ano e uma perspectiva extremamente positiva para 2026, que será um ano estratégico para o lançamento de grandes filmes comerciais brasileiros. O Show de Inverno já faz parte da nossa trajetória, e estamos muito felizes em retornar para apresentar ao mercado uma seleção de títulos tão fortes e relevantes", comenta Sabrina N Wagon, CEO da ELO STUDIOS.
 
 A 17ª edição do Show de Inverno acontece entre os dias 27 e 28 de maio, em Campos do Jordão (SP), e é considerado o principal encontro B2B da indústria cinematográfica brasileira, reunindo líderes do setor, exibidores, produtoras e distribuidoras.
+
+- - -
+
+**JORGE FURTADO ANUNCIA A NOVA COMÉDIA "MUITO PRAZER" NO FESTIVAL DE INVERNO**\
+Larissa Santos\
+[CNN Brasil, 29/05/2026 | 20:28](https://www.cnnbrasil.com.br/entretenimento/jorge-furtado-anuncia-muito-prazer-no-festival-de-inverno/)
+
+/ Longa marca seu retorno ao gênero após sucesso de "Saneamento Básico" em 2007
+
+O cineasta Jorge Furtado, 66, volta aos cinemas de humor com o novo filme "Muito Prazer", anunciado durante o Festival de Inverno, em Campos do Jordão. O longa marca o retorno do diretor à comédia, após o sucesso de "Saneamento Básico - O Filme", de 2007.
+
+O projeto será protagonizado por Luisa Arraes - que recentemente foi anunciada como Cássia Eller na cinebiografia da cantora - e Daniel de Oliveira, e conta também com Drica Moraes, Felipe Velozo e Samantha Jones. A trama traz a história de Rubem (Oliveira), que herdou um hotel abandonado de seu tio. Ao chegar no espaço, ele encontra Grace (Arraes), ex-funcionária do estabelecimento que vive no imóvel fechado. Para quitar as dívidas, eles decidem reativar o "Motel Pérola" e fazem um plano nada convencional para salvar o negócio.
+
+"O cinema brasileiro tem uma longa tradição de comédias, sempre foram os filmes de maior público e de maior bilheteria, desde o tempo das chanchadas da Atlântida até hoje", lembra Jorge Furtado para a CNN Brasil. "Eu gosto de comédias e espero que esse filme seja muito bem recebido, porque está muito engraçado."
+
+Com produção da Casa de Cinema de Porto Alegre e coprodução da Globo Filmes, "Muito Prazer" deve chegar aos cinemas brasileiros em agosto deste ano.
