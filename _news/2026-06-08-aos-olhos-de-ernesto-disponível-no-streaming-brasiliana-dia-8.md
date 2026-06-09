@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AOS OLHOS DE ERNESTO disponível no streaming Brasiliana! dia 8
-date: 2026-06-07 21:26:00
+date: 2026-06-08 16:00:00
 ---
 ![](/uploads/ernesto-uru.jpg)
 
