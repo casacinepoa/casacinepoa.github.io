@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sérgio Lulkin apresenta "Três sinais" no Goethe dias 26 e 27
-date: 2026-06-07 16:10:00
+date: 2026-06-10 16:10:00
 ---
 ![](/uploads/tres-sinais.jpg)
 
