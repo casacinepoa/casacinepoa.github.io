@@ -10,6 +10,8 @@ where_to_watch:
     url: " https://youtu.be/92sULYCMT5A"
   - title: Apple TV
     url: https://tv.apple.com/br/movie/virginia-e-adelaide/umc.cmc.1s99j4trhvwmldw81n4bjntr2
+  - title: Globo Play
+    url: https://globoplay.globo.com/virginia-e-adelaide/t/9tMPkzmPWX/
   - title: Making-of - YouTube
     url: https://youtu.be/5R2calmGMpc
 details:
