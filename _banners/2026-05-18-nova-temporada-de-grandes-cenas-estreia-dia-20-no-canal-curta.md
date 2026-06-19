@@ -1,6 +1,6 @@
 ---
 date: 2026-06-15 12:05:00
-image: /uploads/grc3-edson.jpg
+image: /uploads/mnf-edson.jpg
 title: Episódio 5 de GRANDES CENAS é sobre "Morto não fala"
 link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_5
 ---
