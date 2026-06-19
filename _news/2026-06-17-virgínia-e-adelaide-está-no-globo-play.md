@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIRGÍNIA E ADELAIDE está no Globo Play
+title: VIRGÍNIA E ADELAIDE está disponível no Globo Play
 date: 2026-06-17 16:33:00
 ---
 ![](/uploads/vea-divan.jpg)
