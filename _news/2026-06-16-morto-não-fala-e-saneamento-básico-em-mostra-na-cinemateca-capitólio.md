@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MORTO NÃO FALA e SANEAMENTO BÁSICO em mostra na Cinemateca Capitólio
+title: MORTO NÃO FALA e SANEAMENTO BÁSICO em mostra na Capitólio
 date: 2026-06-16 16:00:00
 ---
 ![](/uploads/mnf-sbof.jpg)
