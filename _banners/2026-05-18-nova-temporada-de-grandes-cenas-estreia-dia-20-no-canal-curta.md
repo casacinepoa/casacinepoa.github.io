@@ -1,5 +1,5 @@
 ---
-date: 2026-06-22 20:23:00
+date: 2026-06-23 10:10:00
 image: /uploads/grc3-jeanne.jpg
 title: Uma GRANDE CENA de "Deslembro" esta semana no Canal Curta!
 link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_6
