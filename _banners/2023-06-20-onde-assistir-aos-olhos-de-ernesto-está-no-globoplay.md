@@ -1,7 +1,7 @@
 ---
-date: 2025-08-24 10:00:00
+date: 2026-06-23 08:10:00
 image: /uploads/aode-ramiro.jpg
-title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no SESC Digital'
-link: https://sesc.digital/conteudo/filmes/cinema-em-casa-com-sesc/aos-olhos-de-ernesto
+title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no Brasiliana TV'
+link: https://brasiliana.tv.br/filme/?name=aos_olhos_de_ernesto
 ---
-AOS OLHOS DE ERNESTO, dirigido por Ana Luiza Azevedo, vencedor de prêmios do Júri Popular em 5 festivais internacionais, pode ser visto, de 12/set até 15/nov, na Plataforma SESC Digital. Na foto (de Fábio Rebello), Jorge Bolani e Júlio Andrade.
+AOS OLHOS DE ERNESTO, dirigido por Ana Luiza Azevedo, vencedor de prêmios do Júri Popular em 5 festivais internacionais, está disponível no Brasiliana TV, a plataforma de streaming 100% brasileira do canal Curta! O filme também pode ser visto no canal Wocomo do Youtube. Na foto (de Fábio Rebello), Jorge Bolani e Júlio Andrade.
