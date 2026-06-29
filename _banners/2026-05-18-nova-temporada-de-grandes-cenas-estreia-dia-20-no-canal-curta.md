@@ -1,14 +1,14 @@
 ---
 date: 2026-06-23 10:10:00
-image: /uploads/grc3-jeanne.jpg
-title: Uma GRANDE CENA de "Deslembro" esta semana no Canal Curta!
-link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_6
+image: /uploads/grc3-noites.jpg
+title: Agora é a vez de "Noites alienígenas" em GRANDES CENAS
+link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_7
 ---
-Nem sempre uma grande cena é uma cena grande. Em "Deslembro", no episódio 6 da terceira temporada de GRANDES CENAS, a diretora Flávia Castro analisa uma cena pequeninha: a cena do banho. Mas, uma cena que, com toda a sua sutiliza e beleza, retrata as escolha narrativas da diretora ao retratar um momento dramático da história brasileira.
+Estreia nesta quarta-feira, 1º de julho, o episódio 7 da terceira temporada de GRANDES CENAS, desta vez analisando "Noites alienígenas", vencedor do Festival de Gramado em 2023. O diretor Sérgio de Carvalho analisa a tensa cena de execução, utilizando o momento para denunciar o avanço das facções criminosas e do tráfico de drogas na fronteira amazônica.
 
-* Estreia: qua 24/jun 21h
-* Reprises: qui 25/jun 01h
-* qui 25/jun 15h
-* sex 26/jun 09h
-* sab 27/jun 19h30
-* dom 28/jun 12h
+- Estreia: qua 01/jul 21h
+- Reprises: qui 02/jul 01h
+- qui 02/jul 15h
+- sex 03/jul 09h
+- sab 04/jul 19h30
+- dom 05/jul 12h
