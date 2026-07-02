@@ -16,11 +16,10 @@ Assim começou a saga do Jorge Furtado com aquele que ficou conhecido como "o Pi
 
 - - -
 
-O documentário O MERCADO DE NOTÍCIAS está dsponível:
+O documentário O MERCADO DE NOTÍCIAS está disponível:
 
 * no [Tela Brasil](https://telabrasil.cultura.gov.br/obra/322) (grátis)
 * na [Claro TV ](https://www.clarotvmais.com.br/filme/o-mercado-de-noticias/1846689)(para assinantes)
 * e no [Curta!On](https://canalcurta.tv.br/filme/?name=o_mercado_de_noticias) (também para assinantes)
-
 
 O trailer pode ser visto no [YouTube](https://youtu.be/rMBj7kBTgZk)
