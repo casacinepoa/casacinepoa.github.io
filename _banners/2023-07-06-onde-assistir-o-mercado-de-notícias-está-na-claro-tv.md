@@ -1,5 +1,5 @@
 ---
-date: 2026-05-02 18:12:00
+date: 2026-07-02 10:54:00
 image: /uploads/mdn-raimundo.jpg
 title: 'ONDE ASSISTIR: "O mercado de notícias" está na Claro TV+'
 link: https://www.clarotvmais.com.br/filme/o-mercado-de-noticias/1846689
