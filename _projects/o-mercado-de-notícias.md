@@ -38,7 +38,8 @@ details:
       **Entrevistados**\
       Bob Fernandes\
       Cristiana Lôbo\
-      Fernando Rodrigues
+      Fernando Rodrigues\
+      (ver créditos completos)
   - title: Veja mais
     content: >-
       * [Saite do filme](http://www.omercadodenoticias.com.br/)
