@@ -6,6 +6,8 @@ category: Longas-metragens
 image: /uploads/mdn-imgr.jpeg
 image_credits: "Foto por Fábio Rebelo: Elisa Volpatto"
 where_to_watch:
+  - title: Tela Brasil
+    url: https://telabrasil.cultura.gov.br/obra/322
   - title: Claro TV+
     url: https://www.clarotvmais.com.br/filme/o-mercado-de-noticias/1846689
   - title: Curta!On
