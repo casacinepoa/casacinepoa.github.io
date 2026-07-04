@@ -1,6 +1,6 @@
 ---
-date: 2026-06-23 10:10:00
-image: /uploads/grc3-noites.jpg
+date: 2026-07-04 11:12:00
+image: /uploads/grc3-scarvalho.jpg
 title: Agora é a vez de "Noites alienígenas" em GRANDES CENAS
 link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_7
 ---
