@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MUITO PRAZER será a estreia de Samantha Jones no cinema
+title: MUITO PRAZER será a estreia de Samantha Jones na comédia
 date: 2026-07-01 16:00:00
 ---
 ![](/uploads/mpz-trio-ilha.jpg)
@@ -27,3 +27,13 @@ O clima nos bastidores do set foi tão descontraído quanto o proposto pelo long
 O entrosamento da equipe foi, aliás, crucial para todos enfrentarem a rotina de filmagens, realizadas sob o rigoroso inverno do Sul do país. A experiência foi recompensadora, e a artista não quer ficar tanto tempo afastada do set.
 
 \-- A equipe era absolutamente encantadora, cuidadosa e talentosa. O coração estava sempre quentinho, apesar do inverno gaúcho - arremata, já demonstrando que o tal bichinho do cinema a pegou de jeito: - Espero que essa experiência seja a primeira de muitas!
+
+- - -
+
+**Correção:**
+
+Ao contrário do que foi noticiado (e já corrigido) "Muito Prazer" não é a estreia de Samantha Jones no cinema. Ela estreou em "Zé" (2023), terceiro filme do mineiro Rafael Conde, baseado na história verídica do líder estudantil José Carlos Novais da Mata Machado, assassinado em 1973, em Recife, nas sessões de tortura no DOI-Codi.
+
+[https://www.imdb.com/pt/title/tt35322772/?ref_=nm_knf_c_3](https://www.imdb.com/pt/title/tt35322772/?ref_=nm_knf_c_3)
+
+<https://culturadoria.com.br/ze-de-rafael-conde-um-filme-excelente-e-necessario/>
