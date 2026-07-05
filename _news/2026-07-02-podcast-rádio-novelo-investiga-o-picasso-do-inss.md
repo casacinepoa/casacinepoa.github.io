@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Podcast Rádio Novelo investiga o caso do "Picasso do INSS"
-date: 2026-07-02 13:47:00
+date: 2026-07-02 16:00:00
 ---
 ![](/uploads/picasso-rn.jpg)
 
