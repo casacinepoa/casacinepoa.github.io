@@ -5,6 +5,8 @@ tech_specs:
 category: Médias-metragens
 image: /uploads/asas-penalti.jpg
 where_to_watch:
+  - title: YouTube - canal Wocomo
+    url: https://youtu.be/m_jSyUkq_dE
   - title: Trailer - Vimeo
     url: https://vimeo.com/928529092
 details:
