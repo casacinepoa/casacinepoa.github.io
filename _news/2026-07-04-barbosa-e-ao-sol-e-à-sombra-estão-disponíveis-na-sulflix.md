@@ -5,7 +5,7 @@ date: 2026-07-04 16:00:00
 ---
 ![](/uploads/barb-asas.jpg)
 
-*\[Antônio Fagundes em BSARBOSA, Ana Quézia Ponchi em AO SOL E À SOMBRA: duas visões sobre o futebol]*
+*\[Antônio Fagundes em BARBOSA, Ana Quézia Ponchi em AO SOL E À SOMBRA: duas visões sobre o futebol]*
 
 **NOVOS FILMES DISPONÍVEIS!**\
 **SULFLIX EM CLIMA DE COPA**\
