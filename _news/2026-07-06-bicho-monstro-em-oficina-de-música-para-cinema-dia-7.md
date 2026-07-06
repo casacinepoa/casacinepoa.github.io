@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BICHO MONSTRO em oficina de música para cinema dia 7
+title: BICHO MONSTRO em oficina de música para cinema em Caxias dia 7
 date: 2026-07-06 16:46:00
 ---
 ![](/uploads/caio-amon.jpg)
