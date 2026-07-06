@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SANEAMENTO BÁSICO volta à Cinemateca Capitólio dia 7
-date: 2026-07-03 16:00:00
+date: 2026-07-05 16:00:00
 ---
 ![](/uploads/sbof-silene.jpg)
 
