@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BARBOSA e AO SOL E À SOMBRA estão disponíveis na Sulflix
-date: 2026-07-04 16:00:00
+date: 2026-07-07 16:00:00
 ---
 ![](/uploads/barb-asas.jpg)
 
