@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REAL BELEZA em exibição no SESC São Carlos dia 17
+title: REAL BELEZA em exibição especial no SESC de São Carlos dia 17
 date: 2026-07-15 13:55:00
 ---
 ![](/uploads/real-bel.jpg)
