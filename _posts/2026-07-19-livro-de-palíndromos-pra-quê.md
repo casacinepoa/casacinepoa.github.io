@@ -12,7 +12,9 @@ Ao contrário do que muita gente pensa, fazer palíndromos não é uma competên
 > >
 > > "Parecida com a do jogador de xadrez, que para na sinaleira e vê o movimento de cavalo que a bicicleta poderia fazer pra tomar o ônibus no próximo lance. A concentração na leitura fica mais difícil: além de apagar todos os pensamentos que não estão no texto, eu tenho que ficar me forçando o tempo todo a ler só da esquerda pra direita. Mas a graça do palíndromo é justamente esta: Heráclito não pode entrar duas vezes no mesmo rio, a História só se repete como farsa, mas algumas frases fortuitamente achadas (ou meticulosamente construídas) podem nos dar, por breves momentos, a sensação do retorno."
 
-Há alguns anos, muma fila de autógrafos, descobri que o Fraga tinha esse mesmo problema, e há bem mais tempo do que eu. Pela internet os esquisitos se encontram, e já temos cadastrados pelo menos 150 palindromistas no Brasil, informação que será útil quando o SUS se interessar pelo tema. Esse livro é mais um pedido de socorro: nos ajudem a fazer sentido, nos dois sentidos.
+Há alguns anos, muma fila de autógrafos, descobri que o Fraga tinha esse mesmo problema, e há bem mais tempo do que eu. Pela internet os esquisitos se encontram, e já temos cadastrados pelo menos 150 palindromistas no Brasil, informação que será útil quando o SUS se interessar pelo tema.\
+\
+Este livro é mais um pedido de socorro: nos ajudem a fazer sentido, nos dois sentidos.
 
 - - -
 
