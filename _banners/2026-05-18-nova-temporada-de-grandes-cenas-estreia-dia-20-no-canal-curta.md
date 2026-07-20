@@ -1,14 +1,8 @@
 ---
 date: 2026-07-15 13:58:00
-image: /uploads/grc3-mutum.jpg
-title: Episódio 9 de GRANDES CENAS analisa "Mutum"
-link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_9
+image: /uploads/grc3-auto.jpg
+title: '"Auto da Compadecida" fecha 3ª temporada de GRANDES CENAS'
+link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_10
 ---
-Sandra Kogut comenta a construção da cena da partida de Tiago em Mutum (2007), momento em que o menino coloca os óculos pela primeira vez antes de deixar sua casa. O episódio aborda a importância do olhar na narrativa, a adaptação da obra de Guimarães Rosa e o processo de pesquisa e preparação de elenco que articula atores e não-atores na construção do filme.
-
-- Estreia: qua 15/jul 21h
-- Reprises: qui 16/jul 01h
-- qui 16/jul 15h
-- sex 17/jul 09h
-- sab 18/jul 19h30
-- dom 19/jul 12h
+O diretor Guel Arraes e o ator Matheus Nachtergaele comentam a construção da cena em que João Grilo e Xicó enganam o cangaceiro Severino em O Auto da Compadecida (2000). O episódio destaca a comédia de situação, as inversões e o ritmo acelerado dos diálogos de João Grilo como agente do caos, cuja astúcia e domínio da palavra conduzem o desenlace da cena na adaptação da obra de Ariano Suassuna. \
+**Este último episódio da temporada estreia quarta-feira 21h no Canal Curta!**
