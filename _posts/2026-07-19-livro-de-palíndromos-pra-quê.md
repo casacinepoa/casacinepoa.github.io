@@ -9,8 +9,8 @@ date: 2026-07-19 16:13:00
 Ao contrário do que muita gente pensa, fazer palíndromos não é uma competência, mas a tentativa de tirar proveito da incapacidade - de origem genética ou comportamental, não importa - de simplesmente ler pra frente, como a maioria das pessoas (mesmo árabes e judeus, só que o "pra frente" deles é pro outro lado) e dos demais seres vivos, com a possível exceção das carpas \[1].
 
 > > *E como fica a cabeça de quem faz palíndromos quando se depara com a vida real, que tem direção única e não tem volta?*
->
-> > Parecida com a do jogador de xadrez, que para na sinaleira e vê o movimento de cavalo que a bicicleta poderia fazer pra tomar o ônibus no próximo lance. A concentração na leitura fica mais difícil: além de apagar todos os pensamentos que não estão no texto, eu tenho que ficar me forçando o tempo todo a ler só da esquerda pra direita. Mas a graça do palíndromo é justamente esta: Heráclito não pode entrar duas vezes no mesmo rio, a História só se repete como farsa, mas algumas frases fortuitamente achadas (ou meticulosamente construídas) podem nos dar, por breves momentos, a sensação do retorno.
+> >
+> > "Parecida com a do jogador de xadrez, que para na sinaleira e vê o movimento de cavalo que a bicicleta poderia fazer pra tomar o ônibus no próximo lance. A concentração na leitura fica mais difícil: além de apagar todos os pensamentos que não estão no texto, eu tenho que ficar me forçando o tempo todo a ler só da esquerda pra direita. Mas a graça do palíndromo é justamente esta: Heráclito não pode entrar duas vezes no mesmo rio, a História só se repete como farsa, mas algumas frases fortuitamente achadas (ou meticulosamente construídas) podem nos dar, por breves momentos, a sensação do retorno."
 
 Há alguns anos, muma fila de autógrafos, descobri que o Fraga tinha esse mesmo problema, e há bem mais tempo do que eu. Pela internet os esquisitos se encontram, e já temos cadastrados pelo menos 150 palindromistas no Brasil, informação que será útil quando o SUS se interessar pelo tema. Esse livro é mais um pedido de socorro: nos ajudem a fazer sentido, nos dois sentidos.
 
