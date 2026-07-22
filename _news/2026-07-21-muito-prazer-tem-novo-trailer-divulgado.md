@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MUITO PRAZER tem novo trailer divulgado
-date: 2026-07-21 17:23:00
+date: 2026-07-22 16:00:00
 ---
 ![](/uploads/mpz-triofinal.jpg)
 
@@ -9,11 +9,10 @@ date: 2026-07-21 17:23:00
 
 [Assista ao novo trailer](https://youtu.be/mwSPrqqzFig).
 
-
 - - -
 
 **"MUITO PRAZER", NOVA COMÉDIA DE JORGE FURTADO, TERÁ SESSÕES COM DEBATE ANTES DA ESTREIA**\
-[TelaViva, 22/07/2026](https://telaviva.com.br/21/07/2026/muito-prazer-nova-comedia-de-jorge-furtado-tera-sessoes-com-debate-antes-da-estreia/)
+[TelaViva, 21/07/2026](https://telaviva.com.br/21/07/2026/muito-prazer-nova-comedia-de-jorge-furtado-tera-sessoes-com-debate-antes-da-estreia/)
 
 "Muito Prazer", nova comédia de Jorge Furtado ("Saneamento Básico, o Filme"), divulgou um trailer inédito. Com estreia em cinemas de todo o país marcada para 27 de agosto, a trama traz Luisa Arraes ("Grande Sertão"), Daniel de Oliveira ("Cazuza") e Samantha Jones ("Renascer") formando o trio de protagonistas, que, com humor, enfrentam dilemas éticos e amorosos enquanto tentam recuperar um motel desativado.
 
