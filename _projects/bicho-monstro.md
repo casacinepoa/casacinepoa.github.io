@@ -46,7 +46,7 @@ details:
     content: >-
       * [Créditos completos](/filmes/bicho-monstro/creditos-completos/)
 
-      * [Roteiro](/uploads/bicho-monstro-rot.pdf)
+      * [Roteiro](/uploads/bicho-monstro-rot.pdf) - versão 07/04/2022
 
       * [IMDb](https://www.imdb.com/pt/title/tt34007208)
 
