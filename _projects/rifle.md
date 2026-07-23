@@ -98,3 +98,5 @@ details:
 redirect_from: /os-filmes/coproduções/rifle.html
 ---
 Dione é um jovem misterioso que vive com uma família em uma região rural e remota. A tranquilidade da região é afetada quando um rico fazendeiro tenta comprar a pequena propriedade na qual Dione e a família vivem.
+
+Direitos atuais: [Vulcana Cinema](https://vulcanacinema.com/)
