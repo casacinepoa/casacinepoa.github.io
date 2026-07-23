@@ -36,21 +36,19 @@ details:
       Carlos Alberto Klein (Matias)
   - title: PRÊMIOS
     content: >-
-      \* 48ª Mostra Internacional de Cinema de São Paulo, 2024: selecionado
-      entre os 16 favoritos do público na categoria Novos Diretores\
+      * 48ª Mostra Internacional de Cinema de São Paulo, 2024: selecionado entre
+      os 16 favoritos do público na categoria Novos Diretores
 
-      * 16º Festival de Cinema da Fronteira, Bagé, 2025: Melhor roteiro\
+      * 16º Festival de Cinema da Fronteira, Bagé, 2025: Melhor roteiro
 
-      \*\* 53º Festival de Cinema de Gramado, 2025 (mostra de longas gaúchos): Melhor fotografia, Melhor direção de arte
+      * 53º Festival de Cinema de Gramado, 2025 (mostra de longas gaúchos): Melhor fotografia, Melhor direção de arte
   - title: VEJA MAIS
     content: >-
-      \- [Créditos completos](/filmes/bicho-monstro/creditos-completos/)\
+      - [Créditos completos](/filmes/bicho-monstro/creditos-completos/)
 
-      - Roteiro\
+      - [IMDb](https://www.imdb.com/pt/title/tt34007208)
 
-      - [IMDb](https://www.imdb.com/pt/title/tt34007208)\
-
-      - [Portal do Cinema RS](https://cinematecapauloamorim.com.br/portaldocinemagaucho/2350/bicho-monstro)\
+      - [Portal do Cinema RS](https://cinematecapauloamorim.com.br/portaldocinemagaucho/2350/bicho-monstro)
 
       - [Letterboxd](https://letterboxd.com/film/monster-story/)
 ---
