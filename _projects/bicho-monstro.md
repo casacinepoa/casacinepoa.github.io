@@ -44,13 +44,15 @@ details:
       * 53º Festival de Cinema de Gramado, 2025 (mostra de longas gaúchos): Melhor fotografia, Melhor direção de arte
   - title: VEJA MAIS
     content: >-
-      - [Créditos completos](/filmes/bicho-monstro/creditos-completos/)
+      * [Créditos completos](/filmes/bicho-monstro/creditos-completos/)
 
-      - [IMDb](https://www.imdb.com/pt/title/tt34007208)
+      * [Roteiro](/uploads/bicho-monstro-rot.pdf)
 
-      - [Portal do Cinema RS](https://cinematecapauloamorim.com.br/portaldocinemagaucho/2350/bicho-monstro)
+      * [IMDb](https://www.imdb.com/pt/title/tt34007208)
 
-      - [Letterboxd](https://letterboxd.com/film/monster-story/)
+      * [Portal do Cinema RS](https://cinematecapauloamorim.com.br/portaldocinemagaucho/2350/bicho-monstro)
+
+      * [Letterboxd](https://letterboxd.com/film/monster-story/)
 ---
 Em um vilarejo rural de colonização alemã, a pequena Ana assiste a uma peça sobre a história do Thiltapes, um perigoso animal que vive na mata e cuja forma real ninguém conhece. Duzentos anos antes, um botanista que escreve sobre a região ouve falar sobre esse mesmo animal. As histórias se intercalam, ambos em uma obcecada busca pelo Thiltapes imaginário, ao mesmo tempo em que encaram seus próprios demônios.\
 \
