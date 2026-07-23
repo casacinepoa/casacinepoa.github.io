@@ -145,4 +145,6 @@ details:
       * ﻿[Letterboxd](https://letterboxd.com/film/castanha/)
 redirect_from: /os-filmes/produção/coproduções/castanha-0.html
 ---
-João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.
+João Carlos Castanha tem 52 anos e é ator. Também trabalha na noite como transformista em baladas gays. Vive com a mãe septuagenária, Celina, no subúrbio de Porto Alegre. Solitário, doente e confuso, aos poucos ele deixa de discernir realidade e ficção.\
+\
+Direitos atuais: [Vulcana Cinema](https://vulcanacinema.com/)
