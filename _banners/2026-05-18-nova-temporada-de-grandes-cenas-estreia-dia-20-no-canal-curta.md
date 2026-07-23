@@ -1,5 +1,5 @@
 ---
-date: 2026-07-20 11:33:00
+date: 2026-07-23 14:37:00
 image: /uploads/grc3-auto.jpg
 title: '"Auto da Compadecida" fecha 3ª temporada de GRANDES CENAS'
 link: https://canalcurta.tv.br/filme/?name=grandes_cenas_3a_temporada_episodio_10
