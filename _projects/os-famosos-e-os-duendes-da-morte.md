@@ -81,3 +81,5 @@ details:
 redirect_from: /os-filmes/produção/coproduções/os-famosos-e-os-duendes-da-morte.html
 ---
 Um garoto de dezesseis anos, fã de Bob Dylan, acessa o mundo através da internet, enquanto vê seus dias passarem em uma pequena cidade alemã no interior do Rio Grande do Sul. A chegada de figuras misteriosas na cidade traz lembranças do passado e o leva para um mundo além da realidade.
+
+[Dezenove Som e Imagens](https://www.facebook.com/pages/Dezenove%20Som%20e%20Imagens/329237723933474/)
