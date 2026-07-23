@@ -48,4 +48,6 @@ redirect_from: /os-filmes/produção/coproduções/bens-confiscados.html
 ---
 Um poderoso senador é denunciado pela esposa por corrupção, tráfico de influências e bigamia. Quando sua amante se suicida, ele manda seqüestrar Luís Roberto, o secreto filho bastardo, e o esconde da imprensa e dos inimigos políticos numa cidade balneária no extremo sul do país. Para cuidar dele o senador convence uma antiga amante, a enfermeira Serena.
 
-Bens Confiscados é a história de um lento, cruel e gradativo processo de despersonalização de uma mulher madura, altruísta e independente, que se permite ser destruída por seu poderoso amante ausente. É também uma melancólica história de amor quase impossível entre personagens de idades díspares, fragilizados à sombra das perversões do poder.
+Bens Confiscados é a história de um lento, cruel e gradativo processo de despersonalização de uma mulher madura, altruísta e independente, que se permite ser destruída por seu poderoso amante ausente. É também uma melancólica história de amor quase impossível entre personagens de idades díspares, fragilizados à sombra das perversões do poder.\
+\
+[Dezenove Som e Imagens](https://www.facebook.com/pages/Dezenove%20Som%20e%20Imagens/329237723933474/)
