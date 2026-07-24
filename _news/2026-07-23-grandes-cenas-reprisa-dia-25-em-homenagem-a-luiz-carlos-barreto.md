@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GRANDES CENAS reprisa dia 25 em homenagem a Luiz Carlos Barreto
-date: 2026-07-23 14:24:00
+date: 2026-07-22 14:24:00
 ---
 ![](/uploads/grc1-barreto.jpg)
 
