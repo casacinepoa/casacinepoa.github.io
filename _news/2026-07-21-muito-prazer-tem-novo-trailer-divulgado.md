@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MUITO PRAZER tem novo trailer divulgado
-date: 2026-07-22 16:00:00
+date: 2026-07-21 16:00:00
 ---
 ![](/uploads/mpz-triofinal.jpg)
 
