@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MUITO PRAZER tera sessao-debate no Rio dia 3
+title: MUITO PRAZER terá sessão-debate no Rio dia 3
 date: 2026-07-26 17:31:00
 ---
 ![](/uploads/mpz-debate-rio.jpg)
