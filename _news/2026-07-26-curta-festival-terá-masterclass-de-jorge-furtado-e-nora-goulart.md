@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curta! Festival terá masterclass de Jorge Furtado e Nora Goulart dia 5
-date: 2026-07-26 16:00:00
+date: 2026-07-24 16:00:00
 ---
 ![](/uploads/jorge-nora.jpg)
 
