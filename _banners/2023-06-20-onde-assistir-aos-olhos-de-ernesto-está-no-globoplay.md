@@ -1,5 +1,5 @@
 ---
-date: 2026-06-23 08:10:00
+date: 2026-07-24 22:48:00
 image: /uploads/aode-ramiro.jpg
 title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no Brasiliana TV'
 link: https://brasiliana.tv.br/filme/?name=aos_olhos_de_ernesto
