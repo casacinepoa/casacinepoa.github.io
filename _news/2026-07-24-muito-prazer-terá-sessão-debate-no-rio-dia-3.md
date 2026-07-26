@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MUITO PRAZER terá sessão-debate no Rio dia 3  "
-date: 2026-07-24 16:00:00
+date: 2026-07-27 16:00:00
 ---
 ![](/uploads/mpz-debate-rio.jpg)
 
