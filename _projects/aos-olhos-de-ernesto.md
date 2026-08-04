@@ -6,8 +6,14 @@ category: Longas-metragens
 image: /uploads/aode-imgr_0.jpg
 image_credits: "Foto por Fábio Rebelo: Jorge Bolani e Gabriela Poester"
 where_to_watch:
-  - title: Brasiliana!
+  - title: Amazon Chanel
+    url: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.336c6aa4-0e10-4eb1-8dcd-8c7aa2b53b45
+  - title: Arte1 Premium
+    url: https://www.primevideo.com/detail/0K1P9S4OS6SBM61P0W9B8KQYAB
+  - title: Brasiliana TV
     url: https://brasiliana.tv.br/filme/?name=aos_olhos_de_ernesto
+  - title: Claro TV Mais
+    url: https://www.clarotvmais.com.br/filme/aos-olhos-de-ernesto/3580426
   - title: YouTube - Wocomo
     url: https://youtu.be/BP5QqlebTJw
 details:
