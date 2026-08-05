@@ -1,5 +1,5 @@
 ---
-date: 2026-07-26 17:15:00
+date: 2026-08-04 21:10:00
 image: /uploads/mpz-triofinal.jpg
 title: Assista ao novo trailer de MUITO PRAZER.
 link: https://youtu.be/Ob5KS67s5zA
