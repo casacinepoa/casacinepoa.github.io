@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uma declaracao de amor a Assistencia de Direcao (por Laura Mansur)
+title: Uma declaração de amor à Assistência de Direção (por Laura Mansur)
 author: giba
 date: 2026-08-08 19:31:00
 ---
