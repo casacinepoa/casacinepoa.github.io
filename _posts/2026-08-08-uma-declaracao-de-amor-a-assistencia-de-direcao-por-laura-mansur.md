@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Uma declaração de amor à Assistência de Direção (por Laura Mansur)
-author: giba
+author: jorge
 date: 2026-08-08 19:31:00
 ---
 ![](/uploads/mpz-claq-laura.jpg)
 
-**UMA DECLARAÇÃO DE AMOR À ASSISTÊNCIA DE DIREÇÃO**\
-por Laura Mansur
+*(por Laura Mansur)*
 
 há algum tempo, lili bandeira me convidou para dar uma master class na spcine sobre assistência de direção. fiquei feliz, adoro falar sobre esse assunto. online, duas horas.
 
