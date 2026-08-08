@@ -9,6 +9,23 @@ date: 2026-08-08 19:31:00
 **UMA DECLARAÇÃO DE AMOR À ASSISTÊNCIA DE DIREÇÃO**\
 por Laura Mansur
 
+há algum tempo, lili bandeira me convidou para dar uma master class na spcine sobre assistência de direção. fiquei feliz, adoro falar sobre esse assunto. online, duas horas.
+
+durante muitos dias, acreditei que faria uma conversa com 20, talvez 30 pessoas. tava tranquila. mas na véspera, quando recebi o link para o zoom, recebi também o número de pessoas inscritas até então: 259. fiquei em choque e comecei a repensar. acordei às 5h30 da manhã e escrevi um texto para ler.
+
+declamei o texto. nem eu sabia que o verbo era esse, mas recebi mensagem de uma pessoa que participou dizendo "eu também declamo poesia" e me dei conta do que tinha acontecido.
+foi bem emocionante.
+
+envio aqui para vocês o texto, em forma de agradecimento por todo esse tempo fazendo cinema junto. esse ano completei 44 anos e 22 anos desde meu primeiro longa, meu tio matou um cara, quando fiz 22 anos no set. metade da minha vida fazendo cinema com vocês. que alegria, que honra, que privilégio.
+
+beijos e saudades,\
+laura
+
+- - -
+
+**UMA DECLARAÇÃO DE AMOR À ASSISTÊNCIA DE DIREÇÃO**\
+por Laura Mansur
+
 Boa noite,
 
 queria começar agradecendo a presença de todas as pessoas aqui, numa 6a-feira à noite. Agradeço à Spcine pelo convite e pela oportunidade de falar sobre assistência de direção em um espaço de formação. Quero agradecer à Lili Bandeira, pela ponte com a spcine, pelo convite e confiança. Agradeço aos meus filhos, por crescerem compreendendo o meu amor e minha dedicação, mesmo que isso signifique não estar presente com eles durante longos tempos, por escolher fazer cinema e me aventurar neste fazer. Agradeço à minha mãe, meu pai e minha irmã, minha rede de apoio incansável. Agradeço à Casa de Cinema de Porto Alegre e toda equipe que lá construímos, por serem minha escola, minha casa, meu chão de cinema. Agradeço à todas as pessoas que caminham comigo nessa estrada do fazer cinema, com quem construo e experimento a assistência de direção.
