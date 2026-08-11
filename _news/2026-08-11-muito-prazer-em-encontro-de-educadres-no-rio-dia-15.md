@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MUITO PRAZER em encontro de educadres no Rio dia 15
+title: MUITO PRAZER em encontro de educadores no Rio dia 15
 date: 2026-08-11 12:30:00
 ---
 ![](/uploads/mpz-nalva-nerd.jpg)
