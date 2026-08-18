@@ -7,16 +7,14 @@ date: 2026-08-13 16:00:00
 
 **MUITO PRAZER na Mostra Panorama do Festival de Miami dia 3**  
 
-O filme será exibido com o título inglês "My pleasure", como premiere internacional, às 19h do dia 6 de setembro, em Miami. A programação completa está no saite do [Inffinito Brazilian Film Festival](https://brazilianfilmfestival.com/#/programacao).  
-
- 
+O filme será exibido com o título inglês "My pleasure", como premiere internacional, às 19h do dia 6 de setembro, no Silverspot Cinema Downtown Miami.\
+\
+A programação completa está no saite do [Inffinito Brazilian Film Festival](https://brazilianfilmfestival.com/#/programacao).  
 
 - - -
 
 **INFFINITO BRAZILIAN FILM FESTIVAL CELEBRA 30 ANOS E ANUNCIA SELEÇÃO DAS MOSTRAS COMPETITIVA E PARALELAS**\
 [TelaViva, 11/08/2026](https://telaviva.com.br/10/08/2026/inffinito-brazilian-film-festival-celebra-30-anos-e-anuncia-selecao-das-mostras-competitiva-e-paralelas/)  
-
- 
 
 O Inffinito Brazilian Film Festival, maior festival de cinema brasileiro realizado no exterior e o pioneiro na promoção e difusão do cinema brasileiro no mercado internacional, celebra sua 30ª edição. O festival anuncia a seleção oficial dos mais de 70 filmes de suas mostras competitivas e paralelas, que serão exibidas em Miami, na Flórida, de 3 a 12 de setembro, em diversos locais, como O Cinema South Beach e Silverspot Cinemas Downtown Miami, além do Miami Beach Bandshell. Logo depois da edição presencial, a Inffinito realiza uma grande mostra de filmes brasileiros em sua plataforma de streaming Inffinito.Plus, com exibição global de 40 produções. A realização é da Inffinito, das sócias Adriana L. Dutra, Cláudia Dutra e Viviane B. Spinelli.  
 
