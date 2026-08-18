@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SANEAMENTO BÁSICO na Nova Zelândia a partir do dia 13
+title: SANEAMENTO BÁSICO na Nova Zelândia em setembro
 date: 2026-08-12 16:00:00
 ---
 ![](/uploads/sbof-nz.jpg)
