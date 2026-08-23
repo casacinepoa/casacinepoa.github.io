@@ -36,7 +36,7 @@ details:
     content: EM BREVE
   - title: VEJA MAIS
     content: |-
-      * [Créditos completos](filmes/muito-prazer/creditos-completos)
+      * [Créditos completos](creditos-completos)
       * Roteiro (EM BREVE)
       * [IMDb](https://www.imdb.com/pt/title/tt37547379)
       * Portal do Cinema RS (EM BREVE)
