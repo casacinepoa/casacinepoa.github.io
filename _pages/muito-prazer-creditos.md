@@ -1,5 +1,5 @@
 ---
-title: Muito prazer - creditos
+title: Muito prazer - créditos
 permalink: filmes/muito-prazer/creditos-completos
 layout: page
 ---
