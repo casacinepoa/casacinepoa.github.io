@@ -1,9 +1,9 @@
 ---
-title: Muito prazer
+title: Muito prazer-xxx
 tech_specs:
   - 2026, HD, 97 min, 1.77:1
 category: Longas-metragens
-image: /uploads/mpz-trio-ilha.jpg
+image: /uploads/mpz-claq-laura.jpg
 where_to_watch:
   - title: Trailer no YouTube
     url: https://youtu.be/Ob5KS67s5zA
