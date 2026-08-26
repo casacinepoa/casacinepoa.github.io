@@ -5,6 +5,9 @@ tech_specs:
 category: Curtas-metragens
 image: /uploads/aa90-imgr.jpg
 image_credits: "Foto por Sérgio Amon: Tatiana Toffoli"
+where_to_watch:
+  - title: Vimeo
+    url: https://vimeo.com/1221501865/8b9e181ff3
 details:
   - title: Créditos
     content: |-
