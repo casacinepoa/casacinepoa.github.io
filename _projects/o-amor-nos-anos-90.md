@@ -8,6 +8,8 @@ image_credits: "Foto por Sérgio Amon: Tatiana Toffoli"
 where_to_watch:
   - title: Vimeo
     url: https://vimeo.com/1221501865/8b9e181ff3
+  - title: YouTube
+    url: https://youtu.be/j91pgZw5kUc
 details:
   - title: Créditos
     content: |-
