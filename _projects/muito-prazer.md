@@ -31,7 +31,15 @@ details:
       Felipe Velozo (Arlindo)\
       Catharina Conte (Elvira)
   - title: TEMA MUSICAL
-    content: EM BREVE
+    content: >-
+      <audio src="https://www.casacinepoa.com.br/uploads/muito-prazer.mp3"
+      controls />
+
+      "Quem é do amor", de Sérgio Sampaio\
+
+      intérprete: Chico Chico\
+
+      arranjo: Maurício Nader
   - title: CRÍTICAS
     content: >-
       "Jorge Furtado (...) resolveu realizar comédia erótica ambientada num
