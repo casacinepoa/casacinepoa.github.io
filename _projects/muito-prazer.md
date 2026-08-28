@@ -31,7 +31,11 @@ details:
       Felipe Velozo (Arlindo)\
       Catharina Conte (Elvira)
   - title: TEMA MUSICAL
-    content: EM BREVE
+    content: >-
+      "Porto Alegre (Nos braços do calipso)", de Péricles Cavalcanti;
+      intérprete: Tulipa Ruiz \
+
+      <audio src="https://www.casacinepoa.com.br/uploads/muito-prazer.mp3" controls />
   - title: CRÍTICAS
     content: >-
       "Jorge Furtado (...) resolveu realizar comédia erótica ambientada num
