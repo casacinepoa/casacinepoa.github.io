@@ -32,14 +32,10 @@ details:
       Catharina Conte (Elvira)
   - title: TEMA MUSICAL
     content: >-
-      <audio src="https://www.casacinepoa.com.br/uploads/muito-prazer.mp3"
-      controls />
+      "Quem é do amor", de Sérgio Sampaio; intérprete: Chico Chico; arranjo:
+      Maurício Nader\
 
-      "Quem é do amor", de Sérgio Sampaio\
-
-      intérprete: Chico Chico\
-
-      arranjo: Maurício Nader
+      <audio src="https://www.casacinepoa.com.br/uploads/muito-prazer.mp3" controls />
   - title: CRÍTICAS
     content: >-
       "Jorge Furtado (...) resolveu realizar comédia erótica ambientada num
