@@ -17,16 +17,11 @@ Na próxima segunda-feira (24), às 20h, a Folha promove a pré-estreia do filme
 
 Após a exibição do filme, o cineasta e os protagonistas participam de uma conversa com o público, com mediação do editor-assistente da Ilustrada Leonardo Sanchez, que atuou como repórter em coberturas de cinema, televisão e streaming do caderno.
 
-Daniel de Oliveira, Luisa Arraes e Samantha Jones em cena de 'Muito Prazer', de Jorge Furtado
-Daniel de Oliveira, Luisa Arraes e Samantha Jones em cena do filme 'Muito Prazer', de Jorge Furtado - Divulgação
 Na produção, que estreia em 27 de agosto nos cinemas, Daniel de Oliveira interpreta Rubem, um motorista de aplicativo que recebe uma herança e descobre que o imóvel deixado pelo tio é um motel em ruínas. No lugar, ele encontra Grace, vivida por Luisa Arraes, ex-funcionária que continuou morando ali depois do fechamento.
 
 Os dois decidem, então, tentar reabrir o Motel Pérola. Mas, com a ajuda de Nalva, personagem de Samantha Jones, passam a gravar as atividades dos clientes e a vender os vídeos na internet, com identidades protegidas. O negócio é lucrativo, mas logo cria problemas.
 
 O filme parte da situação para tratar de intimidade, tecnologia e privacidade. O elenco reúne também Drica Moraes e Felipe Velozo.
-
-Confira cenas de 'Muito Prazer', filme de Jorge Furtado
-https://youtu.be/9jsQN8FiA8g
 
 Jorge Furtado é um dos fundadores da Casa de Cinema de Porto Alegre. O diretor ganhou o Emmy Internacional de melhor série de comédia, em 2015, por "Doce de Mãe", que dirigiu para a TV Globo, com Fernanda Montenegro como a protagonista Dona Picucha.
 
