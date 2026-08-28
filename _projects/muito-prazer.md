@@ -45,33 +45,33 @@ details:
 
       **Maria do Rosário Caetano, [Revista de Cinema, 26/08/2026](https://revistadecinema.com.br/2026/08/jorge-furtado-tempera-muito-prazer-saborosa-comedia-romantica-com-pitadas-de-erotismo-ligth/)**
 
-      \
+
 
       "Muito Prazer é uma produção da Casa de Cinema de Porto Alegre, em coprodução com a Globo Filmes, e foi filmado na capital gaúcha. Isso está longe de ser um detalhe geográfico. A trajetória de Furtado se confunde com uma transformação importante do audiovisual brasileiro: a possibilidade de produzir cinema profissional fora do eixo Rio-São Paulo sem precisar abandonar o lugar de origem."\
 
       **Felipe Vieira, [Blog, 27/08/2026](https://felipevieira.com.br/interna-noticia.html?id=13827)**
 
-      \
+
 
       "Furtado mostra seu talento ao dar agilidade a uma trama passada quase todo o tempo em ambiente único. Um roteiro inspirado se traduz em boas atuações da dupla e depois trinca principal, com seu misto de inocência e safadeza enrustida. Enfim, temos uma comédia inteligente, avis rara por aqui."\
 
       **Luiz Zanin Oricchio, [Estadão, 26/08/2026](https://www.estadao.com.br/amp/cultura/luiz-zanin/muito-prazer-com-os-cumprimentos-do-motel-perola/)**
 
-      \
+
 
       "O belo roteiro de MUITO PRAZER é levado por um grupo de atores que parecem compreender as necessidades do filme. Eles se dedicam ao argumento com a leveza que ele requer e tratam seus papéis com desenvoltura. (...) Furtado introduz questões contemporâneas de maneira sutil, contando com o apoio de \[Daniel de] Oliveira - muito bom, num papel bem complexo - e \[Luísa] Arraes - ótima, com leveza e elegância que lembram Diane Keaton."\
 
       **Inácio Araujo, [Folha de São Paulo, 24/08/2026](https://www1.folha.uol.com.br/ilustrada/2026/08/muito-prazer-acerta-ao-falar-de-amor-e-sexo-hoje-com-humor-suave-e-sutil.shtml)**
 
-      \
 
-      "A interação entre os três personagens rende boas risadas, principalmente por causa de Grace e Nalva. As duas personagens foram muito bem desenhadas, e as duas atrizes souberam encontrar o espírito e o timing cômico dos seus papéis - para tanto, contribuem a direção de fotografia de Lívia Pasqual e a montagem de Giba Assis Brasil. Jorge Furtado, por sua vez, estava bem inspirado na hora de escrever os diálogos. Tem piada até sobre o Bragantino!"
+
+      "A interação entre os três personagens rende boas risadas, principalmente por causa de Grace e Nalva. As duas personagens foram muito bem desenhadas, e as duas atrizes souberam encontrar o espírito e o timing cômico dos seus papéis - para tanto, contribuem a direção de fotografia de Lívia Pasqual e a montagem de Giba Assis Brasil. Jorge Furtado, por sua vez, estava bem inspirado na hora de escrever os diálogos. Tem piada até sobre o Bragantino!"\
 
       **Ticiano Osório, [Zero Hora, 26/08/2026](https://gauchazh.clicrbs.com.br/colunistas/ticiano-osorio/noticia/2026/08/a-comedia-erotica-de-jorge-furtado-e-gozada-cmta6ngma0102017965f77ugb.html)**
 
-      \
 
-      "Décadas antes de Rubem e Grace, o diretor já tinha colocado um jovem falsificando dinheiro para conquistar a mulher amada em O Homem que Copiava, enquanto moradores de uma cidade gaúcha inventaram um monstro para salvar a economia local em Saneamento Básico. Agora, o golpe é outro - vídeos íntimos gravados sem que os clientes saibam -, mas a lógica permanece: gente comum inventando maneiras de sobreviver e, no processo, revelando alguma coisa sobre o país ao redor."
+
+      "Décadas antes de Rubem e Grace, o diretor já tinha colocado um jovem falsificando dinheiro para conquistar a mulher amada em O Homem que Copiava, enquanto moradores de uma cidade gaúcha inventaram um monstro para salvar a economia local em Saneamento Básico. Agora, o golpe é outro - vídeos íntimos gravados sem que os clientes saibam -, mas a lógica permanece: gente comum inventando maneiras de sobreviver e, no processo, revelando alguma coisa sobre o país ao redor."\
 
       **Matheus Mans, [Estadão, 28/08/2026](https://www.estadao.com.br/amp/cultura/cinema/com-muito-prazer-jorge-furtado-testa-o-que-o-algoritmo-entende-sobre-o-amor/)**
   - title: VEJA MAIS
