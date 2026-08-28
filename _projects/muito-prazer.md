@@ -81,7 +81,8 @@ details:
   - title: VEJA MAIS
     content: |-
       * [Créditos completos](creditos-completos)
-      * Roteiro (EM BREVE)
+      * [Roteiro](/uploads/muito-prazer-rot.pdf)
+      * [Pesquisa](/uploads/muito-prazer-pesq.pdf)
       * [IMDb](https://www.imdb.com/pt/title/tt37547379)
       * Portal do Cinema RS (EM BREVE)
       * [Letterboxd](https://letterboxd.com/film/muito-prazer-2026/)
