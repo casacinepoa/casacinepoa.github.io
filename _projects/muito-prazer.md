@@ -85,12 +85,12 @@ details:
       **Marcos Pitta, [Blog Pittaplay, 27/08/2026](https://pittaplay.com.br/muito-prazer-filme-jorge-furtado-critica/)**
 
 
-      "Por trás da proposta mais picante, MUITO PRAZER é, no fundo, uma comédia sobre solidão. Sobre pessoas que vivem cercadas por imagens, possibilidades e conexões, mas que continuam procurando algo que a tecnologia, o dinheiro ou o desejo imediato não conseguem entregar com tanta facilidade. (...) Em uma história cheia de gente querendo olhar e ser olhada, o que todos parecem procurar é alguém que realmente os enxergue."
+      "Por trás da proposta mais picante, MUITO PRAZER é, no fundo, uma comédia sobre solidão. Sobre pessoas que vivem cercadas por imagens, possibilidades e conexões, mas que continuam procurando algo que a tecnologia, o dinheiro ou o desejo imediato não conseguem entregar com tanta facilidade. (...) Em uma história cheia de gente querendo olhar e ser olhada, o que todos parecem procurar é alguém que realmente os enxergue."\
 
       **José Mion, [Alô Alô Bahia, 27/08/2026](https://aloalobahia.com/noticias/2026/08/27/muito-prazer-usa-sexo-humor-e-tecnologia-para-falar-sobre-solidao-nos-cinemas/)**
 
 
-      "Assim como o Motel Pérola se torna um personagem inusitado, que vai ganhando uma nova roupagem com o sucesso da empreitada do trio, o algoritmo aparece quase como uma presença invisível. Ele passa a organizar desejos, indicar caminhos e oferecer respostas antes mesmo de sabermos exatamente o que estamos procurando. (...) MUITO PRAZER é um daqueles filmes que nos fazem perceber que estávamos com saudades de uma boa comédia romântica nos cinemas - só não havíamos nos dado conta."
+      "Assim como o Motel Pérola se torna um personagem inusitado, que vai ganhando uma nova roupagem com o sucesso da empreitada do trio, o algoritmo aparece quase como uma presença invisível. Ele passa a organizar desejos, indicar caminhos e oferecer respostas antes mesmo de sabermos exatamente o que estamos procurando. (...) MUITO PRAZER é um daqueles filmes que nos fazem perceber que estávamos com saudades de uma boa comédia romântica nos cinemas - só não havíamos nos dado conta."\
 
       **Julian Kober, [Gazeta do Sul, (Santa Cruz do Sul/RS), 29/08/2026](https://www.gaz.com.br/jorge-furtado-retorna-a-comedia-com-filme-sobre-amor-e-algoritmo/)**
   - title: VEJA MAIS
