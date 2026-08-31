@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UMA EM MIL vence Juri Popular e Melhor Fotografia no Maranhao  "
+title: "UMA EM MIL vence Júri Popular e Melhor Fotografia no Maranhão  "
 date: 2026-08-27 16:00:00
 ---
 ![](/uploads/guarnice-2026.jpg)
