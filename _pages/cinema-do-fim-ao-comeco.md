@@ -1,5 +1,5 @@
 ---
-title: Cinema do fim ao comeco
+title: Cinema do fim ao começo
 permalink: /sobre/evento-1996
 layout: page
 ---
