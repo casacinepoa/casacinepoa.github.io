@@ -1,5 +1,5 @@
 ---
-title: Alem das redes de colaboracao
+title: Além das redes de colaboração
 permalink: /sobre/evento-2007
 layout: page
 ---
