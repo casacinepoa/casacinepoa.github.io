@@ -446,7 +446,7 @@ Rodrigo Leite Alves
 
 **HISTÓRICO**  
 
-Filmado em Porto Alegre, de 08/jun a 10/jul/2026.\
+Filmado em Porto Alegre, de 08/jun a 10/jul/2025.\
 Montado em Avid, de julho de 2025 até março de 2026.\
 Mixagem final na JLS (São Paulo) em 10/abr, matriz DCP aprovada em 06/jun/2026.\
 Pré-estreia no Cine Bourbon, Porto Alegre, 11/ago/2026.
