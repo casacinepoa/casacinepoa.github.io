@@ -34,7 +34,8 @@ Nada menos que 54 diretores gaúchos estrearam nestes quinze anos, o que dá mai
 Porto Alegre, segunda metade dos anos 90: o balanço se fecha, as perspectivas se confundem. Cinema e vídeo não existem mais, a não ser como formatos específicos e não-autônomos da linguagem audiovisual, que inclui também a televisão, a publicidade, o clipe, o vídeo-game, etc. No entanto, continuamos falando em cinema, e pior: em cinema gaúcho. Porque continuamos procurando, ao contrário do que os rumos da indústria transnacional nos sugerem, uma forma de expressão audiovisual que tenha um pouco mais de durabilidade, que seja vista por menos pessoas mas durante um período maior, que seja um pouco mais difícil de fazer e (esperamos) não tão fácil de ser vista. E porque ainda teimamos em acreditar, ao contrário do que este estado com meios de comunicação cada vez mais monopolizados nos demonstra, que nós gaúchos-portoalegrenses temos algo a dizer sobre este cinema, sobre este momento, sobre este pedaço de mundo.
 
 FILMES PRODUZIDOS NO RS ENTRE 1980-95,\
-SEGUNDO O ANO E A FONTE PRINCIPAL DE RECURSOS
+SEGUNDO O ANO E A FONTE PRINCIPAL DE RECURSOS\
+*(MUNicipais, ESTaduais, FEDerais, do EXTerior ou INDependentes)*
 
 ![](/uploads/tabela-filmes-rs.jpg)
 
