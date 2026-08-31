@@ -1,6 +1,6 @@
 ---
 date: 2026-08-04 21:10:00
-image: /uploads/mpz-trio-ilha.jpg
+image: /uploads/mpz-rindo.jpg
 title: MUITO PRAZER está nos cinemas
 link: https://youtu.be/Ob5KS67s5zA
 ---
