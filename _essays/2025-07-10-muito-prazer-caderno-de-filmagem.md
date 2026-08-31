@@ -6,6 +6,6 @@ category: Roteiros
 file: /uploads/muito-prazer-cad.pdf
 date: 2025-07-10 16:00:00
 ---
-da Assistente de Direção\
+Caderno da Assistente de Direção\
 Laura Mansur\
 10/07/2025
