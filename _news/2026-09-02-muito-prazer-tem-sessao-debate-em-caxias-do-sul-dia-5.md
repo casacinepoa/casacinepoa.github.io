@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MUITO PRAZER tem sessao-debate em Caxias do Sul dia 5
+title: MUITO PRAZER tem sessão-debate em Caxias do Sul dia 5
 date: 2026-09-02 16:00:00
 ---
 ![](/uploads/mpz-boia.jpg)
