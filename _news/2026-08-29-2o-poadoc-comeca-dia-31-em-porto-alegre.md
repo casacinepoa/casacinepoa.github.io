@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2o Poadoc começa dia 31 em Porto Alegre
+title: 2º Poadoc começa dia 31 em Porto Alegre
 date: 2026-08-29 16:00:00
 ---
 ![](/uploads/poadoc-2026.jpg)
