@@ -65,6 +65,11 @@ details:
       **Inácio Araujo, [Folha de São Paulo, 24/08/2026](https://www1.folha.uol.com.br/ilustrada/2026/08/muito-prazer-acerta-ao-falar-de-amor-e-sexo-hoje-com-humor-suave-e-sutil.shtml)**
 
 
+      "A ambientação num motel, aliada à necessidade do par central de encontrar soluções criativas para fazê-lo dar lucro, é um terreno propício para o diretor exercer um de seus talentos mais notáveis, o de pensar de modo lúdico-didático a própria linguagem audiovisual. (...)  Em MUITO PRAZER, a brincadeira envolve questões tremendamente atuais, como a indústria pornô na internet, a inteligência artificial, os canais tecnológicos abertos para expressão e difusão de todos os desejos, fetiches e perversões sexuais. A infinita fantasia humana e as formas continuamente renovadas de buscar satisfazê-la."\
+
+      **José Geraldo Couto, [Revista Lume, 03/09/2026](https://revistalume.com.br/muito-prazer-de-jorge-furtado/)**
+
+
       "Lembro-me bem de um casal que costumava alugar a Suíte Egípcia não para transar, mas para ver filmes de Jorge Furtado! Que fantasia estranha! Assim eu aprendi que, na obra do Jorge, a comédia sempre se presta a colocar em xeque padrões de comportamento e formas de se lidar com a lógica capitalista. Nesse seu filme, ele trata também das alianças que se formam para atingir certos objetivos e da discussão ética em torno desses objetivos."\
 
       **Carlos Alberto Mattos, [blog, 27/08/2026](https://carmattos.com/2026/08/27/motel-desatino/)**
