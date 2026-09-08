@@ -3,6 +3,8 @@ layout: post
 title: Novo filme de Ana Luiza Azevedo estará no Festival do Rio
 date: 2026-09-08 16:43:00
 ---
+![](/uploads/medley-claq.jpg)
+
 *\[A atriz Mel Maia com a claquete de MEDLEY, direção de Ana Luiza Azevedo]*
 
 Baseado na obra de Keka Reis "Medley, ou os dias em que aprendi a voar", MEDLEY foi rodado no Rio de Janeiro em novembro-dezembro de 2024. Dirigido por Ana Luiza Azevedo, o filme é uma produção da Panorâmica Cinema. No elenco, Mel Maia, Guthierry Sotero, Alana Cabral e André Ramiro, com participações especiais de Mariana Lima e Leona Cavalli.
@@ -309,3 +311,7 @@ Mostra Expectativa
 
 * "Elefantes na Névoa" ('Elephants in the Fog'), de Abinash Bikram Shah - Alemanha, Brasil, França, Nepal, Noruega
 * "Furies", de Rami Kodeih - Brasil, Líbano
+
+  ![]()
+
+  ![]()
