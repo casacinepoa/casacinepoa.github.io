@@ -34,7 +34,7 @@ Dia D na Boêmia: dai-me o Band-aid.
 
 Ela, barrete brocado da cor beterraba, lê.
 
-Fé na musa? Aí tá: Katia, a Suman, é f...
+Fia, né? Traz a fé e faz arte naif.
 
 Gol bonito passa se pesas sapoti no blog.
 
@@ -78,7 +78,7 @@ Zarpa. E, mal o bar aparece, tecer a parábola me apraz.
 
 - - -
 
-Há mais semelhanças entre a palavra "palavra" e a palavra "coisa"\
-Do que entre a palavra e a coisa\
-Palavra é palavra, seja "palavra" ou "coisa"\
-Mas coisa é outra coisa
+*Há mais semelhanças entre a palavra "palavra" e a palavra "coisa"*\
+*Do que entre a palavra e a coisa:*\
+*Palavra é palavra, seja "palavra" ou "coisa",*\
+*Mas coisa é outra coisa.*
