@@ -107,5 +107,22 @@ details:
       * [IMDb](https://www.imdb.com/pt/title/tt37547379)
       * Portal do Cinema RS (EM BREVE)
       * [Letterboxd](https://letterboxd.com/film/muito-prazer-2026/)
+  - title: FOTOS
+    content: >-
+      [Pré-Estreia em Porto
+      Alegre](https://drive.google.com/drive/folders/1Q0CdqqZq635XGkVGGZkP_LUbPzp8p71C)
+      (11/08)  
+
+      Local: Cinesystem Bourbon Country  
+
+      Crédito: Lucélis Bertoletti  
+
+      \
+
+      [Pré-Estreia no Rio de Janeiro](https://drive.google.com/drive/folders/190SIeLGfRBvkLUcx5HKDA7mmoOw1ujPx) (26/08)  
+
+      Local: Kinoplex Shopping Leblon  
+
+      Crédito: Roberto Filho
 ---
 Rubem, um motorista de aplicativo sem perspectivas, recebe uma herança incomum e inesperada: o Motel Pérola, um empreendimento decadente num prédio em ruínas. No local, ele conhece Grace, uma ex-funcionária que continuou morando em uma das suítes depois do fechamento do estabelecimento. Sem conseguir se desfazer do imóvel e pressionados pelas dívidas, os dois decidem tentar reabrir o negócio. Com a ajuda de Nalva, uma jovem que domina as ferramentas da internet, o trio tenta encontrar uma maneira de fazer essa empreitada dar certo.
