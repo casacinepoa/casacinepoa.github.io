@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por que a palavra palindromo nao e um palindromo
+title: Por que a palavra palíndromo não é um palíndromo
 author: giba
 date: 2026-09-08 22:09:00
 ---
