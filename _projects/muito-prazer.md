@@ -13,7 +13,7 @@ details:
     content: |-
       **Direção**: Jorge Furtado
 
-      **Roteiro**: Jorge Furtado
+      **Roteiro**: Jorge Furtado\
       **Produção executiva**: Nora Goulart\
       **Direção de fotografia**: Lívia Pasqual\
       **Direção de arte**: Fiapo Barth e Dayane Paz\
