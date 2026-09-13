@@ -3,11 +3,10 @@ layout: post
 title: MUITO PRAZER tem sessão-debate em Caxias do Sul dia 5
 date: 2026-09-02 16:00:00
 ---
-![](/uploads/mpz-boia.jpg)
+![](/uploads/mpz-triofinal.jpg)
 
 **NOVO LONGA DE JORGE FURTADO, "MUITO PRAZER" TERÁ SESSÃO-DEBATE COM A PRESENÇA DO CINEASTA, EM CAXIAS DO SUL**\
 [O Pioneiro (Caxias do Sul, 31/08/2026 | 13:15](https://gauchazh.clicrbs.com.br/pioneiro/cultura-e-lazer/noticia/2026/08/novo-longa-de-jorge-furtado-muito-prazer-tera-sessao-debate-com-a-presenca-do-cineasta-em-caxias-do-sul-cmthfpo5b005b0165fbkwlve3.html)
-
 
 / Será neste sábado, na Sala de Cinema Ulysses Geremia, encerrando ciclo de encontros para promoção do filme em cidades brasileiras
 
