@@ -56,7 +56,7 @@ O azar? Ótimo: se cito idiotices, omito razão.
 
 Paradoxo retrô: passaporte roxo dá rap?
 
-QI em ironia, aí no rim, é IQ.
+QI é auê: só nos EUA é IQ.
 
 Ralo, né, dar o rabo no bar? Ora, dê no lar!
 
