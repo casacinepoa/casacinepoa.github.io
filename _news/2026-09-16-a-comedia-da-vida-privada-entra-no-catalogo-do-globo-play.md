@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A comedia da vida privada entra no catalogo do Globo Play  "
+title: '"A comédia da vida privada" entra no catálogo do Globo Play  '
 date: 2026-09-16 11:23:00
 ---
 ![](/uploads/anchiet-choco.jpg)
