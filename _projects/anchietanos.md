@@ -1,7 +1,7 @@
 ---
 title: Anchietanos
 tech_specs:
-  - (1997, SD, 50 min, 1.33:1)
+  - (1997, SD, 51 min, 1.33:1)
   - Episódio n° 19 da série "Comédias da vida privada" da TV Globo.
 category: Médias-metragens
 image: /uploads/anchiet-ilha.jpg
