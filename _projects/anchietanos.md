@@ -6,6 +6,9 @@ tech_specs:
 category: Médias-metragens
 image: /uploads/anch-imgr.jpg
 image_credits: "Foto por Alex Sernambi: Matheus Nachtergaele e Murilo Benício"
+where_to_watch:
+  - title: Globo Play
+    url: https://globoplay.globo.com/v/14929762
 details:
   - title: Créditos
     content: |-
