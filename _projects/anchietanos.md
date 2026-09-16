@@ -4,7 +4,7 @@ tech_specs:
   - (1997, SD, 50 min, 1.33:1)
   - Episódio n° 19 da série "Comédias da vida privada" da TV Globo.
 category: Médias-metragens
-image: /uploads/anch-imgr.jpg
+image: /uploads/anchiet-ilha.jpg
 image_credits: "Foto por Alex Sernambi: Matheus Nachtergaele e Murilo Benício"
 where_to_watch:
   - title: Globo Play
