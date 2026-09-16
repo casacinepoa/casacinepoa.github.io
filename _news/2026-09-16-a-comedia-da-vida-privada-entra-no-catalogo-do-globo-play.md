@@ -11,7 +11,7 @@ A série, inspirada em crônicas e personagens de Luis Fernando Verissimo, foi s
 
 Destaque para o episódio [ANCHIETANOS](https://globoplay.globo.com/v/14929762), de julho de 1997, que foi a primeira produção da Casa de Cinema de Porto Alegre para a Globo, com direção de Jorge Furtado, e roteiro dele com Carlos Gerbase e Giba Assis Brasil. Produção de Nora Goulart e Luciana Tomasi. Fotografia de Alex Sernambi, Direção de arte de Fiapo Barth.\
 \
-No elenco, Murilo Benício, Andrea Beltrão, Matheus Nachtergaele, Bruno Garcia, Marco Nanini e Luis Fernando Guimarães, com participações especiais de Irene Brietzke, Leverdógil de Freitas, Mirna Sritzer, Ciça Reckziegel, Lurdes Eloy, Lila Vieira, Zé Vitor Castiel, Antônio Carlos Falcão, Débora Finochiaro e Carlos Cunha Filho.\
+No elenco, Murilo Benício, Andrea Beltrão, Matheus Nachtergaele, Bruno Garcia, Marco Nanini e Luis Fernando Guimarães, com participações especiais de Irene Brietzke, Leverdógil de Freitas, Mirna Sritzer, Ciça Reckziegel, Lurdes Eloy, Lila Vieira, José Victor Castiel, Antônio Carlos Falcão, Deborah Finocchiaro e Carlos Cunha Filho.\
 \
 Mais detalhes sobre o episódio [aqui.](https://www.casacinepoa.com.br/filmes/anchietanos/)
 
