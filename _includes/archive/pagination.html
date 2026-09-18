@@ -13,15 +13,15 @@
     {%- endif -%}
 {% endif %}
 
-{%- if page.pagination.collection == "news" or page.collection == "news" -%}
+{%- if page.category == "Notícias" or page.pagination.category == "Notícias" -%}
   <a class="nav_link archive_link" href="{{ site.news_archive_path | relative_url }}">
     Visite o <strong>Arquivo de Notícias</strong>
   </a>
-{%- elsif page.pagination.collection == "essays" or page.collection == "essays" or page.layout == "archive" -%}
+{%- elsif page.category == "Textos" or page.pagination.category == "Textos" or page.layout == "archive" -%}
   <a class="nav_link archive_link" href="{{ site.essays_archive_path | relative_url }}">
     Visite o <strong>Arquivo de Textos</strong>
   </a>
-{%- elsif page.pagination.collection == "posts" or page.collection == "posts" or page.layout == "author" -%}
+{%- elsif page.category == "Blog" or page.pagination.category == "Blog" or page.layout == "author" -%}
   <a class="nav_link archive_link" href="{{ site.archive_path | relative_url }}">
     Visite o <strong>Arquivo do Blog</strong>
   </a>

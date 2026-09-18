@@ -26,7 +26,7 @@ layout: default
   </h2>
 
   <div class="posts_list">
-    {%- assign news = site.news | reverse -%}
+    {%- assign news = site.posts | where: "category", "Notícias" -%}
 
     {%- for post in news limit: 4 -%}
       {%- include home/post.html -%}
@@ -44,7 +44,8 @@ layout: default
   </h2>
 
   <div class="posts_list">
-    {%- for post in site.posts limit: 4 -%}
+    {%- assign blog_posts = site.posts | where: "category", "Blog" -%}
+    {%- for post in blog_posts limit: 4 -%}
       {%- include home/post.html -%}
     {%- endfor -%}
   </div>
