@@ -208,11 +208,6 @@ content:
       - name: body
         label: Conteúdo
         type: rich-text
-      - name: author
-        label: Autor
-        type: string
-        hidden: true
-        default: casa
       - name: tags
         label: Categoria
         type: select

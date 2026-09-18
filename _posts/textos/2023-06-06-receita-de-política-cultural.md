@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RECEITA DE POLÍTICA CULTURAL
-author: casa
 tags:
   - Textos sobre Cinema
 date: 2001-02-10 21:11:18

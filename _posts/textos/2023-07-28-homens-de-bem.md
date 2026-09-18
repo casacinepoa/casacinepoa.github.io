@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Homens de bem - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/homens-de-bem-rot.pdf

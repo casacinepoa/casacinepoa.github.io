@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Virgínia e Adelaide - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/virginia-e-adelaide-rot.pdf

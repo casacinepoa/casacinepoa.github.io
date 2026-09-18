@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Angelo anda sumido - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/angelo-anda-sumido-rot.pdf

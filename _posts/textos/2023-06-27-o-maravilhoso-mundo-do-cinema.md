@@ -1,7 +1,6 @@
 ---
 layout: post
 title: O MARAVILHOSO MUNDO DO CINEMA
-author: casa
 tags:
   - Textos sobre Cinema
 date: 1999-07-05 18:05:50

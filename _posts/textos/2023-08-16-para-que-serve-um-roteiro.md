@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PARA QUE SERVE UM ROTEIRO
-author: casa
 tags:
   - Textos sobre Cinema
 file: ""

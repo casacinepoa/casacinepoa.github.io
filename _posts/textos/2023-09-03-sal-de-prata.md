@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sal de prata - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/sal-de-prata-rot.pdf

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: O RELINCHANTE RENASCIMENTO DO LONGA-METRAGEM GAÚCHO
-author: casa
 tags:
   - Textos sobre Cinema
 date: 1997-09-15 20:54:47

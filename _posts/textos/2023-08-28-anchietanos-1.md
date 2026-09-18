@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Anchietanos - roteiro 5
-author: casa
 tags:
   - Roteiros
 file: /uploads/anchietanos-rot2.pdf

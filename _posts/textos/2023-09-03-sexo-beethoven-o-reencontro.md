@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sexo & Beethoven, o reencontro - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/sexo-e-beethoven-rot.pdf

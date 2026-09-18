@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Doce de mãe (telefilme) - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/doce-de-mae-rot.pdf

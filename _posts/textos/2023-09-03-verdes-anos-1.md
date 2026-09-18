@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Verdes anos - roteiro 2
-author: casa
 tags:
   - Roteiros
 file: /uploads/verdes-anos-rot2.pdf

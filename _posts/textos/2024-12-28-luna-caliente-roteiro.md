@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Luna caliente - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/luna-caliente-rot.pdf

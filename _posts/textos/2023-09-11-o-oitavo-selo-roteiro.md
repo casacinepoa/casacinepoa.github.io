@@ -1,7 +1,6 @@
 ---
 layout: post
 title: O oitavo selo - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/o-oitavo-selo-rot.pdf

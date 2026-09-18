@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Meia encarnada dura de sangue - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/meia-encarnada-dura-de-sangue-rot.pdf

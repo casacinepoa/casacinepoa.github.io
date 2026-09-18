@@ -1,7 +1,6 @@
 ---
 layout: post
 title: O padeiro e as revoluções - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/o-padeiro-e-as-revolucoes-rot.pdf

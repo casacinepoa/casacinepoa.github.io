@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANOTAÇÕES PARA UM DEBATE SOBRE MEMÓRIA, CINEMA E PSICANÁLISE
-author: casa
 tags:
   - Textos sobre Cinema
 date: 2006-04-26 00:09:05

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Quem é Primavera das Neves - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/primavera-rot.pdf

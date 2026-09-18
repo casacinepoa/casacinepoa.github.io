@@ -278,10 +278,6 @@ collections:
       - label: Conteúdo
         name: body
         widget: markdown
-      - label: Autor
-        name: author
-        widget: hidden
-        default: casa
       - label: Categoria
         name: tags
         widget: select

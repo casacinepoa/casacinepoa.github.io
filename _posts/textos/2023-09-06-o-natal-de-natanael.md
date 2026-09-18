@@ -1,7 +1,6 @@
 ---
 layout: post
 title: O natal de Natanael - letras
-author: casa
 tags:
   - Roteiros
 file: /uploads/o-natal-de-natanael-letras.pdf

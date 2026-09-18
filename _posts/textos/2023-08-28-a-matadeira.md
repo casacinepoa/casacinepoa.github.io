@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A matadeira - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/a-matadeira-rot.pdf

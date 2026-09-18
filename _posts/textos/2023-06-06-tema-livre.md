@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TEMA LIVRE
-author: casa
 tags:
   - Textos sobre Cinema
 date: 2002-10-28 21:13:59

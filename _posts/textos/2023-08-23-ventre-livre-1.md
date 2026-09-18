@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ventre livre - roteiro 12
-author: casa
 tags:
   - Roteiros
 file: /uploads/ventre-livre-rot.pdf

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: E se cale - poema
-author: casa
 tags:
   - Roteiros
 file: /uploads/e-se-cale-rot.pdf

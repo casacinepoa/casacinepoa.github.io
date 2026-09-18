@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EU DO MEU LADO APRENDENDO A SER LOUCO
-author: casa
 tags:
   - Textos sobre Cinema
 date: 1998-06-05 17:35:22

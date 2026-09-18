@@ -1,7 +1,7 @@
 <aside class="blog_sidebar">
   {%- if page.category == "Notícias" or page.pagination.category == "Notícias" -%}
 
-    {%- assign years = site.posts | where: "category", "Notícias" | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
+    {%- assign years = site.posts | where: "category", "Notícias" | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Arquivo</h4>
@@ -17,7 +17,8 @@
       </div>
     </div>
   {%- elsif page.category == "Blog" or page.pagination.category == "Blog" or page.layout == "author" -%}
-    {%- assign authors = site.posts | group_by: "author" -%}
+    {%- assign blog_posts = site.posts | where: "category", "Blog" -%}
+    {%- assign authors = blog_posts | group_by: "author" -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Publicado por</h4>
@@ -35,7 +36,7 @@
       </div>
     </div>
 
-    {%- assign years = site.posts | group_by_exp: "item", "item.date | date: '%Y'" -%}
+    {%- assign years = blog_posts | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Arquivo</h4>
@@ -69,7 +70,7 @@
       </div>
     </div>
 
-    {%- assign years = essays | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
+    {%- assign years = essays | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Arquivo</h4>

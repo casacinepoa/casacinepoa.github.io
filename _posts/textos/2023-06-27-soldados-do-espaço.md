@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLDADOS DO ESPAÇO
-author: casa
 tags:
   - Textos sobre Cinema
 date: 1997-12-05 19:29:05

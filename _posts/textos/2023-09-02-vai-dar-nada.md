@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Vai dar nada - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/vai-dar-nada-rot.pdf

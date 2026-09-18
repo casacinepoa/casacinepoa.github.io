@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A HISTÓRIA DO CAVALEIRO JORGE ANTES DE PISAR NO TOMATE
-author: casa
 tags:
   - Textos sobre Cinema
 date: 1998-07-05 17:50:22

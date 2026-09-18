@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JABOR X ANCINAV
-author: casa
 tags:
   - Textos sobre Cinema
 date: 2005-01-02 09:08:44

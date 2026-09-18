@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fuinha & Caçapava - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/fuinha-e-cacapava-rot.pdf

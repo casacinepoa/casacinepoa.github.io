@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Saneamento básico, o filme - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/saneamento-basico-o-filme-rot.pdf

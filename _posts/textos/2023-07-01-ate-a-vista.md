@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Até a Vista - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/ate-a-vista-rot.pdf

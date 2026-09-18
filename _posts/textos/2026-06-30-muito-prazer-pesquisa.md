@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Muito prazer - pesquisa
-author: casa
 tags:
   - Roteiros
 file: /uploads/muito-prazer-pesq.pdf

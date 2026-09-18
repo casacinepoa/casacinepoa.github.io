@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Trampolim - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/trampolim-rot.pdf

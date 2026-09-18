@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Antes que o mundo acabe - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/antes-que-o-mundo-acabe-rot.pdf

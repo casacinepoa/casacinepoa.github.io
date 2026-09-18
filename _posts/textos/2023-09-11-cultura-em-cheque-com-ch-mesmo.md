@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CULTURA EM CHEQUE, COM CH MESMO
-author: casa
 tags:
   - Textos sobre Cinema
 date: 2003-05-05 16:34:17

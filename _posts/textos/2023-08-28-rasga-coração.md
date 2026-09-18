@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rasga coração - roteiro
-author: casa
 tags:
   - Roteiros
 file: /uploads/rasga-coracao-rot.pdf

@@ -3,9 +3,9 @@ layout: page
 ---
 
 {%- if page.category -%}
-  {% assign collection = site.posts | where: "category", page.category | reverse %}
+  {% assign collection = site.posts | where: "category", page.category %}
 {% else %}
-  {% assign collection = site.posts | reverse %}
+  {% assign collection = site.posts %}
 {% endif %}
 {{ content }}
 

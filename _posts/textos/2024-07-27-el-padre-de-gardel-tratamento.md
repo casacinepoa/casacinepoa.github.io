@@ -1,7 +1,6 @@
 ---
 layout: post
 title: El padre de Gardel - tratamento
-author: casa
 tags:
   - Roteiros
 file: /uploads/padre-de-gardel-trat.pdf

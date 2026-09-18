@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANOS OITENTA, NOVENTA E BEM DEPOIS
-author: casa
 tags:
   - Textos sobre Cinema
 date: 1995-05-15 23:58:36
