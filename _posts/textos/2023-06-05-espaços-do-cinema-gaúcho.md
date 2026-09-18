@@ -2,7 +2,8 @@
 layout: post
 title: ESPAÇOS DO CINEMA GAÚCHO
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1993-06-25 00:17:54
 ---
 por Giba Assis Brasil\

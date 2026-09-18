@@ -2,7 +2,8 @@
 layout: post
 title: Ventre livre - roteiro 7
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/ventre-livre-pre-rot.pdf
 date: 1993-11-02 17:12:26
 ---

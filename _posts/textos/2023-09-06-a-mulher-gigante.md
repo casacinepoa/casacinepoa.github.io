@@ -2,7 +2,8 @@
 layout: post
 title: A mulher gigante - letras
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/a-mulher-gigante-letras.pdf
 date: 2006-08-21 11:58:55
 ---

@@ -1,7 +1,7 @@
 <aside class="blog_sidebar">
-  {%- if page.pagination.collection == "news" or page.collection == "news" -%}
+  {%- if page.category == "Notícias" or page.pagination.category == "Notícias" -%}
 
-    {%- assign years = site.news | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
+    {%- assign years = site.posts | where: "category", "Notícias" | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Arquivo</h4>
@@ -16,7 +16,7 @@
         </ul>
       </div>
     </div>
-  {%- elsif page.pagination.collection == "posts" or page.collection == "posts" or page.layout == "author" -%}
+  {%- elsif page.category == "Blog" or page.pagination.category == "Blog" or page.layout == "author" -%}
     {%- assign authors = site.posts | group_by: "author" -%}
 
     <div class="sidebar_widget">
@@ -51,24 +51,25 @@
       </div>
     </div>
   {%- else -%}
-    {%- assign categories = site.essays | group_by: "category" | reverse -%}
+    {%- assign essays = site.posts | where: "category", "Textos" -%}
+    {%- assign subcats = essays | group_by_exp: "item", "item.tags[0]" | reverse -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Categorias</h4>
 
       <div class="widget_content">
         <ul class="archive_list">
-          {%- for category in categories -%}
+          {%- for subcat in subcats -%}
 
             <li>
-              <a href="{{ category.name | slugify | prepend: "/textos/" | relative_url }}">{{ category.name }}</a>
+              <a href="{{ subcat.name | slugify | prepend: "/textos/" | relative_url }}">{{ subcat.name }}</a>
             </li>
           {%- endfor -%}
         </ul>
       </div>
     </div>
 
-    {%- assign years = site.essays | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
+    {%- assign years = essays | group_by_exp: "item", "item.date | date: '%Y'" | reverse -%}
 
     <div class="sidebar_widget">
       <h4 class="widget_title">Arquivo</h4>

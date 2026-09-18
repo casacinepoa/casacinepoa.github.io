@@ -2,7 +2,8 @@
 layout: post
 title: Dia de visita - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/dia-de-visita-rot.pdf
 date: 2001-06-10 15:39:27
 ---

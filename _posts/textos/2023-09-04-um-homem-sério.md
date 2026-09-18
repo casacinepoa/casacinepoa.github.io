@@ -2,7 +2,8 @@
 layout: post
 title: Um homem sério - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/um-homem-serio-rot.pdf
 date: 1996-02-12 20:47:34
 ---

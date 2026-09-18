@@ -2,7 +2,8 @@
 layout: post
 title: Bicho monstro - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/bicho-monstro-rot.pdf
 date: 2022-04-07 16:00:00
 ---

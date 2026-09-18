@@ -2,7 +2,8 @@
 layout: post
 title: Meu tio matou um cara - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/meu-tio-matou-um-cara-rot.pdf
 date: 2004-04-08 16:57:16
 ---

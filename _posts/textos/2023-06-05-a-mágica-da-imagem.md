@@ -2,7 +2,8 @@
 layout: post
 title: A MÁGICA DA IMAGEM
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1995-12-15 23:52:54
 ---
 por Jorge Furtado\

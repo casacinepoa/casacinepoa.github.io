@@ -2,7 +2,8 @@
 layout: post
 title: CRITÉRIOS PARA QUEM PRECISA DE CRITÉRIOS
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 2003-05-15 00:16:04
 ---
 por Jorge Furtado\

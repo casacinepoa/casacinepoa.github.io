@@ -2,7 +2,8 @@
 layout: post
 title: Muito prazer - pesquisa
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/muito-prazer-pesq.pdf
 date: 2026-06-30 16:00:00
 ---

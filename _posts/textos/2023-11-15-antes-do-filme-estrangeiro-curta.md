@@ -2,7 +2,8 @@
 layout: post
 title: ANTES DO FILME ESTRANGEIRO, CURTA
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1986-06-30 19:08:47
 ---
 G﻿iba Assis Brasil\

@@ -2,7 +2,8 @@
 layout: post
 title: OS SUPEROITISTAS
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1982-11-05 19:33:39
 ---
 *por Giba Assis Brasil*\

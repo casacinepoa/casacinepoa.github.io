@@ -2,7 +2,8 @@
 layout: post
 title: Coisa na roda - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/coisa-na-roda-rot.pdf
 date: 1981-06-01 17:20:43
 ---

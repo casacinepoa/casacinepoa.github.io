@@ -2,7 +2,8 @@
 layout: post
 title: Fraternidade - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/fraternidade-rot.pdf
 date: 2004-11-30 22:57:16
 ---

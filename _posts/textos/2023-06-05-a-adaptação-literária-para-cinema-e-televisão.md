@@ -2,7 +2,8 @@
 layout: post
 title: A ADAPTAÇÃO LITERÁRIA PARA CINEMA E TELEVISÃO
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 2003-08-29 23:45:05
 ---
 por Jorge Furtado\

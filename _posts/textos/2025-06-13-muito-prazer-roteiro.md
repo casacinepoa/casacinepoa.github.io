@@ -2,7 +2,8 @@
 layout: post
 title: Muito prazer - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/muito-prazer-rot.pdf
 date: 2025-06-13 16:00:00
 ---

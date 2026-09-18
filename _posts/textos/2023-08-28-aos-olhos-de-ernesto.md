@@ -2,7 +2,8 @@
 layout: post
 title: Aos olhos de Ernesto - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/aos-olhos-de-ernesto-rot.pdf
 date: 2018-09-27 22:28:19
 ---

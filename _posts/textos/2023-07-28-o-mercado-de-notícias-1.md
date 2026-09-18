@@ -2,7 +2,8 @@
 layout: post
 title: O mercado de notícias - texto final
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/o-mercado-de-noticias-txf.pdf
 date: 2013-10-22 23:09:12
 ---

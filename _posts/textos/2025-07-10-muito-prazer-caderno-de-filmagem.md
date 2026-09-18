@@ -2,7 +2,8 @@
 layout: post
 title: Muito prazer - caderno de filmagem
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/muito-prazer-cad.pdf
 date: 2025-07-10 16:00:00
 ---

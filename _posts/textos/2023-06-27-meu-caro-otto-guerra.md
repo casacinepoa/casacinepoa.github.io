@@ -2,7 +2,8 @@
 layout: post
 title: MEU CARO OTTO GUERRA
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1998-06-15 18:09:10
 ---
 *por Jorge Furtado*\

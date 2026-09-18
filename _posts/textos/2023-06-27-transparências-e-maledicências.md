@@ -2,7 +2,8 @@
 layout: post
 title: TRANSPARÊNCIAS E MALEDICÊNCIAS
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1998-12-05 19:52:00
 ---
 *por Carlos Gerbase*\

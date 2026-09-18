@@ -2,7 +2,8 @@
 layout: post
 title: GRAUS DE REALIDADE NO AUDIOVISUAL
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 2002-08-27 20:31:33
 ---
 por Giba Assis Brasil\

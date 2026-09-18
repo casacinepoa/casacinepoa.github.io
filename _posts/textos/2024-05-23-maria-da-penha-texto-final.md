@@ -2,7 +2,8 @@
 layout: post
 title: Maria da Penha - texto final
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/maria-da-penha-txf.pdf
 date: 2011-09-25 17:13:48
 ---

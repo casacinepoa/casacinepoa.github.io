@@ -2,7 +2,8 @@
 layout: post
 title: O mentiroso - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/o-mentiroso-rot.pdf
 date: 1986-08-31 19:06:43
 ---

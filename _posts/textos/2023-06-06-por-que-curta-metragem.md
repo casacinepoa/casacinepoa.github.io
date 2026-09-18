@@ -2,7 +2,8 @@
 layout: post
 title: POR QUE CURTA-METRAGEM?
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 2001-09-01 21:07:31
 ---
 por Giba Assis Brasil\

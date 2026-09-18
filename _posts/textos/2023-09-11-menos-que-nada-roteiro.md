@@ -2,7 +2,8 @@
 layout: post
 title: Menos que nada - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/menos-que-nada-rot.pdf
 date: 2010-11-17 23:04:03
 ---

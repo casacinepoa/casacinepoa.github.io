@@ -2,7 +2,8 @@
 layout: post
 title: O comprador de fazendas - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/o-comprador-de-fazendas-rot.pdf
 date: 2001-03-21 17:09:01
 ---

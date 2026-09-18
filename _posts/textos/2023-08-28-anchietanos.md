@@ -2,7 +2,8 @@
 layout: post
 title: Anchietanos - roteiro 1
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/anchietanos-rot1.pdf
 date: 1993-08-19 15:02:06
 ---

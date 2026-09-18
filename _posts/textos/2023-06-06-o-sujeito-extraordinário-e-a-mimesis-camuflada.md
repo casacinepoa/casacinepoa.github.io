@@ -2,7 +2,8 @@
 layout: post
 title: O SUJEITO EXTRAORDINÁRIO E A MIMESIS CAMUFLADA
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 2003-03-21 20:59:05
 ---
 O SUJEITO EXTRAORDINÁRIO E A MIMESIS CAMUFLADA:\

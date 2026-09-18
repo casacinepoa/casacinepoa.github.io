@@ -2,7 +2,8 @@
 layout: post
 title: OS MAGRÍSSIMOS ESTÃO CHEGANDO!
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1998-02-24 18:02:51
 ---
 *por Carlos Gerbase*\

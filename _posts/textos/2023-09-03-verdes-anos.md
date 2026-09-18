@@ -2,7 +2,8 @@
 layout: post
 title: Verdes anos - roteiro 1
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/verdes-anos-rot1.pdf
 date: 1983-07-30 16:14:51
 ---

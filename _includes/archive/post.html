@@ -31,7 +31,7 @@
     </div>
   {%- endunless -%}
 
-  {% if post.category == "Roteiros" %}
+  {% if post.tags contains "Roteiros" %}
     <div class="post_content">
       {{ post.content | markdownify }}
     </div>

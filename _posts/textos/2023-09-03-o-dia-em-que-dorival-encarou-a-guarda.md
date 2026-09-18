@@ -2,7 +2,8 @@
 layout: post
 title: O dia em que Dorival encarou a guarda - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/dorival-rot.pdf
 date: 1985-11-24 16:46:07
 ---

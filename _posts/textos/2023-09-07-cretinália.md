@@ -2,7 +2,8 @@
 layout: post
 title: Cretinália - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/cretinalia-rot.pdf
 date: 2020-08-03 18:09:37
 ---

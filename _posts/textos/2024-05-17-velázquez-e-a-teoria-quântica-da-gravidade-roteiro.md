@@ -2,7 +2,8 @@
 layout: post
 title: Velázquez e a teoria quântica da gravidade - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/velazquez-rot.pdf
 date: 2011-04-11 18:27:50
 ---

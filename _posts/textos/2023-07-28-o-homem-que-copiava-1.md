@@ -2,7 +2,8 @@
 layout: post
 title: O homem que copiava - texto final
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/o-homem-que-copiava-txf.pdf
 date: 2003-03-09 22:28:54
 ---

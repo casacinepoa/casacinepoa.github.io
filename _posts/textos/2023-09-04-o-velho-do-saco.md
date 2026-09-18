@@ -2,7 +2,8 @@
 layout: post
 title: O velho do saco - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/o-velho-do-saco-rot.pdf
 date: 1997-09-24 22:49:26
 ---

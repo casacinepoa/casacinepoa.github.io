@@ -2,7 +2,8 @@
 layout: post
 title: ALUGA-SE O CINEMA BRASILEIRO
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1995-04-20 23:56:18
 ---
 por Carlos Gerbase\

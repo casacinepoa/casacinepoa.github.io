@@ -2,7 +2,8 @@
 layout: post
 title: Em frente da lei tem um guarda - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/em-frente-da-lei-rot.pdf
 date: 2000-03-12 12:36:41
 ---

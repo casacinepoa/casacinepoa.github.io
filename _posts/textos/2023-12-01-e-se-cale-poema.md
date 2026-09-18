@@ -2,7 +2,8 @@
 layout: post
 title: E se cale - poema
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/e-se-cale-rot.pdf
 date: 2018-08-09 15:03:36
 ---

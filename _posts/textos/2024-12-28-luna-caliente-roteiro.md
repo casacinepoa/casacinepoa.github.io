@@ -2,7 +2,8 @@
 layout: post
 title: Luna caliente - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/luna-caliente-rot.pdf
 date: 1998-08-10 16:00:00
 ---

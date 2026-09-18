@@ -2,7 +2,8 @@
 layout: post
 title: A matadeira - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/a-matadeira-rot.pdf
 date: 1993-11-23 17:27:24
 ---

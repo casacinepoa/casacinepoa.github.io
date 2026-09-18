@@ -2,7 +2,8 @@
 layout: post
 title: Virgínia e Adelaide - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/virginia-e-adelaide-rot.pdf
 date: 2023-11-10 17:00:00
 ---

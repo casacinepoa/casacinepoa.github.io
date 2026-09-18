@@ -2,7 +2,8 @@
 layout: post
 title: PRAZER, CINEMA GAÚCHO
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1987-08-10 09:13:46
 ---
 **Giba Assis Brasil**\

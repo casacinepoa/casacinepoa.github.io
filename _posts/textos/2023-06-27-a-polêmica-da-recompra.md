@@ -2,7 +2,8 @@
 layout: post
 title: A POLÊMICA DA RECOMPRA
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1998-04-12 18:22:56
 ---
 *por Giba Assis Brasil*\

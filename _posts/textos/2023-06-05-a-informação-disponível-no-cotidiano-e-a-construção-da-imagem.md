@@ -2,7 +2,8 @@
 layout: post
 title: A INFORMAÇÃO DISPONÍVEL NO COTIDIANO E A CONSTRUÇÃO DA IMAGEM
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1995-06-23 23:50:49
 ---
 por Ana Luiza Azevedo

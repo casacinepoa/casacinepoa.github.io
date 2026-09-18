@@ -2,7 +2,8 @@
 layout: post
 title: O resto é silêncio - roteiro
 author: casa
-tags: Roteiros
+tags:
+  - Roteiros
 file: /uploads/o-resto-eh-silencio-rot.pdf
 date: 2005-06-19 16:57:21
 ---

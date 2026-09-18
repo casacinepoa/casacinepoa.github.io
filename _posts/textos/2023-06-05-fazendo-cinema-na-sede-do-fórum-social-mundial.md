@@ -2,7 +2,8 @@
 layout: post
 title: FAZENDO CINEMA NA SEDE DO FÓRUM SOCIAL MUNDIAL
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 2001-09-22 20:19:29
 ---
 por Luciana Tomasi\

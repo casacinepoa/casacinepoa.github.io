@@ -2,7 +2,8 @@
 layout: post
 title: TÉCNICAS DE ROTEIRO PARA CINEMA E TELEVISÃO E OS 500 ANOS DO BRASIL
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1999-06-09 19:59:58
 ---
 por Jorge Furtado\

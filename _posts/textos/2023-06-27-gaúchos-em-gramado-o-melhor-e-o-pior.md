@@ -2,7 +2,8 @@
 layout: post
 title: "GAÚCHOS EM GRAMADO: O MELHOR E O PIOR"
 author: casa
-tags: Textos sobre Cinema
+tags:
+  - Textos sobre Cinema
 date: 1999-08-16 17:42:04
 ---
 *por Jorge Furtado*\
