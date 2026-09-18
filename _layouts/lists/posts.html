@@ -2,10 +2,10 @@
 layout: page
 ---
 
-{%- if page.collection -%}
-  {% assign collection = site[page.collection] | reverse %}
+{%- if page.category -%}
+  {% assign collection = site.posts | where: "category", page.category | reverse %}
 {% else %}
-  {% assign collection = site.posts %}
+  {% assign collection = site.posts | reverse %}
 {% endif %}
 {{ content }}
 

@@ -2,7 +2,7 @@
 layout: lists/posts
 title: Arquivo de Textos
 permalink: "/textos/arquivo/"
-collection: essays
+category: Textos
 ---
 
-Existem **{{ site.essays | size }} textos** nesse arquivo.
+Existem **{{ site.posts | where: "category", "Textos" | size }} textos** nesse arquivo.

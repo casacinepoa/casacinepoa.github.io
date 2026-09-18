@@ -2,7 +2,7 @@
 layout: lists/posts
 title: Arquivo de Notícias
 permalink: "/noticias/arquivo/"
-collection: news
+category: Notícias
 ---
 
-Existem **{{ site.news | size }} notícias** nesse arquivo.
+Existem **{{ site.posts | where: "category", "Notícias" | size }} notícias** nesse arquivo.
