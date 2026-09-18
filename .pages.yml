@@ -26,6 +26,11 @@ content:
       - name: title
         label: Título
         type: string
+      - name: category
+        label: Categoria
+        type: string
+        hidden: true
+        default: "Blog"
       - name: body
         label: Conteúdo
         type: rich-text
@@ -127,7 +132,7 @@ content:
   - name: news
     label: Notícias
     type: collection
-    path: _news
+    path: _posts/noticias
     format: yaml-frontmatter
     filename: "{year}-{month}-{day}-{primary}.md"
     description: >-
@@ -146,6 +151,11 @@ content:
       - name: title
         label: Título
         type: string
+      - name: category
+        label: Categoria
+        type: string
+        hidden: true
+        default: "Notícias"
       - name: body
         label: Conteúdo
         type: rich-text
@@ -171,7 +181,7 @@ content:
   - name: essays
     label: Textos
     type: collection
-    path: _essays
+    path: _posts/textos
     format: yaml-frontmatter
     filename: "{year}-{month}-{day}-{primary}.md"
     description: >-
@@ -190,6 +200,11 @@ content:
       - name: title
         label: Título
         type: string
+      - name: category
+        label: Categoria
+        type: string
+        hidden: true
+        default: "Textos"
       - name: body
         label: Conteúdo
         type: rich-text
@@ -198,9 +213,12 @@ content:
         type: string
         hidden: true
         default: casa
-      - name: category
+      - name: tags
         label: Categoria
         type: select
+        list:
+          min: 1
+          max: 1
         options:
           values:
             - { value: "Textos sobre Cinema", label: "Textos sobre Cinema" }
