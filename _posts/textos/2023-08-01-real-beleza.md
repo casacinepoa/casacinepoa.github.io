@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Real beleza - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/real-beleza-rot.pdf

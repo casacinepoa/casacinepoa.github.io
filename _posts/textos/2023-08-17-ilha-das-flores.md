@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ilha das Flores - roteiro 1
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/ilha-das-flores-rot-orig.pdf

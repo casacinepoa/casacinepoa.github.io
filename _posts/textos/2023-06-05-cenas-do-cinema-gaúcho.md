@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CENAS DO CINEMA GAÚCHO
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1990-04-10 00:13:26

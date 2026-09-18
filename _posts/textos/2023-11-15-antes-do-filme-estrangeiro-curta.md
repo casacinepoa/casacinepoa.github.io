@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ANTES DO FILME ESTRANGEIRO, CURTA
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1986-06-30 19:08:47

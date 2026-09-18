@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TAMBÉM É CARO, TAMBÉM É RUIM, E TAMBÉM É VOCÊ QUE PAGA
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1999-07-10 19:41:46

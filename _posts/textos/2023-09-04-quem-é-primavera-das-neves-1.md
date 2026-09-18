@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quem é Primavera das Neves - texto final
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/primavera-txf.pdf

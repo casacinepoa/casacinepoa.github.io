@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IR AO CINEMA, FAZER CINEMA
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1998-06-10 17:54:51

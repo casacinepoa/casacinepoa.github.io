@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coisa na roda - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/coisa-na-roda-rot.pdf

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quintana e as musas - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/quintana-e-as-musas-rot.pdf

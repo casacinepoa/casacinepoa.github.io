@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Esta não é a sua vida - texto final
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/esta-nao-eh-a-sua-vida-txf.pdf

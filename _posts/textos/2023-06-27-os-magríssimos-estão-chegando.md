@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OS MAGRÍSSIMOS ESTÃO CHEGANDO!
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1998-02-24 18:02:51

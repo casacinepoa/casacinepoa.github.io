@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O sanduíche - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/o-sanduiche-rot.pdf

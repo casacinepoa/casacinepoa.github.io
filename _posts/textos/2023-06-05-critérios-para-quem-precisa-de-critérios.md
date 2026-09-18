@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CRITÉRIOS PARA QUEM PRECISA DE CRITÉRIOS
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2003-05-15 00:16:04

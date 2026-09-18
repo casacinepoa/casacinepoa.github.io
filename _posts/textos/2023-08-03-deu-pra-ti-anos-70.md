@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deu pra ti anos 70 - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/deu-pra-ti-anos-70-rot.pdf

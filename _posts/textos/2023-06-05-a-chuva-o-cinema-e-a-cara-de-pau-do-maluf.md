@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A CHUVA, O CINEMA E A CARA-DE-PAU DO MALUF
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1995-02-17 23:47:49

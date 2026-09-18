@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bicho monstro - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/bicho-monstro-rot.pdf

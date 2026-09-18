@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A POLÊMICA DA RECOMPRA
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1998-04-12 18:22:56

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O mercado de notícias - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/o-mercado-de-noticias-pre-rot.pdf

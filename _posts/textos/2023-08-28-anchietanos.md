@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Anchietanos - roteiro 1
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/anchietanos-rot1.pdf

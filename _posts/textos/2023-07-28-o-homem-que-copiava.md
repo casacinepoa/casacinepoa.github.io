@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O homem que copiava - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/o-homem-que-copiava-rot.pdf

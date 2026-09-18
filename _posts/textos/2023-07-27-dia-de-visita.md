@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dia de visita - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/dia-de-visita-rot.pdf

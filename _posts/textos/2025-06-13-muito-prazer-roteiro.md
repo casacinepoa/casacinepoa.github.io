@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Muito prazer - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/muito-prazer-rot.pdf

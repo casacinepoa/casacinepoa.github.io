@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cidades fantasmas - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/cidades-fantasmas-rot.pdf

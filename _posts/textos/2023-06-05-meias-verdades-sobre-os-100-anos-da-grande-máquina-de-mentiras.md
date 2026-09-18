@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MEIAS-VERDADES SOBRE OS 100 ANOS DA GRANDE MÁQUINA DE MENTIRAS
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1995-12-20 20:39:53

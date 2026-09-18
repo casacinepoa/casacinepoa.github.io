@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GRAMADO: RETRATO DE UMA PERPLEXIDADE"
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1991-09-15 20:23:49

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TRANSPARÊNCIAS E MALEDICÊNCIAS
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1998-12-05 19:52:00

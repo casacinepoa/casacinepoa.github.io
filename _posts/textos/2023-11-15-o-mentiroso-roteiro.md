@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O mentiroso - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/o-mentiroso-rot.pdf

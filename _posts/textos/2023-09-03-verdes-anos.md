@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Verdes anos - roteiro 1
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/verdes-anos-rot1.pdf

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meu tio matou um cara - texto final
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/meu-tio-matou-um-cara-txf.pdf

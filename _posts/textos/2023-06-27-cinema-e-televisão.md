@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CINEMA E TELEVISÃO
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2001-03-05 17:20:48

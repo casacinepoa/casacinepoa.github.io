@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El padre de Gardel - texto final
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/padre-de-gardel-txt.pdf

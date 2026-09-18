@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GRAUS DE REALIDADE NO AUDIOVISUAL
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2002-08-27 20:31:33

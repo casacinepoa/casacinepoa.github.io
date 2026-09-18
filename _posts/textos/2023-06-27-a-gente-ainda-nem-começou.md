@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A GENTE AINDA NEM COMEÇOU
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1999-08-05 17:45:13

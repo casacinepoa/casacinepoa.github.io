@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SEXO, PÚBLICO E CENSURA EM "TOLERÂNCIA"
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2000-12-05 19:21:21

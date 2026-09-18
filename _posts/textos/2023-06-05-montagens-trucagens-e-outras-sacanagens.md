@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MONTAGENS, TRUCAGENS E OUTRAS SACANAGENS
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2002-07-15 20:50:14

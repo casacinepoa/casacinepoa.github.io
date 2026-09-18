@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A mulher gigante - letras
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/a-mulher-gigante-letras.pdf

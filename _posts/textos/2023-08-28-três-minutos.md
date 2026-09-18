@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Três minutos - roteiro 1
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/tres-minutos-rot1.pdf

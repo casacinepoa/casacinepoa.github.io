@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fraternidade - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/fraternidade-rot.pdf

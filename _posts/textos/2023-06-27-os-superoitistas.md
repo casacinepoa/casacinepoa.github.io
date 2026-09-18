@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OS SUPEROITISTAS
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 1982-11-05 19:33:39

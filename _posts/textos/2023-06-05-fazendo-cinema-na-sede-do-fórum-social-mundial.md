@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FAZENDO CINEMA NA SEDE DO FÓRUM SOCIAL MUNDIAL
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2001-09-22 20:19:29

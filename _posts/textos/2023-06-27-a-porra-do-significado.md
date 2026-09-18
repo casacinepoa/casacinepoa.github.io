@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A PORRA DO SIGNIFICADO
+author: casa_textos
 tags:
   - Textos sobre Cinema
 date: 2000-06-05 18:29:25

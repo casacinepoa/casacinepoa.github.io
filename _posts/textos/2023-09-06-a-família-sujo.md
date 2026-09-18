@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A família Sujo - letras
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/a-familia-sujo-letras.pdf

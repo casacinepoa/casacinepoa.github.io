@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deus ex-machina - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/deus-ex-machina-rot.pdf

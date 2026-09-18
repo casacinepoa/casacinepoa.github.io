@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dona Cristina perdeu a memória - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/dona-cristina-perdeu-a-memoria-rot.pdf

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O futuro da terra - roteiro
+author: casa_textos
 tags:
   - Roteiros
 file: /uploads/o-futuro-da-terra-rot.pdf
