@@ -23,12 +23,6 @@
 {% endif -%}
 {%- endfor -%}
 
-{%- for news in site.news -%}
-{%- if news.redirect_from -%}
-{{- news.redirect_from }}       {{ news.url | relative_url }}       301
-{% endif -%}
-{%- endfor -%}
-
 /o-blog/giba-assis-brasil.html    /blog/giba    301
 /o-blog/jorge-furtado.html    /blog/jorge    301
 /giba/* https://giba.casacinepoa.com.br/:splat 200!
