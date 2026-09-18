@@ -65,6 +65,11 @@ pagination:
 
 autopages:
   enabled: true
+  # Keep enabled: false. Path-scoped defaults below give notícias/essays docs
+  # inert `categories: [...]` values (Document#categories_from_path, e.g.
+  # ["noticias", "Notícias"] / ["textos", "Textos"]) that nothing reads today.
+  # Flipping this to true would regenerate stray /textos/noticias/ and
+  # /textos/textos/ pages from those values — the exact bug Task 1 fixed.
   categories:
     enabled: false
     layouts:

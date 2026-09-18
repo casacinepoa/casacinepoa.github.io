@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Roteiros
+category: Textos
 permalink: "/textos/roteiros/"
 pagination:
   enabled: true

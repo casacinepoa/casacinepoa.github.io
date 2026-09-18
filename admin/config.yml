@@ -257,7 +257,7 @@ collections:
     summary: >-
       {{title}} ({{day}}/{{month}}/{{year}})
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    preview_path: "/textos/{{year}}-{{month}}-{{day}}-{{slug}}/"
+    preview_path: "/textos/{{slug}}/"
     description: >-
       Textos são posts exibidos na página de Textos, com sua própria listagem e organização.
     view_groups:
