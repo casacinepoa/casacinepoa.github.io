@@ -5,6 +5,7 @@ permalink: "/textos/"
 redirect_from: "/as-conexões.html"
 pagination:
   enabled: true
-  collection: essays
+  collection: posts
+  category: Textos
 show_content: false
 ---

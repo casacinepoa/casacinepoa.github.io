@@ -6,6 +6,7 @@ permalink: "/blog/"
 pagination:
   enabled: true
   collection: posts
+  category: Blog
 show_content: "excerpt"
 show_tags: true
 ---
