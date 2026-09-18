@@ -70,6 +70,10 @@ collections:
         required: false
         hint: >-
           Exibido na lista de posts do blog. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 240 caracteres para exibir o resumo inteiro.
+      - label: Imagem em Destaque
+        name: image
+        widget: image
+        required: false
       - label: Autor
         name: author
         widget: select
@@ -213,6 +217,11 @@ collections:
       - label: Conteúdo
         name: body
         widget: markdown
+      - label: Resumo
+        name: excerpt
+        widget: string
+        hint: >-
+          Um texto breve que pode ser usado nas prévias desse conteúdo em redes sociais e em resultados de busca.
       - label: Data
         name: date
         widget: datetime

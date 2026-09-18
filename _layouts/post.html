@@ -17,6 +17,12 @@ layout: default
 
   <div class="blog_container">
     <div class="post_content">
+      {% if page.image %}
+        <figure class="post_image">
+          <img src="{{ page.image }}" alt="" />
+        </figure>
+      {% endif %}
+
       {{ content }}
     </div>
 

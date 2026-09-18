@@ -61,6 +61,10 @@
     padding: 0.5em;
     text-align: center;
 
+    img {
+      width: 100%;
+    }
+
     em {
       background-color: #fff;
       font-family: $content-font-family;

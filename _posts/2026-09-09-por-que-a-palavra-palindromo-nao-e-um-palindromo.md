@@ -3,8 +3,8 @@ layout: post
 title: Por que a palavra palíndromo não é um palíndromo?
 author: giba
 date: 2026-09-08 22:09:00
+image: /uploads/so-nos-inv.jpg
 ---
-![](/uploads/so-nos-inv.jpg)
 
 *\[O livro SÓ NÓS já está à venda no Mercado Livre. E, para quem comprou pela Benfeitoria, muito obrigado: seu exemplar já está a caminho.]*
 
