@@ -1,0 +1,10 @@
+---
+layout: post
+title: Muito prazer - roteiro
+author: casa
+tags: Roteiros
+file: /uploads/muito-prazer-rot.pdf
+date: 2025-06-13 16:00:00
+---
+Roteiro de Jorge Furtado\
+Versão de 13/06/2025

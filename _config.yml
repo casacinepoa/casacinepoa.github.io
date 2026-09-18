@@ -18,14 +18,6 @@ essays_archive_path: "/textos/arquivo"
 
 # Collections
 collections:
-  news:
-    output: true
-    sort_by: date
-    permalink: "/noticias/:name/"
-  essays:
-    output: true
-    sort_by: date
-    permalink: "/textos/:title/"
   banners:
     output: false
     sort_by: date
@@ -65,8 +57,6 @@ pagination:
   enabled: true
   collection:
     - posts
-    - essays
-    - news
   per_page: 12
   permalink: "/pagina/:num/"
   title: ":title — página :num"
@@ -76,7 +66,7 @@ pagination:
 autopages:
   enabled: true
   categories:
-    enabled: true
+    enabled: false
     layouts:
       - archive.html
     title: ":cat"
@@ -121,3 +111,17 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: "_posts"
+    values:
+      category: Blog
+  - scope:
+      path: "_posts/noticias"
+    values:
+      category: Notícias
+      permalink: "/noticias/:name/"
+  - scope:
+      path: "_posts/textos"
+    values:
+      category: Textos
+      permalink: "/textos/:title/"
