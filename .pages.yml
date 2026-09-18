@@ -1,215 +1,480 @@
 media: uploads
+
 content:
-  - name: posts
-    label: Blog
+  - name: post
+    label: Posts
     type: collection
     path: _posts
-    icon: notebookText
-    fields:
-      - name: layout
-        hidden: true
-        type: string
-        default: "post"
-      - name: title
-        label: Title
-        required: true
-        type: string
-      - name: date
-        label: Date
-        type: date
-        options:
-          format: "yyyy-MM-dd' 'HH:mm:ss"
-          time: true
-        description: >-
-          The publication date for this post.
-      - name: author
-        label: Author
-        type: select
-        default: casa
-        options:
-          values:
-            - value: casa
-              label: A Casa
-            - value: ana
-              label: Ana Luíza Azevedo
-            - value: giba
-              label: Giba Assis Brasil
-            - value: jorge
-              label: Jorge Furtado
-            - value: nora
-              label: Nora Goulart
-      - name: body
-        label: Body
-        required: true
-        type: rich-text
-      - name: tags
-        label: Tags
-        list: true
-        type: string
-      - name: excerpt
-        label: Excerpt
-        description: >-
-          A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
-        type: text
-        required: false
-      - name: published
-        label: Publish
-        type: boolean
-        default: true
-        description: >-
-          Set this to true to publish it in your website.
-      - name: redirect_from
-        label: Original URL
-        default: null
-        type: string
-        description: >-
-          The path to this page in the `archive`. If set, it'll handle redirects from the old path to the new one.
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    description: >-
+      Posts exibidos no Blog, com atribuição de autor, listas de tags e arquivos específicos.
     view:
-      fields:
-        - title
-        - date
-        - author
       primary: title
-      sort: date
+      fields: [title, date, author]
+      sort: [title, date, author]
+      search: [title, author] # substitui parcialmente os antigos view_filters por autor
       default:
         sort: date
-        order: desc
-  - name: pages
-    label: Pages
-    type: collection
-    path: _pages
-    icon: 'file-type'
-    filename: "{fields.title}"
+        order: asc
     fields:
-      - name: title
-        label: Title
-        type: string
-        required: true
-      - name: body
-        label: Body
-        type: rich-text
-        required: true
-      - name: permalink
-        label: Permalink
-        required: false
-        type: string
-        description: >-
-          The path for this page in your website, such as `example.com/page-title`
-      - name: image
-        label: Cover Image
-        type: image
-      - name: image_caption
-        label: Cover Image Caption
-        type: string
-      - name: excerpt
-        label: Excerpt
-        type: text
-        description: >-
-          A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
       - name: layout
         label: Layout
-        default: page
+        type: string
+        hidden: true
+        default: post
+      - name: title
+        label: Título
+        type: string
+      - name: body
+        label: Conteúdo
+        type: rich-text
+      - name: excerpt
+        label: Resumo
+        type: text
+        required: false
+        description: >-
+          Exibido na lista de posts do blog. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 240 caracteres para exibir o resumo inteiro.
+      - name: image
+        label: Imagem em Destaque
+        type: image
+        required: false
+      - name: author
+        label: Autor
         type: select
         options:
           values:
-            - value: default
-              label: No Layout
-            - value: page
-              label: Simple Page
-            - value: about
-              label: About Page
-            - value: archive
-              label: Archives Page
-            - value: contact
-              label: Contact Page
-            - value: post
-              label: Blog Post
-            - value: project
-              label: Project Page
-            - value: lists/films
-              label: Film List
-            - value: lists/posts
-              label: Posts List
-            - value: lists/projects
-              label: Projects List
-            - value: blog
-              label: Blog
-            - value: author
-              label: Post Author Page
-      - name: redirect_from
-        label: Original URL
-        default: null
+            - { value: casa, label: "A Casa" }
+            - { value: ana, label: "Ana Luíza Azevedo" }
+            - { value: giba, label: "Giba Assis Brasil" }
+            - { value: jorge, label: "Jorge Furtado" }
+            - { value: nora, label: "Nora Goulart" }
+      - name: date
+        label: Data
+        type: date
+        options:
+          time: true
+          format: "yyyy-MM-dd HH:mm:ss"
+      - name: tags
+        label: Tags
         type: string
+        list: true
+        required: false
         description: >-
-          The path to this page in the `archive`. If set, it'll handle redirects from the old path to the new one.
-      - name: published
-        label: Publish
-        type: boolean
-        default: true
-        description: >-
-          Set this to true to publish it in your website.
+          Uma lista de tópicos separados por vírgulas. Se adicionadas, a notícia aparecerá na página de posts com essa tag.
+
+  - name: page
+    label: Páginas
+    type: collection
+    path: _pages
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    description: >-
+      Páginas de conteúdo estático.
     view:
-      fields:
-        - title
       primary: title
-      sort:
-        - date
+      sort: [title, author]
       default:
-        sort: date
+        sort: title
         order: desc
+    fields:
+      - name: title
+        label: Título
+        type: string
+      - name: body
+        label: Conteúdo
+        type: rich-text
+        required: false
+      - name: permalink
+        label: Link permanente
+        type: string
+        required: false
+        description: >-
+          O caminho da URL dessa página. Vai ser acessável em `casacinepoa.com.br/[LINK PERMANENTE]/`.
+      - name: image
+        label: Imagem em Destaque
+        type: image
+        required: false
+      - name: image_caption
+        label: Legenda da imagem em destaque
+        type: string
+        required: false
+      - name: excerpt
+        label: Resumo
+        type: text
+        required: false
+        description: >-
+          Exibido em resultados de busca. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 160 caracteres para exibir o resumo inteiro.
+      - name: layout
+        label: Layout
+        type: select
+        default: page
+        options:
+          values:
+            - { value: default, label: "Sem layout" }
+            - { value: page, label: "Página simples" }
+            - { value: about, label: 'Página "Sobre"' }
+            - { value: archive, label: "Página de arquivo" }
+            - { value: contact, label: "Página de contato" }
+            - { value: post, label: "Post de blog" }
+            - { value: project, label: "Página de projeto" }
+            - { value: lists/films, label: "Lista de filmes" }
+            - { value: lists/posts, label: "Lista de posts" }
+            - { value: lists/projects, label: "Lista de projetos" }
+            - { value: blog, label: "Blog" }
+            - { value: author, label: "Autor do blog" }
+
   - name: news
-    label: News
+    label: Notícias
     type: collection
     path: _news
-    icon: newspaper
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    description: >-
+      As notícias são posts exibidos sem atribuição de autor na página de Notícias da Casa.
     view:
-      fields:
-        - title
-        - date
       primary: title
-      sort:
-        - date
       default:
         sort: date
         order: desc
     fields:
       - name: layout
+        label: Layout
         type: string
-        value: post
         hidden: true
+        default: post
       - name: title
-        label: Title
+        label: Título
         type: string
-        required: true
+      - name: body
+        label: Conteúdo
+        type: rich-text
+      - name: excerpt
+        label: Resumo
+        type: string
+        description: >-
+          Um texto breve que pode ser usado nas prévias desse conteúdo em redes sociais e em resultados de busca.
+      - name: date
+        label: Data
+        type: date
+        options:
+          time: true
+          format: "yyyy-MM-dd HH:mm:ss"
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+        required: false
+        description: >-
+          Uma lista de tópicos separados por vírgulas. Se adicionadas, a notícia aparecerá na página de posts com essa tag.
+
+  - name: essays
+    label: Textos
+    type: collection
+    path: _essays
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    description: >-
+      Textos são posts exibidos na página de Textos, com sua própria listagem e organização.
+    view:
+      primary: title
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+        hidden: true
+        default: post
+      - name: title
+        label: Título
+        type: string
+      - name: body
+        label: Conteúdo
+        type: rich-text
+      - name: author
+        label: Autor
+        type: string
+        hidden: true
+        default: casa
+      - name: category
+        label: Categoria
+        type: select
+        options:
+          values:
+            - { value: "Textos sobre Cinema", label: "Textos sobre Cinema" }
+            - { value: "Roteiros", label: "Roteiros" }
+      - name: file
+        label: Arquivo
+        type: file
+        required: false
+        options:
+          # Equivale ao media_folder "/uploads/roteiros/" do original — caminho
+          # relativo à pasta de mídia global (media: uploads), definida acima.
+          path: roteiros
       - name: date
         label: Date
         type: date
         options:
-          format: "yyyy-MM-dd' 'HH:mm:ss"
           time: true
-      - name: body
-        label: Body
-        type: rich-text
-        required: true
-      - name: tags
-        label: Tags
-        list: true
+          format: "yyyy-MM-dd HH:mm:ss"
+
+  - name: projects
+    label: Filmes
+    type: collection
+    path: _projects
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    description: >-
+      Os projetos ou os filmes. Dependendo da categoria, eles são exibidos em sua lista respectiva.
+    view:
+      primary: title
+      sort: [title]
+      search: [title, category] # substitui parcialmente os antigos view_filters por categoria
+      default:
+        sort: title
+        order: desc
+    fields:
+      - name: layout
+        label: Layout
         type: string
-      - name: excerpt
-        label: Excerpt
-        description: >-
-          A short description shown in search engines. If left blank, the website will try to generate one based on the first paragraph.
-        type: text
+        hidden: true
+        # O original usava "value: project", que não é uma chave reconhecida
+        # nesse widget no Decap/Netlify CMS — o certo ali também seria
+        # "default". Corrigido aqui.
+        default: project
+      - name: title
+        label: Título
+        type: string
+      - name: tech_specs
+        label: Informações técnicas
+        type: object
         required: false
-      - name: published
-        label: Publish
-        type: boolean
-        default: true
-        description: >-
-          Set this to true to publish it in your website.
-      - name: redirect_from
-        label: Original URL
-        default: null
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{info}"
+        fields:
+          - name: info
+            type: string
+      - name: category
+        label: Categoria
+        type: select
+        options:
+          values:
+            - Longas-metragens
+            - Médias-metragens
+            - Curtas-metragens
+            - Coproduções
+            - Séries
+            - Origens
+            - Distribuição
+            - Coleções
+            - Projetos
+            - Episódios
+      - name: trailer
+        label: Trailer
         type: string
+        required: false
         description: >-
-          The path to this page in the `archive`. If set, it'll handle redirects from the old path to the new one.
+          O link para um vídeo do Vimeo.
+      - name: image
+        label: Imagem de destaque
+        type: image
+      - name: image_credits
+        label: Créditos da imagem de destaque
+        type: string
+        required: false
+      - name: body
+        label: Sinopse
+        type: rich-text
+      - name: where_to_watch
+        label: Onde Assistir
+        type: object
+        required: false
+        list: true
+        fields:
+          - name: title
+            label: Serviço
+            type: string
+          - name: url
+            label: Link
+            type: string
+      - name: details
+        label: Detalhes
+        type: object
+        required: false
+        list:
+          collapsible: true
+          summary: "{title}"
+        fields:
+          - name: title
+            label: Título
+            type: string
+          - name: content
+            label: Conteúdo
+            type: rich-text
+
+  # Os dois menus abaixo eram uma única collection "files" no Decap CMS.
+  # No Pages CMS cada arquivo fixo vira sua própria entrada "type: file".
+  # (Dá pra agrupar visualmente os dois com "type: group" na barra lateral,
+  # se quiser — veja https://pagescms.org/docs/configuration/content/)
+  - name: main-menu
+    label: Menu Principal
+    type: file
+    path: _data/menus/main.yml
+    format: yaml
+    fields:
+      - name: items
+        label: Itens
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Rótulo
+            type: string
+          - name: url
+            label: Link
+            type: reference
+            options:
+              collection: page
+              search: "fields.title"
+              value: "{fields.permalink}"
+              label: "{fields.title} - {fields.permalink}"
+          - name: required
+            label: Link externo
+            type: boolean
+            description: >-
+              Se ativo, abrirá o link em uma nova janela.
+
+  - name: about-menu
+    label: Menu das páginas Sobre
+    type: file
+    path: _data/menus/about.yml
+    format: yaml
+    description: >-
+      Os menus de navegação do site.
+    fields:
+      - name: items
+        label: Itens
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Rótulo
+            type: string
+          - name: url
+            label: Link
+            type: reference
+            options:
+              collection: page
+              search: "fields.title"
+              value: "{fields.permalink}"
+              label: "{fields.title} - {fields.permalink}"
+          - name: required
+            label: Link externo
+            type: boolean
+            required: false
+            description: >-
+              Se ativo, abrirá o link em uma nova janela.
+
+  - name: banner
+    label: Banners
+    type: collection
+    path: _banners
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    description: >-
+      Banners exibidos no início e no fim da página inicial. Apenas os dois banners mais recentes serão exibidos.
+    view:
+      primary: title
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: date
+        label: Data de ativação
+        type: date
+        required: true
+        options:
+          time: true
+          format: "yyyy-MM-dd HH:mm:ss"
+      - name: image
+        label: Imagem
+        type: image
+        required: true
+      - name: title
+        label: Título
+        type: string
+      - name: body
+        label: Conteúdo
+        type: rich-text
+      - name: link
+        label: URL de destino
+        type: string
+        required: true
+
+  - name: people
+    label: Pessoas
+    type: collection
+    path: _people
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    description: >-
+      As pessoas envolvidas na Casa, sejam os sócios, funcionários, equipe e elenco.
+    view:
+      primary: title
+      sort: [title]
+      search: [title, category] # substitui parcialmente os antigos view_filters por categoria
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Nome
+        type: string
+      - name: image
+        label: Foto
+        type: image
+        required: false
+      - name: role
+        label: Função
+        type: string
+        required: false
+      - name: body
+        label: Bio
+        type: rich-text
+        required: false
+      - name: cv
+        label: Currículo
+        type: rich-text
+        required: false
+      - name: order
+        label: Aparições
+        type: number
+        required: false
+        description: >-
+          Útil para a página de Colaboradores, vai ordenar automaticamente a lista de colaboradores frequentes em Equipe e Elenco.
+      - name: links
+        label: Links
+        type: object
+        required: false
+        list: true
+        fields:
+          - name: title
+            label: Rótulo
+            type: string
+          - name: url
+            label: URL de destino
+            type: string
+      - name: category
+        label: Categoria
+        type: select
+        options:
+          values:
+            - { value: socios, label: "Sócios" }
+            - { value: funcionarios, label: "Funcionários" }
+            - { value: equipes, label: "Equipes" }
+            - { value: elencos, label: "Elencos" }
+            - { value: passado, label: "Ex-Sócios" }
