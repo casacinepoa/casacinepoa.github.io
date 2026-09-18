@@ -3,7 +3,6 @@ layout: post
 title: Casillero del Diablo
 author: giba
 date: 2007-12-22
-category: blog
 tags:
   - gastronomia
 redirect_from: /comment/reply/199/scripts.js.html

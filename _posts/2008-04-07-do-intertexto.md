@@ -3,7 +3,6 @@ layout: post
 title: Do intertexto
 author: giba
 date: 2008-04-07 00:00 +0000
-category: blog
 tags:
   - literatura
   - poesia

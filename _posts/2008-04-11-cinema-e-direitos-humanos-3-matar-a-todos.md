@@ -2,7 +2,6 @@
 layout: post
 title: "Cinema e Direitos Humanos 3: Matar a todos"
 date: 2008-04-11 00:00 +0000
-category: blog
 author: giba
 redirect_from: /comment/reply/194/scripts.js.html
 ---

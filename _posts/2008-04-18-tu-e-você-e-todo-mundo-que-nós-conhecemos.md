@@ -3,7 +3,6 @@ layout: post
 title: Tu e você e todo mundo que nós conhecemos
 date: 2008-04-18
 author: giba
-category: blog
 redirect_from: "/comment/reply/193/scripts.js.html"
 ---
 

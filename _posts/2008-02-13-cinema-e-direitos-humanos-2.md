@@ -2,7 +2,6 @@
 title: Cinema e Direitos Humanos 2
 author: giba
 date: 2008-02-13
-category: blog
 tags:
   - cinema
   - política

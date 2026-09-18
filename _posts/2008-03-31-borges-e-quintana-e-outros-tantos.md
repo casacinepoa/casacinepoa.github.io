@@ -2,7 +2,6 @@
 layout: post
 title: Borges e Quintana e outros tantos
 date: 2008-03-31
-category: blog
 author: giba
 tags:
   - literatura

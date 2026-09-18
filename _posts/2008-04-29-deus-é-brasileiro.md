@@ -2,7 +2,6 @@
 layout: post
 title: Deus é brasileiro?
 date: 2008-04-29 00:00 +0000
-category: blog
 author: giba
 redirect_from: "/o-blog/giba-assis-brasil/deus-é-brasileiro.html"
 tags:

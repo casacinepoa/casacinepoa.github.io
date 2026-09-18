@@ -2,7 +2,6 @@
 title: O fabuloso destino
 author: jorge
 date: 2022-12-14
-category: blog
 ---
 
 ![](/uploads/captura-de-tela-2023-06-20-as-14.58.00.png)

@@ -3,7 +3,6 @@ layout: post
 title: Cinema e Direitos Humanos
 author: giba
 date: 2008-02-01
-category: blog
 tags:
   - cinema
   - política

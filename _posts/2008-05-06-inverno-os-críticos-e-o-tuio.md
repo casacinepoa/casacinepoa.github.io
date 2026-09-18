@@ -3,7 +3,6 @@ layout: post
 title: Inverno, os críticos e o Tuio
 author: giba
 date: 2008-05-06 00:00 +0000
-category: blog
 tags:
   - Casa de Cinema
   - cinema
