@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inventariar
+title: Inventariar a ficção, inventar o documentário
 excerpt: "Será que é aí que está a diferença entre o documentário e a ficção:
   entre o inventar e o inventariar? Ou entre o presente e o condicional?"
 image: /uploads/joris-ivens.jpg
@@ -9,7 +9,7 @@ date: 2026-09-19 19:57:00
 ---
 *\[O documentarista holandês Joris Ivens (1898-1989), autor de "Uma história do vento" (1988).]*
 
-Texto de ontem no blog do Carlos Alberto Mattos começa assim:
+Texto de ontem no blog do [Carlos Alberto Mattos](https://carmattos.com/2026/09/17/o-paradoxo-george-soros/) começa assim:
 
 *"O documentário SOROS, dirigido pelo filho de Bob Dylan, inventaria grande parte da batalha de ideias em torno do megainvestidor e filantrocapitalista George Soros."*
 
