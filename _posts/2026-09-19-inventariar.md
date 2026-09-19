@@ -5,7 +5,7 @@ excerpt: "Será que é aí que está a diferença entre o documentário e a fic�
   entre o inventar e o inventariar? Ou entre o presente e o condicional?"
 image: /uploads/joris-ivens.jpg
 author: giba
-date: 2026-09-19 19:57:00
+date: 2026-09-18 16:00:00
 ---
 *\[O documentarista holandês Joris Ivens (1898-1989), autor de "Uma história do vento" (1988).]*
 
