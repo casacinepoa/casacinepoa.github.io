@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inventariar a ficcao, inventar o documentario
+title: Inventariar a ficção, inventar o documentário
 author: giba
 date: 2026-09-18 16:10:00
 ---
