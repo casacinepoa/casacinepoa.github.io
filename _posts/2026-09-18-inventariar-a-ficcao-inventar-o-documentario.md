@@ -8,7 +8,7 @@ date: 2026-09-18 16:10:00
 
 *\[O documentarista holandês Joris Ivens (1898-1989), autor de "Uma história do vento" (1988).]*
 
-Texto de ontem no blog do Carlos Alberto Mattos começa assim:
+Texto de ontem no blog do [Carlos Alberto Mattos](https://carmattos.com/2026/09/17/o-paradoxo-george-soros/) começa assim:
 
 > O documentário SOROS, dirigido pelo filho de Bob Dylan, inventaria grande parte da batalha de ideias em torno do megainvestidor e filantrocapitalista George Soros.
 
