@@ -10,7 +10,7 @@ date: 2026-09-18 16:10:00
 
 Texto de ontem no blog do [Carlos Alberto Mattos](https://carmattos.com/2026/09/17/o-paradoxo-george-soros/) começa assim:
 
-> O documentário SOROS, dirigido pelo filho de Bob Dylan, inventaria grande parte da batalha de ideias em torno do megainvestidor e filantrocapitalista George Soros.
+*"O documentário SOROS, dirigido pelo filho de Bob Dylan, inventaria grande parte da batalha de ideias em torno do megainvestidor e filantrocapitalista George Soros."*
 
 Vontade de ver o filme, Carlinhos Mattos apresenta vários motivos pra isso (inclusive sobre o que o filme deixa de falar). Mas uma palavra ali no meio me puxa pra outro raciocínio.
 
