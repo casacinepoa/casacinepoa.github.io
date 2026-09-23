@@ -1,5 +1,5 @@
 ---
-date: 2026-08-04 21:10:00
+date: 2026-09-23 10:26:00
 image: /uploads/mpz-drica.jpg
 title: MUITO PRAZER em quarta semana nos cinemas
 link: https://youtu.be/Ob5KS67s5zA
