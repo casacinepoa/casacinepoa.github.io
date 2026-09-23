@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIRGINIA E ADELAIDE no Canal Brasil
+title: VIRGÍNIA E ADELAIDE dia 29 na faixa "Negritudes" do Canal Brasil
 image: /uploads/vea-brinde.jpg
 date: 2026-09-23 09:53:00
 ---
