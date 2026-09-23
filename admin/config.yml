@@ -219,9 +219,14 @@ collections:
         widget: markdown
       - label: Resumo
         name: excerpt
-        widget: string
+        widget: text
+        required: false
         hint: >-
-          Um texto breve que pode ser usado nas prévias desse conteúdo em redes sociais e em resultados de busca.
+          Exibido na lista de posts do blog. Se deixar em branco, o site tentará gerar um resumo automaticamente a partir do primeiro parágrafo do post. Use até 240 caracteres para exibir o resumo inteiro.
+      - label: Imagem em Destaque
+        name: image
+        widget: image
+        required: false
       - label: Data
         name: date
         widget: datetime
