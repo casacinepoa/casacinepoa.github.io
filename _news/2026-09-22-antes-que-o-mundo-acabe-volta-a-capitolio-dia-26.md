@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANTES QUE O MUNDO ACABE volta à Capitólio dia 26
+title: ANTES QUE O MUNDO ACABE volta à Cinemateca Capitólio dia 26
 image: /uploads/aqma-jana-pedro.jpg
 date: 2026-09-22 16:00:00
 ---
