@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIRGINIA E ADELAIDE dia 29 na faixa Negritudes do Canal Brasil
+title: VIRGÍNIA E ADELAIDE dia 29 na faixa "Negritudes" do Canal Brasil
 excerpt: Filme VIRGÍNIA E ADELAIDE, produção da Casa de CInema de Porto Alegre
   com direção de Yasmin Thayná e Jorge Furtado, será exibido no Canal Brasil dia
   29 de setembro
