@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jorge Furtado recebe trofeu Eduardo Abelin em Gramado
+title: Jorge Furtado recebe troféu Eduardo Abelin em Gramado
 image: /uploads/jorge-abelin.jpg
 date: 2024-08-17 16:00:00
 ---
