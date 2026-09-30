@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mitti Mendonca em exposicao ate o dia 4 no Multipalco
+title: Mitti Mendonca em exposição até o dia 4 no Multipalco
 date: 2026-09-29 16:00:00
 ---
 *\[A artista Mitti Mendonça é autora do cartaz do filme VIRGÍNIA E ADELAIDE]*
