@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MEU PAI no Dia da Crianca na TV Ra-Tim-Bum
+title: MEU PAI no Dia da Criança na TV Rá-Tim-Bum
 image: /uploads/meu-pai-fusca.jpg
 date: 2026-09-30 19:45:00
 ---
