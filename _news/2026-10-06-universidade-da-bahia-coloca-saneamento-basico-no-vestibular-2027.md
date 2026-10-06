@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universidade da Bahia coloca SANEAMENTO BASICO no Vestibular 2027
+title: Universidade da Bahia coloca SANEAMENTO BÁSICO no Vestibular 2027
 image: /uploads/sbof-jorge.jpg
 date: 2026-10-06 14:21:00
 ---
