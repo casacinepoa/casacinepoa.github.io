@@ -8,10 +8,9 @@ date: 2026-10-07 13:49:00
 por Pamela Cordeiro
 [Ingresso.com, 06/10/2026 | 12:00](https://www.ingresso.com/noticias/filme-medley-mel-maia-trailer-1-oficial-exclusivo)
 
-
 / Inspirado no livro de Keka Reis, filme tem direção de Ana Luiza Azevedo e chega aos cinemas em 29 de outubro
 
-Nesta terça-feira (6), em parceria com a Panorâmica Filmes, a Ingresso.com revela com exclusividade o trailer de "Medley", novo longa-metragem da diretora Ana Luiza Azevedo ('Antes que o Mundo Acabe'). Assista acima.
+Nesta terça-feira (6), em parceria com a Panorâmica Filmes, a Ingresso.com revela com exclusividade o trailer de "Medley", novo longa-metragem da diretora Ana Luiza Azevedo ('Antes que o Mundo Acabe'). [Assista aqui](https://youtu.be/QUgz73_sSKg).
 
 Com um tom esperançoso e emocionante, a prévia mostra os desafios e alegrias enfrentados pela jovem protagonista, que busca um novo caminho para si. Confira abaixo o cartaz do longa:
 
