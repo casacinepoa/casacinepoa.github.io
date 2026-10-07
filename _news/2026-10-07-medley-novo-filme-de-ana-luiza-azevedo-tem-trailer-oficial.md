@@ -2,7 +2,7 @@
 layout: post
 title: MEDLEY, novo filme de Ana Luiza Azevedo, tem trailer oficial
 image: /uploads/medley-lola-touca.jpg
-date: 2026-10-07 13:49:00
+date: 2026-10-07 15:07:00
 ---
 **MEL MAIA MERGULHA EM JORNADA DE AUTODESCOBERTA NO TRAILER EXCLUSIVO DE 'MEDLEY'; ASSISTA**
 por Pamela Cordeiro
@@ -10,7 +10,7 @@ por Pamela Cordeiro
 
 / Inspirado no livro de Keka Reis, filme tem direção de Ana Luiza Azevedo e chega aos cinemas em 29 de outubro
 
-Nesta terça-feira (6), em parceria com a Panorâmica Filmes, a Ingresso.com revela com exclusividade o trailer de "Medley", novo longa-metragem da diretora Ana Luiza Azevedo ('Antes que o Mundo Acabe'). [Assista aqui](https://youtu.be/QUgz73_sSKg).
+Nesta terça-feira (6/out), em parceria com a Panorâmica Filmes, a Ingresso.com revela com exclusividade o trailer de "Medley", novo longa-metragem da diretora Ana Luiza Azevedo ('Antes que o Mundo Acabe'). [Assista aqui](https://youtu.be/QUgz73_sSKg).
 
 Com um tom esperançoso e emocionante, a prévia mostra os desafios e alegrias enfrentados pela jovem protagonista, que busca um novo caminho para si. Confira abaixo o cartaz do longa:
 
