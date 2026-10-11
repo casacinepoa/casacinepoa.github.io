@@ -1,10 +1,10 @@
 ---
 date: 2026-10-10 21:21:00
-image: /uploads/vea-cartaz-det.jpg
+image: /uploads/vea-brinde.jpg
 title: 'ONDE ASSISTIR: "Virgínia e Adelaide" está no streaming'
 link: https://youtu.be/jRYw48YcPH0
 ---
-DESDE 31 DE JULHO NAS PLATAFORMAS ITUNES, AMAZON, CLARO E VIVO
+NAS PLATAFORMAS ITUNES, AMAZON, CLARO E VIVO
 
 A história real de um encontro que inaugurou a psicanálise no Brasil.
 
