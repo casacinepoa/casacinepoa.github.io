@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ana Luiza Azevedo sera consultora do Lab Novas Historias 30 anos
+title: Ana Luiza Azevedo será consultora do Lab Novas Histórias 30 anos
 image: /uploads/novas-hist-2026.jpg
 date: 2026-10-08 16:00:00
 ---
