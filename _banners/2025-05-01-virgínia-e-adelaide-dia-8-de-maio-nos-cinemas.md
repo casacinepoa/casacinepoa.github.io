@@ -1,5 +1,5 @@
 ---
-date: 2026-05-18 17:57:00
+date: 2026-10-10 21:21:00
 image: /uploads/vea-cartaz-det.jpg
 title: 'ONDE ASSISTIR: "Virgínia e Adelaide" está no streaming'
 link: https://youtu.be/jRYw48YcPH0
