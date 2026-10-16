@@ -4,9 +4,7 @@ title: Série COLIGAY estreia na Mostra de São Paulo dia 21
 image: /uploads/coligay-grenal.jpg
 date: 2026-10-16 14:31:00
 ---
-*[A foto ilustrativa é de Yamini Benites para o [Jornal Tabaré](https://jornaltabare.wordpress.com/2014/05/08/coligay-orgulho-e-preconceito/)]*
-
-
+*[A foto ilustrativa e provocativa é de Yamini Benites para o [Jornal Tabaré](https://jornaltabare.wordpress.com/2014/05/08/coligay-orgulho-e-preconceito/)]*
 
 Os dois primeiros episódios da série COLIGAY, A TORCIDA IMPOSSÍVEL serão exibidos em pré-estreia na Mostra Internacional de São Paulo. A sessão será na quarta-feira 21 de outubro, às 19h30 no Espaço Petrobras de Cinema - Sala 1 (Rua Augusta, 1475). A série é uma coprodução Ventre Studio, Casa de Cinema de Porto Alegre, Canal Brasil e +Galeria. A direção é de Paulo Machline. 
 
