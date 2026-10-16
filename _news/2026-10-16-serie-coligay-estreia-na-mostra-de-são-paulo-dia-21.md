@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Serie COLIGAY estreia na Mostra de São Paulo dia 21
+title: Série COLIGAY estreia na Mostra de São Paulo dia 21
 image: /uploads/coligay-grenal.jpg
 date: 2026-10-16 14:31:00
 ---
