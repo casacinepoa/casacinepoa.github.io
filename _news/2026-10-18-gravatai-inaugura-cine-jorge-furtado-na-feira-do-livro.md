@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gravatai inaugura Cine Jorge Furtado na Feira do Livro  "
+title: "Gravataí inaugura Cine Jorge Furtado na Feira do Livro  "
 image: /uploads/cine-jf.jpg
 date: 2026-10-18 13:09:00
 ---
