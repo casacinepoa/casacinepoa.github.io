@@ -104,35 +104,6 @@ details:
           (estreia 06/09/2017)
       22. **Eu te amo**\
           (estreia 13/09/2017)
-
-      **SEGUNDA TEMPORADA**
-
-      1. **Que horas ela volta?**\
-         (estreia 31/08/2022)
-      2. **Bacurau**\
-         (estreia 07/09/2022)
-      3. **Branco sai, preto fica**\
-         (estreia 14/09/2022)
-      4. **Benzinho**\
-         (estreia 21/09/2022)
-      5. **Kbela**\
-         (estreia 28/09/2022)
-      6. **Bye bye Brasil**\
-         (estreia 05/10/2022)
-      7. **As boas maneiras**\
-         (estreia 12/10/2022)
-      8. **O lobo atrás da porta**\
-         (estreia 19/10/2022)
-      9. **Proibido proibir**\
-         (estreia 26/10/2022)
-      10. **Castanha**\
-          (estreia 02/11/2022)
-      11. **Cidade Baixa**\
-          (estreia 09/11/2022)
-      12. **Um céu de estrelas**\
-          (estreia 16/11/2022)
-      13. **Rasga coração**\
-          (estreia 23/11/2022)
   - title: 2ª temporada (2022) - 13 episódios
     content: |-
       **SEGUNDA TEMPORADA**
@@ -165,34 +136,28 @@ details:
           (estreia 23/11/2022)
   - title: 3ª temporada (2066) - 10 episódios
     content: |-
-      **SEGUNDA TEMPORADA**
+      **TERCEIRA TEMPORADA**
 
-      1. **Que horas ela volta?**
-         (estreia 31/08/2022)
-      2. **Bacurau**
-         (estreia 07/09/2022)
-      3. **Branco sai, preto fica**
-         (estreia 14/09/2022)
-      4. **Benzinho**
-         (estreia 21/09/2022)
-      5. **Kbela**
-         (estreia 28/09/2022)
-      6. **Bye bye Brasil**
-         (estreia 05/10/2022)
-      7. **As boas maneiras**
-         (estreia 12/10/2022)
-      8. **O lobo atrás da porta**
-         (estreia 19/10/2022)
-      9. **Proibido proibir**
-         (estreia 26/10/2022)
-      10. **Castanha**
-          (estreia 02/11/2022)
-      11. **Cidade Baixa**
-          (estreia 09/11/2022)
-      12. **Um céu de estrelas**
-          (estreia 16/11/2022)
-      13. **Rasga coração**
-          (estreia 23/11/2022)
+      1. **Medida provisória**
+         (estreia 20/05/2026)
+      2. **Marte um**
+         (estreia 27/05/2026)
+      3. **Era o hotel Cambridge**
+         (estreia 03/06/2026)
+      4. **Sem asas**
+         (estreia 10/06/2026)
+      5. **Morto não fala**
+         (estreia 17/06/2026)
+      6. **Deslembro**
+         (estreia 24/06/2026)
+      7. **Noites alienígenas**
+         (estreia 01/07/2026)
+      8. **Anahy de las Misiones**
+         (estreia 08/07/2026)
+      9. **Mutum**
+         (estreia 15/07/2026)
+      10. **Auto da compadecida**
+          (estreia 22/07/2026)
 redirect_from: /os-filmes/realização/séries-de-tv/grandes-cenas
 ---
 Uma grande cena é aquela que não se define apenas na relação com as demais. Uma grande cena é aquela que contém em si um filme à parte, um universo à parte, capaz de alterar nossa sensibilidade e perdurar na nossa memória. Com o objetivo de resgatar o apreço por essa unidade fundamental que é a cena, a série Grande Cenas busca relembrar cenas marcantes do cinema brasileiro e sul-americano.	 
