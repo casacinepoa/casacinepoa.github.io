@@ -30,6 +30,29 @@ details:
       **Som Direto:** Rafael Rodrigues (Brasil) / Facundo Gomez (Argentina)\
 
       **Trilha Original:** Maurício Nader
+  - title: Crítica
+    content: >-
+      "O episódio de estreia de GRANDES CENAS traz a antológica cena 'A
+      Regressão', do filme 'Pixote, a lei do mais fraco' (1980), dirigido por
+      Hector Babenco. Nela, a personagem Sueli, uma prostituta interpretada por
+      Marília Pêra, amamenta Pixote, o menino de rua vivido pelo ator Fernando
+      Ramos da Silva. No episódio, gravado meses antes da morte de Babenco,
+      ocorrida em julho deste ano, o diretor comenta a naturalidade que envolveu
+      a cena: 'Aquilo raramente acontece entre atores, uma cumplicidade sem
+      palavras. Eu acho que foi uma coisa sublime, uma palavra muito difícil de
+      ser usada por um ateu como eu, mas foi como um ritual, uma coisa meio
+      mágica'."\
+
+      ([Samuel Possebon](http://convergecom.com.br/telaviva/paytv/10/11/2016/curta-estreia-grandes-cenas-serie-produzida-pela-casa-de-cinema-de-porto-alegre/), Tela Viva, 10/11/2016)
+
+
+      "São muitos os filmes que se eternizam na memória coletiva fragmentados em cenas capazes de estenderem sua força e beleza ao conjunto todo. Como a câmara em movimento que circunda Norma Bengell em Os cafajestes, a anárquica cerimônia de coroação de Terra em transe ou a galinha em fuga de Cidade de Deus. Na série GRANDES CENAS, que o canal por assinatura Curta! estreia nesta quarta-feira, serão analisadas a cada semana sequências antológicas do cinema latino-americano."\
+
+      ([Marcelo Perrone](https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2016/11/serie-de-tv-da-casa-de-cinema-de-poa-disseca-classicos-brasileiros-8299294.html), Zero Hora, 15/11/2016)\
+
+      "O objetivo é dissecar cenas consideradas antológicas do cinema brasileiro. A desta quarta-feira, 23, é exemplar. Quem vê Cidade de Deus, de Fernando Meirelles, é desde logo apanhado pela cena inicial da perseguição à galinha. De certa forma, ela é o 'gancho' que vai prender o espectador por todo o filme. (...) Na próxima semana, Fernanda Montenegro vai lembrar a cena do feijão em Eles Não Usam Black-tie, de Leon Hirszman. Nós, cinéfilos, só temos de agradecer. A série honra as grandes cenas que a inspiram."\
+
+      ([Luiz Carlos Merten](http://istoe.com.br/grandes-cenas-do-cinema-numa-abordagem-critica-e-inesquecivel/), O Estado de S. Paulo, 23/11/2016)
   - title: 1ª temporada (2016-17) - 22 episódios
     content: |-
       **PRIMEIRA TEMPORADA - BLOCO 1**
@@ -110,29 +133,6 @@ details:
           (estreia 16/11/2022)
       13. **Rasga coração**\
           (estreia 23/11/2022)
-  - title: Crítica
-    content: >-
-      "O episódio de estreia de GRANDES CENAS traz a antológica cena 'A
-      Regressão', do filme 'Pixote, a lei do mais fraco' (1980), dirigido por
-      Hector Babenco. Nela, a personagem Sueli, uma prostituta interpretada por
-      Marília Pêra, amamenta Pixote, o menino de rua vivido pelo ator Fernando
-      Ramos da Silva. No episódio, gravado meses antes da morte de Babenco,
-      ocorrida em julho deste ano, o diretor comenta a naturalidade que envolveu
-      a cena: 'Aquilo raramente acontece entre atores, uma cumplicidade sem
-      palavras. Eu acho que foi uma coisa sublime, uma palavra muito difícil de
-      ser usada por um ateu como eu, mas foi como um ritual, uma coisa meio
-      mágica'."\
-
-      ([Samuel Possebon](http://convergecom.com.br/telaviva/paytv/10/11/2016/curta-estreia-grandes-cenas-serie-produzida-pela-casa-de-cinema-de-porto-alegre/), Tela Viva, 10/11/2016)
-
-
-      "São muitos os filmes que se eternizam na memória coletiva fragmentados em cenas capazes de estenderem sua força e beleza ao conjunto todo. Como a câmara em movimento que circunda Norma Bengell em Os cafajestes, a anárquica cerimônia de coroação de Terra em transe ou a galinha em fuga de Cidade de Deus. Na série GRANDES CENAS, que o canal por assinatura Curta! estreia nesta quarta-feira, serão analisadas a cada semana sequências antológicas do cinema latino-americano."\
-
-      ([Marcelo Perrone](https://gauchazh.clicrbs.com.br/cultura-e-lazer/noticia/2016/11/serie-de-tv-da-casa-de-cinema-de-poa-disseca-classicos-brasileiros-8299294.html), Zero Hora, 15/11/2016)\
-
-      "O objetivo é dissecar cenas consideradas antológicas do cinema brasileiro. A desta quarta-feira, 23, é exemplar. Quem vê Cidade de Deus, de Fernando Meirelles, é desde logo apanhado pela cena inicial da perseguição à galinha. De certa forma, ela é o 'gancho' que vai prender o espectador por todo o filme. (...) Na próxima semana, Fernanda Montenegro vai lembrar a cena do feijão em Eles Não Usam Black-tie, de Leon Hirszman. Nós, cinéfilos, só temos de agradecer. A série honra as grandes cenas que a inspiram."\
-
-      ([Luiz Carlos Merten](http://istoe.com.br/grandes-cenas-do-cinema-numa-abordagem-critica-e-inesquecivel/), O Estado de S. Paulo, 23/11/2016)
   - title: 2ª temporada (2022) - 13 episódios
     content: |-
       **SEGUNDA TEMPORADA**
