@@ -30,7 +30,7 @@ details:
       **Som Direto:** Rafael Rodrigues (Brasil) / Facundo Gomez (Argentina)\
 
       **Trilha Original:** Maurício Nader
-  - title: Episódios
+  - title: Crítica
     content: |-
       **PRIMEIRA TEMPORADA - BLOCO 1**
 
@@ -110,7 +110,7 @@ details:
           (estreia 16/11/2022)
       13. **Rasga coração**\
           (estreia 23/11/2022)
-  - title: Crítica
+  - title: 1ª temporada (2016-17) - 22 episódios
     content: >-
       "O episódio de estreia de GRANDES CENAS traz a antológica cena 'A
       Regressão', do filme 'Pixote, a lei do mais fraco' (1980), dirigido por
@@ -133,6 +133,66 @@ details:
       "O objetivo é dissecar cenas consideradas antológicas do cinema brasileiro. A desta quarta-feira, 23, é exemplar. Quem vê Cidade de Deus, de Fernando Meirelles, é desde logo apanhado pela cena inicial da perseguição à galinha. De certa forma, ela é o 'gancho' que vai prender o espectador por todo o filme. (...) Na próxima semana, Fernanda Montenegro vai lembrar a cena do feijão em Eles Não Usam Black-tie, de Leon Hirszman. Nós, cinéfilos, só temos de agradecer. A série honra as grandes cenas que a inspiram."\
 
       ([Luiz Carlos Merten](http://istoe.com.br/grandes-cenas-do-cinema-numa-abordagem-critica-e-inesquecivel/), O Estado de S. Paulo, 23/11/2016)
+  - title: 2ª temporada (2022) - 13 episódios
+    content: |-
+      **SEGUNDA TEMPORADA**
+
+      1. **Que horas ela volta?**
+         (estreia 31/08/2022)
+      2. **Bacurau**
+         (estreia 07/09/2022)
+      3. **Branco sai, preto fica**
+         (estreia 14/09/2022)
+      4. **Benzinho**
+         (estreia 21/09/2022)
+      5. **Kbela**
+         (estreia 28/09/2022)
+      6. **Bye bye Brasil**
+         (estreia 05/10/2022)
+      7. **As boas maneiras**
+         (estreia 12/10/2022)
+      8. **O lobo atrás da porta**
+         (estreia 19/10/2022)
+      9. **Proibido proibir**
+         (estreia 26/10/2022)
+      10. **Castanha**
+          (estreia 02/11/2022)
+      11. **Cidade Baixa**
+          (estreia 09/11/2022)
+      12. **Um céu de estrelas**
+          (estreia 16/11/2022)
+      13. **Rasga coração**
+          (estreia 23/11/2022)
+  - title: 3ª temporada (2066) - 10 episódios
+    content: |-
+      **SEGUNDA TEMPORADA**
+
+      1. **Que horas ela volta?**
+         (estreia 31/08/2022)
+      2. **Bacurau**
+         (estreia 07/09/2022)
+      3. **Branco sai, preto fica**
+         (estreia 14/09/2022)
+      4. **Benzinho**
+         (estreia 21/09/2022)
+      5. **Kbela**
+         (estreia 28/09/2022)
+      6. **Bye bye Brasil**
+         (estreia 05/10/2022)
+      7. **As boas maneiras**
+         (estreia 12/10/2022)
+      8. **O lobo atrás da porta**
+         (estreia 19/10/2022)
+      9. **Proibido proibir**
+         (estreia 26/10/2022)
+      10. **Castanha**
+          (estreia 02/11/2022)
+      11. **Cidade Baixa**
+          (estreia 09/11/2022)
+      12. **Um céu de estrelas**
+          (estreia 16/11/2022)
+      13. **Rasga coração**
+          (estreia 23/11/2022)
 redirect_from: /os-filmes/realização/séries-de-tv/grandes-cenas
 ---
 Uma grande cena é aquela que não se define apenas na relação com as demais. Uma grande cena é aquela que contém em si um filme à parte, um universo à parte, capaz de alterar nossa sensibilidade e perdurar na nossa memória. Com o objetivo de resgatar o apreço por essa unidade fundamental que é a cena, a série Grande Cenas busca relembrar cenas marcantes do cinema brasileiro e sul-americano.	 
