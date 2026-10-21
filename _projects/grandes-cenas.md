@@ -30,7 +30,7 @@ details:
       **Som Direto:** Rafael Rodrigues (Brasil) / Facundo Gomez (Argentina)\
 
       **Trilha Original:** Maurício Nader
-  - title: Crítica
+  - title: 1ª temporada (2016-17) - 22 episódios
     content: |-
       **PRIMEIRA TEMPORADA - BLOCO 1**
 
@@ -110,7 +110,7 @@ details:
           (estreia 16/11/2022)
       13. **Rasga coração**\
           (estreia 23/11/2022)
-  - title: 1ª temporada (2016-17) - 22 episódios
+  - title: Crítica
     content: >-
       "O episódio de estreia de GRANDES CENAS traz a antológica cena 'A
       Regressão', do filme 'Pixote, a lei do mais fraco' (1980), dirigido por
