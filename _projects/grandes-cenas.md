@@ -134,7 +134,7 @@ details:
           (estreia 16/11/2022)
       13. **Rasga coração**
           (estreia 23/11/2022)
-  - title: 3ª temporada (2066) - 10 episódios
+  - title: 3ª temporada (2026) - 10 episódios
     content: |-
       **TERCEIRA TEMPORADA**
 
