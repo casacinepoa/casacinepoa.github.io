@@ -8,6 +8,7 @@ date: 2026-10-27 14:06:00
 [O Repórter (Cachoeirinha e Gravataí), 26/10/2026 | 16:37](https://www.oreporter.net/37a-feira-do-livro-de-gravatai-apresenta-atracoes-em-folder-digital/)
 
 
+
 / Publicação reúne as atrações de 4 a 8 de novembro, no Parcão, e também terá versão impressa, com distribuição gratuita durante a Feira
 
 Gravataí - A programação completa da 37ª Feira do Livro de Gravataí já pode ser conferida no folder digital do evento, que reúne as atividades previstas para os cinco dias de programação, de 4 a 8 de novembro, no Parcão, em Gravataí. A publicação também contará com versão impressa, que será distribuída gratuitamente ao público durante a Feira, facilitando o acesso às informações e o planejamento das visitas.
