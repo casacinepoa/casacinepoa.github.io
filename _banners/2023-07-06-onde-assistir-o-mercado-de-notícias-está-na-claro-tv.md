@@ -1,5 +1,5 @@
 ---
-date: 2026-07-02 10:54:00
+date: 2026-10-27 10:10:00
 image: /uploads/mdn-raimundo.jpg
 title: 'ONDE ASSISTIR: "O mercado de notícias" está no Tela Brasil'
 link: https://telabrasil.cultura.gov.br/obra/322
