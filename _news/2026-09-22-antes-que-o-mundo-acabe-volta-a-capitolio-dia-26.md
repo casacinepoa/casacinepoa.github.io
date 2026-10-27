@@ -9,6 +9,8 @@ date: 2026-10-22 16:00:00
 **CINEMATECA CAPITÓLIO TERÁ SESSÕES COM ENTRADA FRANCA PARA ESCOLAS**\
 [Sul21, 21/09/2026 | 15:17](https://sul21.com.br/noticias/cultura/2026/09/cinemateca-capitolio-tera-sessoes-com-entrada-franca-para-escolas/)
 
+
+
 / Programa de Alfabetização Audiovisual irá exibir Antes que o Mundo Acabe, de Ana Luiza Azevedo, e A Hora da Estrela, de Suzana Amaral
 
 O Programa de Alfabetização Audiovisual irá promover sessões gratuitas para escolas na Cinemateca Capitólio (Rua Demétrio Ribeiro, 1085 - Centro Histórico). No dia 26 de outubro, segunda-feira, haverá projeções para o ensino fundamental, às 9h30min e 14h30min, do longa-metragem gaúcho Antes que Mundo Acabe, de Ana Luiza Azevedo. E, no dia 30 de novembro, também segunda-feira, às 9h30min e 14h30min, será exibido para grupos do ensino médio e ensino para jovens e adultos (EJA) o clássico A Hora da Estrela, de Suzana Amaral, com Marcela Cartaxo e Fernanda Montenegro. Os Grupos escolares precisam fazer inscrição prévia pela internet.
