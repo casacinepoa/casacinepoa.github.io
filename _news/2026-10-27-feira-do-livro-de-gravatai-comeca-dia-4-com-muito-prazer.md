@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feira do Livro de Gravatai comeca dia 4 com MUITO PRAZER
+title: Feira do Livro de Gravataí começa dia 4 com MUITO PRAZER
 image: /uploads/fl-gravatai.jpg
 date: 2026-10-27 14:06:00
 ---
