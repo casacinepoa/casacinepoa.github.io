@@ -1,5 +1,5 @@
 ---
-date: 2023-09-25 13:39:19
+date: 2026-10-27 10:10:00
 image: /uploads/vdn-2.jpg
 title: 'ONDE ASSISTIR: "Vai dar nada" está no Paramount+'
 link: https://www.paramountplus.com/movies/vai-dar-nada/R2VKsTwKF2sz_bq6kiKdSNIJ6Fs7Q8Z0/
