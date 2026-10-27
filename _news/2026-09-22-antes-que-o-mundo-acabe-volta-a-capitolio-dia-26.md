@@ -2,7 +2,7 @@
 layout: post
 title: ANTES QUE O MUNDO ACABE volta à Cinemateca Capitólio dia 26
 image: /uploads/aqma-jana-pedro.jpg
-date: 2026-09-22 16:00:00
+date: 2026-10-22 16:00:00
 ---
 *\[Janaína Kremer e Pedro Tergolina em cena de ANTES QUE O MUNDO ACABE]*
 
