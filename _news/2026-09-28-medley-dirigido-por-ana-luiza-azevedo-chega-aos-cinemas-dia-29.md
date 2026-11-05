@@ -2,7 +2,7 @@
 layout: post
 title: MEDLEY, dirigido por Ana Luiza Azevedo, chega aos cinemas dia 29
 image: /uploads/medley-desafio.jpg
-date: 2026-09-28 16:00:00
+date: 2026-10-28 16:00:00
 ---
 *\[Mel Maia e Alana Cabral em cena de MEDLEY]*
 
