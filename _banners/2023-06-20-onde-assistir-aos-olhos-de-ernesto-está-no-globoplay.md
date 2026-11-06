@@ -1,5 +1,5 @@
 ---
-date: 2026-08-03 21:09:00
+date: 2026-11-06 12:35:00
 image: /uploads/aode-ramiro.jpg
 title: 'ONDE ASSISTIR: "Aos olhos de Ernesto" está no YouTube'
 link: https://youtu.be/BP5QqlebTJw
