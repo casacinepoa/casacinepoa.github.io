@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RASGA CORACAO tem sessao especial em Florianopolis dia 11
+title: RASGA CORAÇÃO tem sessão especial em Florianópolis dia 11
 image: /uploads/rasga-trio.jpg
 date: 2026-11-08 01:06:00
 ---
