@@ -80,12 +80,12 @@ details:
       (Carlos Alberto Mattos, [Carta Maior, 18/06/2020](https://www.cartamaior.com.br/?/Editoria/Cinema/Ernesto-e-as-pre-estreias-online/59/47877))
 
 
-      "Aos Olhos de Ernesto enternece, envolve, provoca riso e choro (até na mesma cena, dependendo de como anda sua sensibilidade nesta pandemia), surpreende, encanta."\
+      "AOS OLHOS DE ERNESTO enternece, envolve, provoca riso e choro (até na mesma cena, dependendo de como anda sua sensibilidade nesta pandemia), surpreende, encanta."\
 
       (Celso Sabadin,[ Planeta Tela, 17/09/2020](http://www.planetatela.com.br/critica/afetuso-aos-olhos-de-ernesto-tem-estreia-em-plataformas-e-drive-ins/))
 
 
-      "Aos Olhos de Ernesto trata a velhice sem concessão alguma, sem drama e sem clichê, apenas com a humanidade necessária."\
+      "AOS OLHOS DE ERNESTO trata a velhice sem concessão alguma, sem drama e sem clichê, apenas com a humanidade necessária."\
 
       (Cíntia Moscovich, [Zero Hora, 28/06/2020](https://gauchazh.clicrbs.com.br/colunistas/cintia-moscovich/noticia/2020/06/aos-olhos-de-ernesto-e-um-dos-mais-belos-filmes-jamais-realizados-sobre-a-velhice-ckbzikb5m004o0162qnovxygd.html))
 
@@ -109,6 +109,11 @@ details:
       (Sarah Lira, [Adoro Cinema, 30/10/2020](http://www.adorocinema.com/filmes/filme-252746/criticas-adorocinema/))
 
 
+      "AOS OLHOS DE ERNESTO é uma outra volta no parafuso da mesma questão que autora já havia proposto no curta 'Três minutos' - o tempo. O correr do tempo, o escoar dele, a sua perda, o seu reencontro."\
+
+      (Inácio Araújo, [Folha de São Paulo, 16/10/2020](https://www1.folha.uol.com.br/ilustrada/2020/10/aos-olhos-de-ernesto-tem-conflito-de-valores-temperado-com-humor.shtml))
+
+
       "Jorge Bolani, empunhando a bandeira do protagonista, constrói momentos de puro carisma e talento incondicionais, nos fazendo adentrar o universo de Ernesto."\
 
       (Francisco Carboni, [Cenas de Cinema, 17/11/2020](https://cenasdecinema.com/aos-olhos-de-ernesto/))
@@ -124,7 +129,7 @@ details:
       (Luiz Carlos Merten, [O Estado de São Paulo, 05/11/2019](https://cultura.estadao.com.br/blogs/luiz-carlos-merten/mostra-16-esta-chegando-a-hora-da-despedida/))
 
 
-      "Aos olhos de Ernesto desperta a impressão de que o cinema brasileiro finalmente consegue efetuar a imersão no estilo agridoce argentino-uruguaio que nos provoca tanta admiração e inveja."\
+      "AOS OLHOS DE ERNESTO desperta a impressão de que o cinema brasileiro finalmente consegue efetuar a imersão no estilo agridoce argentino-uruguaio que nos provoca tanta admiração e inveja."\
 
       (Bruno Carmelo, [Papo de Cinema, 28/10/2019](https://www.papodecinema.com.br/filmes/aos-olhos-de-ernesto/))
 
