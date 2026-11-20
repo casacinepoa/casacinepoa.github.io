@@ -28,3 +28,7 @@ Geralmente, o "silêncio" era composto por:
 * Sobras de filmes descartados, como cópias de trabalho (copiões) antigas ou película velada que já não servia mais para projeção, reaproveitada apenas por ter as perfurações padrão de 35mm em bom estado.
 
 No auge da produção analógica (entre as décadas de 1960 e 1990), o rolo padrão de "silêncio custava em torno de US$ 25 a US$ 50, o que dava algo próximo de US$ 0,08 a US$ 0,16 por metro.
+
+- - -
+
+[Adendo do Giba aqui.](https://www.casacinepoa.com.br/blog/2026-11-20-quando-o-silencio-acabou/)
