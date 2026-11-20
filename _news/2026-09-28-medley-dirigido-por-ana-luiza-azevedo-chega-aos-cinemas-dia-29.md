@@ -51,3 +51,41 @@ E aí, nesse olhar para o passado, naturalmente vem à tona o tema da memória:
 Os temas e a proposta da diretora são potencializados pelo ofício da protagonista. As cenas na piscina e no alto-mar trouxeram desafios, mas também recompensas: possibilitaram dramatizar a solidão de Lola e também os silêncios e as ausências com que ela tem de lidar.
 
 \-- A água me ajudou muito na narrativa - diz Ana Luiza. - Eu gosto de nadar, e a água, quando tu mergulha, ela te afasta um pouco do mundo real. Quando tu escuta um som externo, ele chega distorcido, assim como as imagens não ficam nítidas. Quando tu está nadando, é só o teu corpo ali, solitário, com teu pensamento. A relação da Lola com a água tem uma questão de válvula de escape. Ela foge dos problemas da realidade mergulhando na piscina e nadando sem parar. E com as braçadas e a respiração cadenciada, Lola consegue um equilíbrio. Mas, ao mesmo tempo, é na água que virão as lembranças do pai, porque elas também têm relação com a água, com as idas à praia, os banhos de mar, os mergulhos na piscina.
+
+- - -
+
+**'MEDLEY', FILME ESTRELADO POR MEL MAIA, ESTREIA EM 32 CINEMAS DE 19 CIDADES BRASILEIRAS**\
+[Jornal do Rap, 12/11/2026 9:30](https://www.jornaldorap.com.br/noticias/filme-medley-mel-maia-estreia-cinemas-brasil/)
+
+
+
+/ O cinema nacional ganha um lançamento emocionante sobre amadurecimento e superação! O filme "Medley", novo...
+
+O filme "Medley", novo longa-metragem dirigido por Ana Luiza Azevedo e estrelado pela atriz Mel Maia, chega às telas nesta quinta-feira, 29 de outubro. Dessa forma, a produção alcança 32 cinemas em 19 cidades espalhadas por 15 estados de todas as cinco regiões do país.
+
+De fato, a distribuição é assinada pela Vitrine Filmes, por meio da consagrada Sessão Vitrine Petrobras, em parceria com a produtora Panorâmica. Consequentemente, o projeto garante forte presença tanto no circuito comercial quanto em salas independentes e da rede Cine+.
+
+Superação nos anos 90 e a jornada de autodescoberta
+
+Em primeiro lugar, a trama ambientada nos anos 1990 acompanha a história de Lola (interpretada por Mel Maia). A jovem é uma nadadora talentosa que vive em constante conflito com a mãe e carrega a dor da ausência do pai. No entanto, ao viajar para uma cidade do interior do Rio de Janeiro durante as férias, ela decide entrar para uma equipe de natação competitiva.
+
+A partir desse momento, a protagonista precisa enfrentar um bloqueio emocional que a impede de nadar no estilo borboleta. Além disso, enquanto busca a vitória na piscina, Lola embarca em uma jornada que revela segredos profundos sobre o passado de sua própria família.
+
+Por isso, a obra aborda dilemas reais da adolescência com extrema sensibilidade. Vale destacar também o elenco de peso que acompanha Mel Maia na tela, reunindo nomes consagrados como Mariana Lima, André Ramiro, Leona Cavalli, Alana Cabral e Guthierry Sotero.
+
+"Mais do que um filme sobre natação, 'Medley' é uma história emocionante sobre encarar traumas do passado para aprender a voar no presente."
+
+Direção premiada e distribuição nacional
+
+Com um roteiro adaptado do livro de Keka Reis, o longa marca o retorno de Ana Luiza Azevedo ao universo da juventude após mais de 15 anos do premiado Antes que o Mundo Acabe. Além disso, o filme chega a capitais como São Paulo, Rio de Janeiro, Salvador, Porto Alegre, Brasília e Manaus, aproximando o público brasileiro de uma narrativa tocante e inspiradora.
+
+Ficha Técnica - Filme "Medley"
+
+Título: Medley\
+Estreia: 29 de outubro\
+Direção: Ana Luiza Azevedo\
+Roteiro: Keka Reis (baseado no livro Medley ou Os Dias em Que Aprendi a Voar)\
+Elenco Principal: Mel Maia, Mariana Lima, André Ramiro, Leona Cavalli, Guthierry Sotero e Alana Cabral\
+Gênero: Drama / Esporte\
+Distribuição: Vitrine Filmes (Sessão Vitrine Petrobras)\
+Duração: 94 minutos
