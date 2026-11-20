@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIRGINIA E ADELAIDE em debate sobre racismo em Sao Paulo dia 22
+title: VIRGÍNIA E ADELAIDE em debate sobre racismo em São Paulo dia 22
 image: /uploads/vea-unibes.jpg
 date: 2026-11-20 16:10:00
 ---
