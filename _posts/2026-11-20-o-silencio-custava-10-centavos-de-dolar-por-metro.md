@@ -5,7 +5,7 @@ image: /uploads/moviola-som.jpg
 author: jorge
 date: 2026-11-20 16:00:00
 ---
-**O SILÊNCIO CUSTAVA 10 CENTAVOS DE DÓLAR POR METRO**
+**O SILÊNCIO CUSTAVA 10 CENTAVOS DE DÓLAR POR METRO**\
 Ia e Eu
 
 Na edição analógica de cinema em 35mm, o "silêncio" era um pedaço físico de película perfurada sem nenhuma gravação de áudio. Ele funcionava como um preenchimento estrutural para manter a fita de som exatamente com o mesmo comprimento da fita de imagem.
