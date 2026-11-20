@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quando o silencio acabou
+title: Quando o silêncio acabou
 image: /uploads/monsters-loach.jpg
 author: giba
 date: 2026-11-20 16:29:00
