@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O silencio custava 10 centavos de dolar por metro
+title: O silêncio custava 10 centavos de dólar por metro
 image: /uploads/moviola-som.jpg
 author: jorge
 date: 2026-11-20 16:00:00
