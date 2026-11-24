@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ana Luiza Azevedo apresenta MEDLEY em Rio Grande dia 26
+image: /uploads/ana-rg.jpg
 date: 2026-11-24 15:17:00
 ---
 **ANA LUIZA AZEVEDO PARTICIPA DA 8ª MOSTRA DE CINEMA LATINO-AMERICANO DE RIO GRANDE COM OFICINA SOBRE DIREÇÃO CINEMATOGRÁFICA E A EXIBIÇÃO DE SEU NOVO FILME MEDLEY COM MEL MAIA**\
