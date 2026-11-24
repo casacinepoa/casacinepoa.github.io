@@ -1,5 +1,5 @@
 ---
-date: 2026-10-19 12:00:00
+date: 2026-11-24 15:20:00
 image: /uploads/vlivre-imgr.jpg
 title: 'ONDE ASSISTIR: "Ventre livre" está no YouTube'
 link: https://youtu.be/6yw9PyhImOY
