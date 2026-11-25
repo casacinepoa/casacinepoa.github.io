@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ana Luiza Azevedo apresenta MEDLEY em Rio Grande dia 26
+title: Ana Luiza Azevedo apresenta MEDLEY em Rio Grande dia 25
 image: /uploads/ana-rg.jpg
 date: 2026-11-24 15:17:00
 ---
