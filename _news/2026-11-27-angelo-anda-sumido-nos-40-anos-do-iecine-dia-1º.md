@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ÃNGELO ANDA SUMIDO nos 40 anos do Iecine dia 1º
+title: ÂNGELO ANDA SUMIDO nos 40 anos do Iecine dia 1º
 image: /uploads/angelo04.jpg
 date: 2026-11-27 00:02:00
 ---
