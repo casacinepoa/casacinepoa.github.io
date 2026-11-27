@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UMA EM MIL term pré-estreia em Porto Alegre dia 27
+title: UMA EM MIL tem pré-estreia em Porto Alegre dia 27
 image: /uploads/tiago-jonatas.jpg
 date: 2026-11-26 16:00:00
 ---
