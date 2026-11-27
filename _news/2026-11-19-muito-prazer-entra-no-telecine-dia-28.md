@@ -2,7 +2,7 @@
 layout: post
 title: MUITO PRAZER entra no Telecine dia 28
 image: /uploads/mpz-triofinal.jpg
-date: 2026-11-19 16:50:00
+date: 2026-11-25 16:50:00
 ---
 **TELECINE PREMIUM: AS ESTREIAS DE NOVEMBRO NO CANAL**\
 Por Ricardo Marques\
