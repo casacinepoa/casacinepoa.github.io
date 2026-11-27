@@ -8,6 +8,8 @@ image_credits: "Foto por Fábio Rebelo: Luísa Arraes, Samantha Jones e Daniel d
 where_to_watch:
   - title: Trailer no YouTube
     url: https://youtu.be/Ob5KS67s5zA
+  - title: Globo Play
+    url: https://globoplay.globo.com/v/15058667
 details:
   - title: CRÉDITOS
     content: |-
